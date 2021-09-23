@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-09-23T20:07:13.599Z</updated>
+    <updated>2021-09-23T21:05:24.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종착역 서쿠 이 시간에도 뺐기네요 .]]></title>
+        <id>https://extmovie.com/bestboard/68745152</id>
+        <link href="https://extmovie.com/bestboard/68745152"/>
+        <updated>2021-09-23T21:05:01.828Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39233point (87%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이오호라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이시간에도 취케팅 빠르네요...ㅋㅋ]]></title>
         <id>https://extmovie.com/bestboard/68745031</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/bestboard/68744596</id>
         <link href="https://extmovie.com/bestboard/68744596"/>
         <updated>2021-09-23T18:07:23.789Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13117point (6%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안혐오스런마츠코]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13119point (7%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안혐오스런마츠코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국영화 출연 제의 받고 정말 기뻐한 외국 배우]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/68739424</id>
         <link href="https://extmovie.com/bestboard/68739424"/>
         <updated>2021-09-23T16:08:48.604Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1241326point (41%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">제임스카메라]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1241328point (41%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">제임스카메라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오리지널 티켓 나올때 되지 않았을까요?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/68738058"/>
         <updated>2021-09-23T14:06:35.151Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58594point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현재 CGV 관객수]]></title>
-        <id>https://extmovie.com/bestboard/68737803</id>
-        <link href="https://extmovie.com/bestboard/68737803"/>
-        <updated>2021-09-23T14:06:35.153Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:211692point (77%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장만월사장님]]></content>
     </entry>
 </feed>

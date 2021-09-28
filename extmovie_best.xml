@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-09-28T20:07:04.013Z</updated>
+    <updated>2021-09-28T21:05:26.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노 타임 투 다이 런던 프리미어 시사 사진]]></title>
+        <id>https://extmovie.com/bestboard/68867476</id>
+        <link href="https://extmovie.com/bestboard/68867476"/>
+        <updated>2021-09-28T21:05:00.563Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61385point (95%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[007 노타임투다이 부모님과 관람하려는데 민망한 장면 없나요? ㅠ]]></title>
         <id>https://extmovie.com/bestboard/68867246</id>
         <link href="https://extmovie.com/bestboard/68867246"/>
         <updated>2021-09-28T18:07:20.888Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1883point (28%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로붕]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가이 리치 감독 제이슨 스타템 신작 개봉 포스터 사진]]></title>
+        <id>https://extmovie.com/bestboard/68867239</id>
+        <link href="https://extmovie.com/bestboard/68867239"/>
+        <updated>2021-09-28T21:05:00.571Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61385point (95%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캔디맨 은근 삭제씬 많네욜;;(강스포)]]></title>
@@ -94,7 +108,7 @@
         <id>https://extmovie.com/bestboard/68865323</id>
         <link href="https://extmovie.com/bestboard/68865323"/>
         <updated>2021-09-28T20:06:39.597Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13560point (26%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이돌이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13562point (26%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이돌이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다니엘 크레이그 007 처음보는데...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/68861578"/>
         <updated>2021-09-28T13:14:29.015Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:106441point (7%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천상코니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫토이 마크85 피규어 소장했습니다. 마지막 아이언맨이라 영롱...]]></title>
-        <id>https://extmovie.com/bestboard/68861460</id>
-        <link href="https://extmovie.com/bestboard/68861460"/>
-        <updated>2021-09-28T15:06:14.888Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6533point (50%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">yssds]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[디즈니] 엔칸토 11월 24일]]></title>
-        <id>https://extmovie.com/bestboard/68861399</id>
-        <link href="https://extmovie.com/bestboard/68861399"/>
-        <updated>2021-09-28T15:06:14.889Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7394point (6%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">나초]]></content>
     </entry>
 </feed>

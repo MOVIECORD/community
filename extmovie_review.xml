@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-01T17:14:12.054Z</updated>
+    <updated>2021-10-01T18:09:27.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-10-01T17:13:59.541Z</updated>
+        <updated>2021-10-01T18:09:15.447Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/theaters/special/?regioncode=SCX"><img src="https://img.extmovie.com/files/attach/images/49910895/687/812/068/d01705d38833cc10866c5e3eb06571e2.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름날 우리를보고 너의 결혼식을 다시보다!!]]></title>
+        <id>https://extmovie.com/movietalk/68963803?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/68963803?category=61633579"/>
+        <updated>2021-10-01T18:09:15.711Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1437point (42%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내알콩]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My Letterboxd Diary of September 2021]]></title>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/68961437?category=61633579</id>
         <link href="https://extmovie.com/movietalk/68961437?category=61633579"/>
         <updated>2021-10-01T15:07:02.326Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1420point (39%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필승조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1422point (40%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필승조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<용과 주근깨 공주> 간단한 감상 (약스포)]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/68932802?category=61633579</id>
         <link href="https://extmovie.com/movietalk/68932802?category=61633579"/>
         <updated>2021-09-30T17:12:17.130Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1423point (40%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내알콩]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1437point (42%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내알콩]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[끔찍한 형벌 영화를 소개합니다.]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/68931738?category=61633579"/>
         <updated>2021-09-30T16:08:30.914Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18720point (41%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유닉아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[007노타임투다이] 스크린X로 관람한 리뷰(스포x)]]></title>
-        <id>https://extmovie.com/movietalk/68930942?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/68930942?category=61633579"/>
-        <updated>2021-09-30T15:06:39.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2074point (65%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">_루리]]></content>
     </entry>
 </feed>

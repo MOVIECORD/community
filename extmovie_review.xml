@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-06T21:05:36.827Z</updated>
+    <updated>2021-10-06T22:06:17.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[익무시사] 퍼스트 카우 (내용X) 간단 추천 글]]></title>
+        <id>https://extmovie.com/movietalk/69086286?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69086286?category=61633579"/>
+        <updated>2021-10-06T22:06:05.881Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47564point (98%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">24fps]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[퍼스트 카우] 서부 개척시대의 깐부에 관한 영화]]></title>
         <id>https://extmovie.com/movietalk/69085627?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69048952?category=61633579"/>
         <updated>2021-10-05T14:56:23.970Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4276point (88%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BLUEnLIVE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포ㅇ)  데스게임(배틀로얄, 아리스인보더랜드) 짧은 후기]]></title>
-        <id>https://extmovie.com/movietalk/69048048?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69048048?category=61633579"/>
-        <updated>2021-10-05T14:56:23.971Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20607point (12%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ＴＡＬＥＳ]]></content>
     </entry>
 </feed>

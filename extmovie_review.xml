@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-07T17:08:33.742Z</updated>
+    <updated>2021-10-07T18:08:15.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[짧은 감상평] 유열의 음악앨범]]></title>
+        <id>https://extmovie.com/movietalk/69119008?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69119008?category=61633579"/>
+        <updated>2021-10-07T18:08:04.484Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:818point (90%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">녹단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포) 더 랍스터 리뷰]]></title>
         <id>https://extmovie.com/movietalk/69118826?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69118826?category=61633579"/>
         <updated>2021-10-07T17:08:19.052Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:13point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">퉁그리]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:19point (4%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">퉁그리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쁘띠 마망, 그래비티, 용과 주근깨공주 3회차 후기(스포있음)]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/69110047?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69110047?category=61633579"/>
         <updated>2021-10-07T13:18:38.670Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:127531point (16%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:127633point (17%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[용과 주근깨공주 (2021) / 스포와 함께하는 감상/ 연애의 필요충분조건]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69084118?category=61633579"/>
         <updated>2021-10-07T11:05:00.696Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3895point (55%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">솔의눈물]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[실 : 인연의 시작] 익무 시사 후기 (스포O)]]></title>
-        <id>https://extmovie.com/movietalk/69084059?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69084059?category=61633579"/>
-        <updated>2021-10-07T11:05:00.697Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10113point (58%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">얼렁뚱땅]]></content>
     </entry>
 </feed>

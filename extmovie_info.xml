@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2021-10-10T19:06:53.057Z</updated>
+    <updated>2021-10-10T20:06:27.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[장진호]를 깠던 중국기자 근황.jpg]]></title>
+        <id>https://extmovie.com/movietalk/69187535?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/69187535?category=21915420"/>
+        <updated>2021-10-10T20:06:07.491Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:422907point (14%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바이코딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['샹치' 글로벌 4억 달러 돌파..팬데믹 기간 글로벌 3위 흥행]]></title>
         <id>https://extmovie.com/movietalk/69186034?category=21915420</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/69168533?category=21915420</id>
         <link href="https://extmovie.com/movietalk/69168533?category=21915420"/>
         <updated>2021-10-10T00:22:07.648Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:356247point (6%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기예르모 델 토로 57세 생일..전작들의 흥행비교]]></title>
-        <id>https://extmovie.com/movietalk/69168325?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/69168325?category=21915420"/>
-        <updated>2021-10-09T23:05:35.070Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:356247point (6%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
 </feed>

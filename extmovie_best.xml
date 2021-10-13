@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-10-13T20:07:20.214Z</updated>
+    <updated>2021-10-13T20:32:35.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/bestboard</id>
         <link href="https://extmovie.com/bestboard"/>
-        <updated>2021-10-13T20:06:54.647Z</updated>
+        <updated>2021-10-13T20:32:13.191Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112174366point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://extmovie.com/bestboard</id>
-        <link href="https://extmovie.com/bestboard"/>
-        <updated>2021-10-13T20:06:54.647Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:114150point (45%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빙티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV 듄 스피드쿠폰 떴네요]]></title>
@@ -109,6 +102,13 @@
         <link href="https://extmovie.com/bestboard/69268177"/>
         <updated>2021-10-13T16:10:26.688Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4825point (30%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파란새싹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베놈 후기 대실망 (스포x)]]></title>
+        <id>https://extmovie.com/bestboard/69268168</id>
+        <link href="https://extmovie.com/bestboard/69268168"/>
+        <updated>2021-10-13T20:32:13.420Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:983point (35%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오켓라쿤]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익무 PC 모드  폰트 설정하기]]></title>
@@ -206,7 +206,7 @@
         <id>https://extmovie.com/bestboard/69266803</id>
         <link href="https://extmovie.com/bestboard/69266803"/>
         <updated>2021-10-13T19:04:53.073Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:359329point (21%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:359331point (21%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베놈 워터보틀 진짜 탐나네요]]></title>
@@ -256,12 +256,5 @@
         <link href="https://extmovie.com/bestboard/69265529"/>
         <updated>2021-10-13T15:07:00.135Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4164point (78%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헥스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜬금없지만 베놈2 쿠키의 의미가 무엇인가요 ? (스포 조심)]]></title>
-        <id>https://extmovie.com/bestboard/69265566</id>
-        <link href="https://extmovie.com/bestboard/69265566"/>
-        <updated>2021-10-13T14:27:06.887Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20226point (99%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밖에비온다]]></content>
     </entry>
 </feed>

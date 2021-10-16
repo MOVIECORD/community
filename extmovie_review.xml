@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-16T22:06:53.376Z</updated>
+    <updated>2021-10-16T23:06:48.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다함께 여름! - 묘한 동질감을 느꼈던 청춘영화]]></title>
+        <id>https://extmovie.com/movietalk/69360958?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69360958?category=61633579"/>
+        <updated>2021-10-16T23:06:36.265Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48716point (7%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">24fps]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후아유(2002) 이나영 조승우]]></title>
         <id>https://extmovie.com/movietalk/69356487?category=61633579</id>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/69306105?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69306105?category=61633579"/>
         <updated>2021-10-14T23:07:57.814Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48705point (7%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">24fps]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48716point (7%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">24fps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[다함께 여름!] 최악을 면하는 방법]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69304531?category=61633579"/>
         <updated>2021-10-14T17:13:31.726Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2139point (78%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내알콩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강스포)라스트 듀얼-장과 자크의 입장에서 지어진, 마르그리트 입장에선 거...]]></title>
-        <id>https://extmovie.com/movietalk/69304480?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69304480?category=61633579"/>
-        <updated>2021-10-14T17:13:31.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16483point (52%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바다숲]]></content>
     </entry>
 </feed>

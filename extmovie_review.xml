@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-16T04:10:36.899Z</updated>
+    <updated>2021-10-16T05:05:51.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<블라인드> 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/69344535?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69344535?category=61633579"/>
+        <updated>2021-10-16T05:05:35.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11217point (15%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">입찢어진남자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<졸트> 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/69344515?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69344515?category=61633579"/>
+        <updated>2021-10-16T05:05:35.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11217point (15%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">입찢어진남자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손으로 쓴 라스트 듀얼 : 최후의 결투 시사회 후기입니다.]]></title>
         <id>https://extmovie.com/movietalk/69342190?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69342190?category=61633579"/>
         <updated>2021-10-16T04:10:24.607Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20885point (22%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뱐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20887point (22%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뱐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[라스트 듀얼] 고통스러울 정도의 몰입감]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/69289040?category=61633579"/>
         <updated>2021-10-14T08:10:51.828Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:280point (70%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">칙촉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) <푸른 호수> 거친 화면, 깊은 첼로, 그리고 폭풍 눈물]]></title>
-        <id>https://extmovie.com/movietalk/69287545?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69287545?category=61633579"/>
-        <updated>2021-10-14T07:07:55.412Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:104212point (84%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">KimMin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[당신은 믿지 않겠지만] 간단후기 입니다 (강스포)]]></title>
-        <id>https://extmovie.com/movietalk/69286778?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69286778?category=61633579"/>
-        <updated>2021-10-14T07:07:55.434Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5673point (93%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">supman]]></content>
     </entry>
 </feed>

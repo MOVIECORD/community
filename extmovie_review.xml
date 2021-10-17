@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-17T22:06:21.866Z</updated>
+    <updated>2021-10-17T23:06:19.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내일 용4d 듄 1자리 놓습니다]]></title>
+        <id>https://extmovie.com/movietalk/69378980?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69378980?category=61633579"/>
+        <updated>2021-10-17T23:06:07.817Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2054point (61%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밍쓰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아버지의 길] 로드킬 휴머니티]]></title>
         <id>https://extmovie.com/movietalk/69376550?category=61633579</id>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/69352886?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69352886?category=61633579"/>
         <updated>2021-10-16T12:09:38.167Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41713point (52%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이오호라]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41715point (52%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이오호라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<라스트 듀얼 : 최후의 결투> 후기 (스포O)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69344812?category=61633579"/>
         <updated>2021-10-16T06:07:47.567Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:248958point (94%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">인생은아름다워]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[휴가] 간단후기 입니다]]></title>
-        <id>https://extmovie.com/movietalk/69344753?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69344753?category=61633579"/>
-        <updated>2021-10-16T06:07:47.567Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5721point (97%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">supman]]></content>
     </entry>
 </feed>

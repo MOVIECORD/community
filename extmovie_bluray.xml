@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/414</id>
     <title>익스트림무비 ─ 블루레이</title>
-    <updated>2021-10-17T08:11:31.100Z</updated>
+    <updated>2021-10-17T09:09:25.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[일본정보?] 일드 "사도 SP드라마" 블루레이 예판.]]></title>
+        <id>https://extmovie.com/movietalk/69368765?category=414</id>
+        <link href="https://extmovie.com/movietalk/69368765?category=414"/>
+        <updated>2021-10-17T09:09:20.342Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33888point (39%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">처니리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극장판 바이올렛 에버가든 UHD-BD 리뷰 및 짧은 감상]]></title>
         <id>https://extmovie.com/movietalk/69366892?category=414</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/69315456?category=414</id>
         <link href="https://extmovie.com/movietalk/69315456?category=414"/>
         <updated>2021-10-15T06:10:29.826Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:76186point (2%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DBadvocate]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:76206point (2%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DBadvocate]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이고 중경삼림 렌티큘러 실패했네요 ㅠ]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69172593?category=414"/>
         <updated>2021-10-10T05:06:44.606Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/46.gif" alt="[레벨:46]" title="포인트:398279point (88%), 레벨:46/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Roopretelcham]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번엔 이걸 살까 말까 고민되네요...]]></title>
-        <id>https://extmovie.com/movietalk/69171100?category=414</id>
-        <link href="https://extmovie.com/movietalk/69171100?category=414"/>
-        <updated>2021-10-10T04:08:02.936Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:182400point (74%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하이브치즈NX]]></content>
     </entry>
 </feed>

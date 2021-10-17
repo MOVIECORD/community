@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-17T01:53:03.363Z</updated>
+    <updated>2021-10-17T02:22:16.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“졸트” 결말 빼고 다 괜찮았어요… ㅋㅋㅋ]]></title>
+        <id>https://extmovie.com/movietalk/69362709?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69362709?category=61633579"/>
+        <updated>2021-10-17T02:22:03.792Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46652point (76%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다함께 여름! - 묘한 동질감을 느꼈던 청춘영화]]></title>
         <id>https://extmovie.com/movietalk/69360958?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/69352886?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69352886?category=61633579"/>
         <updated>2021-10-16T12:09:38.167Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41709point (52%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이오호라]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41711point (52%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이오호라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<라스트 듀얼 : 최후의 결투> 후기 (스포O)]]></title>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/69350631?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69350631?category=61633579"/>
         <updated>2021-10-16T11:05:18.032Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46636point (75%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46652point (76%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[그래비티]리뷰 끄적끄적]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/69348200?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69348200?category=61633579"/>
         <updated>2021-10-16T09:05:56.486Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46636point (75%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46652point (76%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(강강스포) 할로윈 킬즈 후기 (피콕)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69304745?category=61633579"/>
         <updated>2021-10-14T17:13:31.718Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:130840point (38%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타누키]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작업의 정석- 킬링타임 영화!]]></title>
-        <id>https://extmovie.com/movietalk/69304531?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69304531?category=61633579"/>
-        <updated>2021-10-14T17:13:31.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2139point (78%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내알콩]]></content>
     </entry>
 </feed>

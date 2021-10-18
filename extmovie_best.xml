@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-10-18T20:07:27.435Z</updated>
+    <updated>2021-10-18T21:05:20.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[듄 영화분량이 책에서는 어디까지인가요?]]></title>
+        <id>https://extmovie.com/bestboard/69402834</id>
+        <link href="https://extmovie.com/bestboard/69402834"/>
+        <updated>2021-10-18T21:04:58.001Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3771point (45%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤픈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["40억원=48달러" 한국비하 논란 부른 SNL '오겜' ...]]></title>
         <id>https://extmovie.com/bestboard/69402676</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/69402090</id>
         <link href="https://extmovie.com/bestboard/69402090"/>
         <updated>2021-10-18T17:15:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:76489point (3%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DBadvocate]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:76491point (3%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DBadvocate]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[듄] 용아맥 시사회 중블 약불호 후기]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/bestboard/69401587</id>
         <link href="https://extmovie.com/bestboard/69401587"/>
         <updated>2021-10-18T16:08:51.143Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:363811point (44%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:363813point (44%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일모레 서른인 국내톱 여가수 겸 여배우]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/bestboard/69399668</id>
         <link href="https://extmovie.com/bestboard/69399668"/>
         <updated>2021-10-18T15:07:02.598Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6906point (74%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Dune™]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6908point (75%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Dune™]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듄보신분들 그래서...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/69399271"/>
         <updated>2021-10-18T16:08:51.209Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:408point (1%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">굿윌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄 이북으로 산게 후회되네요]]></title>
-        <id>https://extmovie.com/bestboard/69399143</id>
-        <link href="https://extmovie.com/bestboard/69399143"/>
-        <updated>2021-10-18T15:07:02.601Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15752point (22%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">두부다]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-20T22:06:56.034Z</updated>
+    <updated>2021-10-20T23:07:00.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[듄 썩. . .]]></title>
+        <id>https://extmovie.com/movietalk/69473226?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69473226?category=61633579"/>
+        <updated>2021-10-20T23:06:48.690Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:636point (51%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['용과 주근깨 공주' 후기 [스포]]]></title>
         <id>https://extmovie.com/movietalk/69472477?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/69469097?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69469097?category=61633579"/>
         <updated>2021-10-20T15:06:10.192Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48930point (9%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소울메이트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48932point (9%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소울메이트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<듄> 2021년판을 보고 (약스포)]]></title>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/69467628?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69467628?category=61633579"/>
         <updated>2021-10-20T15:06:10.217Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17982point (13%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안혐오스런마츠코]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18000point (13%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안혐오스런마츠코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[듄] 의외의 취향저격당한 간단후기 (스포없음)]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/69453084?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69453084?category=61633579"/>
         <updated>2021-10-20T09:08:50.321Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48930point (9%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소울메이트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48932point (9%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소울메이트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(듄) 의정부 아이맥스 조조임에도 사람 많더라구요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69437449?category=61633579"/>
         <updated>2021-10-20T01:56:45.327Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5423point (75%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뭉치뭉치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노회찬6411]]></title>
-        <id>https://extmovie.com/movietalk/69435791?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69435791?category=61633579"/>
-        <updated>2021-10-20T00:22:53.034Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29841point (20%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤오진]]></content>
     </entry>
 </feed>

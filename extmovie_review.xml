@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-20T18:11:07.841Z</updated>
+    <updated>2021-10-20T19:06:08.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['용과 주근깨 공주' 후기 [스포]]]></title>
+        <id>https://extmovie.com/movietalk/69472477?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69472477?category=61633579"/>
+        <updated>2021-10-20T19:05:55.783Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7708point (24%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오뜨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[듄 후기]]></title>
         <id>https://extmovie.com/movietalk/69469608?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/69435791?category=61633579"/>
         <updated>2021-10-20T00:22:53.034Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29841point (20%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤오진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익무시사 라스트 듀얼 약간분노 스포 후기]]></title>
-        <id>https://extmovie.com/movietalk/69355620?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69355620?category=61633579"/>
-        <updated>2021-10-19T17:14:47.263Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27759point (55%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">댭]]></content>
     </entry>
 </feed>

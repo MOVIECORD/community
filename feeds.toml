@@ -5,6 +5,8 @@ entrySelector = "div.ink_list.ldn tbody tr:not([class^='notice'])"
 titleSelector = "div.title_area a.title_link"
 linkSelector = "div.title_area a.title_link"
 contentSelector = "td.list_left.list_author a"
+waitUntil = "networkidle"
+onFail = "stale"
 
 [extmovie_info]
 title = "익스트림무비 ─ 영화정보"
@@ -13,6 +15,7 @@ entrySelector = "div.ink_list.ldn tbody tr:not([class^='notice'])"
 titleSelector = "div.title_area a.title_link"
 linkSelector = "div.title_area a.title_link"
 contentSelector = "td.list_left.list_author a"
+onFail = "stale"
 
 [extmovie_review]
 title = "익스트림무비 ─ 영화리뷰"
@@ -21,6 +24,7 @@ entrySelector = "div.ink_list.ldn tbody tr:not([class^='notice'])"
 titleSelector = "div.title_area a.title_link"
 linkSelector = "div.title_area a.title_link"
 contentSelector = "td.list_left.list_author a"
+onFail = "stale"
 
 [extmovie_bluray]
 title = "익스트림무비 ─ 블루레이"
@@ -29,6 +33,7 @@ entrySelector = "div.ink_list.ldn tbody tr:not([class^='notice'])"
 titleSelector = "div.title_area a.title_link"
 linkSelector = "div.title_area a.title_link"
 contentSelector = "td.list_left.list_author a"
+onFail = "stale"
 
 [extmovie_food]
 title = "익스트림무비 ─ 극장맛집"
@@ -37,3 +42,4 @@ entrySelector = "div.ink_list.ldn tbody tr"
 titleSelector = "div.title_area a.title_link"
 linkSelector = "div.title_area a.title_link"
 contentSelector = "td.list_left.list_author a"
+onFail = "stale"

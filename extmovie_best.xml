@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-10-30T20:07:40.190Z</updated>
+    <updated>2021-10-30T21:05:27.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:158846point (94%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">테리어]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이터널스 심야]]></title>
+        <id>https://extmovie.com/bestboard/69787107</id>
+        <link href="https://extmovie.com/bestboard/69787107"/>
+        <updated>2021-10-30T21:05:05.321Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:58point (14%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">잠실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[용아맥 이제 또 혹사의길을 걷는군요ㅋㅋㅋㅋㅋㅋ]]></title>
         <id>https://extmovie.com/bestboard/69787080</id>
         <link href="https://extmovie.com/bestboard/69787080"/>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/bestboard/69785040</id>
         <link href="https://extmovie.com/bestboard/69785040"/>
         <updated>2021-10-30T15:05:22.316Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13908point (42%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이돌이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13910point (42%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이돌이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다이소 - 이터널스 파우치… 이걸 파네요.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/69784702"/>
         <updated>2021-10-30T14:05:22.145Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10299point (68%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Aespa_winter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용아맥 머글(?)한테 좀 보여줘봤는데요]]></title>
-        <id>https://extmovie.com/bestboard/69784689</id>
-        <link href="https://extmovie.com/bestboard/69784689"/>
-        <updated>2021-10-30T14:05:22.145Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1368point (29%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">핑크후드]]></content>
     </entry>
 </feed>

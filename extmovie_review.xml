@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-10-30T01:48:08.474Z</updated>
+    <updated>2021-10-30T02:21:53.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-10-30T01:46:56.982Z</updated>
+        <updated>2021-10-30T02:21:38.626Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://cgv.kr/q6HNi"><img src="https://img.extmovie.com/files/attach/images/49910895/265/611/069/da6ed8512e01457761e80eb014c7f4c1.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[리틀 포레스트] 진정한 힐링]]></title>
+        <id>https://extmovie.com/movietalk/69768411?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69768411?category=61633579"/>
+        <updated>2021-10-30T02:21:39.040Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3490point (21%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jjh0711]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[침묵의 숲 후기]]></title>
         <id>https://extmovie.com/movietalk/69766592?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69766592?category=61633579"/>
         <updated>2021-10-30T00:21:24.083Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33027point (15%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤오진]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33031point (15%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤오진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[베놈 2: 렛 데어 비 카니지] 엉망진창 부자지간]]></title>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/69764061?category=61633579</id>
         <link href="https://extmovie.com/movietalk/69764061?category=61633579"/>
         <updated>2021-10-29T18:01:06.921Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12672point (86%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12674point (86%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<고장난 론> 간단 후기 (스포 X)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/69710351?category=61633579"/>
         <updated>2021-10-28T10:07:23.442Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:259point (64%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">제리d]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포?) <당신은 믿지 않겠지만> 짧은 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/69706428?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69706428?category=61633579"/>
-        <updated>2021-10-28T09:07:07.899Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3862point (53%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클라우드]]></content>
     </entry>
 </feed>

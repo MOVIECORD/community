@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-05T21:05:57.756Z</updated>
+    <updated>2021-11-05T22:07:24.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이터널스..!!!   (스포 X)]]></title>
+        <id>https://extmovie.com/movietalk/70006377?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70006377?category=61633579"/>
+        <updated>2021-11-05T22:07:09.477Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:34point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GunMango]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이터널스] 영화에 나온 문명 및 지역에 대한 이모저모]]></title>
+        <id>https://extmovie.com/movietalk/69959594?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/69959594?category=61633579"/>
+        <updated>2021-11-05T22:07:09.477Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9701point (37%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">키읔키읔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이터널스 리뷰 - 이터널스는 과연 실패작일까?]]></title>
         <id>https://extmovie.com/movietalk/70005840?category=61633579</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/69972154?category=61633579"/>
         <updated>2021-11-04T16:09:05.978Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51384point (26%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄 간단리뷰]]></title>
-        <id>https://extmovie.com/movietalk/69971911?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69971911?category=61633579"/>
-        <updated>2021-11-04T16:09:05.978Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8353point (62%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Likeit]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이터널스 간단리뷰 (불호)]]></title>
-        <id>https://extmovie.com/movietalk/69971473?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/69971473?category=61633579"/>
-        <updated>2021-11-04T15:07:06.720Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8353point (62%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Likeit]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-11-05T19:06:07.889Z</updated>
+    <updated>2021-11-05T20:08:33.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이터널스 빌런 도르마무급 같네요 ㄷㄷ]]></title>
+        <id>https://extmovie.com/bestboard/70005279</id>
+        <link href="https://extmovie.com/bestboard/70005279"/>
+        <updated>2021-11-05T20:07:12.184Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6531point (50%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">인조이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코돌비 듄 예매율 장난아니네요]]></title>
+        <id>https://extmovie.com/bestboard/70005103</id>
+        <link href="https://extmovie.com/bestboard/70005103"/>
+        <updated>2021-11-05T20:07:12.184Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40137point (11%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">윈터1314]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CGV명동역씨네라이브러리] 굿즈 증정 이벤트]]></title>
         <id>https://extmovie.com/bestboard/70004790</id>
@@ -53,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/70003536"/>
         <updated>2021-11-05T17:13:33.646Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3697point (39%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">병따개님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메가박스 vip]]></title>
+        <id>https://extmovie.com/bestboard/70003481</id>
+        <link href="https://extmovie.com/bestboard/70003481"/>
+        <updated>2021-11-05T20:07:12.202Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4125point (75%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이쯤되면 메박 영화 7편보면 VVIP 달아준다고 했던 그 기자]]></title>
@@ -108,7 +129,7 @@
         <id>https://extmovie.com/bestboard/70002466</id>
         <link href="https://extmovie.com/bestboard/70002466"/>
         <updated>2021-11-05T16:09:08.487Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1468point (48%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도미니카]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1470point (49%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도미니카]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV  VIP 익스프레스 열차]]></title>
@@ -185,7 +206,7 @@
         <id>https://extmovie.com/bestboard/70000973</id>
         <link href="https://extmovie.com/bestboard/70000973"/>
         <updated>2021-11-05T17:13:33.671Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:89413point (56%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">풍류도인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:89415point (56%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">풍류도인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어라 이러면 메박 vvip를 노려야겠죠?]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/70000479"/>
         <updated>2021-11-05T19:05:43.075Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30670point (45%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아루마루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 주요 배급사 라인업 현황 (CJ, 롯데 등)]]></title>
-        <id>https://extmovie.com/bestboard/70000534</id>
-        <link href="https://extmovie.com/bestboard/70000534"/>
-        <updated>2021-11-05T15:06:51.487Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:455527point (77%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ipanema]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에…롯시 이터널스 아트카드 이미지]]></title>
-        <id>https://extmovie.com/bestboard/70000420</id>
-        <link href="https://extmovie.com/bestboard/70000420"/>
-        <updated>2021-11-05T15:06:51.489Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:245point (61%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉軍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 떳네요~ 메가박스 무비 페스타 - 프리퀀시 & 만원의 행복]]></title>
-        <id>https://extmovie.com/bestboard/70000319</id>
-        <link href="https://extmovie.com/bestboard/70000319"/>
-        <updated>2021-11-05T15:06:51.491Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/60.gif" alt="[레벨:60]" title="포인트:674754point (73%), 레벨:60/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">WinnieThePooh]]></content>
     </entry>
 </feed>

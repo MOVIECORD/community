@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-07T16:08:28.626Z</updated>
+    <updated>2021-11-07T17:12:14.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[빌리 홀리데이]빌리 홀리데이의 삶을 극사실적으로 보여주는 영화에요]]></title>
+        <id>https://extmovie.com/movietalk/70054645?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70054645?category=61633579"/>
+        <updated>2021-11-07T17:12:02.921Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20056point (92%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">백멍황멍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스포] 제가 이터널스를 높게 평가하는 이유]]></title>
         <id>https://extmovie.com/movietalk/70054329?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70054329?category=61633579"/>
         <updated>2021-11-07T16:08:16.213Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25697point (89%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">LFCChampions]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25703point (89%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">LFCChampions]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌리 홀리데이 후기(스포있음)]]></title>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/70051684?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70051684?category=61633579"/>
         <updated>2021-11-07T15:05:50.815Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25697point (89%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">LFCChampions]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25703point (89%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">LFCChampions]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이터널스 긍정적 리뷰(뒷쪽에 스포)]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/70033918?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70033918?category=61633579"/>
         <updated>2021-11-07T07:07:15.856Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1475point (50%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바닐라빈.]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1479point (50%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바닐라빈.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<안티 크라이스트> 후기 (별점: 9/10)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70019981?category=61633579"/>
         <updated>2021-11-06T10:06:58.120Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:115675point (53%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">leodip19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이터널스 -장대해진 마블 유니버스의 새로운 시작- (약스포)]]></title>
-        <id>https://extmovie.com/movietalk/70011881?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70011881?category=61633579"/>
-        <updated>2021-11-06T10:06:58.120Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14982point (89%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RedChars]]></content>
     </entry>
 </feed>

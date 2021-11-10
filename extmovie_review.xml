@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-10T18:07:00.458Z</updated>
+    <updated>2021-11-10T19:06:42.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이렇게 된 이상 청와대로 간다] GV 늦은 후기]]></title>
+        <id>https://extmovie.com/movietalk/70157161?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70157161?category=61633579"/>
+        <updated>2021-11-10T19:06:27.995Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1517point (57%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(옹성우월해님 나눔) 디어 에반 핸슨(내용 잔뜩~)]]></title>
         <id>https://extmovie.com/movietalk/70156234?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/70155051?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70155051?category=61633579"/>
         <updated>2021-11-10T16:09:25.311Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28609point (82%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eastwater]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28615point (82%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eastwater]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<아담스 패밀리2> 후기(약스포)]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/70142497?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70142497?category=61633579"/>
         <updated>2021-11-10T11:06:47.110Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21894point (58%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ＴＡＬＥＳ]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21896point (58%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ＴＡＬＥＳ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라스트 듀얼: 최후의 결투 관람평(스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70115336?category=61633579"/>
         <updated>2021-11-09T17:16:15.100Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6369point (39%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파란새싹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CGV VIP 시사회] 디어 에반 핸슨 / CGV왕십리, 2021.11.09]]></title>
-        <id>https://extmovie.com/movietalk/70114911?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70114911?category=61633579"/>
-        <updated>2021-11-09T17:16:15.100Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15671point (18%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">sinclair]]></content>
     </entry>
 </feed>

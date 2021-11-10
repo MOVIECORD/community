@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-10T19:06:42.160Z</updated>
+    <updated>2021-11-10T20:09:26.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[07 노 타임 투 다이]]></title>
+        <id>https://extmovie.com/movietalk/70157292?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70157292?category=61633579"/>
+        <updated>2021-11-10T20:08:15.873Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8927point (95%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이렇게 된 이상 청와대로 간다] GV 늦은 후기]]></title>
         <id>https://extmovie.com/movietalk/70157161?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/70155051?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70155051?category=61633579"/>
         <updated>2021-11-10T16:09:25.311Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28615point (82%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eastwater]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28617point (82%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eastwater]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<아담스 패밀리2> 후기(약스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70115358?category=61633579"/>
         <updated>2021-11-09T17:16:15.096Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39364point (91%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">songforu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 이터널스 보고 왔습니다!!(스포 있음)]]></title>
-        <id>https://extmovie.com/movietalk/70115336?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70115336?category=61633579"/>
-        <updated>2021-11-09T17:16:15.100Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6369point (39%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파란새싹]]></content>
     </entry>
 </feed>

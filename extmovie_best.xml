@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-11-10T20:09:25.994Z</updated>
+    <updated>2021-11-10T21:05:10.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://extmovie.com/bestboard/70154961</id>
         <link href="https://extmovie.com/bestboard/70154961"/>
         <updated>2021-11-10T17:07:58.346Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:120882point (79%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">텐더로인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:120884point (79%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">텐더로인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[강릉] 진짜 솔직한 한줄평]]></title>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/70154219"/>
         <updated>2021-11-10T17:07:58.353Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/87.gif" alt="[레벨:87]" title="포인트:3407233point (53%), 레벨:87/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[장르만 로맨스] 장르만 로맨스고 이거 저거 다 들어있어요 ㅎ]]></title>
+        <id>https://extmovie.com/bestboard/70154157</id>
+        <link href="https://extmovie.com/bestboard/70154157"/>
+        <updated>2021-11-10T21:04:44.026Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/63.gif" alt="[레벨:63]" title="포인트:751533point (5%), 레벨:63/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">쿨스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[롯데시네마 빼빼로 이벤트 꽝도 있네요ㅋㅋㅋㅋㅋ]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/70150356"/>
         <updated>2021-11-10T16:09:14.272Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4443point (2%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에에가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조엘 코엔 감독 '맥베스의 비극' 새 공식 포스터]]></title>
-        <id>https://extmovie.com/bestboard/70150272</id>
-        <link href="https://extmovie.com/bestboard/70150272"/>
-        <updated>2021-11-10T15:07:16.748Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/46.gif" alt="[레벨:46]" title="포인트:388075point (20%), 레벨:46/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
 </feed>

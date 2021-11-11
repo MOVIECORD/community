@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-11T19:05:50.638Z</updated>
+    <updated>2021-11-11T20:08:32.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지 라이더 (1969)]]></title>
+        <id>https://extmovie.com/movietalk/70161820?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70161820?category=61633579"/>
+        <updated>2021-11-11T20:08:20.455Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8943point (96%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<The Pet Killer> 온라인 시사 후기입니다.]]></title>
         <id>https://extmovie.com/movietalk/70193681?category=61633579</id>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/70157292?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70157292?category=61633579"/>
         <updated>2021-11-10T20:08:15.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8930point (95%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8943point (96%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[이렇게 된 이상 청와대로 간다] GV 늦은 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70154744?category=61633579"/>
         <updated>2021-11-10T16:09:25.311Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36251point (6%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌멩이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[장르만 로맨스] 장르만 로맨스고 이거 저거 다 들어있어요 ㅎ]]></title>
-        <id>https://extmovie.com/movietalk/70154157?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70154157?category=61633579"/>
-        <updated>2021-11-10T16:09:25.311Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/63.gif" alt="[레벨:63]" title="포인트:751550point (5%), 레벨:63/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">쿨스]]></content>
     </entry>
 </feed>

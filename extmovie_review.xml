@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-13T18:08:25.520Z</updated>
+    <updated>2021-11-13T19:05:34.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<장르만 로맨스> GV시사 조금 늦은 간단후기]]></title>
+        <id>https://extmovie.com/movietalk/70256887?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70256887?category=61633579"/>
+        <updated>2021-11-13T19:05:22.688Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1962point (43%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">버터치킨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<쓰리 빌보드> 방금 푹 빠졌다가 왔습니다 - 간단 후기]]></title>
         <id>https://extmovie.com/movietalk/70255437?category=61633579</id>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/70235130?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70235130?category=61633579"/>
         <updated>2021-11-13T05:05:46.530Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/60.gif" alt="[레벨:60]" title="포인트:676136point (80%), 레벨:60/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">WinnieThePooh]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/60.gif" alt="[레벨:60]" title="포인트:676138point (80%), 레벨:60/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">WinnieThePooh]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Pet Killer 익무 시사 후기입니다]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/70080693?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70080693?category=61633579"/>
         <updated>2021-11-12T15:07:18.585Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:149156point (45%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:149159point (45%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠씨네 아워미드나잇GV 보고왔습니다ㅡ간단평]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70216639?category=61633579"/>
         <updated>2021-11-12T12:10:14.818Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9476point (25%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">멍냥멍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pet killer를 보고 짧은 후기 (약스포)]]></title>
-        <id>https://extmovie.com/movietalk/70214478?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70214478?category=61633579"/>
-        <updated>2021-11-12T10:07:11.919Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:599point (43%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">쿸킼]]></content>
     </entry>
 </feed>

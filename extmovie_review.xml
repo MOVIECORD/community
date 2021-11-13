@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-13T20:09:09.733Z</updated>
+    <updated>2021-11-13T21:06:47.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 정도면 디플 뽕 나름 괜찮게 뽑은 거겠죠?]]></title>
+        <id>https://extmovie.com/movietalk/70257023?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70257023?category=61633579"/>
+        <updated>2021-11-13T21:05:36.631Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2009point (52%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불경스러움의 끝판왕!! A24의 <더 위치>리뷰]]></title>
         <id>https://extmovie.com/movietalk/70256883?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/70256887?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70256887?category=61633579"/>
         <updated>2021-11-13T19:05:22.688Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1964point (43%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">버터치킨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1966point (44%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">버터치킨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<쓰리 빌보드> 방금 푹 빠졌다가 왔습니다 - 간단 후기]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/70233499?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70233499?category=61633579"/>
         <updated>2021-11-13T04:08:45.223Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51515point (27%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">24fps]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51517point (27%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">24fps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[나의 끝, 당신의 시작] 비극, 사랑, 복수 - 익무시사후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70220156?category=61633579"/>
         <updated>2021-11-12T14:06:21.036Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8296point (58%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화담다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아담스패밀리2는 의외로 제 취향저격(스포유)]]></title>
-        <id>https://extmovie.com/movietalk/70219199?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70219199?category=61633579"/>
-        <updated>2021-11-12T13:14:54.673Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252242point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">인생은아름다워]]></content>
     </entry>
 </feed>

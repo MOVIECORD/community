@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-14T19:05:36.412Z</updated>
+    <updated>2021-11-14T20:08:26.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카 2를 제외한 개인적인 픽사 작품들 랭킹]]></title>
+        <id>https://extmovie.com/movietalk/70285762?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70285762?category=61633579"/>
+        <updated>2021-11-14T20:08:11.297Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2159point (82%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포) 이터널스 예상보다 많이 관람하게 된 후기]]></title>
         <id>https://extmovie.com/movietalk/70286281?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70286281?category=61633579"/>
         <updated>2021-11-14T19:05:23.141Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40626point (24%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">LU-LA]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40630point (24%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">LU-LA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<장르만 로맨스> 시사회 후기]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/70257023?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70257023?category=61633579"/>
         <updated>2021-11-13T21:05:36.631Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2035point (57%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰보]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2159point (82%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불경스러움의 끝판왕!! A24의 <더 위치>리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70253907?category=61633579"/>
         <updated>2021-11-13T15:06:30.648Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15916point (29%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아자고고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<밀리언 달러 베이비> 짧은 후기]]></title>
-        <id>https://extmovie.com/movietalk/70248993?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70248993?category=61633579"/>
-        <updated>2021-11-13T13:12:50.510Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14675point (76%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">가미]]></content>
     </entry>
 </feed>

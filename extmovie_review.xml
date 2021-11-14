@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-14T20:08:26.314Z</updated>
+    <updated>2021-11-14T21:07:12.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[카 2를 제외한 개인적인 픽사 작품들 랭킹]]></title>
+        <title type="html"><![CDATA[[이터널스] 거시적 히어로즈]]></title>
+        <id>https://extmovie.com/movietalk/70286890?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70286890?category=61633579"/>
+        <updated>2021-11-14T21:05:59.806Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:133009point (53%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타누키]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인적으로 생각하는 픽사 작품들 랭킹]]></title>
         <id>https://extmovie.com/movietalk/70285762?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70285762?category=61633579"/>
         <updated>2021-11-14T20:08:11.297Z</updated>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/70281776?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70281776?category=61633579"/>
         <updated>2021-11-14T15:06:32.364Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:373957point (94%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모킹버드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:373959point (94%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모킹버드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(마블) 개인적인 이터널스 리뷰 '결국 진화를 마주한 이터널스‘ (...]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/70254520?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70254520?category=61633579"/>
         <updated>2021-11-13T16:08:36.040Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:132918point (52%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타누키]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pet Killer 온라인 시사 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/70253907?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70253907?category=61633579"/>
-        <updated>2021-11-13T15:06:30.648Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15916point (29%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아자고고]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:133009point (53%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타누키]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-20T19:05:39.503Z</updated>
+    <updated>2021-11-20T20:08:16.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] 넷플릭스 카우보이 비밥, 불협화음의 미완성 변주곡]]></title>
+        <id>https://extmovie.com/movietalk/70512169?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70512169?category=61633579"/>
+        <updated>2021-11-20T20:07:04.829Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12183point (62%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DeeKay]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[디어 에반 핸슨] 저는 좋았네요..]]></title>
         <id>https://extmovie.com/movietalk/70511774?category=61633579</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/70510423?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70510423?category=61633579"/>
         <updated>2021-11-20T16:09:08.203Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56180point (59%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56182point (59%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<Dead Women Walking> 온라인 시사회 리뷰(약스포)]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/70487138?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70487138?category=61633579"/>
         <updated>2021-11-20T04:08:17.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39043point (82%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤오진]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39045point (82%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤오진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포유[베네데타]충격적인 종교?영화였어요]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/70486662?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70486662?category=61633579"/>
         <updated>2021-11-20T05:05:59.128Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20562point (11%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지붕고양이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20564point (11%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지붕고양이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호빗 리뷰입니다! :) (스포주의)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70482204?category=61633579"/>
         <updated>2021-11-20T01:47:14.662Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:74point (18%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토핑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤덕의 엔칸토 약스포 후기!]]></title>
-        <id>https://extmovie.com/movietalk/70482064?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70482064?category=61633579"/>
-        <updated>2021-11-20T01:47:14.662Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32350point (95%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">댭]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-27T02:23:45.843Z</updated>
+    <updated>2021-11-27T03:08:50.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<유체이탈자> 아쉬운 짧은 후기]]></title>
+        <id>https://extmovie.com/movietalk/70718603?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70718603?category=61633579"/>
+        <updated>2021-11-27T03:07:38.356Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32415point (97%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">얼그레이티]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프렌치 디스패치 후기예요👩‍🎨]]></title>
         <id>https://extmovie.com/movietalk/70716788?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70671437?category=61633579"/>
         <updated>2021-11-25T16:09:09.567Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6067point (20%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Blahblahstranger]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익무 은혜로 본 리유니언... 후기 쓰기 난감하네요(약 스포)]]></title>
-        <id>https://extmovie.com/movietalk/70671380?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70671380?category=61633579"/>
-        <updated>2021-11-25T16:09:09.569Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29832point (20%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뱐]]></content>
     </entry>
 </feed>

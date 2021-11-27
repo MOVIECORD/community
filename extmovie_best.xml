@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-11-27T19:06:10.707Z</updated>
+    <updated>2021-11-27T20:07:25.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라스트 나잇 인  소호를 우연히 미리봤는대..]]></title>
+        <id>https://extmovie.com/bestboard/70740944</id>
+        <link href="https://extmovie.com/bestboard/70740944"/>
+        <updated>2021-11-27T20:07:01.650Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15449point (9%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">석돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용산 타짜 떴는데...]]></title>
         <id>https://extmovie.com/bestboard/70740553</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/bestboard/70740065</id>
         <link href="https://extmovie.com/bestboard/70740065"/>
         <updated>2021-11-27T18:10:42.976Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:430761point (53%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바이코딘]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:430763point (53%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바이코딘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듄 용아맥 이 자리,,왕복 6시간 가치가 있을까요?]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/70735738</id>
         <link href="https://extmovie.com/bestboard/70735738"/>
         <updated>2021-11-27T15:07:05.232Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:485800point (28%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알모도바르]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:485802point (29%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알모도바르]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘레드 노티스’ 넷플릭스 역대 최고 인기 오리지날 영화 등극]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/70733995"/>
         <updated>2021-11-27T14:06:21.211Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33770point (36%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">별빛하늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["굿즈 증정관"설치를 또 강력히 생각해보게 되는 순간입니다.]]></title>
-        <id>https://extmovie.com/bestboard/70733857</id>
-        <link href="https://extmovie.com/bestboard/70733857"/>
-        <updated>2021-11-27T14:06:21.217Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2800point (55%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">JMJMJM]]></content>
     </entry>
 </feed>

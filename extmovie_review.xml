@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-11-30T22:08:47.742Z</updated>
+    <updated>2021-11-30T23:07:36.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포 0%)  <익무시사> 라스트나잇 인 소호 간략한 후기]]></title>
+        <id>https://extmovie.com/movietalk/70833180?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70833180?category=61633579"/>
+        <updated>2021-11-30T23:07:23.068Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23912point (29%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ＴＡＬＥＳ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[캅샵] 익무 시사회 리뷰 (약 스포일러)]]></title>
         <id>https://extmovie.com/movietalk/70829533?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/70795986?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70795986?category=61633579"/>
         <updated>2021-11-29T21:06:31.906Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:172428point (41%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Yolo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:172430point (41%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Yolo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[엔칸토] 제가 느낀 장단점과 6곡의 ost, 더빙에 대한 생각 (강스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70764869?category=61633579"/>
         <updated>2021-11-28T17:12:55.527Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15380point (6%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청춘적니]풋풋하지만 슬픈 멜로영화였어요]]></title>
-        <id>https://extmovie.com/movietalk/70764674?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70764674?category=61633579"/>
-        <updated>2021-11-28T16:08:33.868Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21675point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">백멍황멍]]></content>
     </entry>
 </feed>

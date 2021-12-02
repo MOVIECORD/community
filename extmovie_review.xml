@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-02T19:07:00.512Z</updated>
+    <updated>2021-12-02T20:07:55.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[호빗] 너무 울어서 새벽에 맘이 진정이 안되네요. ㅜㅜ (스포)]]></title>
+        <id>https://extmovie.com/movietalk/70911261?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70911261?category=61633579"/>
+        <updated>2021-12-02T20:07:41.789Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:158452point (92%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<First Love> 온라인 시사 후기입니다. (약스포)]]></title>
         <id>https://extmovie.com/movietalk/70910988?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/70903130?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70903130?category=61633579"/>
         <updated>2021-12-02T15:05:40.311Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18095point (17%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Landa]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18099point (17%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Landa]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블랙필즈 [퍼스트 러브] 노스포 초단평. 전 아직 멀었나 봅니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70897649?category=61633579"/>
         <updated>2021-12-02T11:05:49.101Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:108360point (16%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">깐난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“킬링 카인드” 다른 나라에 비해 관람 등급이 낮다 했더니… (스포)]]></title>
-        <id>https://extmovie.com/movietalk/70896966?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70896966?category=61633579"/>
-        <updated>2021-12-02T10:10:23.060Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:59072point (79%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
     </entry>
 </feed>

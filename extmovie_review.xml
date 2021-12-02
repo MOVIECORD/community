@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-02T20:07:55.981Z</updated>
+    <updated>2021-12-02T21:06:26.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Arch of triumph (1948) - 엄청난 걸작 소설의 범작 영화화]]></title>
+        <id>https://extmovie.com/movietalk/70911682?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70911682?category=61633579"/>
+        <updated>2021-12-02T21:06:11.396Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9129point (6%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[호빗] 너무 울어서 새벽에 맘이 진정이 안되네요. ㅜㅜ (스포)]]></title>
         <id>https://extmovie.com/movietalk/70911261?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70911261?category=61633579"/>
         <updated>2021-12-02T20:07:41.789Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:158452point (92%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:158465point (92%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<First Love> 온라인 시사 후기입니다. (약스포)]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/70903542?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70903542?category=61633579"/>
         <updated>2021-12-02T14:07:51.479Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8950point (97%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전지구적난민]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8952point (97%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전지구적난민]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[호빗] 다섯 군대 전투... 극장판은 쫌 아쉽네요😓 스포O]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/70901696?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70901696?category=61633579"/>
         <updated>2021-12-02T13:14:36.963Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21398point (41%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pleroma]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21399point (41%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pleroma]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<라스트 나잇 인 소호>번개상영회 관람 후기 <스포 o>]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70899291?category=61633579"/>
         <updated>2021-12-02T12:10:47.017Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:244point (61%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸룰리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라스트 나잇 인 소호] 익무 시사 후기 : 행복한 여행]]></title>
-        <id>https://extmovie.com/movietalk/70897649?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70897649?category=61633579"/>
-        <updated>2021-12-02T11:05:49.101Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:108360point (16%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">깐난]]></content>
     </entry>
 </feed>

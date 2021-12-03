@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2021-12-03T19:05:52.353Z</updated>
+    <updated>2021-12-03T20:08:59.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스칼렛 요한슨 애플TV <Ghosted> 하차]]></title>
+        <id>https://extmovie.com/movietalk/70950857?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/70950857?category=21915420"/>
+        <updated>2021-12-03T20:07:39.961Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:37point (9%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드와이트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드웨인 존슨 ‘블랙 아담’ 토탈 필름 커버]]></title>
         <id>https://extmovie.com/movietalk/70949789?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70921661?category=21915420"/>
         <updated>2021-12-03T06:08:14.250Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:467071point (35%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ipanema]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호크아이 2인방 - 에코역 배우 위해 수어 배웠다]]></title>
-        <id>https://extmovie.com/movietalk/70921463?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/70921463?category=21915420"/>
-        <updated>2021-12-03T06:08:14.250Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:408848point (44%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
 </feed>

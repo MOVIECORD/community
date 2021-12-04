@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-04T21:06:31.172Z</updated>
+    <updated>2021-12-04T22:08:59.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Cry Macho (2021) 클린트 이스트우드 신작을 최대한 즐기실 분은 읽지 ...]]></title>
-        <id>https://extmovie.com/movietalk/70980822?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/70980822?category=61633579"/>
-        <updated>2021-12-04T19:06:20.878Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9250point (13%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Last Night in Soho [라스트 나잇 인 소호] (2021) 리뷰- 화려한 네온의...]]></title>
         <id>https://extmovie.com/movietalk/70984204?category=61633579</id>
@@ -59,14 +52,14 @@
         <id>https://extmovie.com/movietalk/70980441?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70980441?category=61633579"/>
         <updated>2021-12-04T15:06:42.112Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3646point (34%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오기]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3648point (34%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고스트 버스터즈 라이즈 리뷰 - 올해 받은 가장 큰 선물입니다. (스포)]]></title>
         <id>https://extmovie.com/movietalk/70978741?category=61633579</id>
         <link href="https://extmovie.com/movietalk/70978741?category=61633579"/>
         <updated>2021-12-04T15:06:42.114Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15295point (3%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토니A]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15297point (3%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토니A]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왕따가 전하는 왕따 이야기 / <릴리 슈슈의 모든 것>]]></title>
@@ -249,5 +242,12 @@
         <link href="https://extmovie.com/movietalk/70960659?category=61633579"/>
         <updated>2021-12-04T05:07:41.997Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3693point (38%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오지훈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고스트버스터 라이즈]: 추억팔이의 교과서!!!]]></title>
+        <id>https://extmovie.com/movietalk/70959180?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/70959180?category=61633579"/>
+        <updated>2021-12-04T22:07:46.777Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6708point (61%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BLUEnLIVE]]></content>
     </entry>
 </feed>

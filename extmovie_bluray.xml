@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/414</id>
     <title>익스트림무비 ─ 블루레이</title>
-    <updated>2021-12-05T16:08:55.740Z</updated>
+    <updated>2021-12-05T17:14:29.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[태양의사자 철인28호] 국내발매예정]]></title>
+        <id>https://extmovie.com/movietalk/71010174?category=414</id>
+        <link href="https://extmovie.com/movietalk/71010174?category=414"/>
+        <updated>2021-12-05T17:14:20.452Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:168966point (29%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">정체불명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해는 DVD / BD 이거로 지름신 마무리]]></title>
         <id>https://extmovie.com/movietalk/70978204?category=414</id>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/70894207?category=414</id>
         <link href="https://extmovie.com/movietalk/70894207?category=414"/>
         <updated>2021-12-02T09:07:11.167Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6874point (72%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웅냥]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6876point (72%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웅냥]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘듄’ 블루레이 스틸북 프리오더 소식]]></title>
@@ -129,14 +136,14 @@
         <id>https://extmovie.com/movietalk/70848920?category=414</id>
         <link href="https://extmovie.com/movietalk/70848920?category=414"/>
         <updated>2021-12-01T08:10:19.712Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6774point (66%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Chelsea]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6780point (66%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Chelsea]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[너의 이름은 4k UHD 스틸북 발매]]></title>
         <id>https://extmovie.com/movietalk/70848150?category=414</id>
         <link href="https://extmovie.com/movietalk/70848150?category=414"/>
         <updated>2021-12-01T08:10:19.713Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6774point (66%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Chelsea]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6780point (66%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Chelsea]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['듄' 4K 디지북 홍콩판 후면,내부 아트웤]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70730897?category=414"/>
         <updated>2021-11-27T12:11:07.320Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:83858point (33%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나바론 요새 UHD-BD 리뷰 및 짧은 감상]]></title>
-        <id>https://extmovie.com/movietalk/70720671?category=414</id>
-        <link href="https://extmovie.com/movietalk/70720671?category=414"/>
-        <updated>2021-11-27T05:06:02.025Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1970point (45%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">johjima]]></content>
     </entry>
 </feed>

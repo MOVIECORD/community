@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/414</id>
     <title>익스트림무비 ─ 블루레이</title>
-    <updated>2021-12-06T20:11:16.122Z</updated>
+    <updated>2021-12-06T21:07:03.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀멸의 칼날[유곽편] 1화 DVD,블루레이 발매한다네요]]></title>
+        <id>https://extmovie.com/movietalk/71048048?category=414</id>
+        <link href="https://extmovie.com/movietalk/71048048?category=414"/>
+        <updated>2021-12-06T21:06:57.290Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5029point (45%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헥스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4k 블루레이 플레이어 추천해주실수 있나요?]]></title>
         <id>https://extmovie.com/movietalk/71027480?category=414</id>
@@ -115,7 +122,7 @@
         <id>https://extmovie.com/movietalk/70901298?category=414</id>
         <link href="https://extmovie.com/movietalk/70901298?category=414"/>
         <updated>2021-12-02T12:10:53.144Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33930point (41%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이한스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33932point (41%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이한스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[요괴헌터 히루코] 몬도 마카브로 블루레이 한정판 매진되었습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/70791355?category=414"/>
         <updated>2021-11-29T15:07:48.435Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/87.gif" alt="[레벨:87]" title="포인트:3433561point (66%), 레벨:87/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 받은 UHD클럽 다크나이트 트릴로지]]></title>
-        <id>https://extmovie.com/movietalk/70785606?category=414</id>
-        <link href="https://extmovie.com/movietalk/70785606?category=414"/>
-        <updated>2021-11-29T12:11:11.632Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8205point (53%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">특별한럭비]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/moviefood</id>
     <title>익스트림무비 ─ 극장맛집</title>
-    <updated>2021-12-08T18:12:17.535Z</updated>
+    <updated>2021-12-08T19:06:15.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -227,7 +227,7 @@
         <id>https://extmovie.com/moviefood/66270563</id>
         <link href="https://extmovie.com/moviefood/66270563"/>
         <updated>2021-10-07T08:08:39.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40917point (31%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와썹맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40919point (31%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와썹맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지방 사시는 부모님께 용아맥 보여드리고 싶은데 상영시간이...]]></title>
@@ -248,6 +248,6 @@
         <id>https://extmovie.com/moviefood/65989986</id>
         <link href="https://extmovie.com/moviefood/65989986"/>
         <updated>2021-10-07T08:08:39.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40917point (31%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와썹맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40919point (31%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와썹맨]]></content>
     </entry>
 </feed>

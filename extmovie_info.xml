@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2021-12-08T18:12:17.675Z</updated>
+    <updated>2021-12-08T19:06:15.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/21915420</id>
         <link href="https://extmovie.com/movietalk/category/21915420"/>
-        <updated>2021-12-08T18:11:01.326Z</updated>
+        <updated>2021-12-08T19:05:57.095Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/theaters/special/?regioncode=SCX"><img src="https://img.extmovie.com/files/attach/images/49910895/643/115/071/84f5308ad9a3b17b293d0295fe15d7d6.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북미 오프닝 수익 예상치는 모조에서 제공하나요?]]></title>
+        <id>https://extmovie.com/movietalk/71150802?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/71150802?category=21915420"/>
+        <updated>2021-12-08T19:05:57.286Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1166point (87%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우콜릿]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[톰 홀랜드 주연 [언차티드] 토탈 필름 스틸컷]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71114804?category=21915420"/>
         <updated>2021-12-08T04:08:38.714Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:413195point (65%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시카 차스테인이 올린 '조지 앤 타미' 촬영시작 예고 캐스...]]></title>
-        <id>https://extmovie.com/movietalk/71113260?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/71113260?category=21915420"/>
-        <updated>2021-12-08T01:54:37.725Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/87.gif" alt="[레벨:87]" title="포인트:3435506point (67%), 레벨:87/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

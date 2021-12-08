@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-08T19:06:15.302Z</updated>
+    <updated>2021-12-08T20:08:02.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-08T19:06:03.580Z</updated>
+        <updated>2021-12-08T20:07:47.771Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/theaters/special/?regioncode=SCX"><img src="https://img.extmovie.com/files/attach/images/49910895/643/115/071/84f5308ad9a3b17b293d0295fe15d7d6.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쟝르만 로맨스 (2021) 이 영화는 무엇을 잡았나]]></title>
+        <id>https://extmovie.com/movietalk/71150923?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71150923?category=61633579"/>
+        <updated>2021-12-08T20:07:47.998Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9328point (17%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팬텀: 더 뮤지컬 라이브] 로맨틱 유령 드라마]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/71122930?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71122930?category=61633579"/>
         <updated>2021-12-08T06:08:37.807Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24902point (62%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ＴＡＬＥＳ]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24904point (62%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ＴＡＬＥＳ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레인징파이어 익스트림무비당첨표 인즌]]></title>
@@ -241,7 +248,7 @@
         <id>https://extmovie.com/movietalk/71047148?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71047148?category=61633579"/>
         <updated>2021-12-07T18:11:28.518Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9318point (16%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9328point (17%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[티탄] 드라마로 시작해서 SF로 가는군여~ (feat. 블란쳇님 조건나눔)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71108252?category=61633579"/>
         <updated>2021-12-07T17:17:51.148Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15894point (28%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[도쿄 리벤저스] 익무 시사회 후기(영화 이야기 살짝)]]></title>
-        <id>https://extmovie.com/movietalk/71107702?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71107702?category=61633579"/>
-        <updated>2021-12-07T17:17:51.151Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43040point (86%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NightWish]]></content>
     </entry>
 </feed>

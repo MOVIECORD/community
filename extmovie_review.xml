@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-10T19:05:34.532Z</updated>
+    <updated>2021-12-10T20:08:43.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-10T19:05:21.274Z</updated>
+        <updated>2021-12-10T20:08:31.073Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/theaters/special/?regioncode=SCX"><img src="https://img.extmovie.com/files/attach/images/49910895/643/115/071/84f5308ad9a3b17b293d0295fe15d7d6.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[레이징 파이어] 조금 늦은 익무시사후기]]></title>
+        <id>https://extmovie.com/movietalk/71233154?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71233154?category=61633579"/>
+        <updated>2021-12-10T20:08:31.310Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5458point (77%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jjh0711]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The return of the living dead (1985) 명작 좀비영화]]></title>
+        <id>https://extmovie.com/movietalk/71215483?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71215483?category=61633579"/>
+        <updated>2021-12-10T20:08:31.310Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9432point (22%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[티탄 덜덜떨면서 봤네요]]></title>
@@ -164,7 +178,7 @@
         <id>https://extmovie.com/movietalk/71115704?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71115704?category=61633579"/>
         <updated>2021-12-10T07:07:30.052Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9410point (21%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9432point (22%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“포에버 퍼스트 러브” 스토리도 없고…(스포)]]></title>
@@ -242,19 +256,5 @@
         <link href="https://extmovie.com/movietalk/71189911?category=61633579"/>
         <updated>2021-12-09T17:17:10.469Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28023point (63%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">메로메로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티탄 강렬하네요... 노스포 간략 후기]]></title>
-        <id>https://extmovie.com/movietalk/71189506?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71189506?category=61633579"/>
-        <updated>2021-12-09T17:17:10.469Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6198point (28%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Cox]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙필즈   DO NOT DISTURB 후기.]]></title>
-        <id>https://extmovie.com/movietalk/71189464?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71189464?category=61633579"/>
-        <updated>2021-12-09T17:17:10.470Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6009point (16%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파트라슈1]]></content>
     </entry>
 </feed>

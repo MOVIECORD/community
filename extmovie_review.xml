@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-13T22:05:59.480Z</updated>
+    <updated>2021-12-13T23:07:14.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-13T22:05:45.092Z</updated>
+        <updated>2021-12-13T23:07:02.797Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/theaters/special/?regioncode=SCX"><img src="https://img.extmovie.com/files/attach/images/49910895/643/115/071/84f5308ad9a3b17b293d0295fe15d7d6.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[킹메이커] 시사 및 GV 후기입니다. (스포X)]]></title>
+        <id>https://extmovie.com/movietalk/71340900?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71340900?category=61633579"/>
+        <updated>2021-12-13T23:07:02.973Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:484point (18%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클루인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[킹메이커 GV 너무 좋았습니다! (싸인포스터 영롱하네요✨)]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/71334637?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71334637?category=61633579"/>
         <updated>2021-12-13T16:09:20.625Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1315point (19%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아앙]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1317point (20%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아앙]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lady sings the blues (1972)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71290700?category=61633579"/>
         <updated>2021-12-12T16:09:44.962Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3118point (87%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뿌빠뽀빠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Do Not Disturb] 익무 시사 후기]]></title>
-        <id>https://extmovie.com/movietalk/71289021?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71289021?category=61633579"/>
-        <updated>2021-12-12T15:06:57.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5817point (3%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오늘내일모래]]></content>
     </entry>
 </feed>

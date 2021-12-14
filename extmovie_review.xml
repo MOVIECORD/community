@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-14T17:15:47.658Z</updated>
+    <updated>2021-12-14T18:11:02.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-14T17:15:32.559Z</updated>
+        <updated>2021-12-14T18:10:48.484Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/theaters/special/?regioncode=SCX"><img src="https://img.extmovie.com/files/attach/images/49910895/643/115/071/84f5308ad9a3b17b293d0295fe15d7d6.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스포 ㅇ)<라스트 나잇 인 소호> 후기 [hotel님 나눔]]]></title>
+        <id>https://extmovie.com/movietalk/71384993?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71384993?category=61633579"/>
+        <updated>2021-12-14T18:10:48.731Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2784point (53%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미츠하]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레이징 파이어]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/71378703?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71378703?category=61633579"/>
         <updated>2021-12-14T15:07:24.750Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223746point (58%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장만월사장님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223750point (58%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장만월사장님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[킹메이커 시사회 리뷰]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71348588?category=61633579"/>
         <updated>2021-12-14T03:08:06.523Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2404point (15%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스크류바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포X) 킹메이커 단평: 정치영화의 틀을 가진 재밌는 사람영화!]]></title>
-        <id>https://extmovie.com/movietalk/71347337?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71347337?category=61633579"/>
-        <updated>2021-12-14T02:28:26.602Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:122244point (86%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">FilmWhatElse]]></content>
     </entry>
 </feed>

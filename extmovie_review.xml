@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-14T19:05:40.771Z</updated>
+    <updated>2021-12-14T20:07:59.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-14T19:05:27.162Z</updated>
+        <updated>2021-12-14T20:07:45.779Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/theaters/special/?regioncode=SCX"><img src="https://img.extmovie.com/files/attach/images/49910895/643/115/071/84f5308ad9a3b17b293d0295fe15d7d6.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네트워크 (1976) 매스미디어에 대한 장엄한 비판]]></title>
+        <id>https://extmovie.com/movietalk/71344011?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71344011?category=61633579"/>
+        <updated>2021-12-14T20:07:46.033Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9637point (33%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[킹메이커] 간단후기 입니다]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71350410?category=61633579"/>
         <updated>2021-12-14T04:08:20.615Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88975point (54%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">룰루리요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<킹메이커> 잘짜여진 선거 전략처럼 잘 짠 영화! 익무 GV 후기 (...]]></title>
-        <id>https://extmovie.com/movietalk/71348618?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71348618?category=61633579"/>
-        <updated>2021-12-14T04:08:20.623Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2404point (15%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스크류바]]></content>
     </entry>
 </feed>

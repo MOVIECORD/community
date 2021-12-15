@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-15T01:53:02.266Z</updated>
+    <updated>2021-12-15T02:26:01.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포x)마스크썼지만 입특막(노웨이홈 간단후기)]]></title>
+        <id>https://extmovie.com/movietalk/71400016?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71400016?category=61633579"/>
+        <updated>2021-12-15T02:25:49.773Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4858point (33%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">_루리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스파이더맨:노웨이 홈] 황홀했던 용아맥에서의 150분(노스포)]]></title>
         <id>https://extmovie.com/movietalk/71396040?category=61633579</id>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/71378703?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71378703?category=61633579"/>
         <updated>2021-12-14T15:07:24.750Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223782point (58%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장만월사장님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223795point (58%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장만월사장님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[킹메이커 시사회 리뷰]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/71369540?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71369540?category=61633579"/>
         <updated>2021-12-14T10:08:43.129Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35557point (87%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뱐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35560point (87%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뱐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[티탄 관람평]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/71365386?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71365386?category=61633579"/>
         <updated>2021-12-14T09:07:35.532Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18402point (29%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">비밀이지만]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18404point (29%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">비밀이지만]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<익무 시사> 킹메이커 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/71352197?category=61633579"/>
         <updated>2021-12-14T05:07:05.645Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:977point (33%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진샤오미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[킹메이커] 시사회 후기(스포없음)]]></title>
-        <id>https://extmovie.com/movietalk/71353628?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71353628?category=61633579"/>
-        <updated>2021-12-14T05:07:05.648Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:163point (40%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">튕클]]></content>
     </entry>
 </feed>

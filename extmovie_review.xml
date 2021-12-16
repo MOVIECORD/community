@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-16T22:07:13.739Z</updated>
+    <updated>2021-12-16T23:08:39.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Come september (1961) 로맨틱코메디의 모든것]]></title>
+        <id>https://extmovie.com/movietalk/66346738?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/66346738?category=61633579"/>
+        <updated>2021-12-16T23:08:26.837Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9790point (41%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포) 스파이더맨 노 웨이 홈 개인적으로 아쉬운 부분..]]></title>
         <id>https://extmovie.com/movietalk/71517712?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/71385873?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71385873?category=61633579"/>
         <updated>2021-12-16T01:52:35.298Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9760point (40%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9790point (41%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마이뉴욕다이어리 간단후기 불호]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/71448778?category=61633579"/>
         <updated>2021-12-15T13:15:47.285Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40892point (31%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비럽웅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(당직사관님나눔, 스포O)스파이더맨노웨이홈 후기입니다]]></title>
-        <id>https://extmovie.com/movietalk/71448579?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71448579?category=61633579"/>
-        <updated>2021-12-15T13:15:47.286Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2075point (65%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화로운세상]]></content>
     </entry>
 </feed>

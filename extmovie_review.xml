@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-17T01:58:08.054Z</updated>
+    <updated>2021-12-17T02:29:57.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[피부를 판 남자] 사랑을 위해 그의 마지막 남은 자존심을 판 남자]]></title>
+        <id>https://extmovie.com/movietalk/71526377?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71526377?category=61633579"/>
+        <updated>2021-12-17T02:29:46.419Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1279point (13%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아스토리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<아멜리에> 정말 사랑스런 영화]]></title>
         <id>https://extmovie.com/movietalk/71523803?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71523803?category=61633579"/>
         <updated>2021-12-17T01:56:56.718Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6623point (56%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Cox]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6626point (56%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Cox]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[티탄]관객의 신경을 건드리는덴 탁월한 감독인듯]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/71456287?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71456287?category=61633579"/>
         <updated>2021-12-15T15:07:17.281Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:534186point (70%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">형8]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:534188point (70%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">형8]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 영화관 소풍일기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/71450356?category=61633579"/>
         <updated>2021-12-15T13:15:47.279Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8846point (90%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알라폴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<틱, 틱... 붐!> 리뷰 - <라라 랜드> 이후 오랜만의 가슴 ...]]></title>
-        <id>https://extmovie.com/movietalk/71450153?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71450153?category=61633579"/>
-        <updated>2021-12-15T13:15:47.280Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:442point (9%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김진짜]]></content>
     </entry>
 </feed>

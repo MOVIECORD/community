@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-19T18:13:25.373Z</updated>
+    <updated>2021-12-19T19:05:27.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노 웨이 홈 장단점 리뷰 - 당신은 어떤 삶을 살아가나요(스포주의)]]></title>
+        <id>https://extmovie.com/movietalk/71639093?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71639093?category=61633579"/>
+        <updated>2021-12-19T19:05:14.290Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2918point (67%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가장 따뜻한 색, 블루] 포르노 같은 애정씬이 필요했을까요?]]></title>
         <id>https://extmovie.com/movietalk/71638181?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/71620515?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71620515?category=61633579"/>
         <updated>2021-12-19T09:06:59.651Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4729point (23%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">신]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4806point (29%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포)스파이더맨 스크린엑스 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/71550673?category=61633579"/>
         <updated>2021-12-17T11:04:54.066Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:117point (29%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">금아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<티탄> 짧은 리뷰(약스포)]]></title>
-        <id>https://extmovie.com/movietalk/71547624?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71547624?category=61633579"/>
-        <updated>2021-12-17T10:07:42.148Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13262point (13%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">멍냥멍]]></content>
     </entry>
 </feed>

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-22T21:06:54.693Z</updated>
+    <updated>2021-12-22T22:07:28.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-22T21:06:42.115Z</updated>
+        <updated>2021-12-22T22:07:18.307Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="https://bit.ly/30pnHv1"><img src="https://img.extmovie.com/files/attach/images/49910895/341/641/071/4cb580e8c6b928d36f307d205af70273.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기적]]></title>
+        <id>https://extmovie.com/movietalk/71778442?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71778442?category=61633579"/>
+        <updated>2021-12-22T22:07:18.529Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:605point (44%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">낮잠자기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프리가이스포,매트릭스 스포. 두 영화의 깨달음]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/71773093?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71773093?category=61633579"/>
         <updated>2021-12-22T15:07:28.364Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2307point (5%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2309point (5%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[킹스맨:퍼스트 에이전트] 다른 매력 (약스포)]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/71749903?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71749903?category=61633579"/>
         <updated>2021-12-22T15:07:28.365Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:170060point (33%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:170062point (33%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포) <매트릭스 리저렉션> 후기]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71749709?category=61633579"/>
         <updated>2021-12-22T07:07:37.898Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:103303point (66%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SuGiHaRa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매트릭스: 리저렉션] (노스포) 한줄평 & 코멘트]]></title>
-        <id>https://extmovie.com/movietalk/71747932?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71747932?category=61633579"/>
-        <updated>2021-12-22T07:07:37.899Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:130493point (36%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">텐더로인]]></content>
     </entry>
 </feed>

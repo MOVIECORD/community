@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-22T20:09:15.073Z</updated>
+    <updated>2021-12-22T21:06:54.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-22T20:08:02.028Z</updated>
+        <updated>2021-12-22T21:06:42.115Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="https://bit.ly/30pnHv1"><img src="https://img.extmovie.com/files/attach/images/49910895/341/641/071/4cb580e8c6b928d36f307d205af70273.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리가이스포,매트릭스 스포. 두 영화의 깨달음]]></title>
+        <id>https://extmovie.com/movietalk/71778220?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/71778220?category=61633579"/>
+        <updated>2021-12-22T21:06:42.348Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17770point (4%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이럽무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[피드백] 후기]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/71749903?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71749903?category=61633579"/>
         <updated>2021-12-22T15:07:28.365Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:170058point (33%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:170060point (33%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포) <매트릭스 리저렉션> 후기]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/71765124?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71765124?category=61633579"/>
         <updated>2021-12-22T13:16:54.869Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8074point (45%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Underwater]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8076point (45%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Underwater]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[용포프에서 잠들었습니다...(스포x)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71747932?category=61633579"/>
         <updated>2021-12-22T07:07:37.899Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:130493point (36%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">텐더로인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포없는 매트릭스 한줄 평입니다]]></title>
-        <id>https://extmovie.com/movietalk/71747322?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71747322?category=61633579"/>
-        <updated>2021-12-22T06:12:42.008Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6925point (76%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서칠]]></content>
     </entry>
 </feed>

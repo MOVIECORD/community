@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2021-12-25T20:13:09.734Z</updated>
+    <updated>2021-12-25T21:08:06.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/71891947"/>
         <updated>2021-12-25T18:07:38.764Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40228point (13%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">자유의댄스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스에 이 프로그램 너무 좋아요]]></title>
+        <id>https://extmovie.com/bestboard/71891828</id>
+        <link href="https://extmovie.com/bestboard/71891828"/>
+        <updated>2021-12-25T21:05:44.349Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/71.gif" alt="[레벨:71]" title="포인트:1090309point (90%), 레벨:71/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">수위아저씨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상대역 복이 엄청난 20대 남배우는?]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/bestboard/71850380</id>
         <link href="https://extmovie.com/bestboard/71850380"/>
         <updated>2021-12-25T17:14:47.558Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:172898point (42%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:172900point (43%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[셔터아일랜드 관객수......]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/71887478</id>
         <link href="https://extmovie.com/bestboard/71887478"/>
         <updated>2021-12-25T15:06:36.113Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:239106point (45%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내꼬답]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:239108point (45%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내꼬답]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연속 4편보고 집가유]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/71885114"/>
         <updated>2021-12-25T14:06:21.952Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:427362point (36%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 픽사 엔딩크레딧에 꼭 있는것]]></title>
-        <id>https://extmovie.com/bestboard/71884793</id>
-        <link href="https://extmovie.com/bestboard/71884793"/>
-        <updated>2021-12-25T14:06:21.952Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40793point (28%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">별빛하늘]]></content>
     </entry>
 </feed>

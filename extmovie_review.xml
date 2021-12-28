@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2021-12-28T17:18:33.341Z</updated>
+    <updated>2021-12-28T18:10:21.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2021-12-28T17:17:22.066Z</updated>
+        <updated>2021-12-28T18:09:09.887Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.tving.com/theme/DEXTERSTREAMING001?utm_source=extmovie&amp;utm_medium=movietalk&amp;utm_campaign=DexterNewBlood&amp;utm_content=specialpage"><img src="https://img.extmovie.com/files/attach/images/49910895/340/913/071/5e7a4b87420b7c5ea7f5b8a2794e970d.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹스맨 감상평 (쿠키 스포 O)]]></title>
+        <title type="html"><![CDATA[(강스포) <램> 에서 보여지는 요소들(?)]]></title>
+        <id>https://extmovie.com/movietalk/72000712?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/72000712?category=61633579"/>
+        <updated>2021-12-28T18:09:10.148Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:547point (31%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SheldonLeeCooper]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킹스맨: 퍼스트 에이전트 감상평 (쿠키 스포 O)]]></title>
         <id>https://extmovie.com/movietalk/72001064?category=61633579</id>
         <link href="https://extmovie.com/movietalk/72001064?category=61633579"/>
         <updated>2021-12-28T17:17:22.267Z</updated>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/72000221?category=61633579</id>
         <link href="https://extmovie.com/movietalk/72000221?category=61633579"/>
         <updated>2021-12-28T17:17:22.314Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46417point (70%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">songforu]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46419point (70%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">songforu]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포)킹스맨 - 퍼스트 에이전트 : 역사배경알면 꿀잼]]></title>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/71998846?category=61633579</id>
         <link href="https://extmovie.com/movietalk/71998846?category=61633579"/>
         <updated>2021-12-28T16:09:36.819Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:535point (29%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SheldonLeeCooper]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:547point (31%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SheldonLeeCooper]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[램] 불친절한 서사가 매력적인 영화]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/71969026?category=61633579"/>
         <updated>2021-12-28T06:09:55.064Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5418point (74%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RFK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들 간단후기 (스포)]]></title>
-        <id>https://extmovie.com/movietalk/71969267?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/71969267?category=61633579"/>
-        <updated>2021-12-28T05:09:45.139Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8947point (96%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Likeit]]></content>
     </entry>
 </feed>

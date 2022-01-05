@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-01-05T20:16:05.969Z</updated>
+    <updated>2022-01-05T21:14:49.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혹시 영화관 안에든 밖이든 악질 보신적 있나요?]]></title>
+        <id>https://extmovie.com/bestboard/72319551</id>
+        <link href="https://extmovie.com/bestboard/72319551"/>
+        <updated>2022-01-05T21:11:30.838Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:189point (47%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">루아방]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씽2게더 애니메이션이 징그러울줄이야..]]></title>
         <id>https://extmovie.com/bestboard/72319165</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/bestboard/72317246</id>
         <link href="https://extmovie.com/bestboard/72317246"/>
         <updated>2022-01-05T16:19:10.916Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67662point (62%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">과장]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67664point (62%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">과장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1월 5일 박스오피스 (경관의 피, 씽2게더 첫 관객수)]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/bestboard/72317079</id>
         <link href="https://extmovie.com/bestboard/72317079"/>
         <updated>2022-01-05T16:19:10.916Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5302point (66%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5314point (66%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해를 이 영화로 시작해서 너무 기분이 좋네요ㅎㅎ 🎶🎶]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/72313555</id>
         <link href="https://extmovie.com/bestboard/72313555"/>
         <updated>2022-01-05T15:13:31.431Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67662point (62%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">과장]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67664point (62%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">과장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이맥스로 돌리는 아재판독기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/72312496"/>
         <updated>2022-01-05T16:19:10.936Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:159771point (98%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MyMelancholyBlues]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<전장의 피아니스트> 시사회 감상평 및 별점 (약스포)]]></title>
-        <id>https://extmovie.com/bestboard/72312265</id>
-        <link href="https://extmovie.com/bestboard/72312265"/>
-        <updated>2022-01-05T14:10:10.338Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1833point (18%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">프로유저]]></content>
     </entry>
 </feed>

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-01-05T21:14:49.675Z</updated>
+    <updated>2022-01-05T22:16:21.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2022-01-05T20:14:54.646Z</updated>
+        <updated>2022-01-05T22:14:09.912Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://naver.me/GuGbwU4G"><img src="https://img.extmovie.com/files/attach/images/49910895/060/220/072/f53ba8d0a1a2ea5e12842df711764002.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씽2 보기 전에 씽 보고 갈 걸 그랬나 싶네요]]></title>
+        <id>https://extmovie.com/movietalk/72320504?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/72320504?category=61633579"/>
+        <updated>2022-01-05T22:14:10.241Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5326point (67%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[프랑스] 간단 리뷰]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/72317079?category=61633579</id>
         <link href="https://extmovie.com/movietalk/72317079?category=61633579"/>
         <updated>2022-01-05T18:16:05.697Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5302point (66%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5326point (67%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[노스포] '특송' 시사회 감상]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/72297901?category=61633579"/>
         <updated>2022-01-05T07:13:49.106Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1058point (56%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노부와함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경관의 피 한줄평]]></title>
-        <id>https://extmovie.com/movietalk/72295984?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/72295984?category=61633579"/>
-        <updated>2022-01-05T07:13:49.106Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58594point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">R..]]></content>
     </entry>
 </feed>

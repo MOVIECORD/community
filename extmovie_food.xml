@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/moviefood</id>
     <title>익스트림무비 ─ 극장맛집</title>
-    <updated>2022-01-12T11:12:08.379Z</updated>
+    <updated>2022-01-12T12:24:37.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CGV 대구한일] 153구포국수 동성로2호점]]></title>
+        <id>https://extmovie.com/moviefood/72554532</id>
+        <link href="https://extmovie.com/moviefood/72554532"/>
+        <updated>2022-01-12T12:24:37.061Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:35point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">JHR]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[메가박스 코엑스] 자연은 맛있다]]></title>
         <id>https://extmovie.com/moviefood/72371300</id>
         <link href="https://extmovie.com/moviefood/72371300"/>
         <updated>2022-01-07T10:15:33.667Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:22point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">JHR]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:35point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">JHR]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[롯데시네마 월드타워] 황기순 칼국수&돈까스]]></title>
@@ -24,21 +31,21 @@
         <id>https://extmovie.com/moviefood/71775151</id>
         <link href="https://extmovie.com/moviefood/71775151"/>
         <updated>2021-12-22T16:10:36.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:240325point (51%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이신헌]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:240457point (52%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이신헌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요새 CGV 매점 소소한 꿀팁(갈릭스노우 핫도그)]]></title>
         <id>https://extmovie.com/moviefood/70326992</id>
         <link href="https://extmovie.com/moviefood/70326992"/>
         <updated>2021-11-16T04:09:30.811Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8237point (55%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">odorukid]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8252point (56%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">odorukid]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[용산cgv 구내식당 삼고초려 성공ㅜㅜ]]></title>
         <id>https://extmovie.com/moviefood/69241814</id>
         <link href="https://extmovie.com/moviefood/69241814"/>
         <updated>2021-10-13T04:10:34.537Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14694point (77%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도우너월드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14711point (77%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도우너월드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[씨네큐브 광화문] 웰빙김밥(영업시간 주의!!)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/moviefood/66348912"/>
         <updated>2021-10-07T08:08:39.871Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:142803point (14%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">박군93]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산역 구내식당 식단표 (21-27)]]></title>
-        <id>https://extmovie.com/moviefood/66270563</id>
-        <link href="https://extmovie.com/moviefood/66270563"/>
-        <updated>2021-10-07T08:08:39.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42630point (75%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와썹맨]]></content>
     </entry>
 </feed>

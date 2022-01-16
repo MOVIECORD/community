@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-01-16T19:12:07.623Z</updated>
+    <updated>2022-01-16T20:15:46.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) <어나더 라운드> 세상은 결코 예상대로 돌아가지 않기에 ...]]></title>
+        <id>https://extmovie.com/movietalk/72711424?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/72711424?category=61633579"/>
+        <updated>2022-01-16T20:14:35.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15833point (25%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전지구적난민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특송] 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/72711361?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/72711361?category=61633579"/>
+        <updated>2022-01-16T20:14:35.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93233point (72%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에펠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특송] 처음부터 끝까지 달려가는 멈추지 않는 액션 열차!]]></title>
         <id>https://extmovie.com/movietalk/72711112?category=61633579</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/72694604?category=61633579"/>
         <updated>2022-01-16T07:14:01.107Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1499point (54%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하리봉봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨사스 용아맥 열광하며 본 와중 아쉬운점]]></title>
-        <id>https://extmovie.com/movietalk/72694531?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/72694531?category=61633579"/>
-        <updated>2022-01-16T07:14:01.107Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:140561point (2%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">stanly]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹메이커 관련 알고 가시길 추천하는 점 (노스포)]]></title>
-        <id>https://extmovie.com/movietalk/72694156?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/72694156?category=61633579"/>
-        <updated>2022-01-16T07:14:01.110Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:247point (61%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">경꾸]]></content>
     </entry>
 </feed>

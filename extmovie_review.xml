@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-02-27T19:12:33.382Z</updated>
+    <updated>2022-02-27T20:14:40.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🎼록산, 아니 시라노🖋 리뷰 다꾸]]></title>
+        <id>https://extmovie.com/movietalk/74222947?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/74222947?category=61633579"/>
+        <updated>2022-02-27T20:14:31.264Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29581point (12%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스포] 시라노 관람평]]></title>
         <id>https://extmovie.com/movietalk/74156891?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/74210326?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74210326?category=61633579"/>
         <updated>2022-02-27T18:15:54.168Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14616point (73%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타타란티노노우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14620point (73%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타타란티노노우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커스드 후기 [왕 스포.220224]]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/74205893?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74205893?category=61633579"/>
         <updated>2022-02-27T08:15:36.527Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:137834point (85%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">leodip19]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:137838point (85%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">leodip19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스펜서 - 오우.. 숨막혀]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/74191899?category=61633579"/>
         <updated>2022-02-26T18:15:36.741Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:16point (4%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이웃집쿠키]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<프렌치 디스패치> 짧은 후기]]></title>
-        <id>https://extmovie.com/movietalk/74191472?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/74191472?category=61633579"/>
-        <updated>2022-02-26T18:15:36.741Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20462point (7%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">가미]]></content>
     </entry>
 </feed>

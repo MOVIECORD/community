@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-02-28T17:16:26.482Z</updated>
+    <updated>2022-02-28T18:16:35.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(약스포 있음) "더 배트맨" 아이맥스 후기입니다 (Skel 님 나눔)]]></title>
+        <id>https://extmovie.com/movietalk/74271768?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/74271768?category=61633579"/>
+        <updated>2022-02-28T18:15:28.357Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25475point (81%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유닉아이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이트메어 앨리]]></title>
         <id>https://extmovie.com/movietalk/74271201?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74271201?category=61633579"/>
         <updated>2022-02-28T17:16:17.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:144265point (21%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타누키]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:144267point (21%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타누키]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포] 피그 관람평]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/74241945?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74241945?category=61633579"/>
         <updated>2022-02-28T08:16:51.853Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88228point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88232point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Mike]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포] 인민을 위해 복무하라 관람평]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/74222947?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74222947?category=61633579"/>
         <updated>2022-02-27T20:14:31.264Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30140point (29%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30146point (29%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망밍]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포] 시라노 관람평]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/74222746?category=61633579"/>
         <updated>2022-02-27T19:11:25.553Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10811point (95%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴타입이다님 나눔 그남자는타이타닉을보고싶지않았다 익무시사 후기]]></title>
-        <id>https://extmovie.com/movietalk/74222247?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/74222247?category=61633579"/>
-        <updated>2022-02-27T18:15:54.149Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7902point (35%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소라]]></content>
     </entry>
 </feed>

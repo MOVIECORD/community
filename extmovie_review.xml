@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-03-02T19:13:17.914Z</updated>
+    <updated>2022-03-02T20:15:26.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[약스포]<이상한 나라의 수학자> 리뷰/이상한 나라에 오게 된 수...]]></title>
+        <id>https://extmovie.com/movietalk/74364865?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/74364865?category=61633579"/>
+        <updated>2022-03-02T20:15:17.324Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:355point (88%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">은사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<이상한 나라의 수학자> 리뷰(약스포)]]></title>
         <id>https://extmovie.com/movietalk/74363703?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/74345386?category=61633579"/>
         <updated>2022-03-02T11:12:43.772Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:10904point (0%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알라폴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<더 배트맨> 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/74344307?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/74344307?category=61633579"/>
-        <updated>2022-03-02T11:12:43.773Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13414point (20%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">입찢어진남자]]></content>
     </entry>
 </feed>

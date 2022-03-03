@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-03-03T20:13:21.423Z</updated>
+    <updated>2022-03-03T21:13:41.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해적 2 (2022) 스포일러 있음.]]></title>
+        <id>https://extmovie.com/movietalk/74399058?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/74399058?category=61633579"/>
+        <updated>2022-03-03T21:12:31.749Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16093point (36%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<더 배트맨>(2022) -맷 리브스 (탐정물을 선택한 배트맨의 말로) ...]]></title>
         <id>https://extmovie.com/movietalk/74398953?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/74394129?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74394129?category=61633579"/>
         <updated>2022-03-03T15:13:27.771Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43212point (91%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eastwater]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43214point (91%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eastwater]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/74375689?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74375689?category=61633579"/>
         <updated>2022-03-03T06:17:01.990Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93807point (74%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">케이시존스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93826point (74%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">케이시존스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[더 배트맨] 후기 (스포X)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/74368675?category=61633579"/>
         <updated>2022-03-03T02:14:34.735Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:105point (26%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">엘리우드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상한 나라의 수학자 GV시사회 후기]]></title>
-        <id>https://extmovie.com/movietalk/74368044?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/74368044?category=61633579"/>
-        <updated>2022-03-03T02:14:34.735Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:283point (70%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">쭈노]]></content>
     </entry>
 </feed>

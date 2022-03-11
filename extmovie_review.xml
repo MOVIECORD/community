@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-03-11T18:18:48.319Z</updated>
+    <updated>2022-03-11T19:11:53.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이메이.. 픽사가 이런 걸 만들다뇨..]]></title>
+        <id>https://extmovie.com/movietalk/74687209?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/74687209?category=61633579"/>
+        <updated>2022-03-11T19:11:44.485Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7839point (32%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">볃두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스펜서] 크리스틴의 새로운 모습]]></title>
         <id>https://extmovie.com/movietalk/74685481?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/74678728?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74678728?category=61633579"/>
         <updated>2022-03-11T17:15:53.500Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43684point (3%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">차라차차]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43692point (3%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">차라차차]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[이상한 나라의 수학자] 리뷰]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/74664269?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74664269?category=61633579"/>
         <updated>2022-03-11T06:16:50.972Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:108507point (17%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">당직사관]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:108509point (17%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">당직사관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[이상한 나라의 수학자] 수학이 답을 주는 신기한 영화 (스포)]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/74652311?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74652311?category=61633579"/>
         <updated>2022-03-10T19:11:58.406Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:105148point (0%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">케이시존스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:105484point (2%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">케이시존스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피고인 후기 [왕 스포.220308]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/74647710?category=61633579"/>
         <updated>2022-03-10T17:15:31.453Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:395point (98%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영픽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(간략후기)유어 러브 송- 대만판 드림하이..?]]></title>
-        <id>https://extmovie.com/movietalk/74646760?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/74646760?category=61633579"/>
-        <updated>2022-03-10T17:15:31.454Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54048point (44%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">설레는영화관]]></content>
     </entry>
 </feed>

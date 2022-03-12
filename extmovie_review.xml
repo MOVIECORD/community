@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-03-12T20:17:24.459Z</updated>
+    <updated>2022-03-12T21:14:04.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이의 새빨간 비밀 (2022) 스포 없음.]]></title>
+        <id>https://extmovie.com/movietalk/74716466?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/74716466?category=61633579"/>
+        <updated>2022-03-12T21:12:56.657Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16736point (62%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You can count on me (2000) 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/74688818?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74688818?category=61633579"/>
         <updated>2022-03-12T19:10:51.496Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16702point (61%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16736point (62%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스펜서] 진주인가? 목줄인가?]]></title>
         <id>https://extmovie.com/movietalk/74716367?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74716367?category=61633579"/>
         <updated>2022-03-12T19:10:51.499Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24454point (47%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24456point (47%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모럴센스]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/74692760?category=61633579</id>
         <link href="https://extmovie.com/movietalk/74692760?category=61633579"/>
         <updated>2022-03-12T09:12:38.709Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:300238point (2%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밍구리]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:300240point (2%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밍구리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[희수.노스포 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/74680419?category=61633579"/>
         <updated>2022-03-11T17:15:53.484Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2275point (2%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무쿠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['애덤 프로젝트' 짧은 후기 (스포X/추천)]]></title>
-        <id>https://extmovie.com/movietalk/74680181?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/74680181?category=61633579"/>
-        <updated>2022-03-11T17:15:53.484Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223685point (57%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">버닝롹스타]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-03-13T20:15:21.200Z</updated>
+    <updated>2022-03-13T21:13:42.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/74742874</id>
         <link href="https://extmovie.com/bestboard/74742874"/>
         <updated>2022-03-13T20:13:01.812Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:116522point (57%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spacekitty]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:116534point (57%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spacekitty]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밤에 쓰는 소수의견]]></title>
+        <id>https://extmovie.com/bestboard/74742653</id>
+        <link href="https://extmovie.com/bestboard/74742653"/>
+        <updated>2022-03-13T21:11:25.447Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:202689point (17%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하디]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마이클 잭슨이 사망 하루전에 했던 말]]></title>
@@ -52,14 +59,14 @@
         <id>https://extmovie.com/bestboard/74741198</id>
         <link href="https://extmovie.com/bestboard/74741198"/>
         <updated>2022-03-13T19:10:26.912Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:491202point (56%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:491204point (56%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘노웨이홈’ 중요 장면별 관객 반응 영상 (스포)]]></title>
         <id>https://extmovie.com/bestboard/74741037</id>
         <link href="https://extmovie.com/bestboard/74741037"/>
         <updated>2022-03-13T20:13:01.814Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:491202point (56%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:491204point (56%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[와ㅋㅋ스파이더맨 노웨이홈 개봉한지 3개월 지났는데ㅋㅋ]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/74735280"/>
         <updated>2022-03-13T14:13:39.789Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/88.gif" alt="[레벨:88]" title="포인트:3541903point (20%), 레벨:88/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 히어로들이 한자리에!?]]></title>
-        <id>https://extmovie.com/bestboard/74735021</id>
-        <link href="https://extmovie.com/bestboard/74735021"/>
-        <updated>2022-03-13T14:13:39.790Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:568843point (44%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">셋져]]></content>
     </entry>
 </feed>

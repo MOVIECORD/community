@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-16T19:12:06.741Z</updated>
+    <updated>2022-03-16T20:16:28.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[<스펜서> 아티스트 배지 영롱하네요 ^^ (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/74854345</id>
+        <link href="https://extmovie.com/bestboard/74854345"/>
+        <updated>2022-03-16T20:14:10.024Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25247point (74%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로드무비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모비우스 기대된다 vs 안된다 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/74853616</id>
+        <link href="https://extmovie.com/bestboard/74853616"/>
+        <updated>2022-03-16T20:14:10.047Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29816point (19%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">즐기는자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CGV는 참 문제가.. (Feat. 스펜서) (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/74853255</id>
@@ -205,7 +219,7 @@
         <id>https://extmovie.com/bestboard/74844517</id>
         <link href="https://extmovie.com/bestboard/74844517"/>
         <updated>2022-03-16T13:19:11.486Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5738point (98%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SoulTR22]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5741point (98%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SoulTR22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문폴 용포프 후기가 왜케 없나 했더니만.. (익스트림무비 ─ 익무힛갤)]]></title>
@@ -234,20 +248,6 @@
         <link href="https://extmovie.com/bestboard/74843441"/>
         <updated>2022-03-16T13:19:11.487Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27537point (48%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">민트모닝]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4개 밖에 없어 더 소중한 뱃지 떼(?)샷~~ (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/74843253</id>
-        <link href="https://extmovie.com/bestboard/74843253"/>
-        <updated>2022-03-16T12:21:29.455Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:23004point (98%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸른정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문폴 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/74843244</id>
-        <link href="https://extmovie.com/bestboard/74843244"/>
-        <updated>2022-03-16T14:12:06.413Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31161point (60%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Landa]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2022-03-16T19:12:02.855Z</updated>
+        <updated>2022-03-16T20:16:24.407Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="https://www.tving.com/contents/P001565742"><img src="https://img.extmovie.com/files/attach/images/49910895/250/852/074/339b5426578f5754fc4a3bf56524d769.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

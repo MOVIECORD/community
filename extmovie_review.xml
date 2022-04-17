@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-04-17T21:13:58.853Z</updated>
+    <updated>2022-04-17T22:14:09.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스포] <앵커> 익무GV 시사회 후기]]></title>
+        <id>https://extmovie.com/movietalk/75924457?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/75924457?category=61633579"/>
+        <updated>2022-04-17T22:13:01.639Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6163point (26%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">은사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<앵커> 무섭도록 슬픈 이야기 (스포)]]></title>
         <id>https://extmovie.com/movietalk/75976388?category=61633579</id>
         <link href="https://extmovie.com/movietalk/75976388?category=61633579"/>
         <updated>2022-04-17T19:11:41.493Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6611point (55%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">델라]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6615point (55%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">델라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(4dx효과 위주후기) "신비한 동물들과 덤블도어의 비밀" 4dx ...]]></title>
         <id>https://extmovie.com/movietalk/75976377?category=61633579</id>
         <link href="https://extmovie.com/movietalk/75976377?category=61633579"/>
         <updated>2022-04-17T19:11:41.494Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28984point (94%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유닉아이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28986point (94%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유닉아이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몇 년간의 간절한 기다림이 끝이나서 너무 아쉬운 [ 신비한 동물들과 덤...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/75932554?category=61633579"/>
         <updated>2022-04-16T08:17:09.423Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24347point (44%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">등불]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비한 동물들과 덤블문의 비밀 5G리뷰]]></title>
-        <id>https://extmovie.com/movietalk/75933639?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/75933639?category=61633579"/>
-        <updated>2022-04-16T08:17:09.423Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:81790point (25%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">R..]]></content>
     </entry>
 </feed>

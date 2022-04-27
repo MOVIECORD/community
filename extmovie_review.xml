@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-04-27T20:16:57.120Z</updated>
+    <updated>2022-04-27T21:14:42.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스포] <전체관람가+: 숏버스터> 시사회 관람 후기.]]></title>
+        <id>https://extmovie.com/movietalk/76378686?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/76378686?category=61633579"/>
+        <updated>2022-04-27T21:13:34.240Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8223point (54%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">은사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강스포 ⭕] <서울 괴담> 간단 리뷰]]></title>
         <id>https://extmovie.com/movietalk/76378020?category=61633579</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/76339945?category=61633579</id>
         <link href="https://extmovie.com/movietalk/76339945?category=61633579"/>
         <updated>2022-04-27T04:39:21.940Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21697point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">굿즈없으면섭섭행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탈린이 죽었다 !]]></title>
-        <id>https://extmovie.com/movietalk/76337394?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/76337394?category=61633579"/>
-        <updated>2022-04-27T04:39:21.944Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3370point (11%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노튼]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21699point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">굿즈없으면섭섭행]]></content>
     </entry>
 </feed>

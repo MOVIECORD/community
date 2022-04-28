@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-04-28T19:14:14.840Z</updated>
+    <updated>2022-04-28T20:16:16.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[배드 가이즈] 최근에 본 영화중에 제일 재밌고 귀엽고 사랑스러운 영화]]></title>
+        <id>https://extmovie.com/movietalk/76425170?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/76425170?category=61633579"/>
+        <updated>2022-04-28T20:15:08.728Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:425500point (27%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">용산요정호냐냐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<배드 가이즈> 시사회 후기]]></title>
         <id>https://extmovie.com/movietalk/76422226?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/76378686?category=61633579"/>
         <updated>2022-04-27T21:13:34.240Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8542point (73%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">은사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강스포 ⭕] <서울 괴담> 간단 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/76378020?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/76378020?category=61633579"/>
-        <updated>2022-04-27T17:22:55.177Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:59678point (83%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">성산동손흥민]]></content>
     </entry>
 </feed>

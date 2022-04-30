@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-04-30T20:16:12.361Z</updated>
+    <updated>2022-04-30T21:15:52.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['닥터 스트레인지2' 일본 아이맥스관 특전 포스터]]></title>
+        <id>https://extmovie.com/bestboard/76516889</id>
+        <link href="https://extmovie.com/bestboard/76516889"/>
+        <updated>2022-04-30T21:13:30.781Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15943point (30%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에이제이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11번가에서 롯데시네마 2인 관람권 판매중이에요!]]></title>
         <id>https://extmovie.com/bestboard/76515786</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/76513096</id>
         <link href="https://extmovie.com/bestboard/76513096"/>
         <updated>2022-04-30T17:15:21.282Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39677point (99%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">leaf]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39679point (99%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">leaf]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블라인드 처리된 게시물입니다.]]></title>
@@ -67,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/76513465"/>
         <updated>2022-04-30T16:17:25.440Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35113point (74%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이댕하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(소신발언) 개인적으로 닥스 관련 예습 문제는 너무 엉망으로 멀리 간 ...]]></title>
+        <id>https://extmovie.com/bestboard/76513407</id>
+        <link href="https://extmovie.com/bestboard/76513407"/>
+        <updated>2022-04-30T21:13:30.811Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22178point (69%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CG의포텐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저 사는 곳 주변 노웨이홈 필름마크 소진 시점...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/76506550"/>
         <updated>2022-04-30T14:12:34.946Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:152173point (60%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">텐더로인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 슈퍼히어로 영화 흥행 순위 TOP 30]]></title>
-        <id>https://extmovie.com/bestboard/76506426</id>
-        <link href="https://extmovie.com/bestboard/76506426"/>
-        <updated>2022-04-30T15:13:53.435Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:77131point (6%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기억제거기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기묘한 이야기 아이들 한국 왔을 때]]></title>
-        <id>https://extmovie.com/bestboard/76505539</id>
-        <link href="https://extmovie.com/bestboard/76505539"/>
-        <updated>2022-04-30T14:12:34.946Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9287point (15%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">여누리]]></content>
     </entry>
 </feed>

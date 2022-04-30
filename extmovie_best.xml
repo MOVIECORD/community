@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-04-30T19:13:30.108Z</updated>
+    <updated>2022-04-30T20:16:12.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://extmovie.com/bestboard/76514552</id>
         <link href="https://extmovie.com/bestboard/76514552"/>
         <updated>2022-04-30T18:16:27.749Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30426point (38%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유닉아이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30429point (38%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유닉아이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마블 : 더 리플렉션] 이태원 마블 팝업 전시 관람기 및 소소한 팁(!)]]></title>
@@ -80,7 +80,7 @@
         <id>https://extmovie.com/bestboard/76512668</id>
         <link href="https://extmovie.com/bestboard/76512668"/>
         <updated>2022-04-30T19:11:13.620Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:113945point (44%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:113947point (44%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 받은굿즈들 공개해요]]></title>
@@ -115,7 +115,7 @@
         <id>https://extmovie.com/bestboard/76511592</id>
         <link href="https://extmovie.com/bestboard/76511592"/>
         <updated>2022-04-30T18:16:27.767Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2986point (74%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해천성]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2988point (74%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해천성]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["예수님, 소원이 있습니다."]]></title>
@@ -223,6 +223,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16128point (37%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[메가박스 요금]]></title>
+        <id>https://extmovie.com/bestboard/76507021</id>
+        <link href="https://extmovie.com/bestboard/76507021"/>
+        <updated>2022-04-30T20:13:57.883Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:110458point (27%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Meerkat]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(후방주의) 감독님, 늦었지만 생일축하합니다.]]></title>
         <id>https://extmovie.com/bestboard/76506550</id>
         <link href="https://extmovie.com/bestboard/76506550"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/76505539"/>
         <updated>2022-04-30T14:12:34.946Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9287point (15%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">여누리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시보는 타노스의 손가락하트]]></title>
-        <id>https://extmovie.com/bestboard/76505672</id>
-        <link href="https://extmovie.com/bestboard/76505672"/>
-        <updated>2022-04-30T14:12:34.958Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5600point (88%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아트카드]]></content>
     </entry>
 </feed>

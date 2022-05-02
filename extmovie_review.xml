@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-05-02T21:13:05.607Z</updated>
+    <updated>2022-05-02T22:15:24.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(J나노 님 나눔)(스포)니 부모 얼굴이 보고싶다 후기-폭력의 대물림]]></title>
+        <id>https://extmovie.com/movietalk/76601773?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/76601773?category=61633579"/>
+        <updated>2022-05-02T22:14:17.532Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:174288point (47%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아트매니아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불도저에 탄 소녀 후기 [왕 스포.220502]]]></title>
         <id>https://extmovie.com/movietalk/76601324?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/76600782?category=61633579</id>
         <link href="https://extmovie.com/movietalk/76600782?category=61633579"/>
         <updated>2022-05-02T19:13:09.989Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28510point (79%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28512point (79%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파울베어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닥스1을 어제 처음으로 봤습니다. (노스포)]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/76592433?category=61633579</id>
         <link href="https://extmovie.com/movietalk/76592433?category=61633579"/>
         <updated>2022-05-02T15:16:09.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32475point (99%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오늘부터익무인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32477point (99%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오늘부터익무인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비가 와서 공포영화를 봤습니다... <스켈레톤 키>]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/76532234?category=61633579"/>
         <updated>2022-05-01T08:16:57.560Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:86778point (45%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">R..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIFF] 애프터양 스포 없는 후기 및 저스틴민 배우님 만난 후기]]></title>
-        <id>https://extmovie.com/movietalk/76531560?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/76531560?category=61633579"/>
-        <updated>2022-05-01T08:16:57.560Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:115800point (54%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">AZURE]]></content>
     </entry>
 </feed>

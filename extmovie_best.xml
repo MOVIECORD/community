@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-05-07T20:19:25.941Z</updated>
+    <updated>2022-05-07T21:14:54.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메가박스 오티 상암]]></title>
+        <id>https://extmovie.com/bestboard/76890160</id>
+        <link href="https://extmovie.com/bestboard/76890160"/>
+        <updated>2022-05-07T21:12:37.739Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:980point (34%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">몽자a]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시2가 15세가 되어서 예상되는 아쉬운 것들....]]></title>
         <id>https://extmovie.com/bestboard/76888985</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/bestboard/76886093</id>
         <link href="https://extmovie.com/bestboard/76886093"/>
         <updated>2022-05-07T18:16:03.011Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:203235point (21%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의호흡]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:203237point (21%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의호흡]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반년만에 인스타 남긴 김선호]]></title>
@@ -129,14 +136,14 @@
         <id>https://extmovie.com/bestboard/76882721</id>
         <link href="https://extmovie.com/bestboard/76882721"/>
         <updated>2022-05-07T16:17:32.484Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:163786point (12%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">당직사관]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:163790point (12%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">당직사관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본에서의 첫번째 극장 경험! (극장 후기 위주)]]></title>
         <id>https://extmovie.com/bestboard/76881238</id>
         <link href="https://extmovie.com/bestboard/76881238"/>
         <updated>2022-05-07T17:16:12.770Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9743point (39%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">holah0la]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9747point (39%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">holah0la]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저도 강수연 배우님 추억 하나... ㅜ.ㅠ]]></title>
@@ -150,7 +157,14 @@
         <id>https://extmovie.com/bestboard/76883911</id>
         <link href="https://extmovie.com/bestboard/76883911"/>
         <updated>2022-05-07T15:14:37.147Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:285point (71%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샬장]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:289point (72%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샬장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[닥터스트레인지2] 4곡의 클래식 정보와 닥스+완다의 매력 (스포)]]></title>
+        <id>https://extmovie.com/bestboard/76846083</id>
+        <link href="https://extmovie.com/bestboard/76846083"/>
+        <updated>2022-05-07T21:12:37.755Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:247434point (87%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Nashira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<백상예술대상>에서 가장 눈에 띈 수상자는]]></title>
@@ -164,21 +178,21 @@
         <id>https://extmovie.com/bestboard/76881530</id>
         <link href="https://extmovie.com/bestboard/76881530"/>
         <updated>2022-05-07T16:17:32.489Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62382point (19%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">박감독]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62384point (19%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">박감독]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닥스 2 첫 쿠키영상에 나온 배우의 트윗 근황 (스포)]]></title>
         <id>https://extmovie.com/bestboard/76883224</id>
         <link href="https://extmovie.com/bestboard/76883224"/>
         <updated>2022-05-07T16:17:32.489Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:541862point (9%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:541864point (9%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닥터2 감독님이 어떤 분이시냐면요.]]></title>
         <id>https://extmovie.com/bestboard/76881724</id>
         <link href="https://extmovie.com/bestboard/76881724"/>
         <updated>2022-05-07T16:17:32.490Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:250675point (3%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">sirscott]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:250677point (3%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">sirscott]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닥스 2가 더 배트맨보다 부족한 것...ㅠㅠㅠㅠㅠ]]></title>
@@ -192,7 +206,7 @@
         <id>https://extmovie.com/bestboard/76881982</id>
         <link href="https://extmovie.com/bestboard/76881982"/>
         <updated>2022-05-07T15:14:37.148Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:82750point (29%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:82752point (29%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화관 인력, 닥스 특수이기 때문에 못 늘린다?]]></title>
@@ -213,7 +227,7 @@
         <id>https://extmovie.com/bestboard/76880535</id>
         <link href="https://extmovie.com/bestboard/76880535"/>
         <updated>2022-05-07T15:14:37.150Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67651point (62%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">aniamo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67664point (62%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">aniamo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[완다비전 어떻게 보나요?]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/76879440"/>
         <updated>2022-05-07T14:12:21.196Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:337point (84%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ksfjkl]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닥스가 등긁는 방법]]></title>
-        <id>https://extmovie.com/bestboard/76879313</id>
-        <link href="https://extmovie.com/bestboard/76879313"/>
-        <updated>2022-05-07T14:12:21.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124736point (98%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spacekitty]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<닥터스트레인지2>단평]]></title>
-        <id>https://extmovie.com/bestboard/76878369</id>
-        <link href="https://extmovie.com/bestboard/76878369"/>
-        <updated>2022-05-07T15:14:37.152Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:188041point (93%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">케이시존스]]></content>
     </entry>
 </feed>

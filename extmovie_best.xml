@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-05-12T20:17:28.165Z</updated>
+    <updated>2022-05-12T21:13:55.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5874point (7%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">JENNAA]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오티북 하나 사니까 다른것도 사고 싶네요..]]></title>
+        <id>https://extmovie.com/bestboard/77161296</id>
+        <link href="https://extmovie.com/bestboard/77161296"/>
+        <updated>2022-05-12T21:11:40.007Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17980point (13%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Thegreatpowercome...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[???: 감독님 저 무슨 역할이에요?]]></title>
         <id>https://extmovie.com/bestboard/77160273</id>
         <link href="https://extmovie.com/bestboard/77160273"/>
         <updated>2022-05-12T17:23:19.939Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2094point (69%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">편리왕]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2096point (69%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">편리왕]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다들 어디에서 사시나요?]]></title>
@@ -104,6 +111,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:130point (32%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Vader.Lee]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[슈퍼스타 김형서(a.k.a. 비비) 근황]]></title>
+        <id>https://extmovie.com/bestboard/77158648</id>
+        <link href="https://extmovie.com/bestboard/77158648"/>
+        <updated>2022-05-12T21:11:40.020Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/72.gif" alt="[레벨:72]" title="포인트:1119436point (19%), 레벨:72/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">수위아저씨]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HBO MAX고 뭐고 완전 뒤통수네요...]]></title>
         <id>https://extmovie.com/bestboard/77158539</id>
         <link href="https://extmovie.com/bestboard/77158539"/>
@@ -115,7 +129,7 @@
         <id>https://extmovie.com/bestboard/77157736</id>
         <link href="https://extmovie.com/bestboard/77157736"/>
         <updated>2022-05-12T16:21:14.650Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547705point (38%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547744point (38%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HBO MAX 한국진출 포기]]></title>
@@ -171,7 +185,7 @@
         <id>https://extmovie.com/bestboard/77156055</id>
         <link href="https://extmovie.com/bestboard/77156055"/>
         <updated>2022-05-12T16:21:14.660Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5902point (9%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">랄라라랄]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5904point (9%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">랄라라랄]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결국 범죄도시도 아맥레이스로..]]></title>
@@ -227,27 +241,13 @@
         <id>https://extmovie.com/bestboard/77153819</id>
         <link href="https://extmovie.com/bestboard/77153819"/>
         <updated>2022-05-12T17:23:19.977Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547705point (38%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547744point (38%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '레지던트 이블' 실사 시리즈 첫 공식 예고편]]></title>
         <id>https://extmovie.com/bestboard/77153789</id>
         <link href="https://extmovie.com/bestboard/77153789"/>
         <updated>2022-05-12T15:14:59.360Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547705point (38%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포) 광주 사람이라면 반가울 범죄도시2 촬영지]]></title>
-        <id>https://extmovie.com/bestboard/77153435</id>
-        <link href="https://extmovie.com/bestboard/77153435"/>
-        <updated>2022-05-12T17:23:19.978Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5836point (4%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">나는복수를하지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닥스2 오티 OTMI는 10시간 전에 올라왔네요.]]></title>
-        <id>https://extmovie.com/bestboard/77153584</id>
-        <link href="https://extmovie.com/bestboard/77153584"/>
-        <updated>2022-05-12T16:21:14.664Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11570point (32%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nekotoro]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547744point (38%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">goforto23]]></content>
     </entry>
 </feed>

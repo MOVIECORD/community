@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-06-01T19:13:14.439Z</updated>
+    <updated>2022-06-01T20:17:55.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2022-06-01T19:13:05.961Z</updated>
+        <updated>2022-06-01T20:16:47.041Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="https://extmovie.com/sisaing/78864099"><img src="https://img.extmovie.com/files/attach/images/49910895/436/864/078/2d7f0362df849c57ccd06dd7b58268df.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아사코' 봤어요. 스포 있는 리뷰입니다 :)]]></title>
+        <id>https://extmovie.com/movietalk/78979247?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/78979247?category=61633579"/>
+        <updated>2022-06-01T20:16:47.268Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24100point (35%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라이트하우스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쥬라기월드 도미니언]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/78965194?category=61633579</id>
         <link href="https://extmovie.com/movietalk/78965194?category=61633579"/>
         <updated>2022-06-01T17:26:51.931Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117374point (61%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">paul26]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117376point (61%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">paul26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<1일 1영화> 윈드 리버]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/78926026?category=61633579"/>
         <updated>2022-06-01T10:21:53.081Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:100745point (14%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">R..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(안녕하세요) 너무도 일차원적이라 작위적으로 보여지기까지..]]></title>
-        <id>https://extmovie.com/movietalk/78924562?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/78924562?category=61633579"/>
-        <updated>2022-06-01T10:21:53.083Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3841point (51%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">수락해]]></content>
     </entry>
 </feed>

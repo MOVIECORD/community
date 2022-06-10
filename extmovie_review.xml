@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-06-10T20:14:22.761Z</updated>
+    <updated>2022-06-10T21:14:00.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야심한 밤,,말로만 듣던 아키라 봤습니다]]></title>
+        <id>https://extmovie.com/movietalk/80083230?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/80083230?category=61633579"/>
+        <updated>2022-06-10T21:12:52.913Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7869point (33%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">INVU]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숨겨진 검, 오니노츠메 후기 [2205231]]]></title>
         <id>https://extmovie.com/movietalk/80081296?category=61633579</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/80017615?category=61633579</id>
         <link href="https://extmovie.com/movietalk/80017615?category=61633579"/>
         <updated>2022-06-10T18:19:35.536Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3527point (24%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행운이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3528point (24%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행운이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브로커 늦은 리뷰..(스포)]]></title>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/80040811?category=61633579</id>
         <link href="https://extmovie.com/movietalk/80040811?category=61633579"/>
         <updated>2022-06-10T14:13:19.193Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:294941point (83%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">케이시존스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:294943point (83%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">케이시존스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 최고의 영화 탑건: 매버릭 후기를 쓰는데도 ost가 맴도는]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/79985923?category=61633579</id>
         <link href="https://extmovie.com/movietalk/79985923?category=61633579"/>
         <updated>2022-06-10T03:19:06.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26463point (14%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SoulTR22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☆탑건:매버릭 imax시사회 후기☆]]></title>
-        <id>https://extmovie.com/movietalk/79985431?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/79985431?category=61633579"/>
-        <updated>2022-06-10T03:19:06.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14666point (75%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26464point (14%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SoulTR22]]></content>
     </entry>
 </feed>

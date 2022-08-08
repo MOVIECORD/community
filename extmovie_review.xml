@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-08-08T20:16:04.597Z</updated>
+    <updated>2022-08-08T21:13:25.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[풀타임 익무 후기 (吉軍님 양도)]]></title>
+        <id>https://extmovie.com/movietalk/88309284?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/88309284?category=61633579"/>
+        <updated>2022-08-08T21:13:17.660Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56547point (62%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">피프]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조선미녀 삼총사 리뷰]]></title>
         <id>https://extmovie.com/movietalk/88308691?category=61633579</id>
@@ -115,7 +122,7 @@
         <id>https://extmovie.com/movietalk/88274120?category=61633579</id>
         <link href="https://extmovie.com/movietalk/88274120?category=61633579"/>
         <updated>2022-08-08T15:15:37.459Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41191point (38%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">자니가왔다]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41193point (38%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">자니가왔다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포) <풀타임> 일상이 숨통을 조여올지라도]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/88264238?category=61633579"/>
         <updated>2022-08-08T13:39:22.287Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29390point (6%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">레미제라드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비상선언 후기,,]]></title>
-        <id>https://extmovie.com/movietalk/88249762?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/88249762?category=61633579"/>
-        <updated>2022-08-08T11:12:02.491Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3779point (46%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">고곰냥]]></content>
     </entry>
 </feed>

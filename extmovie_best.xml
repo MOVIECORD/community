@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-08-18T20:19:10.972Z</updated>
+    <updated>2022-08-18T21:13:27.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://extmovie.com/bestboard/89786116</id>
         <link href="https://extmovie.com/bestboard/89786116"/>
         <updated>2022-08-18T17:32:38.602Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3798252point (32%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3798254point (32%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[엔젤 하트] 간략 후기]]></title>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/89785032"/>
         <updated>2022-08-18T17:32:38.602Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19770point (81%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화로운세상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레카 대기 관련해서 몇 가지 질문이 있습니다!]]></title>
+        <id>https://extmovie.com/bestboard/89784175</id>
+        <link href="https://extmovie.com/bestboard/89784175"/>
+        <updated>2022-08-18T21:13:06.463Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15537point (13%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서르]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이상한 변호사 우영우 안녕..]]></title>
@@ -109,6 +116,13 @@
         <link href="https://extmovie.com/bestboard/89778886"/>
         <updated>2022-08-18T14:16:11.018Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9971point (51%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">숲속의아이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육사오 쿠키 있나요?]]></title>
+        <id>https://extmovie.com/bestboard/89775080</id>
+        <link href="https://extmovie.com/bestboard/89775080"/>
+        <updated>2022-08-18T21:13:06.495Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3536point (25%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Kizㅓㄹ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[압아맥 탑건 당첨됐어요!!]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/89765205"/>
         <updated>2022-08-18T11:12:51.524Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:366556point (57%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내꼬답]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEAM 공조의 어제와 오늘 순간포착]]></title>
-        <id>https://extmovie.com/bestboard/89763132</id>
-        <link href="https://extmovie.com/bestboard/89763132"/>
-        <updated>2022-08-18T15:23:26.440Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:369850point (74%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불릿 트레인 내일 무대인사 용산 어디서 레드카펫 하나요?]]></title>
-        <id>https://extmovie.com/bestboard/89763095</id>
-        <link href="https://extmovie.com/bestboard/89763095"/>
-        <updated>2022-08-18T15:23:26.440Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24351point (44%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">설탕눈]]></content>
     </entry>
 </feed>

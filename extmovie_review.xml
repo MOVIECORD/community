@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-08-24T08:21:06.859Z</updated>
+    <updated>2022-08-24T09:15:54.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근에 본 영화 감상평 - 불릿트레인, 놉, 헌트, 베르히만, 비상선언]]></title>
+        <id>https://extmovie.com/movietalk/89911860?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/89911860?category=61633579"/>
+        <updated>2022-08-24T09:14:46.930Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1389point (33%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불릿트레인 롯데시네마 4D는 좀 아쉽네요(스포X)]]></title>
         <id>https://extmovie.com/movietalk/89908484?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/89881080?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89881080?category=61633579"/>
         <updated>2022-08-22T08:19:01.859Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1378point (31%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1389point (33%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔젤 하트 재개봉 시사회 후기 - 다소 난해한 오컬트 스릴러]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/89762839?category=61633579"/>
         <updated>2022-08-18T10:17:58.747Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20156point (96%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 헌트보다 ㅠㅠ]]></title>
-        <id>https://extmovie.com/movietalk/89758993?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89758993?category=61633579"/>
-        <updated>2022-08-18T09:16:24.236Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:916point (16%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">valuev]]></content>
     </entry>
 </feed>

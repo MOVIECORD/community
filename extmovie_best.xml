@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-08-25T19:14:12.066Z</updated>
+    <updated>2022-08-25T20:16:42.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리미트 이제야 개봉하는군요.]]></title>
+        <id>https://extmovie.com/bestboard/89924627</id>
+        <link href="https://extmovie.com/bestboard/89924627"/>
+        <updated>2022-08-25T20:15:23.144Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37480point (40%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">허니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 8월25일 국내 박스오피스 탑10]]></title>
         <id>https://extmovie.com/bestboard/89924495</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/bestboard/89921547</id>
         <link href="https://extmovie.com/bestboard/89921547"/>
         <updated>2022-08-25T08:20:00.228Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70528point (38%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노리터]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70529point (38%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노리터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<놉> 개봉일에 아맥 보고 난 후 늦은 후기 (스포 있음)]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/bestboard/89920937</id>
         <link href="https://extmovie.com/bestboard/89920937"/>
         <updated>2022-08-25T09:14:09.975Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70528point (38%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노리터]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70529point (38%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노리터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[롯데시네마 월드타워점 3시 굿즈 현황입니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/89920538"/>
         <updated>2022-08-25T12:29:03.882Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2030point (56%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사나운곰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<어나더 라운드> 어게인, 브라보 마이 라이프!]]></title>
-        <id>https://extmovie.com/bestboard/89919960</id>
-        <link href="https://extmovie.com/bestboard/89919960"/>
-        <updated>2022-08-25T16:18:15.426Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:116631point (58%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">KimMin]]></content>
     </entry>
 </feed>

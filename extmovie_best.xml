@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-08-26T18:18:14.014Z</updated>
+    <updated>2022-08-26T19:13:29.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/89930595"/>
         <updated>2022-08-26T16:19:29.746Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:95point (23%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Slime]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한컴 타자상이라는 변요한 초딩 졸사]]></title>
+        <id>https://extmovie.com/bestboard/89930532</id>
+        <link href="https://extmovie.com/bestboard/89930532"/>
+        <updated>2022-08-26T19:11:14.032Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:168565point (28%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['헌트' 이정재 감독 JTBC 뉴스룸 인터뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/89927596"/>
         <updated>2022-08-26T06:34:03.266Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24104point (35%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸르메]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 배우 카가와 테루유키, 성추행 파문…"깊이 반성 중"]]></title>
-        <id>https://extmovie.com/bestboard/89927540</id>
-        <link href="https://extmovie.com/bestboard/89927540"/>
-        <updated>2022-08-26T05:56:44.789Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8705point (82%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

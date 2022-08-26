@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-08-26T05:58:04.197Z</updated>
+    <updated>2022-08-26T06:34:21.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 불릿 트레인 후기!]]></title>
+        <id>https://extmovie.com/movietalk/89928326?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/89928326?category=61633579"/>
+        <updated>2022-08-26T06:34:12.827Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24576point (51%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<불릿 트레인> 간단 후기 (스포X)]]></title>
         <id>https://extmovie.com/movietalk/89925954?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/89913342?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89913342?category=61633579"/>
         <updated>2022-08-24T13:33:39.070Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24543point (50%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24576point (51%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최근에 본 영화 감상평 - 불릿트레인, 놉, 헌트, 베르히만, 비상선언]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/89858572?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89858572?category=61633579"/>
         <updated>2022-08-21T15:13:44.651Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24543point (50%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24576point (51%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terror on the prarie (2022) 지나 카라노 신작. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/89832264?category=61633579"/>
         <updated>2022-08-20T15:14:49.729Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:116632point (58%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">KimMin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리볼버 보고 왔습니다. (거의 노스포)]]></title>
-        <id>https://extmovie.com/movietalk/89828342?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89828342?category=61633579"/>
-        <updated>2022-08-20T10:14:24.817Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4362point (95%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">차이닉]]></content>
     </entry>
 </feed>

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-08-27T11:13:17.478Z</updated>
+    <updated>2022-08-27T12:28:23.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포, 스압주의) 좀 늦은 놉의 엔딩에 대한 개인적인 해석]]></title>
+        <id>https://extmovie.com/movietalk/89935054?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/89935054?category=61633579"/>
+        <updated>2022-08-27T12:28:13.915Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:116point (28%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아티무비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[귀멸의칼날 아사쿠사편 예매권 당첨되서 잘보고 왔지요~^^]]></title>
         <id>https://extmovie.com/movietalk/89934645?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89934645?category=61633579"/>
         <updated>2022-08-27T10:15:35.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34662point (61%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34664point (61%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[노스포/불호] <어웨이크> 용두사미란 이런 것]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/89908484?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89908484?category=61633579"/>
         <updated>2022-08-24T05:42:08.123Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34662point (61%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34664point (61%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[머더 미스터리 후기 [왕 스포.220822]]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/89895803?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89895803?category=61633579"/>
         <updated>2022-08-23T04:10:02.692Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:96point (24%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아티무비]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:116point (28%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아티무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[놉 후기[스포주의]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/89846268?category=61633579"/>
         <updated>2022-08-21T01:12:36.505Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19895point (86%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화로운세상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놉은 스토리라는 게 있는 영환가요?]]></title>
-        <id>https://extmovie.com/movietalk/89846031?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89846031?category=61633579"/>
-        <updated>2022-08-21T01:12:36.505Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1217point (1%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서우]]></content>
     </entry>
 </feed>

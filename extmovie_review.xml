@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-08-27T09:14:47.045Z</updated>
+    <updated>2022-08-27T10:16:44.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀멸의칼날 아사쿠사편 예매권 당첨되서 잘보고 왔지요~^^]]></title>
+        <id>https://extmovie.com/movietalk/89934645?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/89934645?category=61633579"/>
+        <updated>2022-08-27T10:15:35.945Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34621point (60%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노스포/불호] <어웨이크> 용두사미란 이런 것]]></title>
         <id>https://extmovie.com/movietalk/89933353?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89933353?category=61633579"/>
         <updated>2022-08-27T05:31:57.116Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:123343point (91%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">목마른철새]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:123344point (91%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">목마른철새]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조제, 호랑이 그리고 물고기들 (2003) 스포일러 있음.]]></title>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/89908484?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89908484?category=61633579"/>
         <updated>2022-08-24T05:42:08.123Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34528point (58%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34621point (60%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[머더 미스터리 후기 [왕 스포.220822]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/89846031?category=61633579"/>
         <updated>2022-08-21T01:12:36.505Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1217point (1%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(장문) <놉>에 관한 저의 개인적인 견해.]]></title>
-        <id>https://extmovie.com/movietalk/89845236?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89845236?category=61633579"/>
-        <updated>2022-08-20T21:13:01.725Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4497point (6%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-08-28T03:57:51.775Z</updated>
+    <updated>2022-08-28T04:55:16.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<비상선언> 뒤늦게 봤는데]]></title>
+        <id>https://extmovie.com/movietalk/89937823?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/89937823?category=61633579"/>
+        <updated>2022-08-28T04:54:08.626Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41547point (47%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모피어스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노스포/호] <육사오> 처음부터 끝까지 빵빵 터지는 코미디]]></title>
         <id>https://extmovie.com/movietalk/89935609?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/89923604?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89923604?category=61633579"/>
         <updated>2022-08-25T12:30:16.782Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88167point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화메니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88174point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포X) 불릿트레인 광명소하 메가박스에서 보고왔습니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/89858572?category=61633579"/>
         <updated>2022-08-21T15:13:44.651Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24583point (51%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terror on the prarie (2022) 지나 카라노 신작. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/89808987?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89808987?category=61633579"/>
-        <updated>2022-08-21T03:39:57.770Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20429point (6%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

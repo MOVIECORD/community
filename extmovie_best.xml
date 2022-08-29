@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-08-29T18:18:40.923Z</updated>
+    <updated>2022-08-29T19:13:06.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/89946654"/>
         <updated>2022-08-29T18:17:24.463Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3804804point (34%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메가박스 <썬다운> 포스터 증정 이벤트]]></title>
+        <id>https://extmovie.com/bestboard/89946584</id>
+        <link href="https://extmovie.com/bestboard/89946584"/>
+        <updated>2022-08-29T19:12:42.114Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70860point (57%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노리터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마일즈 텔러가 올린 글렌 포웰과 투샷]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/89944109"/>
         <updated>2022-08-29T11:13:32.988Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6503point (48%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">악동무비션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(수정) 공조2:인터내셔날 메박 빵티 11시 입니다.]]></title>
-        <id>https://extmovie.com/bestboard/89944093</id>
-        <link href="https://extmovie.com/bestboard/89944093"/>
-        <updated>2022-08-29T12:28:50.419Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:67point (16%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알로이]]></content>
     </entry>
 </feed>

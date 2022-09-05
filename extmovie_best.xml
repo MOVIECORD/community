@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-09-05T21:15:59.927Z</updated>
+    <updated>2022-09-05T22:17:52.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/89984288"/>
         <updated>2022-09-05T18:17:59.174Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3809128point (36%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모가디슈 극장에서 다시보고 든 생각]]></title>
+        <id>https://extmovie.com/bestboard/89984256</id>
+        <link href="https://extmovie.com/bestboard/89984256"/>
+        <updated>2022-09-05T22:14:38.208Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41719point (52%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특이점이 와버린 포켓몬 굿즈]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/89981717</id>
         <link href="https://extmovie.com/bestboard/89981717"/>
         <updated>2022-09-05T12:27:40.032Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54735point (49%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54763point (49%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 피노키오에 나오는 조셉 고든 레빗 기사 사진이... ㄷㄷ하네요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/89980962"/>
         <updated>2022-09-05T06:00:06.879Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:959point (28%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">리엘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데시네마<드래곤볼 슈퍼:슈퍼히어로>스페셜엽서 3종 증정이벤트]]></title>
-        <id>https://extmovie.com/bestboard/89980926</id>
-        <link href="https://extmovie.com/bestboard/89980926"/>
-        <updated>2022-09-05T09:14:53.594Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:368110point (65%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내꼬답]]></content>
     </entry>
 </feed>

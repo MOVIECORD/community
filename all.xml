@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-05T18:20:16.984Z</updated>
+    <updated>2022-09-05T19:12:00.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 9월5일 국내 박스오피스 탑10 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -38,6 +38,13 @@
         <link href="https://extmovie.com/bestboard/89983915"/>
         <updated>2022-09-05T15:15:32.470Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3809128point (36%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<인생은 아름다워> 전단 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/89983367</id>
+        <link href="https://extmovie.com/bestboard/89983367"/>
+        <updated>2022-09-05T19:11:40.741Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:32597point (3%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 9/6일(화) 선착순  쿠폰 이벤트 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -243,13 +250,6 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:368110point (65%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내꼬답]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양조위, 왕이보 주연 <무명> 새 스틸 이미지 공개 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/89980829</id>
-        <link href="https://extmovie.com/bestboard/89980829"/>
-        <updated>2022-09-05T07:28:18.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:127393point (15%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 9월5일 국내 박스오피스 탑10 (익스트림무비 ─ 영화정보)]]></title>
         <id>https://extmovie.com/movietalk/89984288?category=21915420</id>
         <link href="https://extmovie.com/movietalk/89984288?category=21915420"/>
@@ -450,7 +450,7 @@
         <id>https://extmovie.com/movietalk/89981003?category=21915420</id>
         <link href="https://extmovie.com/movietalk/89981003?category=21915420"/>
         <updated>2022-09-05T06:00:12.938Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8379point (63%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Manu]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8381point (63%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Manu]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울국제프라이드영화제 '한국게이영화사' 책 발간 (익스트림무비 ─ 영화정보)]]></title>
@@ -716,7 +716,7 @@
         <id>https://extmovie.com/movietalk/89934645?category=61633579</id>
         <link href="https://extmovie.com/movietalk/89934645?category=61633579"/>
         <updated>2022-08-27T10:15:35.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35786point (93%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35787point (93%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[노스포/불호] <어웨이크> 용두사미란 이런 것 (익스트림무비 ─ 영화리뷰)]]></title>

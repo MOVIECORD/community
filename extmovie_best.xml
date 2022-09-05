@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-09-05T17:21:06.774Z</updated>
+    <updated>2022-09-05T18:20:16.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 9월5일 국내 박스오피스 탑10]]></title>
+        <id>https://extmovie.com/bestboard/89984288</id>
+        <link href="https://extmovie.com/bestboard/89984288"/>
+        <updated>2022-09-05T18:17:59.174Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3809128point (36%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특이점이 와버린 포켓몬 굿즈]]></title>
         <id>https://extmovie.com/bestboard/89984096</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/89980829</id>
         <link href="https://extmovie.com/bestboard/89980829"/>
         <updated>2022-09-05T07:28:18.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:127355point (15%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동진평론가님이 말하는 영화제작사가 어려운 예술 영화에 투자하는 이유]]></title>
-        <id>https://extmovie.com/bestboard/89980747</id>
-        <link href="https://extmovie.com/bestboard/89980747"/>
-        <updated>2022-09-05T06:00:06.879Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41148point (37%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장은하]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:127393point (15%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
 </feed>

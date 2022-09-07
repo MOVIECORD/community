@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-09-07T16:22:38.028Z</updated>
+    <updated>2022-09-07T17:30:46.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 9월7일 국내 박스오피스 탑10]]></title>
+        <id>https://extmovie.com/bestboard/89992633</id>
+        <link href="https://extmovie.com/bestboard/89992633"/>
+        <updated>2022-09-07T17:28:31.610Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3810466point (36%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데미안 셔젤 신작 [바빌론] 첫 스틸 사진]]></title>
         <id>https://extmovie.com/bestboard/89992253</id>
@@ -74,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/89991395"/>
         <updated>2022-09-07T15:15:49.365Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8672point (80%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탑건 vs 알라딘]]></title>
+        <id>https://extmovie.com/bestboard/89991394</id>
+        <link href="https://extmovie.com/bestboard/89991394"/>
+        <updated>2022-09-07T17:28:31.637Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5214point (59%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">납득이안가요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cgv 씨네샵 할인율 현황판 그리고 공조 띠부실 ㅠㅠ]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/89989628"/>
         <updated>2022-09-07T06:12:36.178Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:635point (51%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">레이븐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<알라딘> 4DX 효과 강도 그래프]]></title>
-        <id>https://extmovie.com/bestboard/89989598</id>
-        <link href="https://extmovie.com/bestboard/89989598"/>
-        <updated>2022-09-07T06:12:36.179Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6707point (61%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산 아이맥스 포스터, 4DX 포스터, 필름마크 내일도 남아있을까요?]]></title>
-        <id>https://extmovie.com/bestboard/89989553</id>
-        <link href="https://extmovie.com/bestboard/89989553"/>
-        <updated>2022-09-07T07:38:07.988Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6467point (46%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사사방]]></content>
     </entry>
 </feed>

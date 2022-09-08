@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-08T17:29:26.859Z</updated>
+    <updated>2022-09-08T18:18:55.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022년 9월8일 국내 박스오피스 탑 10 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/89997243</id>
+        <link href="https://extmovie.com/bestboard/89997243"/>
+        <updated>2022-09-08T18:17:36.468Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3811146point (37%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비공식(?) 토르 영화 '올마이티 토르', '썬더스톰: 토... (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/89997006</id>
+        <link href="https://extmovie.com/bestboard/89997006"/>
+        <updated>2022-09-08T18:17:36.469Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17341point (87%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그레이트박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<나이브스 아웃: 글래스 어니언> 첫번째 포스터 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/89996983</id>
@@ -234,20 +248,6 @@
         <link href="https://extmovie.com/bestboard/89993532"/>
         <updated>2022-09-08T04:06:16.481Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11574point (33%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">은비녀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 워리 달링 IMAX 포스터 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/89993347</id>
-        <link href="https://extmovie.com/bestboard/89993347"/>
-        <updated>2022-09-08T08:17:57.641Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7283point (99%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티븐 스필버그 <더 파벨만스> 포스터 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/89993339</id>
-        <link href="https://extmovie.com/bestboard/89993339"/>
-        <updated>2022-09-08T08:17:57.642Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3034point (79%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">릭과모티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
@@ -505,7 +505,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2022-09-08T16:20:09.613Z</updated>
+        <updated>2022-09-08T18:18:46.374Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=35238"><img src="https://img.extmovie.com/files/attach/images/49910895/586/992/089/8325eb6e57cccc75083e1b4af92f076a.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2022-09-08T17:29:23.070Z</updated>
+        <updated>2022-09-08T18:18:51.171Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=35238"><img src="https://img.extmovie.com/files/attach/images/49910895/586/992/089/8325eb6e57cccc75083e1b4af92f076a.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

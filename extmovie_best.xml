@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-09-08T19:16:55.784Z</updated>
+    <updated>2022-09-08T20:18:59.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/89996574"/>
         <updated>2022-09-08T15:16:20.709Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/45.gif" alt="[레벨:45]" title="포인트:380614point (56%), 레벨:45/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀멸의칼날 아사쿠사편 굿즈 치사하네요 ㅜㅜ]]></title>
+        <id>https://extmovie.com/bestboard/89996430</id>
+        <link href="https://extmovie.com/bestboard/89996430"/>
+        <updated>2022-09-08T20:16:39.594Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35846point (95%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니+ '피노키오' 로튼토마토 초기 반응]]></title>
@@ -202,6 +209,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7283point (99%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[진지하게 놉...이 영화]]></title>
+        <id>https://extmovie.com/bestboard/89994034</id>
+        <link href="https://extmovie.com/bestboard/89994034"/>
+        <updated>2022-09-08T20:16:39.628Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3330point (7%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rampage]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아ㅠㅠ 공조2 티켓 버렸어요ㅠㅠ]]></title>
         <id>https://extmovie.com/bestboard/89994019</id>
         <link href="https://extmovie.com/bestboard/89994019"/>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/89993742</id>
         <link href="https://extmovie.com/bestboard/89993742"/>
         <updated>2022-09-08T04:06:16.459Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33520point (29%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[collider 선정. 박찬욱 감독 영화 순위]]></title>
-        <id>https://extmovie.com/bestboard/89993655</id>
-        <link href="https://extmovie.com/bestboard/89993655"/>
-        <updated>2022-09-08T10:16:34.626Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/45.gif" alt="[레벨:45]" title="포인트:380614point (56%), 레벨:45/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지배종', 주지훈-한효주-이희준-이무생-박지연 출연 확정.....]]></title>
-        <id>https://extmovie.com/bestboard/89993575</id>
-        <link href="https://extmovie.com/bestboard/89993575"/>
-        <updated>2022-09-08T04:06:16.460Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33520point (29%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
     </entry>
 </feed>

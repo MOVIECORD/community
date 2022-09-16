@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-16T21:14:31.560Z</updated>
+    <updated>2022-09-16T22:18:13.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 9월16일 국내 박스오피스 탑10 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://extmovie.com/bestboard/90026690"/>
         <updated>2022-09-16T18:19:52.554Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:744point (74%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화울트라매니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인어공주] 실사 예고편 좋아요 비율 증가 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90026454</id>
+        <link href="https://extmovie.com/bestboard/90026454"/>
+        <updated>2022-09-16T22:16:52.425Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/45.gif" alt="[레벨:45]" title="포인트:383712point (87%), 레벨:45/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출연료가 가장 비쌌던 MCU 배우들 TOP10 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -243,17 +250,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20226point (99%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라플란드]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빵원 이제 광클도 안통하네요.. (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90024032</id>
-        <link href="https://extmovie.com/bestboard/90024032"/>
-        <updated>2022-09-16T04:21:22.834Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37888point (51%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">허니]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2022-09-16T21:14:17.541Z</updated>
+        <updated>2022-09-16T22:16:58.104Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=35238"><img src="https://img.extmovie.com/files/attach/images/49910895/586/992/089/8325eb6e57cccc75083e1b4af92f076a.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -505,7 +505,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2022-09-16T21:14:22.518Z</updated>
+        <updated>2022-09-16T22:17:04.286Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=35238"><img src="https://img.extmovie.com/files/attach/images/49910895/586/992/089/8325eb6e57cccc75083e1b4af92f076a.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>

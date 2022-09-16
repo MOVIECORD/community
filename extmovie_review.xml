@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-09-16T18:21:08.465Z</updated>
+    <updated>2022-09-16T19:16:32.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2022-09-16T16:20:50.033Z</updated>
+        <updated>2022-09-16T19:16:24.467Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=35238"><img src="https://img.extmovie.com/files/attach/images/49910895/586/992/089/8325eb6e57cccc75083e1b4af92f076a.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로 자막판 후기 - 스페셜엽서3종, 쿠키 O]]></title>
+        <id>https://extmovie.com/movietalk/90027110?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90027110?category=61633579"/>
+        <updated>2022-09-16T19:16:24.721Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2712point (46%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[운즈 후기 [왕 스포.220915]]]></title>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/90005470?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90005470?category=61633579"/>
         <updated>2022-09-11T15:15:46.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2691point (44%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2712point (46%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[약스포/미묘] <블랙폰> 정석 그대로 만든 공포영화]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/89964991?category=61633579"/>
         <updated>2022-09-01T08:20:37.492Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:588point (40%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">과제가몰려온다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<썬다운> ‘세상이 부러워 하지만 나는 도망치고 싶었다’]]></title>
-        <id>https://extmovie.com/movietalk/89964368?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89964368?category=61633579"/>
-        <updated>2022-09-01T08:20:37.496Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:116766point (58%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">KimMin]]></content>
     </entry>
 </feed>

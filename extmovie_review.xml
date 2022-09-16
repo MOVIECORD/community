@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-09-16T01:28:27.986Z</updated>
+    <updated>2022-09-16T04:21:42.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2022-09-16T01:27:19.110Z</updated>
+        <updated>2022-09-16T04:21:33.716Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=35238"><img src="https://img.extmovie.com/files/attach/images/49910895/586/992/089/8325eb6e57cccc75083e1b4af92f076a.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※스포 주의※ <토르 - 러브 앤 썬더(2022)> 리뷰 - "말도 많...]]></title>
+        <id>https://extmovie.com/movietalk/90024421?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90024421?category=61633579"/>
+        <updated>2022-09-16T04:21:34.011Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1088point (65%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김트루]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어둠의 여인 후기 [왕 스포.220914]]]></title>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/90018419?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90018419?category=61633579"/>
         <updated>2022-09-14T14:24:30.354Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39628point (98%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양파썰다실명한]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39645point (98%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양파썰다실명한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드래곤볼 슈퍼히어로 4DX 간단후기(노스포)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/89961031?category=61633579"/>
         <updated>2022-08-31T17:19:52.600Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6709point (62%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강스포/미묘] <썬다운> 터질듯 안터지는 시한폭탄]]></title>
-        <id>https://extmovie.com/movietalk/89960111?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89960111?category=61633579"/>
-        <updated>2022-09-15T17:23:25.293Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124145point (95%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">목마른철새]]></content>
     </entry>
 </feed>

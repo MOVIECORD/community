@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-09-17T20:17:47.090Z</updated>
+    <updated>2022-09-17T21:15:06.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90030058"/>
         <updated>2022-09-17T19:11:52.584Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3816130point (38%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다음주 상매박 <사랑은 비를 타고>를 예매해놨는데.]]></title>
+        <id>https://extmovie.com/bestboard/90029399</id>
+        <link href="https://extmovie.com/bestboard/90029399"/>
+        <updated>2022-09-17T21:13:47.009Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:87876point (50%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['아바타 리마스터링' 특전 정보 공유합니다.]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/bestboard/90028776</id>
         <link href="https://extmovie.com/bestboard/90028776"/>
         <updated>2022-09-17T12:26:16.326Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2652point (40%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">옥수동돌담길]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2653point (40%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">옥수동돌담길]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레딧 유저들이 뽑은, 너무 심하게 미움받는 영화 캐릭터들]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/bestboard/90027702</id>
         <link href="https://extmovie.com/bestboard/90027702"/>
         <updated>2022-09-17T09:14:51.780Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57852point (71%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그윈플렌]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57853point (71%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그윈플렌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흑인 인어공주을 백인으로 바꿔?…AI 영상, 인종차별 논란]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90027237"/>
         <updated>2022-09-17T01:20:21.096Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56097point (58%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로 자막판 후기 - 스페셜엽서3종, 쿠키 O]]></title>
-        <id>https://extmovie.com/bestboard/90027110</id>
-        <link href="https://extmovie.com/bestboard/90027110"/>
-        <updated>2022-09-17T08:18:24.712Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2716point (47%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
     </entry>
 </feed>

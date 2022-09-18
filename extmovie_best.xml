@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-09-18T19:13:26.535Z</updated>
+    <updated>2022-09-18T20:18:00.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -188,6 +188,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11981point (52%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아바타 리마스터링 아이맥스 상영전 예고편 뭘까요??]]></title>
+        <id>https://extmovie.com/bestboard/90030806</id>
+        <link href="https://extmovie.com/bestboard/90030806"/>
+        <updated>2022-09-18T20:15:46.201Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4949point (39%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Movie취미]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CGV 서프라이즈쿠폰 9/19(월)]]></title>
         <id>https://extmovie.com/bestboard/90030749</id>
         <link href="https://extmovie.com/bestboard/90030749"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90030459"/>
         <updated>2022-09-18T05:39:21.134Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6000point (15%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">릭과모티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 영화 미쳤다"..'늑대사냥' 서인국·장동윤·정...]]></title>
-        <id>https://extmovie.com/bestboard/90030426</id>
-        <link href="https://extmovie.com/bestboard/90030426"/>
-        <updated>2022-09-18T04:11:19.693Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/45.gif" alt="[레벨:45]" title="포인트:384391point (93%), 레벨:45/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

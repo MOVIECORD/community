@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-19T17:30:21.164Z</updated>
+    <updated>2022-09-19T18:23:56.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[오징어게임 시즌2에 디카프리오 나옵니다. (익스트림무비 ─ 익무힛갤)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://extmovie.com/bestboard/90041155"/>
         <updated>2022-09-19T16:20:57.954Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:210322point (68%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태리야끼 오늘자 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90041105</id>
+        <link href="https://extmovie.com/bestboard/90041105"/>
+        <updated>2022-09-19T18:21:40.305Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3741708point (13%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<체인소 맨> 메인 트레일러 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/90038239"/>
         <updated>2022-09-19T07:36:45.826Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:114924point (49%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ReMemBerMe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['늑대사냥' 트리비아가 벌써 나왔네요. (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90037985</id>
-        <link href="https://extmovie.com/bestboard/90037985"/>
-        <updated>2022-09-19T07:36:45.852Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3817014point (39%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 9월 19일 중국 박스오피스 1~10위 (익스트림무비 ─ 영화정보)]]></title>

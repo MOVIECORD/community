@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-09-23T04:18:59.190Z</updated>
+    <updated>2022-09-23T06:01:08.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[늑대사냥  (주관적인 견해)]]></title>
+        <id>https://extmovie.com/movietalk/90060692?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90060692?category=61633579"/>
+        <updated>2022-09-23T06:00:01.366Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:423point (5%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">대머리국래]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴 600미터 후기 [왕 스포.220919]]]></title>
         <id>https://extmovie.com/movietalk/90057760?category=61633579</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/90055492?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90055492?category=61633579"/>
         <updated>2022-09-22T06:02:04.102Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:489point (19%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화는혼자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:502point (22%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화는혼자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[늑대사냥 단상 (노스포or미세스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/89992873?category=61633579"/>
         <updated>2022-09-07T22:15:40.718Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1741point (0%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">말레피센트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<공조2> 무대인사 회차 보고 왔습니다]]></title>
-        <id>https://extmovie.com/movietalk/89992229?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/89992229?category=61633579"/>
-        <updated>2022-09-07T15:15:59.494Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41730point (52%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모피어스]]></content>
     </entry>
 </feed>

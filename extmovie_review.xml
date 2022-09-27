@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-09-27T06:00:39.469Z</updated>
+    <updated>2022-09-27T06:55:53.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌아오지 않는 해병 (1963) 대하전쟁영화 걸작. 스포일러 있음.]]></title>
+        <id>https://extmovie.com/movietalk/90075304?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90075304?category=61633579"/>
+        <updated>2022-09-27T06:54:45.820Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20547point (10%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물방울 후기 [왕 스포.220922]]]></title>
         <id>https://extmovie.com/movietalk/90073833?category=61633579</id>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/90038239?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90038239?category=61633579"/>
         <updated>2022-09-19T06:12:02.301Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:114973point (49%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ReMemBerMe]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:114984point (49%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ReMemBerMe]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SK 티비에서 염력 무료영화로 뜬거 봤어요~!!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90014182?category=61633579"/>
         <updated>2022-09-13T19:13:30.685Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7005point (81%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(미리나님 나눔)(스포)둠둠 후기-인생의 코너에서 피난처를 찾다]]></title>
-        <id>https://extmovie.com/movietalk/90013830?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90013830?category=61633579"/>
-        <updated>2022-09-13T16:20:24.583Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:212531point (83%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아트매니아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-09-28T17:37:34.738Z</updated>
+    <updated>2022-09-28T18:26:13.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 컴백홈 시사회 후기 - 웃음을 기대했지만 신파만]]></title>
+        <id>https://extmovie.com/movietalk/90082123?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90082123?category=61633579"/>
+        <updated>2022-09-28T18:25:05.906Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2729point (48%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카트 끄는 남자 후기 [왕 스포.220926]]]></title>
         <id>https://extmovie.com/movietalk/90081804?category=61633579</id>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/90027110?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90027110?category=61633579"/>
         <updated>2022-09-16T19:16:24.721Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2718point (47%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2729point (48%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[운즈 후기 [왕 스포.220915]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90026501?category=61633579"/>
         <updated>2022-09-16T13:46:20.860Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7027point (82%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울대작전]관람 후기! 남는건 후회뿐...]]></title>
-        <id>https://extmovie.com/movietalk/90025326?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90025326?category=61633579"/>
-        <updated>2022-09-16T08:19:35.344Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25116point (69%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
 </feed>

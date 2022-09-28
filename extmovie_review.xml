@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-09-28T08:24:00.501Z</updated>
+    <updated>2022-09-28T09:23:00.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <바빌론> 속 1920년대 할리우드와 스타들]]></title>
+        <id>https://extmovie.com/movietalk/90080692?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90080692?category=61633579"/>
+        <updated>2022-09-28T09:22:51.264Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:472point (15%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노스포 - 공조2 킬링 타임용으로 좋네요]]></title>
         <id>https://extmovie.com/movietalk/90080617?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90080617?category=61633579"/>
         <updated>2022-09-28T08:23:51.864Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:989point (36%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">자연향기]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:991point (37%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">자연향기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공조2 노스포]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/90038239?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90038239?category=61633579"/>
         <updated>2022-09-19T06:12:02.301Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:114988point (49%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ReMemBerMe]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:114991point (49%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ReMemBerMe]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SK 티비에서 염력 무료영화로 뜬거 봤어요~!!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90024421?category=61633579"/>
         <updated>2022-09-16T04:21:34.011Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1317point (20%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김트루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어둠의 여인 후기 [왕 스포.220914]]]></title>
-        <id>https://extmovie.com/movietalk/90022611?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90022611?category=61633579"/>
-        <updated>2022-09-15T15:17:31.245Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7015point (82%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

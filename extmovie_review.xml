@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-09-30T09:27:12.578Z</updated>
+    <updated>2022-09-30T10:20:32.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남DOLBY에서 본 아바타 리마스터링]]></title>
+        <id>https://extmovie.com/movietalk/90089264?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90089264?category=61633579"/>
+        <updated>2022-09-30T10:19:24.686Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2063point (63%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴백홈 시사회 다녀왔어요(스포X)]]></title>
         <id>https://extmovie.com/movietalk/90086903?category=61633579</id>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/90056085?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90056085?category=61633579"/>
         <updated>2022-09-22T08:22:22.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2048point (60%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2063point (63%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정직한 후보2]무대인사, 시사회 봤어요~~]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90047240?category=61633579"/>
         <updated>2022-09-21T04:19:40.681Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:212529point (83%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아트매니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙폰 후기 [왕 스포.220917]]]></title>
-        <id>https://extmovie.com/movietalk/90045672?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90045672?category=61633579"/>
-        <updated>2022-09-20T16:21:52.226Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7047point (84%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

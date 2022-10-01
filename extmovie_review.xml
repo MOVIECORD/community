@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-10-01T08:21:56.568Z</updated>
+    <updated>2022-10-01T09:19:40.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3D 영화에 대한 단상(feat. 아바타 남돌비)]]></title>
+        <id>https://extmovie.com/movietalk/90091865?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90091865?category=61633579"/>
+        <updated>2022-10-01T09:19:32.553Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6669point (59%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헌트 후기 [왕 스포.220929]]]></title>
         <id>https://extmovie.com/movietalk/90090116?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90051999?category=61633579"/>
         <updated>2022-09-21T14:27:07.864Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:676point (60%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">블루밍94]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타 돌비시네마 보고왔습니다]]></title>
-        <id>https://extmovie.com/movietalk/90049393?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90049393?category=61633579"/>
-        <updated>2022-09-21T09:19:37.788Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:251point (62%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">쿡커]]></content>
     </entry>
 </feed>

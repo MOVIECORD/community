@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-03T13:53:51.935Z</updated>
+    <updated>2022-10-03T14:36:07.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HBO Max가 할로윈 기념으로 "House of Halloween" 개최중 (익스트림무비 ─ 영화정보)]]></title>
@@ -250,6 +250,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:136092point (73%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[영화 <브로커> 리뷰: 현실의 물음에 답하는, 고레에다 히로카즈의... (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/90097737?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90097737?category=61633579"/>
+        <updated>2022-10-03T14:35:00.336Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:337point (84%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[극장판 짱구는 못말려(29기)수수께끼! 꽃피는 천하 떡잎 학교관람 후기 ... (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://extmovie.com/movietalk/90091953?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90091953?category=61633579"/>
@@ -401,7 +408,7 @@
         <id>https://extmovie.com/movietalk/90069188?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90069188?category=61633579"/>
         <updated>2022-09-25T13:32:23.536Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124239point (96%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">목마른철새]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124241point (96%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">목마른철새]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늑대사냥]관람 후기 리뷰 (익스트림무비 ─ 영화리뷰)]]></title>
@@ -486,12 +493,5 @@
         <link href="https://extmovie.com/movietalk/90054795?category=61633579"/>
         <updated>2022-09-22T06:02:04.105Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:151486point (57%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">북회귀선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포) 프론티어 타이탄호에 승선했던 관람객의 '늑대사냥'... (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/90053072?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90053072?category=61633579"/>
-        <updated>2022-09-21T18:20:28.244Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3462point (18%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">등불이보고싶은라푼젤]]></content>
     </entry>
 </feed>

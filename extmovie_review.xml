@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-10-06T06:25:52.796Z</updated>
+    <updated>2022-10-06T07:22:48.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<공조2: 인터내셔널> 리뷰: 철저히 윤아 관점에서. (스포일러)]]></title>
+        <id>https://extmovie.com/movietalk/90107974?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90107974?category=61633579"/>
+        <updated>2022-10-06T07:21:39.746Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3519point (23%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(약스포) <수리남>은 기대 이하]]></title>
         <id>https://extmovie.com/movietalk/90106630?category=61633579</id>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/90073386?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90073386?category=61633579"/>
         <updated>2022-09-26T12:32:21.689Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3431point (16%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3519point (23%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아주 약 스포) 늑대사냥 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90060692?category=61633579"/>
         <updated>2022-09-23T06:00:01.366Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:431point (6%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">대머리국래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴 600미터 후기 [왕 스포.220919]]]></title>
-        <id>https://extmovie.com/movietalk/90057760?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90057760?category=61633579"/>
-        <updated>2022-09-22T13:45:26.565Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7130point (89%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

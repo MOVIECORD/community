@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-10-09T17:25:48.284Z</updated>
+    <updated>2022-10-09T18:20:20.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기동전사 건담 쿠쿠루스 도안의 섬 후기 및 홀로그램 엽서]]></title>
+        <id>https://extmovie.com/movietalk/90118836?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90118836?category=61633579"/>
+        <updated>2022-10-09T18:20:12.642Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2767point (52%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은하철도999 극장판 후기 및 홀로그램 엽서]]></title>
         <id>https://extmovie.com/movietalk/90118790?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90118790?category=61633579"/>
         <updated>2022-10-09T16:21:41.384Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2755point (51%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2767point (52%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호커스 포커스 후기 [왕 스포.221007]]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/90082123?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90082123?category=61633579"/>
         <updated>2022-09-28T18:25:05.906Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2755point (51%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2767point (52%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카트 끄는 남자 후기 [왕 스포.220926]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90070692?category=61633579"/>
         <updated>2022-09-26T01:25:45.825Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:516point (25%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화는혼자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노스포/불호] <늑대사냥> 그저 잔인하면 장땡이 아니죠]]></title>
-        <id>https://extmovie.com/movietalk/90069188?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90069188?category=61633579"/>
-        <updated>2022-09-25T13:32:23.536Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124241point (96%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">목마른철새]]></content>
     </entry>
 </feed>

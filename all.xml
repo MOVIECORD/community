@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-21T11:16:51.367Z</updated>
+    <updated>2022-10-21T12:35:31.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[애즈라 밀러 근황 (익스트림무비 ─ 영화정보)]]></title>
@@ -250,6 +250,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3834398point (44%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[영화 "블랙 아담" 대단하네요 (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/90160646?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90160646?category=61633579"/>
+        <updated>2022-10-21T12:35:23.213Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2103point (71%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[블랙아담은 뻔해서 오히려 신선했어요 (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://extmovie.com/movietalk/90160120?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90160120?category=61633579"/>
@@ -366,7 +373,7 @@
         <id>https://extmovie.com/movietalk/90143146?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90143146?category=61633579"/>
         <updated>2022-10-17T15:21:40.641Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:35point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">편의점박사]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:70point (17%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">편의점박사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저 하늘에도 슬픔이 (1965) - 1960년대 엄마 없이 살아가는 아이들의 생... (익스트림무비 ─ 영화리뷰)]]></title>
@@ -450,7 +457,7 @@
         <id>https://extmovie.com/movietalk/90126381?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90126381?category=61633579"/>
         <updated>2022-10-12T07:25:56.099Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3771765point (23%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3771778point (23%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신 에반게리온 극장판 후기 및 1주차 주말 특전, 쿠키 X (익스트림무비 ─ 영화리뷰)]]></title>
@@ -485,13 +492,6 @@
         <id>https://extmovie.com/movietalk/90118836?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90118836?category=61633579"/>
         <updated>2022-10-09T18:20:12.642Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2898point (65%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은하철도999 극장판 후기 및 홀로그램 엽서 (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/90118790?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90118790?category=61633579"/>
-        <updated>2022-10-09T16:21:41.384Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2898point (65%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">donnie]]></content>
     </entry>
 </feed>

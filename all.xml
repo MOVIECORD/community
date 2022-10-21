@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-21T01:20:39.576Z</updated>
+    <updated>2022-10-21T03:46:54.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[공포영화에서 가장 소름끼치는 고양이 10마리 (익스트림무비 ─ 영화정보)]]></title>
@@ -250,6 +250,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3833903point (44%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[블랙아담 토마토 지수 생각대로네요 (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/90159123?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90159123?category=61633579"/>
+        <updated>2022-10-21T03:46:46.193Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3580point (29%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로디]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[컴백홈 후기 [왕 스포.221019] (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://extmovie.com/movietalk/90157545?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90157545?category=61633579"/>
@@ -436,7 +443,7 @@
         <id>https://extmovie.com/movietalk/90126381?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90126381?category=61633579"/>
         <updated>2022-10-12T07:25:56.099Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3770990point (23%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3771363point (23%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신 에반게리온 극장판 후기 및 1주차 주말 특전, 쿠키 X (익스트림무비 ─ 영화리뷰)]]></title>
@@ -485,13 +492,6 @@
         <id>https://extmovie.com/movietalk/90118649?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90118649?category=61633579"/>
         <updated>2022-10-09T15:18:37.792Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7600point (18%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28일 동안 후기 [왕 스포.221006] (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/90115477?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90115477?category=61633579"/>
-        <updated>2022-10-08T11:13:55.692Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7600point (18%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

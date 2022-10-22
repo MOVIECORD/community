@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-10-22T16:22:45.878Z</updated>
+    <updated>2022-10-22T17:26:13.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙 아담을 보았습니다.]]></title>
+        <id>https://extmovie.com/movietalk/90164405?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90164405?category=61633579"/>
+        <updated>2022-10-22T17:25:05.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14570point (71%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[약스포] 오펀 : 퍼스트 킬 단평]]></title>
         <id>https://extmovie.com/movietalk/90161500?category=61633579</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/90138722?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90138722?category=61633579"/>
         <updated>2022-10-16T05:42:12.059Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25526point (83%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25528point (83%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[귀못 시사회 후기 및 무대인사 풀영상]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90127812?category=61633579"/>
         <updated>2022-10-12T13:53:38.461Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7662point (21%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['레버넌트' 4K 화질을 체험해 보았습니다 무시무시하군요 (약...]]></title>
-        <id>https://extmovie.com/movietalk/90126381?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90126381?category=61633579"/>
-        <updated>2022-10-12T07:25:56.099Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3772206point (24%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

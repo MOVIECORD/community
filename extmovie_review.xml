@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-10-25T01:42:33.867Z</updated>
+    <updated>2022-10-25T04:25:53.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 [오펀: 천사의 탄생] 관람 후기 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/90171465?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90171465?category=61633579"/>
+        <updated>2022-10-25T04:25:44.353Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25735point (90%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <더 랍스터> 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/90171125?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90171125?category=61633579"/>
+        <updated>2022-10-25T04:25:44.354Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:370point (92%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내겐 너무 소중한 너 후기 [왕 스포.221022]]]></title>
         <id>https://extmovie.com/movietalk/90169957?category=61633579</id>
@@ -38,7 +52,7 @@
         <id>https://extmovie.com/movietalk/90165454?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90165454?category=61633579"/>
         <updated>2022-10-23T05:41:07.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25716point (90%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25735point (90%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<캐릭터> 기대없이 봤는데 괜찮네요]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/90139687?category=61633579"/>
         <updated>2022-10-16T13:37:58.323Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13867point (40%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에브리씽 에브리웨어 올 앳 원스 '무엇이 정물로 남는가'.]]></title>
-        <id>https://extmovie.com/movietalk/90138913?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90138913?category=61633579"/>
-        <updated>2022-10-16T08:20:47.305Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4667point (19%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<대무가> 이도저도 아닌...]]></title>
-        <id>https://extmovie.com/movietalk/90138871?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90138871?category=61633579"/>
-        <updated>2022-10-16T07:20:50.307Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41762point (53%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모피어스]]></content>
     </entry>
 </feed>

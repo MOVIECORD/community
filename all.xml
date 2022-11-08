@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-08T17:23:45.080Z</updated>
+    <updated>2022-11-08T18:21:53.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 11월 8일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>
@@ -250,6 +250,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3788837point (29%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[FALL] 실존은 본질에 앞선다 (스포 有) (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/90219709?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90219709?category=61633579"/>
+        <updated>2022-11-08T18:20:45.351Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2176point (85%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[폴 600m 추천 (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://extmovie.com/movietalk/90219620?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90219620?category=61633579"/>
@@ -486,12 +493,5 @@
         <link href="https://extmovie.com/movietalk/90171125?category=61633579"/>
         <updated>2022-10-25T04:25:44.354Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:558point (34%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내겐 너무 소중한 너 후기 [왕 스포.221022] (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/90169957?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90169957?category=61633579"/>
-        <updated>2022-10-24T15:23:10.914Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7977point (40%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-09T04:44:02.368Z</updated>
+    <updated>2022-11-09T05:27:36.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[라이언 레이놀즈 '복면가왕' 출연 '지옥같았다' 발... (익스트림무비 ─ 영화정보)]]></title>
@@ -250,6 +250,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:401702point (8%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[블랙팬서 와칸다 포에버 간단 후기 (노스포) (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/90221713?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90221713?category=61633579"/>
+        <updated>2022-11-09T05:27:27.915Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5444point (76%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라무네스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[FALL] 실존은 본질에 앞선다 (스포 有) (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://extmovie.com/movietalk/90219709?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90219709?category=61633579"/>
@@ -359,7 +366,7 @@
         <id>https://extmovie.com/movietalk/90200024?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90200024?category=61633579"/>
         <updated>2022-11-02T11:15:09.974Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2091point (68%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">muguet]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2124point (75%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">muguet]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엑스 후기 [왕 스포.221029] (익스트림무비 ─ 영화리뷰)]]></title>
@@ -450,7 +457,7 @@
         <id>https://extmovie.com/movietalk/90181059?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90181059?category=61633579"/>
         <updated>2022-10-27T12:34:20.345Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:62point (15%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">impine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:64point (16%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">impine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인셉션 관객을 위한 지적 놀이 (익스트림무비 ─ 영화리뷰)]]></title>
@@ -486,12 +493,5 @@
         <link href="https://extmovie.com/movietalk/90171465?category=61633579"/>
         <updated>2022-10-25T04:25:44.353Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25932point (97%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <더 랍스터> 리뷰 (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/90171125?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90171125?category=61633579"/>
-        <updated>2022-10-25T04:25:44.354Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:558point (34%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
     </entry>
 </feed>

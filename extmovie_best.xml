@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-11-16T20:19:38.666Z</updated>
+    <updated>2022-11-16T21:13:28.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현시간 CGV 당일 관객수  탑3  ㅡ 초접전]]></title>
+        <id>https://extmovie.com/bestboard/90247918</id>
+        <link href="https://extmovie.com/bestboard/90247918"/>
+        <updated>2022-11-16T21:12:11.945Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63497point (74%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워너 >> [신비한 동물사전] 4편과 5편 각본 작업 안해..제작 물...]]></title>
         <id>https://extmovie.com/bestboard/90247857</id>
         <link href="https://extmovie.com/bestboard/90247857"/>
         <updated>2022-11-16T17:24:06.087Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189743point (99%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189788point (99%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플 영화 3편이 연달아 극장 개봉 하는데..]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/90246273</id>
         <link href="https://extmovie.com/bestboard/90246273"/>
         <updated>2022-11-16T17:24:06.116Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189743point (99%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189788point (99%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블랙팬서2 디즈니+ IMAX상영회 보고왔네요.]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/bestboard/90245229</id>
         <link href="https://extmovie.com/bestboard/90245229"/>
         <updated>2022-11-16T17:24:06.135Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189743point (99%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189788point (99%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마동석,정경호 <압꾸정> 단체 포스터 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90244998"/>
         <updated>2022-11-16T17:24:06.139Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36809point (21%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 메박서 동감 데시벨 보시는 분들 이거 꼭 눌러두세요]]></title>
-        <id>https://extmovie.com/bestboard/90244973</id>
-        <link href="https://extmovie.com/bestboard/90244973"/>
-        <updated>2022-11-16T20:16:23.892Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13055point (4%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스피예트]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-11-16T17:24:26.160Z</updated>
+    <updated>2022-11-16T18:30:53.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90247857"/>
         <updated>2022-11-16T17:24:06.087Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189743point (99%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플 영화 3편이 연달아 극장 개봉 하는데..]]></title>
+        <id>https://extmovie.com/bestboard/90247627</id>
+        <link href="https://extmovie.com/bestboard/90247627"/>
+        <updated>2022-11-16T18:28:36.947Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:137point (34%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">콩고물상]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2차 티켓 프로모션 일정]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90244667"/>
         <updated>2022-11-16T17:24:06.151Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4841point (31%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">루팡의딸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난주 포스터 떼샷 (11/9-12 포스터 정리)]]></title>
-        <id>https://extmovie.com/bestboard/90244342</id>
-        <link href="https://extmovie.com/bestboard/90244342"/>
-        <updated>2022-11-16T17:24:06.153Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63505point (75%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">피프]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-11-19T19:13:07.433Z</updated>
+    <updated>2022-11-19T20:16:01.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90258925"/>
         <updated>2022-11-19T19:10:51.941Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11112point (10%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션쇼 함께 한 앤드류 가필드, 클레이 모레츠, 정수정, 변우석]]></title>
+        <id>https://extmovie.com/bestboard/90258693</id>
+        <link href="https://extmovie.com/bestboard/90258693"/>
+        <updated>2022-11-19T20:14:43.943Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1245335point (45%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본서 열린 박은빈 팬미팅, 여성 관객이 90%]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90256513"/>
         <updated>2022-11-18T17:14:09.140Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:191186point (11%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+ 11월 3주 신작]]></title>
-        <id>https://extmovie.com/bestboard/90256387</id>
-        <link href="https://extmovie.com/bestboard/90256387"/>
-        <updated>2022-11-18T17:14:09.144Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27205point (37%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

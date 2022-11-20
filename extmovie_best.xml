@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-11-20T10:15:28.874Z</updated>
+    <updated>2022-11-20T11:11:59.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90260128"/>
         <updated>2022-11-20T10:14:11.978Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:707point (66%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">고요나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스파이더맨 밈 따라한 리오넬 메시]]></title>
+        <id>https://extmovie.com/bestboard/90259864</id>
+        <link href="https://extmovie.com/bestboard/90259864"/>
+        <updated>2022-11-20T11:10:41.605Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1440point (43%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">♡영화사랑♡]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대머리 로다쥬 오늘자 사진]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90257484"/>
         <updated>2022-11-19T08:17:00.026Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:191646point (16%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 8부작 썸바디..를 보고<호 리뷰>]]></title>
-        <id>https://extmovie.com/bestboard/90257433</id>
-        <link href="https://extmovie.com/bestboard/90257433"/>
-        <updated>2022-11-19T06:16:44.721Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11119point (11%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
 </feed>

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-11-20T15:14:52.345Z</updated>
+    <updated>2022-11-20T16:19:03.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2022-11-20T15:13:42.874Z</updated>
+        <updated>2022-11-20T16:17:53.650Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://cgv.kr/Gr3n1"><img src="https://img.extmovie.com/files/attach/images/49910895/147/253/090/0b514c816aa8b9003e885102d2d047cf.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한산 리덕스 후기입니다.]]></title>
+        <id>https://extmovie.com/movietalk/90261042?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90261042?category=61633579"/>
+        <updated>2022-11-20T16:17:53.955Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:279point (69%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">IU_미아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오린의 발라드 (1977) 이런 영화를 걸작이라 부르지 않으면 무엇을? 스...]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/90227420?category=61633579"/>
         <updated>2022-11-13T21:13:48.686Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21002point (26%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스포...없을 것 같은데 있을지도] 옆집 사람]]></title>
-        <id>https://extmovie.com/movietalk/90227088?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90227088?category=61633579"/>
-        <updated>2022-11-13T21:13:48.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16896point (69%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉軍]]></content>
     </entry>
 </feed>

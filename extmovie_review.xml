@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-11-20T09:15:41.366Z</updated>
+    <updated>2022-11-20T10:15:28.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2022-11-20T08:16:35.494Z</updated>
+        <updated>2022-11-20T10:15:20.406Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://cgv.kr/Gr3n1"><img src="https://img.extmovie.com/files/attach/images/49910895/147/253/090/0b514c816aa8b9003e885102d2d047cf.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 <썸바디> 리뷰. (스포일러?)]]></title>
+        <id>https://extmovie.com/movietalk/90260316?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90260316?category=61633579"/>
+        <updated>2022-11-20T10:15:20.606Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3648point (34%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스포] '블랙팬서2, 데시벨, 폴600미터, 킹덤2' 후기]]></title>
+        <id>https://extmovie.com/movietalk/90260018?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90260018?category=61633579"/>
+        <updated>2022-11-20T10:15:20.607Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:633point (50%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴 600m 후기 (노스포)]]></title>
@@ -31,7 +45,7 @@
         <id>https://extmovie.com/movietalk/90259598?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90259598?category=61633579"/>
         <updated>2022-11-20T03:16:46.484Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:68point (17%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">KJHoon]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:70point (17%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">KJHoon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [블랙 팬서: 와칸다 포에버] 관람 후기 리뷰]]></title>
@@ -242,19 +256,5 @@
         <link href="https://extmovie.com/movietalk/90226742?category=61633579"/>
         <updated>2022-11-13T21:13:48.691Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:250point (62%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스포 / 약호] 블랙팬서 2 : 와칸다 포에버]]></title>
-        <id>https://extmovie.com/movietalk/90226651?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90226651?category=61633579"/>
-        <updated>2022-11-13T21:13:48.692Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16896point (69%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉軍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(블랙팬서, 와칸다포에버) (약스포) 관람 느낌 후기]]></title>
-        <id>https://extmovie.com/movietalk/90224841?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90224841?category=61633579"/>
-        <updated>2022-11-13T21:13:48.693Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6138point (24%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">물흐르듯]]></content>
     </entry>
 </feed>

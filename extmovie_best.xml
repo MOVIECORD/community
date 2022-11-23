@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-11-23T17:13:29.961Z</updated>
+    <updated>2022-11-23T18:15:59.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/90270463"/>
         <updated>2022-11-23T15:13:29.555Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:405647point (28%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGV 필름마크 No.89   압꾸정]]></title>
+        <id>https://extmovie.com/bestboard/90270375</id>
+        <link href="https://extmovie.com/bestboard/90270375"/>
+        <updated>2022-11-23T18:15:39.178Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64465point (7%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니+ 공포영화 <바바리안> 예고편 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90268120"/>
         <updated>2022-11-23T10:14:20.321Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:193427point (34%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 카메론, '아바타' 러닝타임 줄여달라는 폭스 간부에...]]></title>
-        <id>https://extmovie.com/bestboard/90268116</id>
-        <link href="https://extmovie.com/bestboard/90268116"/>
-        <updated>2022-11-23T05:12:09.212Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3803735point (34%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

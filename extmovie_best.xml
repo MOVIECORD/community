@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-11-25T19:11:58.939Z</updated>
+    <updated>2022-11-25T20:15:09.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64795point (13%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문소리 뭐하나요??]]></title>
+        <title type="html"><![CDATA[블라인드 처리된 게시물입니다.]]></title>
         <id>https://extmovie.com/bestboard/90277155</id>
         <link href="https://extmovie.com/bestboard/90277155"/>
         <updated>2022-11-25T16:17:19.565Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20002point (90%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20002point (90%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">차단]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[43회 청룡영화상 2부 수상자]]></title>
@@ -95,6 +95,13 @@
         <link href="https://extmovie.com/bestboard/90275677"/>
         <updated>2022-11-25T09:12:59.423Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3806168point (35%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['동감' 무대인사 직찍도...]]></title>
+        <id>https://extmovie.com/bestboard/90275245</id>
+        <link href="https://extmovie.com/bestboard/90275245"/>
+        <updated>2022-11-25T20:13:52.820Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12050point (56%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kairosfoto]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[옷 학대하는 배우들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90274128"/>
         <updated>2022-11-25T02:59:23.531Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9367point (19%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올빼미 굿즈 받아왔어요!]]></title>
-        <id>https://extmovie.com/bestboard/90274082</id>
-        <link href="https://extmovie.com/bestboard/90274082"/>
-        <updated>2022-11-25T06:16:45.863Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:136point (34%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안이]]></content>
     </entry>
 </feed>

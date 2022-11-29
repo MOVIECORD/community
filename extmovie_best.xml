@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-11-29T16:19:33.183Z</updated>
+    <updated>2022-11-29T17:13:30.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원피스 오티 어떤거 선택하세요?]]></title>
+        <id>https://extmovie.com/bestboard/90287837</id>
+        <link href="https://extmovie.com/bestboard/90287837"/>
+        <updated>2022-11-29T17:11:10.938Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2483point (23%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">신화창조]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메가박스  양더모   200p 플립북 증정이벤트]]></title>
+        <id>https://extmovie.com/bestboard/90287709</id>
+        <link href="https://extmovie.com/bestboard/90287709"/>
+        <updated>2022-11-29T17:11:10.939Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:65016point (17%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인어공주 배우인 할리 베일리의 최근 근황...]]></title>
         <id>https://extmovie.com/bestboard/90287702</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90285536"/>
         <updated>2022-11-29T02:50:26.509Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3808901point (36%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 29일(화) 선착순 쿠폰]]></title>
-        <id>https://extmovie.com/bestboard/90285480</id>
-        <link href="https://extmovie.com/bestboard/90285480"/>
-        <updated>2022-11-29T02:50:26.510Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:791point (85%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뿌뿌빠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어워즈왓치 선정 아카데미 감독상 후보 Best 10]]></title>
-        <id>https://extmovie.com/bestboard/90285385</id>
-        <link href="https://extmovie.com/bestboard/90285385"/>
-        <updated>2022-11-29T10:13:52.550Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44468point (22%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
     </entry>
 </feed>

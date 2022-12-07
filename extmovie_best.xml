@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-07T21:13:15.809Z</updated>
+    <updated>2022-12-07T22:13:16.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -80,7 +80,7 @@
         <id>https://extmovie.com/bestboard/90313434</id>
         <link href="https://extmovie.com/bestboard/90313434"/>
         <updated>2022-12-07T12:22:29.891Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:201351point (9%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:201376point (9%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 표 리셀하는 사람들]]></title>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:935point (21%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">후루야끼]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아 아바타 큰일이네요]]></title>
+        <id>https://extmovie.com/bestboard/90311966</id>
+        <link href="https://extmovie.com/bestboard/90311966"/>
+        <updated>2022-12-07T22:11:58.675Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3145point (90%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">상병꼬부기]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아바타 용아맥 예매 떳습니다]]></title>
         <id>https://extmovie.com/bestboard/90311938</id>
         <link href="https://extmovie.com/bestboard/90311938"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90311573"/>
         <updated>2022-12-07T16:16:49.933Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:14point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">주우재]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타 용아맥 예매오픈 안된거죠?]]></title>
-        <id>https://extmovie.com/bestboard/90311559</id>
-        <link href="https://extmovie.com/bestboard/90311559"/>
-        <updated>2022-12-07T08:16:05.890Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:164point (41%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밍츄]]></content>
     </entry>
 </feed>

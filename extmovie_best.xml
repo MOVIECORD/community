@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-07T17:13:37.087Z</updated>
+    <updated>2022-12-07T18:16:34.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90314735"/>
         <updated>2022-12-07T17:11:21.047Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:439point (8%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Ey]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아바타 용아맥 한 주 더 할 가능성 있을까요?]]></title>
+        <id>https://extmovie.com/bestboard/90314674</id>
+        <link href="https://extmovie.com/bestboard/90314674"/>
+        <updated>2022-12-07T18:15:13.427Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:58point (14%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행복한펭귄]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아바타2의 최적 포맷은 결국 개봉일날 뚜껑을 열어봐야 알겠군요.]]></title>
@@ -25,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/90314104"/>
         <updated>2022-12-07T16:16:49.850Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14170point (53%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왈도3호]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아바타2 왕아맥 명당 예매 성공했습니다~]]></title>
+        <id>https://extmovie.com/bestboard/90313858</id>
+        <link href="https://extmovie.com/bestboard/90313858"/>
+        <updated>2022-12-07T18:15:13.430Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8247point (55%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아바타 최고의 플랫폼은 어디일까요?]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90311559"/>
         <updated>2022-12-07T08:16:05.890Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:164point (41%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밍츄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코돌비 단체 자리 비교]]></title>
-        <id>https://extmovie.com/bestboard/90311535</id>
-        <link href="https://extmovie.com/bestboard/90311535"/>
-        <updated>2022-12-07T08:16:05.893Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9606point (32%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넬슨잉글리쉬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코돌 아바타2 예매 처음했는데요]]></title>
-        <id>https://extmovie.com/bestboard/90311470</id>
-        <link href="https://extmovie.com/bestboard/90311470"/>
-        <updated>2022-12-07T08:16:05.893Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:14point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보로보노]]></content>
     </entry>
 </feed>

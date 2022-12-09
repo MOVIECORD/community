@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-12-09T12:25:03.462Z</updated>
+    <updated>2022-12-09T13:21:53.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러브레터 (스포노)]]></title>
+        <id>https://extmovie.com/movietalk/90323539?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90323539?category=61633579"/>
+        <updated>2022-12-09T13:20:46.498Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4544point (9%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노튼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스파이 [왕 스포.221206]]]></title>
         <id>https://extmovie.com/movietalk/90319722?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/90308004?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90308004?category=61633579"/>
         <updated>2022-12-06T10:14:27.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3821240point (40%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3821336point (40%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [아마겟돈 타임] 관람 후기 리뷰]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/90284002?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90284002?category=61633579"/>
         <updated>2022-11-28T09:14:54.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3821240point (40%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3821336point (40%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<올빼미> 2회차 관람후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90276265?category=61633579"/>
         <updated>2022-11-25T10:15:20.916Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21308point (37%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레이터 [왕 스포.221122]]]></title>
-        <id>https://extmovie.com/movietalk/90274015?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90274015?category=61633579"/>
-        <updated>2022-11-24T17:13:00.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8713point (83%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

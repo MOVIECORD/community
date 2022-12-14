@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-14T21:12:53.459Z</updated>
+    <updated>2022-12-14T22:13:53.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아바타 물의길 압아맥에서 보고 나왔습니다]]></title>
+        <id>https://extmovie.com/bestboard/90351406</id>
+        <link href="https://extmovie.com/bestboard/90351406"/>
+        <updated>2022-12-14T22:11:34.056Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1053point (55%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">요한슨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아바타 호평인 분들이 많아서 다행이에요]]></title>
         <id>https://extmovie.com/bestboard/90351981</id>
@@ -18,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/90351931"/>
         <updated>2022-12-14T18:15:21.572Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:461point (13%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화좋아좋아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스토퍼 놀란 [오펜하이머] 새 공식 포스터]]></title>
+        <id>https://extmovie.com/bestboard/90351898</id>
+        <link href="https://extmovie.com/bestboard/90351898"/>
+        <updated>2022-12-14T22:11:34.057Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:207593point (50%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 12월 14일 국내 박스오피스]]></title>
@@ -52,7 +66,7 @@
         <id>https://extmovie.com/bestboard/90351674</id>
         <link href="https://extmovie.com/bestboard/90351674"/>
         <updated>2022-12-14T16:16:45.791Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:207589point (50%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:207593point (50%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포) 아바타2 개인감상 후기]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90350008"/>
         <updated>2022-12-14T11:10:43.020Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:768point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그냥_페퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타 용포디 4dx 3d 보신 익무님들 어떠셨나요]]></title>
-        <id>https://extmovie.com/bestboard/90350004</id>
-        <link href="https://extmovie.com/bestboard/90350004"/>
-        <updated>2022-12-14T16:16:45.840Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1013point (43%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">자요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타 3d 10줄 리뷰 - 코돌비 (노스포)]]></title>
-        <id>https://extmovie.com/bestboard/90349944</id>
-        <link href="https://extmovie.com/bestboard/90349944"/>
-        <updated>2022-12-14T11:10:43.022Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:994point (38%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카기]]></content>
     </entry>
 </feed>

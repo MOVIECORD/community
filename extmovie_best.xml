@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-15T19:12:10.531Z</updated>
+    <updated>2022-12-15T20:14:59.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -45,7 +45,14 @@
         <id>https://extmovie.com/bestboard/90358178</id>
         <link href="https://extmovie.com/bestboard/90358178"/>
         <updated>2022-12-15T15:13:33.934Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208370point (55%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208532point (56%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제임스 카메론, 김용화 감독 대담 내용 정리]]></title>
+        <id>https://extmovie.com/bestboard/90357958</id>
+        <link href="https://extmovie.com/bestboard/90357958"/>
+        <updated>2022-12-15T20:12:41.983Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3859543point (53%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[용산cgv 계신분 티켓 취소 좀 도와주세요 ㅠㅠ]]></title>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/bestboard/90356958</id>
         <link href="https://extmovie.com/bestboard/90356958"/>
         <updated>2022-12-15T12:23:06.481Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208370point (55%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208532point (56%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송중기 학창시절때]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/90356322</id>
         <link href="https://extmovie.com/bestboard/90356322"/>
         <updated>2022-12-15T09:13:32.020Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208370point (55%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208532point (56%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[롯데시네마 영웅 아트카드 증정 이벤트]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/90355805</id>
         <link href="https://extmovie.com/bestboard/90355805"/>
         <updated>2022-12-15T08:16:13.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208370point (55%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '시티 헌터' 실사판 주연, 원작자, 감독의 코멘트]]></title>
-        <id>https://extmovie.com/bestboard/90355756</id>
-        <link href="https://extmovie.com/bestboard/90355756"/>
-        <updated>2022-12-15T11:10:31.327Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3859543point (53%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:208532point (56%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
 </feed>

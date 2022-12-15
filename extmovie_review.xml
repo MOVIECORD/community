@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-12-15T16:19:47.104Z</updated>
+    <updated>2022-12-15T17:11:44.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2022-12-15T16:18:38.515Z</updated>
+        <updated>2022-12-15T17:11:35.073Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://cgv.kr/Gr3n1"><img src="https://img.extmovie.com/files/attach/images/49910895/779/356/090/95a9ba42e41d7c0c58fe50344ee7de91.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지옥의 화원] 묵직하게 한 길로 걸어가는 영화 (스포O)]]></title>
+        <id>https://extmovie.com/movietalk/90359150?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90359150?category=61633579"/>
+        <updated>2022-12-15T17:11:35.293Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2334point (8%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[일본공포영화] 도쿄 괴담(키사라기역) - 의외로 충격을 준 작품]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/90296378?category=61633579"/>
         <updated>2022-12-02T01:00:32.659Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18936point (49%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하하하맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니 부모 얼굴이 보고 싶다 [왕 스포.221129]]]></title>
-        <id>https://extmovie.com/movietalk/90295812?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90295812?category=61633579"/>
-        <updated>2022-12-01T22:13:22.109Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8939point (96%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-17T18:14:58.025Z</updated>
+    <updated>2022-12-17T19:11:46.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13740point (34%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스티븐킴]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[영화 [미키 17] 봉준호 감독의 새로운 영화]]></title>
+        <id>https://extmovie.com/bestboard/90368715</id>
+        <link href="https://extmovie.com/bestboard/90368715"/>
+        <updated>2022-12-17T19:09:28.305Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:591point (41%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[드디어 에에올이 방송에 나오네요]]></title>
         <id>https://extmovie.com/bestboard/90368556</id>
         <link href="https://extmovie.com/bestboard/90368556"/>
@@ -74,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/90368276"/>
         <updated>2022-12-17T15:11:17.041Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4395point (98%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Seokhyun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(약스포, 루머) 박서준 ‘캡틴마블 2‘ 캐릭터와 플롯]]></title>
+        <id>https://extmovie.com/bestboard/90368069</id>
+        <link href="https://extmovie.com/bestboard/90368069"/>
+        <updated>2022-12-17T19:09:28.309Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3828837point (42%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘타이타닉’ 4K 2023년 북미 재개봉 예정]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90366411"/>
         <updated>2022-12-17T08:14:14.725Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1140point (80%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뱃지만드는뱃수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이미언 셔젤 감독의 '바빌론' 로튼토마토 리뷰들 번역]]></title>
-        <id>https://extmovie.com/bestboard/90366302</id>
-        <link href="https://extmovie.com/bestboard/90366302"/>
-        <updated>2022-12-17T06:14:14.959Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3860638point (53%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아바타 물의 길] 아바타 3 95% 및 4편 일부 촬영완료, 5편까지 배우들...]]></title>
-        <id>https://extmovie.com/bestboard/90366034</id>
-        <link href="https://extmovie.com/bestboard/90366034"/>
-        <updated>2022-12-17T03:12:13.199Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:210170point (67%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
 </feed>

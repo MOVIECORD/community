@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-18T19:10:08.961Z</updated>
+    <updated>2022-12-18T20:13:52.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/90372572"/>
         <updated>2022-12-18T14:09:50.990Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34630point (60%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 [기예르모 델토로의 피노키오] 성우진들]]></title>
+        <id>https://extmovie.com/bestboard/90372254</id>
+        <link href="https://extmovie.com/bestboard/90372254"/>
+        <updated>2022-12-18T20:11:37.836Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1253737point (53%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동진의 [아바타 물의 길] 한줄평과 별점]]></title>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/bestboard/90371739</id>
         <link href="https://extmovie.com/bestboard/90371739"/>
         <updated>2022-12-18T10:11:40.433Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9979point (51%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9985point (52%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[용산CGV '아바타 수족관' 거실 TV에 설치하고 싶은데..]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90370627"/>
         <updated>2022-12-18T05:10:58.388Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1253737point (53%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타: 물의 길' 속 숨겨진 디테일 13가지]]></title>
-        <id>https://extmovie.com/bestboard/90370610</id>
-        <link href="https://extmovie.com/bestboard/90370610"/>
-        <updated>2022-12-18T04:13:39.188Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3860939point (53%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

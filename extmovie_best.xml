@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-19T18:17:12.771Z</updated>
+    <updated>2022-12-19T19:11:33.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90378710"/>
         <updated>2022-12-19T18:14:56.150Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:114404point (47%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 12월 19일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90378465</id>
+        <link href="https://extmovie.com/bestboard/90378465"/>
+        <updated>2022-12-19T19:10:15.147Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3861469point (53%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 화면비 비교]]></title>
@@ -39,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/90377717"/>
         <updated>2022-12-19T14:11:43.459Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3861469point (53%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 화면비들을 모아봤습니다!]]></title>
+        <id>https://extmovie.com/bestboard/90377594</id>
+        <link href="https://extmovie.com/bestboard/90377594"/>
+        <updated>2022-12-19T19:10:15.162Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1075point (61%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Ey]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포) 스위치, 이병헌 디스? 이민정 "본인 허락 받았다" ...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90375789"/>
         <updated>2022-12-19T05:11:20.541Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1304point (17%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더락아담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<더 퍼스트 슬램덩크> 메인 포스터 공개]]></title>
-        <id>https://extmovie.com/bestboard/90375747</id>
-        <link href="https://extmovie.com/bestboard/90375747"/>
-        <updated>2022-12-19T07:11:21.739Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34819point (66%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌비 , 아맥 3D 안경은 이곳에서!!]]></title>
-        <id>https://extmovie.com/bestboard/90375582</id>
-        <link href="https://extmovie.com/bestboard/90375582"/>
-        <updated>2022-12-19T07:11:21.747Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3894point (55%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카리자드]]></content>
     </entry>
 </feed>

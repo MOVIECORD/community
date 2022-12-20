@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-20T18:15:35.093Z</updated>
+    <updated>2022-12-20T19:12:01.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90385459"/>
         <updated>2022-12-20T18:14:18.953Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3862009point (54%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외극장 ‘아바타 2’ 증정품]]></title>
+        <id>https://extmovie.com/bestboard/90385400</id>
+        <link href="https://extmovie.com/bestboard/90385400"/>
+        <updated>2022-12-20T19:09:46.141Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3832879point (44%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스파이더맨 어크로스 더 스파이더버스] 첫 공식 포스터]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90381096"/>
         <updated>2022-12-20T06:16:56.252Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7532point (14%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">메로나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남돌비 예매 미쳤네요]]></title>
-        <id>https://extmovie.com/bestboard/90380914</id>
-        <link href="https://extmovie.com/bestboard/90380914"/>
-        <updated>2022-12-20T04:14:26.905Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:105point (26%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">짐빔]]></content>
     </entry>
 </feed>

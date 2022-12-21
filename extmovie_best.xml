@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-21T18:16:01.961Z</updated>
+    <updated>2022-12-21T19:11:09.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/90378019"/>
         <updated>2022-12-21T15:13:09.067Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:47996point (2%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아바타 물의 길] 글로벌 5억불 돌파]]></title>
+        <id>https://extmovie.com/bestboard/90390922</id>
+        <link href="https://extmovie.com/bestboard/90390922"/>
+        <updated>2022-12-21T19:09:48.448Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:213219point (88%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아바타: 물의 길] 예매율 현재 예매율 101만]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90388443"/>
         <updated>2022-12-21T09:12:04.945Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27174point (36%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘생긴 우성이형 멘 매거진 화보]]></title>
-        <id>https://extmovie.com/bestboard/90388423</id>
-        <link href="https://extmovie.com/bestboard/90388423"/>
-        <updated>2022-12-21T15:13:09.115Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3834436point (44%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

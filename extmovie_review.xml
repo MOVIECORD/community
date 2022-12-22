@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-12-22T02:13:27.035Z</updated>
+    <updated>2022-12-22T03:14:43.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 [굿 럭 투 유, 리오 그랜드] - 용기 있는 도전]]></title>
+        <id>https://extmovie.com/movietalk/90393397?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90393397?category=61633579"/>
+        <updated>2022-12-22T03:14:34.540Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:768point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤전스 [왕 스포.221219]]]></title>
         <id>https://extmovie.com/movietalk/90391498?category=61633579</id>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/90364884?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90364884?category=61633579"/>
         <updated>2022-12-16T16:15:51.606Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:757point (77%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:768point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스파이 [왕 스포.221213]]]></title>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/90358170?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90358170?category=61633579"/>
         <updated>2022-12-15T13:21:43.630Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31291point (63%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31306point (64%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아바타: 물의길 4DX 시사회 후기 (+롱블랙 커피챗인터뷰)]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/90355078?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90355078?category=61633579"/>
         <updated>2022-12-15T05:13:15.709Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2343point (9%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2368point (11%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [프레이 포 더 데블] 관람 후기 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90330946?category=61633579"/>
         <updated>2022-12-11T09:12:07.296Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26774point (24%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패신저스 [왕 스포.221208]]]></title>
-        <id>https://extmovie.com/movietalk/90330291?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90330291?category=61633579"/>
-        <updated>2022-12-11T02:47:38.408Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9034point (1%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

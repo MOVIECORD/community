@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-23T19:11:58.341Z</updated>
+    <updated>2022-12-23T20:13:28.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나이브스 아웃, 글래스 어니언 단평... 강추!]]></title>
+        <id>https://extmovie.com/bestboard/90401687</id>
+        <link href="https://extmovie.com/bestboard/90401687"/>
+        <updated>2022-12-23T20:12:12.208Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112375037point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 12월 23일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/90401629</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90398353"/>
         <updated>2022-12-23T06:15:46.819Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3836881point (45%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 극장 [아바타 물의 길] 굿즈들]]></title>
-        <id>https://extmovie.com/bestboard/90398313</id>
-        <link href="https://extmovie.com/bestboard/90398313"/>
-        <updated>2022-12-23T06:15:46.820Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:214627point (97%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
 </feed>

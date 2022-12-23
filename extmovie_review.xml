@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-12-23T10:14:25.255Z</updated>
+    <updated>2022-12-23T11:11:41.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아바타2는 스크린X가 제일 맘에 드네요]]></title>
+        <id>https://extmovie.com/movietalk/90400481?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90400481?category=61633579"/>
+        <updated>2022-12-23T11:10:32.479Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2025point (55%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오잉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올드무비지만 괜찮은 클스마스 무비 추천 - 벤 애플렉, 샤를리즈 테론 &...]]></title>
         <id>https://extmovie.com/movietalk/90399871?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90399871?category=61633579"/>
         <updated>2022-12-23T07:11:11.716Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3836738point (45%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3836867point (45%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이니셰린의 밴시 [왕 스포.21220]]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/90388122?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90388122?category=61633579"/>
         <updated>2022-12-21T06:17:07.681Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23244point (6%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23259point (7%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [더 메뉴] 관람 후기 리뷰]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/90338388?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90338388?category=61633579"/>
         <updated>2022-12-12T16:18:25.354Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23244point (6%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23259point (7%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포주의) 22.12.12 명씨네 <페르시아어 수업 > 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90337931?category=61633579"/>
         <updated>2022-12-12T16:18:25.360Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19604point (75%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">sinclair]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페르시아어 수업 한줄평]]></title>
-        <id>https://extmovie.com/movietalk/90337808?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90337808?category=61633579"/>
-        <updated>2022-12-12T16:18:25.360Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:806point (88%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">광제스님]]></content>
     </entry>
 </feed>

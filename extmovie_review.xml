@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-12-24T03:14:10.751Z</updated>
+    <updated>2022-12-24T04:15:08.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 [가재가 노래하는 곳] - 또 하나의 페미니즘 영화]]></title>
+        <id>https://extmovie.com/movietalk/90403196?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90403196?category=61633579"/>
+        <updated>2022-12-24T04:14:01.254Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:779point (82%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내부자들 디 오리지널 [왕 스포.221221]]]></title>
         <id>https://extmovie.com/movietalk/90401947?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/90393397?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90393397?category=61633579"/>
         <updated>2022-12-22T03:14:34.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:768point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:779point (82%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벤전스 [왕 스포.221219]]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/90364884?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90364884?category=61633579"/>
         <updated>2022-12-16T16:15:51.606Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:768point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:779point (82%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스파이 [왕 스포.221213]]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/90347959?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90347959?category=61633579"/>
         <updated>2022-12-14T05:12:10.991Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18412point (29%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18424point (30%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아바타-물의길 아이맥스 후기(스포유)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90347762?category=61633579"/>
         <updated>2022-12-14T05:12:10.991Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1179point (91%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 [탄생] 관람 후기 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/90338906?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90338906?category=61633579"/>
-        <updated>2022-12-13T01:04:49.972Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26777point (24%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
 </feed>

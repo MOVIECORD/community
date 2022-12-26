@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-26T17:12:35.465Z</updated>
+    <updated>2022-12-26T18:16:41.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 12월 26일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://extmovie.com/bestboard/90413734"/>
         <updated>2022-12-26T17:10:20.611Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3864711point (54%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아바타2 관람기 - 월타 슈퍼플렉스 어마어마하게 바뀌었네요. (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90413561</id>
+        <link href="https://extmovie.com/bestboard/90413561"/>
+        <updated>2022-12-26T18:14:26.008Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:71074point (69%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네마키즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[< 더 퍼스트 슬램덩크 > 언론/배급 시사회 일정 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/90409731"/>
         <updated>2022-12-26T03:13:22.039Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:413992point (69%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 26일(월) 선착순 쿠폰 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90409709</id>
-        <link href="https://extmovie.com/bestboard/90409709"/>
-        <updated>2022-12-26T03:13:22.042Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1257point (8%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뿌뿌빠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아담 드라이버 공룡 영화 '65' (익스트림무비 ─ 영화정보)]]></title>

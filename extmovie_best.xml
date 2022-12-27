@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2022-12-27T18:17:04.059Z</updated>
+    <updated>2022-12-27T19:10:58.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://extmovie.com/bestboard/90419436"/>
         <updated>2022-12-27T18:14:44.385Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3865334point (55%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제장편영화상 1차후보작 15편을 모두 관람한 평론가의 오스카예측]]></title>
+        <id>https://extmovie.com/bestboard/90419429</id>
+        <link href="https://extmovie.com/bestboard/90419429"/>
+        <updated>2022-12-27T19:09:40.637Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46872point (81%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[장화신은 고양이: 끝내주는 모험] 시사회 후기]]></title>
+        <id>https://extmovie.com/bestboard/90418947</id>
+        <link href="https://extmovie.com/bestboard/90418947"/>
+        <updated>2022-12-27T19:09:40.637Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5000point (43%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">828]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['나이브스 아웃' 스웨터 인기가 이해 안간다는 다니엘 크레이그]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90415500"/>
         <updated>2022-12-27T12:21:01.671Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2096point (69%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 '악귀' 촬영현장 목격샷]]></title>
-        <id>https://extmovie.com/bestboard/90415462</id>
-        <link href="https://extmovie.com/bestboard/90415462"/>
-        <updated>2022-12-27T08:15:10.965Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3839161point (46%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐 크루즈 '미션임파서블 데드레커닝 파트1' 바이크 절벽 스...]]></title>
-        <id>https://extmovie.com/bestboard/90415351</id>
-        <link href="https://extmovie.com/bestboard/90415351"/>
-        <updated>2022-12-27T10:12:49.917Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3839161point (46%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

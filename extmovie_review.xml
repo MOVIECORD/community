@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-12-28T16:16:58.987Z</updated>
+    <updated>2022-12-28T17:11:54.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노스포][리뷰] 글래스 어니언 - 이것이 오늘의 추리'영화'다]]></title>
+        <id>https://extmovie.com/movietalk/90425342?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90425342?category=61633579"/>
+        <updated>2022-12-28T17:11:46.255Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23523point (16%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이브스 아웃 글래스 어니언 [왕 스포.221226]]]></title>
         <id>https://extmovie.com/movietalk/90425233?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/90422053?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90422053?category=61633579"/>
         <updated>2022-12-28T06:15:17.855Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23513point (15%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23523point (16%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아바타-물의길 2회차 DOLBY 관람평]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/90388122?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90388122?category=61633579"/>
         <updated>2022-12-21T06:17:07.681Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23513point (15%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23523point (16%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [더 메뉴] 관람 후기 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90355078?category=61633579"/>
         <updated>2022-12-15T05:13:15.709Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2565point (31%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 [프레이 포 더 데블] 관람 후기 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/90354645?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90354645?category=61633579"/>
-        <updated>2022-12-15T04:17:12.968Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26813point (25%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
 </feed>

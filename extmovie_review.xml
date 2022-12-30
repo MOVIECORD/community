@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2022-12-30T15:13:55.754Z</updated>
+    <updated>2022-12-30T16:17:04.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안돌비 아바타 물의길 후기(노스포)]]></title>
+        <id>https://extmovie.com/movietalk/90436602?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90436602?category=61633579"/>
+        <updated>2022-12-30T16:15:56.355Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38873point (77%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야쿠자와 가족 [왕 스포.221227]]]></title>
         <id>https://extmovie.com/movietalk/90434075?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/90433640?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90433640?category=61633579"/>
         <updated>2022-12-30T06:16:06.715Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40543point (22%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양파썰다실명한]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40546point (22%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양파썰다실명한]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올빼미 후기(약스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90364884?category=61633579"/>
         <updated>2022-12-16T16:15:51.606Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:848point (97%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이 [왕 스포.221213]]]></title>
-        <id>https://extmovie.com/movietalk/90359217?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90359217?category=61633579"/>
-        <updated>2022-12-15T23:14:06.534Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9180point (9%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

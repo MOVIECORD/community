@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-03T12:24:03.485Z</updated>
+    <updated>2023-01-03T13:22:16.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IMAX  개봉 임박되는 4작품들..]]></title>
+        <id>https://extmovie.com/bestboard/90453647</id>
+        <link href="https://extmovie.com/bestboard/90453647"/>
+        <updated>2023-01-03T13:19:01.782Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4321point (92%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카리자드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이런 장면들은 어떻게 촬영하는지 이해가 안 갑니다]]></title>
+        <id>https://extmovie.com/bestboard/90453553</id>
+        <link href="https://extmovie.com/bestboard/90453553"/>
+        <updated>2023-01-03T13:19:01.782Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20128point (95%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 영화팬들이 뽑은 충격적이었던 '트라우마 영화' 10편]]></title>
         <id>https://extmovie.com/bestboard/90453462</id>
         <link href="https://extmovie.com/bestboard/90453462"/>
         <updated>2023-01-03T12:22:46.163Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258356point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258358point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈를 이긴 러시아 SF 영화 예고편 공개]]></title>
         <id>https://extmovie.com/bestboard/90453274</id>
         <link href="https://extmovie.com/bestboard/90453274"/>
         <updated>2023-01-03T12:22:46.215Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868551point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868558point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼 마리오처럼 수염 기른 크리스 프랫]]></title>
@@ -38,14 +52,14 @@
         <id>https://extmovie.com/bestboard/90452635</id>
         <link href="https://extmovie.com/bestboard/90452635"/>
         <updated>2023-01-03T09:12:11.685Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4319point (92%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카리자드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4321point (92%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카리자드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['더 퍼스트 슬램덩크' 홀로그램 카드..라는 것도 나오네요.]]></title>
         <id>https://extmovie.com/bestboard/90452466</id>
         <link href="https://extmovie.com/bestboard/90452466"/>
         <updated>2023-01-03T09:12:11.685Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868551point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868558point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스위치> 환불 보장 상영회 개최]]></title>
@@ -59,7 +73,7 @@
         <id>https://extmovie.com/bestboard/90452367</id>
         <link href="https://extmovie.com/bestboard/90452367"/>
         <updated>2023-01-03T12:22:46.242Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 ‘스즈메의 문단속’ 국내 등급 심의 완료]]></title>
@@ -73,14 +87,14 @@
         <id>https://extmovie.com/bestboard/90452230</id>
         <link href="https://extmovie.com/bestboard/90452230"/>
         <updated>2023-01-03T09:12:11.688Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868551point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868558point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 여성패션지 ViVi 선정 '국보급 미남 랭킹']]></title>
         <id>https://extmovie.com/bestboard/90451775</id>
         <link href="https://extmovie.com/bestboard/90451775"/>
         <updated>2023-01-03T08:16:03.992Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258356point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258358point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국에서 1월 22일날 개봉하는 애니메이션 <심해> 포스터]]></title>
@@ -101,21 +115,21 @@
         <id>https://extmovie.com/bestboard/90451402</id>
         <link href="https://extmovie.com/bestboard/90451402"/>
         <updated>2023-01-03T12:22:46.243Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846743point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846749point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장근석, 허성태 쿠팡 드라마 '미끼' 포스터, 예고편]]></title>
         <id>https://extmovie.com/bestboard/90451318</id>
         <link href="https://extmovie.com/bestboard/90451318"/>
         <updated>2023-01-03T06:14:07.460Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868551point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868558point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아바타] 1편, 2편, 3편 메인 배경]]></title>
         <id>https://extmovie.com/bestboard/90451313</id>
         <link href="https://extmovie.com/bestboard/90451313"/>
         <updated>2023-01-03T08:16:03.999Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[더 퍼스트 슬램덩크] 키링, 팜플렛 굿즈 콤보 세트 정보]]></title>
@@ -129,7 +143,7 @@
         <id>https://extmovie.com/bestboard/90451250</id>
         <link href="https://extmovie.com/bestboard/90451250"/>
         <updated>2023-01-03T05:11:31.937Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동진 평론가님 GV]]></title>
@@ -150,21 +164,21 @@
         <id>https://extmovie.com/bestboard/90450976</id>
         <link href="https://extmovie.com/bestboard/90450976"/>
         <updated>2023-01-03T04:14:00.448Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제레미 레너 사고당시 정황 디테일 및 근황]]></title>
         <id>https://extmovie.com/bestboard/90450767</id>
         <link href="https://extmovie.com/bestboard/90450767"/>
         <updated>2023-01-03T05:11:31.938Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846743point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846749point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[니콜라스 윈딩 레픈 감독 [코펜하겐 카우보이] 로튼평 (번역)]]></title>
         <id>https://extmovie.com/bestboard/90450750</id>
         <link href="https://extmovie.com/bestboard/90450750"/>
         <updated>2023-01-03T08:16:04.013Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<더 퍼스트 슬램덩크> 온라인 전단 이미지 공개]]></title>
@@ -178,14 +192,14 @@
         <id>https://extmovie.com/bestboard/90450658</id>
         <link href="https://extmovie.com/bestboard/90450658"/>
         <updated>2023-01-03T03:13:08.353Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['더 글로리' 김은숙 작가 커리어]]></title>
         <id>https://extmovie.com/bestboard/90450629</id>
         <link href="https://extmovie.com/bestboard/90450629"/>
         <updated>2023-01-03T04:14:00.503Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846743point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846749point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헤어질 결심 아카데미 작품상 후보는 왜 못 올라갔을까요?]]></title>
@@ -199,28 +213,28 @@
         <id>https://extmovie.com/bestboard/90450496</id>
         <link href="https://extmovie.com/bestboard/90450496"/>
         <updated>2023-01-03T12:22:46.258Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 글로벌 흥행 Top 13 요약 사진]]></title>
         <id>https://extmovie.com/bestboard/90450480</id>
         <link href="https://extmovie.com/bestboard/90450480"/>
         <updated>2023-01-03T06:14:07.485Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220874point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:220898point (39%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아바타: 물의 길] 중국 공식 아트 포스터]]></title>
         <id>https://extmovie.com/bestboard/90450419</id>
         <link href="https://extmovie.com/bestboard/90450419"/>
         <updated>2023-01-03T07:11:14.220Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258356point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258358point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 [괴물] 4K 리마스터링 버전으로 프랑스에서 재개봉]]></title>
         <id>https://extmovie.com/bestboard/90450198</id>
         <link href="https://extmovie.com/bestboard/90450198"/>
         <updated>2023-01-03T05:11:31.971Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258356point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1258358point (58%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1월 3일(화) 선착순 쿠폰]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/90450156</id>
         <link href="https://extmovie.com/bestboard/90450156"/>
         <updated>2023-01-03T04:14:00.503Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868551point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헨리 카빌과 수퍼맨 두번 죽이는 워너]]></title>
-        <id>https://extmovie.com/bestboard/90450044</id>
-        <link href="https://extmovie.com/bestboard/90450044"/>
-        <updated>2023-01-03T07:11:14.245Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846743point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 '아바타 2'에게 일어날 일 한짤]]></title>
-        <id>https://extmovie.com/bestboard/90450029</id>
-        <link href="https://extmovie.com/bestboard/90450029"/>
-        <updated>2023-01-03T03:13:08.360Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3846743point (48%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3868558point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

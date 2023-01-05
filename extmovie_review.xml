@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-01-05T22:14:01.754Z</updated>
+    <updated>2023-01-05T23:13:39.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬램덩크더퍼스트 솔직히]]></title>
+        <id>https://extmovie.com/movietalk/90465852?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90465852?category=61633579"/>
+        <updated>2023-01-05T23:13:31.091Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56857point (64%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼스트 슬램덩크를 보고]]></title>
         <id>https://extmovie.com/movietalk/90465449?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90465449?category=61633579"/>
         <updated>2023-01-05T19:11:41.372Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12113point (59%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12117point (59%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [더 퍼스트 슬램덩크] - 아쉬움은 아쉬움대로, 감동은 또 감동 그대로]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/90459239?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90459239?category=61633579"/>
         <updated>2023-01-04T11:10:53.421Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39170point (85%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39173point (85%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메가박스에서 본 <더 퍼스트 슬램덩크 > 슬램덩크를 한번도 안본...]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/90436602?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90436602?category=61633579"/>
         <updated>2022-12-30T16:15:56.355Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39170point (85%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39173point (85%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[야쿠자와 가족 [왕 스포.221227]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90425233?category=61633579"/>
         <updated>2022-12-28T16:15:49.688Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9283point (14%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타2 짱 재밌네요]]></title>
-        <id>https://extmovie.com/movietalk/90425004?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90425004?category=61633579"/>
-        <updated>2022-12-28T15:13:14.802Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:637point (51%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰스하루]]></content>
     </entry>
 </feed>

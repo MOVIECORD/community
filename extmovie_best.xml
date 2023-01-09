@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-09T16:23:04.880Z</updated>
+    <updated>2023-01-09T17:15:56.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 1월 9일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90481772</id>
+        <link href="https://extmovie.com/bestboard/90481772"/>
+        <updated>2023-01-09T17:13:39.621Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3871599point (57%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍콩의 슬램덩크 실사영화]]></title>
+        <id>https://extmovie.com/bestboard/90481646</id>
+        <link href="https://extmovie.com/bestboard/90481646"/>
+        <updated>2023-01-09T17:13:39.631Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1260091point (60%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCU의 미래: 마블 페이즈 5  & 6]]></title>
         <id>https://extmovie.com/bestboard/90477410</id>
@@ -52,7 +66,7 @@
         <id>https://extmovie.com/bestboard/90480695</id>
         <link href="https://extmovie.com/bestboard/90480695"/>
         <updated>2023-01-09T15:17:44.933Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40277point (15%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40279point (15%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일이 cgv 등급조정일이군요]]></title>
@@ -199,7 +213,7 @@
         <id>https://extmovie.com/bestboard/90478723</id>
         <link href="https://extmovie.com/bestboard/90478723"/>
         <updated>2023-01-09T07:12:05.332Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3871597point (57%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3871599point (57%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠폰 유효기간 제멋대로 개판이네요..]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90478449"/>
         <updated>2023-01-09T04:15:05.164Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1260091point (60%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 원주민 단체들 아바타 불매운동…"인종차별적 영화" 비판]]></title>
-        <id>https://extmovie.com/bestboard/90478322</id>
-        <link href="https://extmovie.com/bestboard/90478322"/>
-        <updated>2023-01-09T14:14:43.744Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:418020point (90%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바빌론] 국내 공식 리뷰 포스터]]></title>
-        <id>https://extmovie.com/bestboard/90478168</id>
-        <link href="https://extmovie.com/bestboard/90478168"/>
-        <updated>2023-01-09T11:11:08.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:226214point (74%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
 </feed>

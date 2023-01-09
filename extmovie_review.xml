@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-01-09T02:19:00.725Z</updated>
+    <updated>2023-01-09T03:26:07.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그시절 우리가 좋아했던 만화의 추억 "더 퍼스트:슬램덩크"]]></title>
+        <id>https://extmovie.com/movietalk/90478422?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90478422?category=61633579"/>
+        <updated>2023-01-09T03:24:59.746Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19239point (61%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[익무 스위치 예매권 이벤트 당첨되어 본 후기](노스포)]]></title>
         <id>https://extmovie.com/movietalk/90477528?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90477528?category=61633579"/>
         <updated>2023-01-08T23:11:57.146Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39299point (89%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39301point (89%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 글로리 파트 1 에피소드 1-3 [왕 스포.230105]]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/90459834?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90459834?category=61633579"/>
         <updated>2023-01-05T01:00:51.764Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:263379point (66%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">땀돌이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:263385point (66%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">땀돌이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [젠틀맨] 관람 후기 리뷰]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/90459239?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90459239?category=61633579"/>
         <updated>2023-01-04T11:10:53.421Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39299point (89%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39301point (89%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메가박스에서 본 <더 퍼스트 슬램덩크 > 슬램덩크를 한번도 안본...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90457894?category=61633579"/>
         <updated>2023-01-04T08:17:02.183Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:690point (63%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타2 남돌비 후기]]></title>
-        <id>https://extmovie.com/movietalk/90454450?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90454450?category=61633579"/>
-        <updated>2023-01-03T20:13:54.290Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:238point (59%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">탱가라]]></content>
     </entry>
 </feed>

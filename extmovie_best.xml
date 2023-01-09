@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-09T20:15:27.870Z</updated>
+    <updated>2023-01-09T21:12:51.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,6 +17,13 @@
         <id>https://extmovie.com/bestboard/90481646</id>
         <link href="https://extmovie.com/bestboard/90481646"/>
         <updated>2023-01-09T17:13:39.631Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1260097point (60%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍콩의 [더 퍼스트 슬램덩크] 홍보물]]></title>
+        <id>https://extmovie.com/bestboard/90481630</id>
+        <link href="https://extmovie.com/bestboard/90481630"/>
+        <updated>2023-01-09T21:11:33.929Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1260097point (60%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90478511"/>
         <updated>2023-01-09T12:23:01.871Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:418022point (90%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교보문고 '슬램덩크' 특별 기획전]]></title>
-        <id>https://extmovie.com/bestboard/90478449</id>
-        <link href="https://extmovie.com/bestboard/90478449"/>
-        <updated>2023-01-09T04:15:05.164Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1260097point (60%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-01-10T09:14:43.020Z</updated>
+    <updated>2023-01-10T10:15:23.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너의 췌장을 먹고싶어 블루레이로 오랜만에 본 후기]]></title>
+        <id>https://extmovie.com/movietalk/90485379?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90485379?category=61633579"/>
+        <updated>2023-01-10T10:14:15.550Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33633point (32%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포0) 더 퍼스트 슬램덩크의 한 장면에 대하여]]></title>
         <id>https://extmovie.com/movietalk/90481939?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90459258?category=61633579"/>
         <updated>2023-01-04T13:21:21.891Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27281point (40%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 퍼스트 슬램덩크 (2023) 충격적이다. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/90459166?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90459166?category=61633579"/>
-        <updated>2023-01-04T11:10:53.420Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21490point (44%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

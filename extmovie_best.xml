@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-13T19:12:04.444Z</updated>
+    <updated>2023-01-13T20:15:23.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/90499327"/>
         <updated>2023-01-13T15:13:56.778Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3873843point (57%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체인소맨 12화 액션은 진짜 최강이네요!]]></title>
+        <id>https://extmovie.com/bestboard/90499311</id>
+        <link href="https://extmovie.com/bestboard/90499311"/>
+        <updated>2023-01-13T20:13:06.159Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:393point (98%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<유령> 용산아이파크몰 IMAX 의외로 아주 한산하네요?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90497239"/>
         <updated>2023-01-13T03:17:13.056Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3873843point (57%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬욱 [박쥐] 티빙 오리지날로 리메이크한다]]></title>
-        <id>https://extmovie.com/bestboard/90497192</id>
-        <link href="https://extmovie.com/bestboard/90497192"/>
-        <updated>2023-01-13T03:17:13.058Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:229638point (97%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
 </feed>

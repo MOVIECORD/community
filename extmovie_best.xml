@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-14T18:15:33.500Z</updated>
+    <updated>2023-01-14T19:09:23.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/90502786"/>
         <updated>2023-01-14T18:13:17.495Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3874290point (58%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단평] NETFLIX 코펜하겐 카우보이 - NWR 이 사람 참....]]></title>
+        <id>https://extmovie.com/bestboard/90502732</id>
+        <link href="https://extmovie.com/bestboard/90502732"/>
+        <updated>2023-01-14T19:09:04.988Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23857point (27%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인터파크는 정보유출되었네요]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/90501215</id>
         <link href="https://extmovie.com/bestboard/90501215"/>
         <updated>2023-01-14T07:10:31.938Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1261641point (61%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1261643point (61%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아리 애스터 차기작 준비중 > 엠마 스톤 출연 예정]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90500675"/>
         <updated>2023-01-14T07:10:31.966Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3874290point (58%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 전망대에 설치된 농구 코트]]></title>
-        <id>https://extmovie.com/bestboard/90500586</id>
-        <link href="https://extmovie.com/bestboard/90500586"/>
-        <updated>2023-01-14T04:14:00.447Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1261641point (61%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

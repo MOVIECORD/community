@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-14T19:09:23.384Z</updated>
+    <updated>2023-01-14T20:12:47.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:382point (95%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무야호엉]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한국영화인데 이거 뭔지 아는 분 있나요?]]></title>
+        <id>https://extmovie.com/bestboard/90502238</id>
+        <link href="https://extmovie.com/bestboard/90502238"/>
+        <updated>2023-01-14T20:11:28.887Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:992point (37%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한설]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[추후에  슬램덩크   필름마크   나왔으면  좋겠네요]]></title>
         <id>https://extmovie.com/bestboard/90502032</id>
         <link href="https://extmovie.com/bestboard/90502032"/>
@@ -102,6 +109,13 @@
         <link href="https://extmovie.com/bestboard/90501878"/>
         <updated>2023-01-14T13:14:57.397Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13219point (11%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">자유로운비행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고수 SNL 코리아 시즌 3]]></title>
+        <id>https://extmovie.com/bestboard/90501808</id>
+        <link href="https://extmovie.com/bestboard/90501808"/>
+        <updated>2023-01-14T20:11:28.911Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:235935point (29%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘아바타’ 뉴 코믹스 2종 커버 - 제임스 카메론 오리지널 각본]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/90500840</id>
         <link href="https://extmovie.com/bestboard/90500840"/>
         <updated>2023-01-14T06:14:21.821Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3874290point (58%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포스터&아트카드 동시 겟 성공]]></title>
-        <id>https://extmovie.com/bestboard/90500688</id>
-        <link href="https://extmovie.com/bestboard/90500688"/>
-        <updated>2023-01-14T07:10:31.966Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:55point (13%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">muwon0412]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변성현 감독 영화 '길복순' 베를린영화제 초청 상세 소식]]></title>
-        <id>https://extmovie.com/bestboard/90500675</id>
-        <link href="https://extmovie.com/bestboard/90500675"/>
-        <updated>2023-01-14T07:10:31.966Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3874290point (58%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

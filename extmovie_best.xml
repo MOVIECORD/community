@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-19T18:18:16.450Z</updated>
+    <updated>2023-01-19T19:13:04.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://extmovie.com/bestboard/90526432"/>
         <updated>2023-01-19T18:15:55.897Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:86point (21%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CINEing]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬램덩크 아카 수량 10장 이하 보고 퇴근하고 롯시 마석투어]]></title>
+        <id>https://extmovie.com/bestboard/90526341</id>
+        <link href="https://extmovie.com/bestboard/90526341"/>
+        <updated>2023-01-19T19:10:47.869Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27653point (52%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<유령>을 보고 (스포O)]]></title>
+        <id>https://extmovie.com/bestboard/90526253</id>
+        <link href="https://extmovie.com/bestboard/90526253"/>
+        <updated>2023-01-19T19:10:47.869Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7144point (90%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">폴아트레이드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['스즈메의 문단속' 등 미디어캐슬 상반기 라인업]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90523481"/>
         <updated>2023-01-19T05:12:11.257Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:235344point (26%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<교섭>을 보고 느낀점.]]></title>
-        <id>https://extmovie.com/bestboard/90523456</id>
-        <link href="https://extmovie.com/bestboard/90523456"/>
-        <updated>2023-01-19T07:12:09.391Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90498point (61%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스파이더맨: 어크로스 더 유니버스] 티저 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/90523260</id>
-        <link href="https://extmovie.com/bestboard/90523260"/>
-        <updated>2023-01-19T05:12:11.277Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:420409point (2%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

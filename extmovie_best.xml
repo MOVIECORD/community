@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-22T12:22:56.514Z</updated>
+    <updated>2023-01-22T13:18:42.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우, 김대명 [더러운 돈에 손대지 마라] 해외 포스터 공개]]></title>
+        <id>https://extmovie.com/bestboard/90538708</id>
+        <link href="https://extmovie.com/bestboard/90538708"/>
+        <updated>2023-01-22T13:15:27.316Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:421160point (5%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초 공개] 이동진 역대 한줄평 Best 10]]></title>
         <id>https://extmovie.com/bestboard/90538565</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/bestboard/90538459</id>
         <link href="https://extmovie.com/bestboard/90538459"/>
         <updated>2023-01-22T12:20:39.683Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3877844point (59%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3877856point (59%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송태섭 포스터 의도가...]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/bestboard/90537631</id>
         <link href="https://extmovie.com/bestboard/90537631"/>
         <updated>2023-01-22T07:10:57.462Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1998point (50%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오라파엘]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2015point (53%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오라파엘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에에올 도시락🍱]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90536392"/>
         <updated>2023-01-22T09:11:20.109Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1263834point (63%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아바타 주인공 배우가 한때 그린랜턴 역 캐스팅되려다가 떨어졌다네요..]]></title>
-        <id>https://extmovie.com/bestboard/90536292</id>
-        <link href="https://extmovie.com/bestboard/90536292"/>
-        <updated>2023-01-22T03:13:02.868Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8077point (46%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김렌고쿠????]]></content>
     </entry>
 </feed>

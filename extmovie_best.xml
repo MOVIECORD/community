@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-01-24T19:11:07.088Z</updated>
+    <updated>2023-01-24T20:14:47.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90548209"/>
         <updated>2023-01-24T17:11:05.314Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:50914point (22%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬램덩크 포스터 특전 ㅠㅠ]]></title>
+        <id>https://extmovie.com/bestboard/90548166</id>
+        <link href="https://extmovie.com/bestboard/90548166"/>
+        <updated>2023-01-24T20:12:31.343Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:343point (85%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크스네이크]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 1월 24잋 국내 박스오피스]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/90545463</id>
         <link href="https://extmovie.com/bestboard/90545463"/>
         <updated>2023-01-24T08:15:30.244Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/27.gif" alt="[레벨:27]" title="포인트:71936point (8%), 레벨:27/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/27.gif" alt="[레벨:27]" title="포인트:71950point (8%), 레벨:27/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박소담 유령 유리코의 방]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90544515"/>
         <updated>2023-01-24T06:15:10.042Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11381point (23%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">여누리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<더 퍼스트 슬램덩크> 150만 돌파]]></title>
-        <id>https://extmovie.com/bestboard/90544366</id>
-        <link href="https://extmovie.com/bestboard/90544366"/>
-        <updated>2023-01-24T04:14:49.913Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53307point (39%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">킹치만귀여운걸]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-01-27T04:15:54.304Z</updated>
+    <updated>2023-01-27T05:13:55.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 메간 - 특별함을 기대했지만 별거없는...]]></title>
+        <id>https://extmovie.com/movietalk/90561294?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90561294?category=61633579"/>
+        <updated>2023-01-27T05:12:46.845Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1269point (11%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈렉 3 [왕 스포.230125]]]></title>
         <id>https://extmovie.com/movietalk/90559463?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/90536629?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90536629?category=61633579"/>
         <updated>2023-01-21T17:12:37.068Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24322point (43%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24363point (44%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올빼미 [왕 스포.230118]]]></title>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/90519943?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90519943?category=61633579"/>
         <updated>2023-01-18T11:11:51.767Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24322point (43%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24363point (44%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[라일 라일 크로커다일] 더빙판 후기]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/90511223?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90511223?category=61633579"/>
         <updated>2023-01-16T17:12:24.563Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42008point (59%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42010point (59%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빛과 철 [왕 스포.230113]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90502671?category=61633579"/>
         <updated>2023-01-14T14:10:51.602Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2895point (65%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유랑의 달 GV까지 보고나서의 후기]]></title>
-        <id>https://extmovie.com/movietalk/90502084?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90502084?category=61633579"/>
-        <updated>2023-01-14T10:13:10.078Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35064point (73%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

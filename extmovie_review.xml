@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-01-28T16:15:06.728Z</updated>
+    <updated>2023-01-28T17:11:51.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유령을 보고]]></title>
+        <id>https://extmovie.com/movietalk/90567430?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90567430?category=61633579"/>
+        <updated>2023-01-28T17:11:43.814Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13965point (44%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교섭을 보고]]></title>
+        <id>https://extmovie.com/movietalk/90567421?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90567421?category=61633579"/>
+        <updated>2023-01-28T17:11:43.815Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13965point (44%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상견니 저는 잘 보고왔네요~^^]]></title>
         <id>https://extmovie.com/movietalk/90567287?category=61633579</id>
@@ -45,7 +59,7 @@
         <id>https://extmovie.com/movietalk/90562696?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90562696?category=61633579"/>
         <updated>2023-01-27T13:18:52.592Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3378point (11%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰계란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3386point (12%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰계란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[교섭 관람평(약 스포 포함)]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/90513647?category=61633579"/>
         <updated>2023-01-17T10:13:47.611Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:716point (68%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익무이벤트 '스위치' 관람 간단평 (노스포) - 소소한 코믹 가...]]></title>
-        <id>https://extmovie.com/movietalk/90513561?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90513561?category=61633579"/>
-        <updated>2023-01-17T10:13:47.616Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3869966point (56%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[< 교섭 > 시사 간단 후기 [1]]]></title>
-        <id>https://extmovie.com/movietalk/90511223?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90511223?category=61633579"/>
-        <updated>2023-01-16T17:12:24.563Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42230point (65%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
     </entry>
 </feed>

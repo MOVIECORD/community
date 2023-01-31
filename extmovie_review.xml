@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-01-31T01:04:22.158Z</updated>
+    <updated>2023-01-31T02:45:34.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <더 메뉴> 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/90576693?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90576693?category=61633579"/>
+        <updated>2023-01-31T02:44:26.602Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:730point (71%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문기자 [왕 스포.230128]]]></title>
         <id>https://extmovie.com/movietalk/90575400?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90532720?category=61633579"/>
         <updated>2023-01-20T15:13:38.910Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27513point (47%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무협지 안보는 이의 천룡팔부 후기: 너무 전통적인 그래서 불안한]]></title>
-        <id>https://extmovie.com/movietalk/90531924?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90531924?category=61633579"/>
-        <updated>2023-01-20T13:21:07.180Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41361point (43%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양파썰다실명한]]></content>
     </entry>
 </feed>

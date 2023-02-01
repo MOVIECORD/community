@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T18:18:26.025Z</updated>
+    <updated>2023-02-01T20:15:19.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 2월 1일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://extmovie.com/bestboard/90584351"/>
         <updated>2023-02-01T17:12:18.732Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2588point (34%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ranxiu427]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바빌론 볼까했는데 로튼점수가 왜저러죠 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90584359</id>
+        <link href="https://extmovie.com/bestboard/90584359"/>
+        <updated>2023-02-01T20:13:03.148Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14386point (63%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왈도3호]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대학교 2학년 때 만든 단편영화입니다! (익스트림무비 ─ 익무힛갤)]]></title>
@@ -177,7 +184,7 @@
         <id>https://extmovie.com/bestboard/90582940</id>
         <link href="https://extmovie.com/bestboard/90582940"/>
         <updated>2023-02-01T09:13:04.256Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:243519point (67%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:243575point (67%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슬램덩크 엽서 받았습니다. (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/90582218"/>
         <updated>2023-02-01T10:14:09.569Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19403point (67%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">델라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블라인드 처리된 게시물입니다. (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90582108</id>
-        <link href="https://extmovie.com/bestboard/90582108"/>
-        <updated>2023-02-01T05:12:31.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:37point (9%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">차단]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 2월 1일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

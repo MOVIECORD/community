@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-02-02T21:12:07.554Z</updated>
+    <updated>2023-02-02T22:14:22.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(방방은개이름님 나눔)(약스포)다음소희 간단 후기]]></title>
+        <id>https://extmovie.com/movietalk/90589368?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90589368?category=61633579"/>
+        <updated>2023-02-02T22:13:14.366Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:213003point (86%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에디&amp;한나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스킵트레이스 합동수사 [왕 스포.230201]]]></title>
         <id>https://extmovie.com/movietalk/90588974?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90562696?category=61633579"/>
         <updated>2023-01-27T13:18:52.592Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5047point (47%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰계란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교섭 관람평(약 스포 포함)]]></title>
-        <id>https://extmovie.com/movietalk/90562352?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90562352?category=61633579"/>
-        <updated>2023-01-27T13:18:52.604Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10374point (72%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우야]]></content>
     </entry>
 </feed>

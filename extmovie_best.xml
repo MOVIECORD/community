@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-02-08T17:13:15.882Z</updated>
+    <updated>2023-02-08T18:17:46.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타이타닉 보고왔는데 아쉬워요]]></title>
+        <id>https://extmovie.com/bestboard/90615737</id>
+        <link href="https://extmovie.com/bestboard/90615737"/>
+        <updated>2023-02-08T18:15:29.541Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:244point (61%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 2월 8일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90615643</id>
+        <link href="https://extmovie.com/bestboard/90615643"/>
+        <updated>2023-02-08T18:15:29.542Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3885223point (61%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이맥스 그런거 관심도 없던 나.. (+타이타닉 굿즈)]]></title>
         <id>https://extmovie.com/bestboard/90615582</id>
@@ -132,6 +146,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:141962point (9%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CGV 용산 경품 현황입니다. (18:30경)]]></title>
+        <id>https://extmovie.com/bestboard/90614324</id>
+        <link href="https://extmovie.com/bestboard/90614324"/>
+        <updated>2023-02-08T18:15:29.586Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24219point (39%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라플란드]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[용아맥 <타이타닉> 최고의 3D효과는...]]></title>
         <id>https://extmovie.com/bestboard/90614262</id>
         <link href="https://extmovie.com/bestboard/90614262"/>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/90613548"/>
         <updated>2023-02-08T10:15:03.356Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3885223point (61%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데시네마 앤트맨과 와스프: 퀀텀매니아 시그니처 아트카드 증정]]></title>
-        <id>https://extmovie.com/bestboard/90613541</id>
-        <link href="https://extmovie.com/bestboard/90613541"/>
-        <updated>2023-02-08T09:13:08.835Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:149190point (45%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[타이타닉] 평생 극장에서 보고 싶은..]]></title>
-        <id>https://extmovie.com/bestboard/90613516</id>
-        <link href="https://extmovie.com/bestboard/90613516"/>
-        <updated>2023-02-08T11:11:02.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:153786point (68%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">옵티머스프라임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘교섭’ 흥행 결렬...우려 현실로]]></title>
-        <id>https://extmovie.com/bestboard/90613493</id>
-        <link href="https://extmovie.com/bestboard/90613493"/>
-        <updated>2023-02-08T10:15:03.356Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:426156point (30%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

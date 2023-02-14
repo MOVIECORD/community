@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-02-14T11:11:55.081Z</updated>
+    <updated>2023-02-14T12:27:36.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바빌론을 보고 (스포x)]]></title>
+        <id>https://extmovie.com/movietalk/90640341?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90640341?category=61633579"/>
+        <updated>2023-02-14T12:26:28.752Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4618point (15%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노튼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<다음 소희> - 소희를 위한 나라는 없다. 영화 리뷰입니다. 약스...]]></title>
         <id>https://extmovie.com/movietalk/90639513?category=61633579</id>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/90618144?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90618144?category=61633579"/>
         <updated>2023-02-09T09:14:12.398Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11166point (13%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11168point (13%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반전이 거의 전부인 영화 [트윈] 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90607539?category=61633579"/>
         <updated>2023-02-07T09:13:56.517Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1354point (27%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오퍼나지 - 비밀의 계단 [왕 스포.230203]]]></title>
-        <id>https://extmovie.com/movietalk/90604596?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90604596?category=61633579"/>
-        <updated>2023-02-06T15:15:28.619Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9744point (39%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

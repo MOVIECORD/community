@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-02-16T18:16:52.893Z</updated>
+    <updated>2023-02-16T19:12:03.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 2월 16일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90651857</id>
+        <link href="https://extmovie.com/bestboard/90651857"/>
+        <updated>2023-02-16T19:09:47.062Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3889155point (63%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탑건 돌비 재개봉이라...]]></title>
         <id>https://extmovie.com/bestboard/90651743</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90649115"/>
         <updated>2023-02-16T09:13:22.093Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1154point (84%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 사고 드라마 <더 데이스> 티저 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/90649085</id>
-        <link href="https://extmovie.com/bestboard/90649085"/>
-        <updated>2023-02-16T06:16:05.863Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47608point (99%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

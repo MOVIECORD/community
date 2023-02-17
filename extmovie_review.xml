@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-02-17T15:14:50.291Z</updated>
+    <updated>2023-02-17T16:18:12.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카운트 부모님세대 좋아하실거같아요]]></title>
+        <id>https://extmovie.com/movietalk/90656752?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90656752?category=61633579"/>
+        <updated>2023-02-17T16:17:03.855Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3301point (5%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스피또당첨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경계선 [왕 스포.230214]]]></title>
         <id>https://extmovie.com/movietalk/90656620?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90628851?category=61633579"/>
         <updated>2023-02-11T17:11:29.523Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14009point (46%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평행이론 도플갱어 살인 [왕 스포.230208]]]></title>
-        <id>https://extmovie.com/movietalk/90625136?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90625136?category=61633579"/>
-        <updated>2023-02-10T15:14:00.754Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9784point (41%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

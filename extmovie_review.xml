@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-02-18T19:11:54.228Z</updated>
+    <updated>2023-02-18T20:14:18.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원작 소설이 유명하다는 애니 [어메이징 모리스] 후기]]></title>
+        <id>https://extmovie.com/movietalk/90661564?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90661564?category=61633579"/>
+        <updated>2023-02-18T20:13:09.748Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1550point (64%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤트맨과 와스프: 퀀텀매니아 - 스포일러 리뷰]]></title>
         <id>https://extmovie.com/movietalk/90660038?category=61633579</id>
@@ -73,14 +80,14 @@
         <id>https://extmovie.com/movietalk/90652104?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90652104?category=61633579"/>
         <updated>2023-02-16T18:15:45.338Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1537point (61%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1550point (64%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[앤트맨: 퀀텀매니아] 후기]]></title>
         <id>https://extmovie.com/movietalk/90652028?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90652028?category=61633579"/>
         <updated>2023-02-16T18:15:45.338Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1537point (61%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1550point (64%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앤트맨 4dx3d 보고 4d, 3d 체감]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90631872?category=61633579"/>
         <updated>2023-02-12T15:12:03.340Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:648point (53%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 동돌비 타이타닉  후기]]></title>
-        <id>https://extmovie.com/movietalk/90631677?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90631677?category=61633579"/>
-        <updated>2023-02-12T13:17:36.830Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:52point (13%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스미스요원]]></content>
     </entry>
 </feed>

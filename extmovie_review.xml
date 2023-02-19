@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-02-19T16:16:42.346Z</updated>
+    <updated>2023-02-19T17:11:03.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패밀리맨 원작??- 권상우 주연 스위치 후기]]></title>
+        <id>https://extmovie.com/movietalk/90664299?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90664299?category=61633579"/>
+        <updated>2023-02-19T17:10:55.385Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28504point (79%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[콜제인]후기]]></title>
         <id>https://extmovie.com/movietalk/90664248?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90664248?category=61633579"/>
         <updated>2023-02-19T15:12:04.843Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117119point (60%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117121point (60%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[겁쟁이페달 & 카케구루이2 극장판 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90640341?category=61633579"/>
         <updated>2023-02-14T12:26:28.752Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4634point (16%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노튼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<다음 소희> - 소희를 위한 나라는 없다. 영화 리뷰입니다. 약스...]]></title>
-        <id>https://extmovie.com/movietalk/90639513?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90639513?category=61633579"/>
-        <updated>2023-02-14T09:14:41.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1322point (21%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">부끄럽구요]]></content>
     </entry>
 </feed>

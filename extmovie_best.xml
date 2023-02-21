@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-02-21T18:17:54.899Z</updated>
+    <updated>2023-02-21T19:14:48.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀린 송 감독, 유태오 주연 [전생] 포스터 공개]]></title>
+        <id>https://extmovie.com/bestboard/90672529</id>
+        <link href="https://extmovie.com/bestboard/90672529"/>
+        <updated>2023-02-21T19:11:33.887Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:429840point (49%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화비 부담 ㅠㅠ]]></title>
         <id>https://extmovie.com/bestboard/90672456</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90670080"/>
         <updated>2023-02-21T02:47:26.241Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3895420point (65%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴 토마스 앤더슨의 [타르] 관람평]]></title>
-        <id>https://extmovie.com/bestboard/90670040</id>
-        <link href="https://extmovie.com/bestboard/90670040"/>
-        <updated>2023-02-21T04:15:41.758Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:257269point (36%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kimyoung12]]></content>
     </entry>
 </feed>

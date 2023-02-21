@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-02-21T20:14:11.635Z</updated>
+    <updated>2023-02-21T21:11:50.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[귀멸의 칼날: 상현집결, 그리고 도공 마을로] 일본 특전 2탄]]></title>
+        <id>https://extmovie.com/bestboard/90672512</id>
+        <link href="https://extmovie.com/bestboard/90672512"/>
+        <updated>2023-02-21T21:11:31.782Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1272109point (72%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀린 송 감독, 유태오 주연 [전생] 포스터 공개]]></title>
         <id>https://extmovie.com/bestboard/90672529</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90670123"/>
         <updated>2023-02-21T18:15:37.977Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3895420point (65%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길복순] 국내 언론 반응]]></title>
-        <id>https://extmovie.com/bestboard/90670091</id>
-        <link href="https://extmovie.com/bestboard/90670091"/>
-        <updated>2023-02-21T03:18:22.801Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:429840point (49%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

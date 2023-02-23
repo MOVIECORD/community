@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-02-23T21:12:23.965Z</updated>
+    <updated>2023-02-23T22:12:45.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/90680493"/>
         <updated>2023-02-23T15:14:22.571Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3892215point (64%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로버트 드 니로 주연 영화 [About My Father] 공식 예고편]]></title>
+        <id>https://extmovie.com/bestboard/90680392</id>
+        <link href="https://extmovie.com/bestboard/90680392"/>
+        <updated>2023-02-23T22:12:27.327Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19504point (71%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['Cocaine Bear'에 대한 단상]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90678607"/>
         <updated>2023-02-23T12:25:35.521Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3892215point (64%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 스튜디오 샹치2, 이터널스2 제작 착수]]></title>
-        <id>https://extmovie.com/bestboard/90678495</id>
-        <link href="https://extmovie.com/bestboard/90678495"/>
-        <updated>2023-02-23T06:18:08.426Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7900point (35%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kwanini]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-23T21:12:23.942Z</updated>
+    <updated>2023-02-23T22:12:45.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 2월 23일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -45,6 +45,13 @@
         <link href="https://extmovie.com/bestboard/90680493"/>
         <updated>2023-02-23T15:14:22.571Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3892215point (64%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로버트 드 니로 주연 영화 [About My Father] 공식 예고편 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90680392</id>
+        <link href="https://extmovie.com/bestboard/90680392"/>
+        <updated>2023-02-23T22:12:27.327Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19504point (71%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['Cocaine Bear'에 대한 단상 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/90678607"/>
         <updated>2023-02-23T12:25:35.521Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3892215point (64%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 스튜디오 샹치2, 이터널스2 제작 착수 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90678495</id>
-        <link href="https://extmovie.com/bestboard/90678495"/>
-        <updated>2023-02-23T06:18:08.426Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7900point (35%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kwanini]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 2월 23일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>
@@ -611,7 +611,7 @@
         <id>https://extmovie.com/movietalk/90663253?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90663253?category=61633579"/>
         <updated>2023-02-19T13:17:57.152Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37247point (33%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37259point (34%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원작 소설이 유명하다는 애니 [어메이징 모리스] 후기 (익스트림무비 ─ 영화리뷰)]]></title>
@@ -667,7 +667,7 @@
         <id>https://extmovie.com/movietalk/90656421?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90656421?category=61633579"/>
         <updated>2023-02-17T15:14:41.405Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37247point (33%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37259point (34%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<앤트맨과 와스프: 퀀텀매니아>의 치명적인 단점 (강스포) (익스트림무비 ─ 영화리뷰)]]></title>

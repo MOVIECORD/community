@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-02-26T01:09:39.205Z</updated>
+    <updated>2023-02-26T02:55:29.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 [다음 소희] 관람 후기 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/90688739?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90688739?category=61633579"/>
+        <updated>2023-02-26T02:55:20.309Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27689point (53%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스즈메의 문단속 보고왔습니다..]]></title>
         <id>https://extmovie.com/movietalk/90687138?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/90664299?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90664299?category=61633579"/>
         <updated>2023-02-19T17:10:55.385Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29358point (5%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29372point (6%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[콜제인]후기]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/90659532?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90659532?category=61633579"/>
         <updated>2023-02-18T06:16:18.179Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27669point (52%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27689point (53%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카운트 부모님세대 좋아하실거같아요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90651891?category=61633579"/>
         <updated>2023-02-16T18:15:45.338Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:224point (56%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Conejito]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셜리 [왕  스포.230213]]]></title>
-        <id>https://extmovie.com/movietalk/90651870?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90651870?category=61633579"/>
-        <updated>2023-02-16T18:15:45.342Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10095point (57%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

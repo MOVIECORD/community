@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-02-26T20:13:06.982Z</updated>
+    <updated>2023-02-26T21:11:00.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/90690080"/>
         <updated>2023-02-26T16:15:20.130Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:154727point (73%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신민아 구찌 살롱 행사 고화질]]></title>
+        <id>https://extmovie.com/bestboard/90690013</id>
+        <link href="https://extmovie.com/bestboard/90690013"/>
+        <updated>2023-02-26T21:10:42.127Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:155787point (78%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[픽션보다 더 무서운 여섯 편의 다큐멘터리 공포영화.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90688255"/>
         <updated>2023-02-26T03:24:30.347Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19971point (89%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴 잭맨 “‘울버린’ 연기하면서 목소리 손상 입었다”]]></title>
-        <id>https://extmovie.com/bestboard/90688253</id>
-        <link href="https://extmovie.com/bestboard/90688253"/>
-        <updated>2023-02-26T06:15:17.404Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29388point (6%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
 </feed>

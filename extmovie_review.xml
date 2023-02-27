@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-02-27T06:17:11.506Z</updated>
+    <updated>2023-02-27T07:12:39.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스즈메 무대인사 잡았다가 이벤트 터졌너요?]]></title>
+        <id>https://extmovie.com/movietalk/90692936?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90692936?category=61633579"/>
+        <updated>2023-02-27T07:12:30.742Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:104point (26%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빙슈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교섭 [왕 스포.230223]]]></title>
         <id>https://extmovie.com/movietalk/90690790?category=61633579</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/90673525?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90673525?category=61633579"/>
         <updated>2023-02-22T00:59:55.807Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:156247point (81%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:156252point (81%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자토이치 [왕 스포.230217]]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/90663253?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90663253?category=61633579"/>
         <updated>2023-02-19T13:17:57.152Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37466point (39%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37472point (39%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원작 소설이 유명하다는 애니 [어메이징 모리스] 후기]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/90656421?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90656421?category=61633579"/>
         <updated>2023-02-17T15:14:41.405Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37466point (39%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37472point (39%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<앤트맨과 와스프: 퀀텀매니아>의 치명적인 단점 (강스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90654616?category=61633579"/>
         <updated>2023-02-17T08:17:49.532Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1975point (46%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중학생의 앤트맨과 와스프 퀀텀매니아 노스포 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/90653184?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90653184?category=61633579"/>
-        <updated>2023-02-17T06:17:55.412Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:22point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">삐깡]]></content>
     </entry>
 </feed>

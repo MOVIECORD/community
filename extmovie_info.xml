@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-02-28T20:13:59.483Z</updated>
+    <updated>2023-02-28T21:12:18.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명탐정 코난 흑철의 어영 메인 예고편,주제가 정보 공개]]></title>
+        <id>https://extmovie.com/movietalk/90699701?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/90699701?category=21915420"/>
+        <updated>2023-02-28T21:12:05.203Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1351point (26%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">히든]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 관람영화 정리 결산 ㅎㅎ]]></title>
         <id>https://extmovie.com/movietalk/90699647?category=21915420</id>
         <link href="https://extmovie.com/movietalk/90699647?category=21915420"/>
         <updated>2023-02-28T19:10:57.872Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29934point (23%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29936point (23%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 3월 첫째 주(1, 2일) 개봉작 8편 정리]]></title>
         <id>https://extmovie.com/movietalk/90699643?category=21915420</id>
         <link href="https://extmovie.com/movietalk/90699643?category=21915420"/>
         <updated>2023-02-28T19:10:57.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29934point (23%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29936point (23%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘시타델‘ 첫 티저 - 리차드 매든, 프리앙카 초프라, 스탠리 투치]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/90697004?category=21915420</id>
         <link href="https://extmovie.com/movietalk/90697004?category=21915420"/>
         <updated>2023-02-28T06:16:33.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:50907point (22%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<스즈메의 문단속> 파이널 예고편 공개]]></title>
-        <id>https://extmovie.com/movietalk/90696980?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/90696980?category=21915420"/>
-        <updated>2023-02-28T06:16:33.552Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:50907point (22%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

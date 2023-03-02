@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-02T15:14:12.104Z</updated>
+    <updated>2023-03-02T16:17:59.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 귀멸의칼날: 상현집결, 그리고 도공마을로 (스포가 있습니다)]]></title>
+        <id>https://extmovie.com/movietalk/90708183?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90708183?category=61633579"/>
+        <updated>2023-03-02T16:17:50.791Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3281point (3%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 멍뭉이 (스포가 있습니다)]]></title>
         <id>https://extmovie.com/movietalk/90707957?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90707957?category=61633579"/>
         <updated>2023-03-02T15:14:04.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3271point (2%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3281point (3%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[용아맥 1회차 대리수령으로 보고 왔습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90677099?category=61633579"/>
         <updated>2023-02-22T15:13:20.396Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10167point (61%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이도 볼만한 러시아 애니 [미녀와 야수: 마법에 걸린 왕자] 후기]]></title>
-        <id>https://extmovie.com/movietalk/90677043?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90677043?category=61633579"/>
-        <updated>2023-02-22T15:13:20.397Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1705point (93%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
     </entry>
 </feed>

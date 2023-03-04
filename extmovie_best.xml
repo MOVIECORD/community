@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-04T21:11:01.109Z</updated>
+    <updated>2023-03-04T22:12:02.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -122,13 +122,20 @@
         <id>https://extmovie.com/bestboard/90714520</id>
         <link href="https://extmovie.com/bestboard/90714520"/>
         <updated>2023-03-04T15:12:03.844Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:247407point (87%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:247409point (87%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이다희 파리]]></title>
         <id>https://extmovie.com/bestboard/90714432</id>
         <link href="https://extmovie.com/bestboard/90714432"/>
         <updated>2023-03-04T13:17:36.332Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3904852point (68%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약빤 KCC 광고 근황]]></title>
+        <id>https://extmovie.com/bestboard/90714391</id>
+        <link href="https://extmovie.com/bestboard/90714391"/>
+        <updated>2023-03-04T22:11:44.415Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3904852point (68%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -188,6 +195,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1275362point (75%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제이크 질렌할 ‘로드하우스’ 리메이크 UFC285 시퀀스 촬영장면]]></title>
+        <id>https://extmovie.com/bestboard/90713439</id>
+        <link href="https://extmovie.com/bestboard/90713439"/>
+        <updated>2023-03-04T22:11:44.425Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3904852point (68%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김현정 감독 [흐르다] 티저 포스터 / 예고편]]></title>
         <id>https://extmovie.com/bestboard/90713428</id>
         <link href="https://extmovie.com/bestboard/90713428"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90712833"/>
         <updated>2023-03-04T04:15:15.706Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:434780point (73%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 '앤트맨3' 작가, 혹평 세례에... 자존감 바닥 "너...]]></title>
-        <id>https://extmovie.com/bestboard/90712621</id>
-        <link href="https://extmovie.com/bestboard/90712621"/>
-        <updated>2023-03-04T02:21:48.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:859point (99%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">은가누]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시3 손익분기점]]></title>
-        <id>https://extmovie.com/bestboard/90712619</id>
-        <link href="https://extmovie.com/bestboard/90712619"/>
-        <updated>2023-03-04T02:21:48.573Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:859point (99%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">은가누]]></content>
     </entry>
 </feed>

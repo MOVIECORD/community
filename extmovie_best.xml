@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-06T18:16:51.135Z</updated>
+    <updated>2023-03-06T19:11:18.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/90721845"/>
         <updated>2023-03-06T14:12:15.174Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3897147point (65%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[샤잠! 신들의 분노] 홍보 중인 레이첼 지글러]]></title>
+        <id>https://extmovie.com/bestboard/90721823</id>
+        <link href="https://extmovie.com/bestboard/90721823"/>
+        <updated>2023-03-06T19:10:57.390Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:435601point (78%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['파벨만스' 배우들 보고 눈물 흘렸다는 스필버그 감독]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/bestboard/90719816</id>
         <link href="https://extmovie.com/bestboard/90719816"/>
         <updated>2023-03-06T09:14:05.620Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:78019point (10%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:78131point (10%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[왓 이프?] 시즌 2에 나올 헬라 모습 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90719172"/>
         <updated>2023-03-06T10:14:27.541Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42840point (81%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 신성한, 이혼 아직은 괜찮은 듯 싶네요.]]></title>
-        <id>https://extmovie.com/bestboard/90718989</id>
-        <link href="https://extmovie.com/bestboard/90718989"/>
-        <updated>2023-03-06T08:17:17.935Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17949point (11%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
     </entry>
 </feed>

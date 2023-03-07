@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-07T20:14:20.947Z</updated>
+    <updated>2023-03-07T21:12:18.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘(23.03.07) 주성치 인스타그램 (feat. 주걸륜)]]></title>
+        <id>https://extmovie.com/bestboard/90727167</id>
+        <link href="https://extmovie.com/bestboard/90727167"/>
+        <updated>2023-03-07T21:11:59.762Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:145383point (26%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리코배우님이 한국 110만돌파에 감사하다는 말 전했네요]]></title>
         <id>https://extmovie.com/bestboard/90727094</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90724463"/>
         <updated>2023-03-07T07:11:12.715Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2357point (10%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+ [피터팬 & 웬디] 국내 티저 예고편 및 포스터]]></title>
-        <id>https://extmovie.com/bestboard/90724409</id>
-        <link href="https://extmovie.com/bestboard/90724409"/>
-        <updated>2023-03-07T06:16:27.509Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43011point (85%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
     </entry>
 </feed>

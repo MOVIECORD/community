@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-09T18:16:20.606Z</updated>
+    <updated>2023-03-09T19:11:13.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 3월 9일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90738174</id>
+        <link href="https://extmovie.com/bestboard/90738174"/>
+        <updated>2023-03-09T19:10:53.636Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3898778point (66%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애니속 일본모습 vs 현실속 일본모습]]></title>
         <id>https://extmovie.com/bestboard/90737905</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/90736593</id>
         <link href="https://extmovie.com/bestboard/90736593"/>
         <updated>2023-03-09T12:25:26.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:147607point (38%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spacekitty]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:147609point (38%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spacekitty]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이런 굿즈가 있었어요?? 헤어질 결심]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90735675"/>
         <updated>2023-03-09T12:25:26.070Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:159549point (97%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스카 후보자들이 받는 기프트백 상품 리스트 - 총 12만6천달러(약 1...]]></title>
-        <id>https://extmovie.com/bestboard/90735445</id>
-        <link href="https://extmovie.com/bestboard/90735445"/>
-        <updated>2023-03-09T15:14:03.944Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3909383point (69%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

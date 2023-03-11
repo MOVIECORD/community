@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-11T02:09:08.673Z</updated>
+    <updated>2023-03-11T03:13:23.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 [서치 2] 관람 후기 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/90743147?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90743147?category=61633579"/>
+        <updated>2023-03-11T03:13:15.361Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27831point (57%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카인의 후예 (1968). 해방 후 공산당이 북한을 접수하던 시절 사랑이야...]]></title>
         <id>https://extmovie.com/movietalk/89976964?category=61633579</id>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/90715005?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90715005?category=61633579"/>
         <updated>2023-03-04T11:10:13.801Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27812point (57%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27831point (57%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 [귀멸의 칼날: 상현집결, 그리고 도공마을로] 장삿속이 너무 심한 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90705543?category=61633579"/>
         <updated>2023-03-02T05:13:03.369Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12473point (76%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2회차 관람하니 전보다 이해하기 훨씬 수월했던 [상견니]]]></title>
-        <id>https://extmovie.com/movietalk/90705341?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90705341?category=61633579"/>
-        <updated>2023-03-02T05:13:03.370Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1761point (4%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
     </entry>
 </feed>

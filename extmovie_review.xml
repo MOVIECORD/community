@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-15T07:12:12.411Z</updated>
+    <updated>2023-03-15T08:16:32.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포)신들의 분노가 아닌 나의 샤잠2 분노의 후기]]></title>
+        <id>https://extmovie.com/movietalk/90761822?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90761822?category=61633579"/>
+        <updated>2023-03-15T08:16:24.714Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42021point (60%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양파썰다실명한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 샤잠2 왜 재밌는거죠? DC야 정신차렸니..?]]></title>
         <id>https://extmovie.com/movietalk/90759871?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/90748820?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90748820?category=61633579"/>
         <updated>2023-03-12T16:15:13.481Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:24point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">월터의상상]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:25point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">월터의상상]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영웅 [왕 스포.230302]]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/90734391?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90734391?category=61633579"/>
         <updated>2023-03-09T02:50:23.524Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38182point (59%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38184point (59%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 소울메이트 메박 이수가서 시사회 보고 왔습니다]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/90718537?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90718537?category=61633579"/>
         <updated>2023-03-05T16:16:08.458Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13553point (26%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kairosfoto]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <멍뭉이> 무대인사... ^^]]></title>
-        <id>https://extmovie.com/movietalk/90718528?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90718528?category=61633579"/>
-        <updated>2023-03-05T16:16:08.461Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13553point (26%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kairosfoto]]></content>
     </entry>
 </feed>

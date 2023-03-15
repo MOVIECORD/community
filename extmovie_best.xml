@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-15T20:13:33.769Z</updated>
+    <updated>2023-03-15T21:11:51.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90764045"/>
         <updated>2023-03-15T18:15:23.713Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:700point (65%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">wjke]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 3월 15일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90764020</id>
+        <link href="https://extmovie.com/bestboard/90764020"/>
+        <updated>2023-03-15T21:11:32.774Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3901771point (67%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존윅4 로튼토마토 현재]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/bestboard/90761642</id>
         <link href="https://extmovie.com/bestboard/90761642"/>
         <updated>2023-03-15T15:13:15.781Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2195point (89%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마스터2012]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2197point (89%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마스터2012]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[귀칼 이번주 굿즈 넘 예쁘네요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90760996"/>
         <updated>2023-03-15T08:16:15.456Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3021point (77%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하하동자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 수령한 경품(굿즈)들입니다.]]></title>
-        <id>https://extmovie.com/bestboard/90760940</id>
-        <link href="https://extmovie.com/bestboard/90760940"/>
-        <updated>2023-03-15T07:11:51.520Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25617point (86%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라플란드]]></content>
     </entry>
 </feed>

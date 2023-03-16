@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-15T23:11:00.614Z</updated>
+    <updated>2023-03-16T01:03:01.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 《샤잠: 신들의 분노》리뷰]]></title>
+        <id>https://extmovie.com/movietalk/90764421?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90764421?category=61633579"/>
+        <updated>2023-03-16T01:02:51.938Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21041point (28%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로스트지겐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘소울메이트’ 한줄평.jpg]]></title>
         <id>https://extmovie.com/movietalk/90762276?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/90757165?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90757165?category=61633579"/>
         <updated>2023-03-14T10:15:12.278Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:161207point (4%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:161247point (4%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 연애의 기억 [왕 스포.230303]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90722356?category=61633579"/>
         <updated>2023-03-06T15:13:43.242Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10305point (69%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <더 웨일> 후회에서 희망까지 (스포주의) 리뷰입니다.]]></title>
-        <id>https://extmovie.com/movietalk/90720319?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90720319?category=61633579"/>
-        <updated>2023-03-06T07:12:21.410Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1458point (46%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
 </feed>

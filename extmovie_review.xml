@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-18T18:14:12.029Z</updated>
+    <updated>2023-03-18T19:09:40.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[장기자랑] 절대 잊어선 안되는 기억 (짧은 후기, 정치 X, 스포 X)]]></title>
+        <id>https://extmovie.com/movietalk/90777673?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90777673?category=61633579"/>
+        <updated>2023-03-18T19:09:31.746Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3572point (28%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팔로우드] 핸드헬드의 향연, 페이크다큐 공포영화]]></title>
+        <id>https://extmovie.com/movietalk/90777669?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90777669?category=61633579"/>
+        <updated>2023-03-18T19:09:31.747Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3572point (28%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 [멍뭉이] 관람 후기 리뷰]]></title>
         <id>https://extmovie.com/movietalk/90776566?category=61633579</id>
@@ -52,7 +66,7 @@
         <id>https://extmovie.com/movietalk/90765141?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90765141?category=61633579"/>
         <updated>2023-03-16T02:36:47.768Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3480point (20%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3572point (28%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포) 《샤잠: 신들의 분노》리뷰]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/90733340?category=61633579"/>
         <updated>2023-03-08T15:14:20.229Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2165point (83%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치매의 무서움과 슬픔을 그린 영화 [그대 어이가리]]]></title>
-        <id>https://extmovie.com/movietalk/90733178?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90733178?category=61633579"/>
-        <updated>2023-03-08T14:12:53.701Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2165point (83%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '스즈메의 문단속' 한줄평.jpg]]></title>
-        <id>https://extmovie.com/movietalk/90732118?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90732118?category=61633579"/>
-        <updated>2023-03-08T09:13:33.336Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:51point (12%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">신현필]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-19T20:12:51.347Z</updated>
+    <updated>2023-03-19T21:11:02.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1148point (82%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">IF]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이래도 되나 싶은 ‘인어공주’ 공식 스틸컷]]></title>
+        <id>https://extmovie.com/bestboard/90778757</id>
+        <link href="https://extmovie.com/bestboard/90778757"/>
+        <updated>2023-03-19T21:10:45.338Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3923030point (74%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['샤잠! 신들의 분노' 속 이스터에그들 정리]]></title>
         <id>https://extmovie.com/bestboard/90778679</id>
         <link href="https://extmovie.com/bestboard/90778679"/>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/90778446</id>
         <link href="https://extmovie.com/bestboard/90778446"/>
         <updated>2023-03-19T06:16:50.699Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:157495point (87%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:157497point (87%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송혜교 인스타속 한소희 댓글들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90777896"/>
         <updated>2023-03-19T12:21:34.952Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3903473point (67%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마고 로비는 할리퀸으로 계속 남을듯합니다.]]></title>
-        <id>https://extmovie.com/bestboard/90777793</id>
-        <link href="https://extmovie.com/bestboard/90777793"/>
-        <updated>2023-03-19T02:44:11.097Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22156point (68%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

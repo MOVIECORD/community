@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-21T19:10:11.536Z</updated>
+    <updated>2023-03-21T20:12:58.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[웅남이 시사회 평이 안올라오네요. (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90787848</id>
+        <link href="https://extmovie.com/bestboard/90787848"/>
+        <updated>2023-03-21T20:12:39.771Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43291point (93%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">허니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 3월 21일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/90787785</id>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/90784645"/>
         <updated>2023-03-21T05:11:38.625Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3925426point (75%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 예매표를 보다가 이상한걸 봤는데 아시는분 있나요? (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90784664</id>
-        <link href="https://extmovie.com/bestboard/90784664"/>
-        <updated>2023-03-21T04:13:40.255Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4446point (2%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">광제스님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 3월 21일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

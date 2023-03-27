@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-27T19:10:22.801Z</updated>
+    <updated>2023-03-27T20:14:15.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[에어] 전설은 그냥 만들어지는 것이 아니다.]]></title>
+        <id>https://extmovie.com/movietalk/90810507?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90810507?category=61633579"/>
+        <updated>2023-03-27T20:14:07.137Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3727point (41%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타짜-신의 손 [왕 스포.230323]]]></title>
         <id>https://extmovie.com/movietalk/90810195?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/90802524?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90802524?category=61633579"/>
         <updated>2023-03-25T14:10:33.941Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3716point (40%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3727point (41%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 오토라는 남자 보고 왔습니다]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/90790067?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90790067?category=61633579"/>
         <updated>2023-03-22T06:15:24.866Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3716point (40%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3727point (41%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마루이 비디오 [왕 스포.230318]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90779020?category=61633579"/>
         <updated>2023-03-19T08:14:35.755Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:278point (69%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spark]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플레인 보고나왔는데~~~]]></title>
-        <id>https://extmovie.com/movietalk/90778661?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90778661?category=61633579"/>
-        <updated>2023-03-19T06:17:02.413Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41027point (34%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
 </feed>

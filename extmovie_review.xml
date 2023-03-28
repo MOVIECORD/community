@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-28T18:15:17.096Z</updated>
+    <updated>2023-03-28T19:09:53.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외계+인 뒤늦은 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/90814327?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90814327?category=61633579"/>
+        <updated>2023-03-28T19:09:44.786Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26230point (6%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여타짜 [왕 스포.230324]]]></title>
         <id>https://extmovie.com/movietalk/90814274?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90783977?category=61633579"/>
         <updated>2023-03-20T16:17:58.047Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14089point (50%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오토라는 남자 [왕 스포.230306]]]></title>
-        <id>https://extmovie.com/movietalk/90783926?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90783926?category=61633579"/>
-        <updated>2023-03-20T15:13:50.301Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10404point (74%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-03-29T05:11:59.617Z</updated>
+    <updated>2023-03-29T06:15:56.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[던전 앤 드래곤 도적들의 명예  강하게 비추합니다.]]></title>
+        <id>https://extmovie.com/movietalk/90816373?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90816373?category=61633579"/>
+        <updated>2023-03-29T06:15:47.763Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:26point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무조건첫날봄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(미라이님 나눔)(약스포)나의 연인에게 간단후기]]></title>
         <id>https://extmovie.com/movietalk/90815558?category=61633579</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/90802020?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90802020?category=61633579"/>
         <updated>2023-03-25T11:09:28.681Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39177point (86%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39283point (88%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[극장판 [귀멸의 칼날: 상현집결, 그리고 도공 마을로] 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90792148?category=61633579"/>
         <updated>2023-03-22T15:13:27.378Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10404point (74%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[파벨만스] 너무 솔직한 후기 (약 스포 O)]]></title>
-        <id>https://extmovie.com/movietalk/90790067?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90790067?category=61633579"/>
-        <updated>2023-03-22T06:15:24.866Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3729point (41%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

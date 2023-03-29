@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-29T17:39:58.348Z</updated>
+    <updated>2023-03-29T18:21:27.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:442555point (12%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[던전앤드래곤 약스포후기 재미없네요 ㅠ]]></title>
+        <id>https://extmovie.com/bestboard/90818148</id>
+        <link href="https://extmovie.com/bestboard/90818148"/>
+        <updated>2023-03-29T18:21:08.242Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14814point (82%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왈도3호]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마블은 이설정을 계속 밀고 갔어야 했어요]]></title>
         <id>https://extmovie.com/bestboard/90818134</id>
         <link href="https://extmovie.com/bestboard/90818134"/>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/90817923</id>
         <link href="https://extmovie.com/bestboard/90817923"/>
         <updated>2023-03-29T17:39:39.718Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27403point (44%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">난노]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27405point (44%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">난노]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스 에반스의 아나 데 아르마스 칭찬]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90815715"/>
         <updated>2023-03-29T06:15:38.140Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3935040point (78%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) 리바운드 짧은 소감]]></title>
-        <id>https://extmovie.com/bestboard/90815596</id>
-        <link href="https://extmovie.com/bestboard/90815596"/>
-        <updated>2023-03-29T05:11:39.622Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18139point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
     </entry>
 </feed>

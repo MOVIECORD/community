@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-03-31T20:12:34.100Z</updated>
+    <updated>2023-03-31T21:09:45.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/90826777"/>
         <updated>2023-03-31T17:11:02.596Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:443109point (15%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존윅 굿즈 증정 이벤트요.주의하세요.3종 다 주는게 아닙니다.랜덤입니다.]]></title>
+        <id>https://extmovie.com/bestboard/90826783</id>
+        <link href="https://extmovie.com/bestboard/90826783"/>
+        <updated>2023-03-31T21:09:22.983Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18072point (16%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마블 드라마 [시크릿 인베이젼] 스틸 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90823950"/>
         <updated>2023-03-31T20:12:14.774Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:264474point (72%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">땀돌이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미셸 로드리게스 '아바타' 트루디 부활 제안에 거절]]></title>
-        <id>https://extmovie.com/bestboard/90823780</id>
-        <link href="https://extmovie.com/bestboard/90823780"/>
-        <updated>2023-03-31T04:14:43.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1280879point (80%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

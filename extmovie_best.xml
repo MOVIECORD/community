@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-01T20:11:56.012Z</updated>
+    <updated>2023-04-01T21:10:30.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/90829732"/>
         <updated>2023-04-01T17:09:26.516Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26400point (12%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라플란드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핫토이 대만 팝업스토어 오픈]]></title>
+        <id>https://extmovie.com/bestboard/90829644</id>
+        <link href="https://extmovie.com/bestboard/90829644"/>
+        <updated>2023-04-01T21:10:08.554Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3938817point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텅텅빈 웅남이 무대인사 수원 CGV]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90828210"/>
         <updated>2023-04-01T10:11:11.438Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3938817point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만우절 같은 오늘 웅남이 무대인사 예상]]></title>
-        <id>https://extmovie.com/bestboard/90828183</id>
-        <link href="https://extmovie.com/bestboard/90828183"/>
-        <updated>2023-04-01T12:19:14.940Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:264532point (72%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">땀돌이]]></content>
     </entry>
 </feed>

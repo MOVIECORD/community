@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-04-04T17:09:51.293Z</updated>
+    <updated>2023-04-04T18:13:10.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보 이즈 어프레이드 - 2차 공식 예고편 [한글 자막]]]></title>
+        <id>https://extmovie.com/movietalk/90841292?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/90841292?category=21915420"/>
+        <updated>2023-04-04T18:12:54.764Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5290point (65%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 4월 4일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/90841164?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90838230?category=21915420"/>
         <updated>2023-04-04T02:05:16.193Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:443750point (18%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혹시 제 쿠폰함에 등록되어있는 쿠폰은 타인이 사용 불가한가요?]]></title>
-        <id>https://extmovie.com/movietalk/90838221?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/90838221?category=21915420"/>
-        <updated>2023-04-04T02:05:16.193Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:56point (14%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빈2]]></content>
     </entry>
 </feed>

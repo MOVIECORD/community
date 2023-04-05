@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-04-05T15:14:29.583Z</updated>
+    <updated>2023-04-05T16:18:08.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[던전 앤 드래곤 재밌네요]]></title>
+        <id>https://extmovie.com/movietalk/90845631?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90845631?category=61633579"/>
+        <updated>2023-04-05T16:17:59.246Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42288point (67%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모피어스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[라이스보이 슬립스] 이 영화를 만나서 너무 기쁘다.]]></title>
         <id>https://extmovie.com/movietalk/90844199?category=61633579</id>
@@ -17,14 +24,14 @@
         <id>https://extmovie.com/movietalk/90843486?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90843486?category=61633579"/>
         <updated>2023-04-05T06:15:22.593Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9292point (15%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9297point (15%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <이니셰린의 밴시> : 손절, 그냥 넘어갈 수 없는 일들 (스포...]]></title>
         <id>https://extmovie.com/movietalk/90841219?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90841219?category=61633579"/>
         <updated>2023-04-04T17:09:43.034Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1600point (73%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1604point (74%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[길복순 [왕 스포.230403]]]></title>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/90827022?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90827022?category=61633579"/>
         <updated>2023-03-31T16:14:05.117Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3943941point (81%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3944006point (81%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개봉 2일차 던전앤드래곤 후기모음]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90816701?category=61633579"/>
         <updated>2023-03-29T07:12:00.828Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25612point (86%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[던전 앤 드래곤 도적들의 명예  강하게 비추합니다.]]></title>
-        <id>https://extmovie.com/movietalk/90816373?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90816373?category=61633579"/>
-        <updated>2023-03-29T12:25:09.266Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:216point (54%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무조건첫날봄]]></content>
     </entry>
 </feed>

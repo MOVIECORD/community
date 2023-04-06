@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-04-06T00:53:38.309Z</updated>
+    <updated>2023-04-06T02:03:41.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<던전 앤 드래곤: 도적들의 명예> 간단 후기]]></title>
+        <id>https://extmovie.com/movietalk/90846503?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90846503?category=61633579"/>
+        <updated>2023-04-06T02:03:32.875Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:166125point (20%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[던전 앤 드래곤 재밌네요]]></title>
         <id>https://extmovie.com/movietalk/90845631?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/90835779?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90835779?category=61633579"/>
         <updated>2023-04-03T08:15:29.363Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:166111point (20%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:166125point (20%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 사쿠라 리뷰]]></title>
@@ -150,14 +157,14 @@
         <id>https://extmovie.com/movietalk/90827022?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90827022?category=61633579"/>
         <updated>2023-03-31T16:14:05.117Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3944392point (81%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3944523point (81%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개봉 2일차 던전앤드래곤 후기모음]]></title>
         <id>https://extmovie.com/movietalk/90825462?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90825462?category=61633579"/>
         <updated>2023-03-31T09:12:14.342Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:234point (58%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:247point (61%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해피투게더 처음으로 극장에서 보고왔어요 !!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90818419?category=61633579"/>
         <updated>2023-03-29T17:39:49.922Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1138point (79%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">junsc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[약스포][던전 앤 드래곤:도둑들의 명예] 신나는 판타지 모험극]]></title>
-        <id>https://extmovie.com/movietalk/90816701?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90816701?category=61633579"/>
-        <updated>2023-03-29T07:12:00.828Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25614point (86%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

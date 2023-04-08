@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-08T19:09:55.322Z</updated>
+    <updated>2023-04-08T20:12:02.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아바타3로 제임스 카메론은 하차]]></title>
+        <id>https://extmovie.com/bestboard/90857657</id>
+        <link href="https://extmovie.com/bestboard/90857657"/>
+        <updated>2023-04-08T20:11:40.707Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30402point (37%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 4월 8일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/90857550</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90855215"/>
         <updated>2023-04-08T15:10:17.126Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22650point (86%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<스타워즈> 3편의 영화와 프리퀄로 사상 최대의 도박 감행]]></title>
-        <id>https://extmovie.com/bestboard/90855159</id>
-        <link href="https://extmovie.com/bestboard/90855159"/>
-        <updated>2023-04-08T03:11:40.450Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23424point (12%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

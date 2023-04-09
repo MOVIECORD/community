@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-09T19:09:50.433Z</updated>
+    <updated>2023-04-09T20:12:06.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/90859640"/>
         <updated>2023-04-09T15:10:21.077Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3397point (13%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행복을위하여]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <에어> : 협상의 정석]]></title>
+        <id>https://extmovie.com/bestboard/90859606</id>
+        <link href="https://extmovie.com/bestboard/90859606"/>
+        <updated>2023-04-09T20:11:47.143Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1628point (78%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<귀멸의 칼날: 도공마을편> 4월 11일부터 TVING 공개]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/90859076</id>
         <link href="https://extmovie.com/bestboard/90859076"/>
         <updated>2023-04-09T12:19:22.009Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4626point (16%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">레드레드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4628point (16%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">레드레드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼마리오 브라더스 미쳤군요 ㅡ  북미 5일간 2억달러 돌파예상 현지...]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/90857879</id>
         <link href="https://extmovie.com/bestboard/90857879"/>
         <updated>2023-04-09T04:13:22.630Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3948361point (82%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인디아나 존스 5’ 러닝타임, 하스브로 피규어]]></title>
-        <id>https://extmovie.com/bestboard/90857679</id>
-        <link href="https://extmovie.com/bestboard/90857679"/>
-        <updated>2023-04-09T00:56:42.801Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3948361point (82%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-10T19:09:40.417Z</updated>
+    <updated>2023-04-10T20:12:28.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 4월 10일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90863888</id>
+        <link href="https://extmovie.com/bestboard/90863888"/>
+        <updated>2023-04-10T20:12:08.434Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3912815point (70%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<슈퍼 마리오 브라더스>가 대박난 이유 & 93년 영화가 실패...]]></title>
         <id>https://extmovie.com/bestboard/90863733</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/bestboard/90861703</id>
         <link href="https://extmovie.com/bestboard/90861703"/>
         <updated>2023-04-10T10:12:27.100Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:270097point (0%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:270100point (0%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존위4 : 액션 외에도 또다른 볼거리가..]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/90861290</id>
         <link href="https://extmovie.com/bestboard/90861290"/>
         <updated>2023-04-10T03:12:11.148Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:445538point (27%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메' 주말 동안 40만 관객 동원…'슬램덩크'와...]]></title>
-        <id>https://extmovie.com/bestboard/90861195</id>
-        <link href="https://extmovie.com/bestboard/90861195"/>
-        <updated>2023-04-10T13:14:24.830Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:445538point (27%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

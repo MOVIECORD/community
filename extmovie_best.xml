@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-11T18:13:27.063Z</updated>
+    <updated>2023-04-11T19:09:58.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/90866979"/>
         <updated>2023-04-11T14:11:24.008Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3913185point (71%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGV용산 굿즈현황]]></title>
+        <id>https://extmovie.com/bestboard/90866977</id>
+        <link href="https://extmovie.com/bestboard/90866977"/>
+        <updated>2023-04-11T19:09:38.403Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29668point (15%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아리 애스터 신작 '보 이즈 어프레이드' 로튼토마토 초기 리...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90865047"/>
         <updated>2023-04-11T05:11:10.759Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3951794point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 [인어공주] 새로 공개된 스틸 모음]]></title>
-        <id>https://extmovie.com/bestboard/90864989</id>
-        <link href="https://extmovie.com/bestboard/90864989"/>
-        <updated>2023-04-11T04:13:28.697Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:445778point (28%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

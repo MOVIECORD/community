@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-12T20:12:28.372Z</updated>
+    <updated>2023-04-12T21:10:54.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 4월 12일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90872675</id>
+        <link href="https://extmovie.com/bestboard/90872675"/>
+        <updated>2023-04-12T21:10:36.335Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3913781point (71%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실사판 <인어공주>의 동화책 표지들]]></title>
         <id>https://extmovie.com/bestboard/90872530</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/bestboard/90870517</id>
         <link href="https://extmovie.com/bestboard/90870517"/>
         <updated>2023-04-12T10:12:55.675Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15843point (26%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15845point (26%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전 여기까지만]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90869885"/>
         <updated>2023-04-12T13:15:22.264Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:128point (32%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">땡중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존윅 4 특전 수령 했습니다!]]></title>
-        <id>https://extmovie.com/bestboard/90869849</id>
-        <link href="https://extmovie.com/bestboard/90869849"/>
-        <updated>2023-04-12T07:11:15.701Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1327point (22%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마츠다진페이]]></content>
     </entry>
 </feed>

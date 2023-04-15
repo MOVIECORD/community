@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-04-15T16:14:06.123Z</updated>
+    <updated>2023-04-15T17:09:45.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킬링로맨스 의외의 호(aka 무대인사 및 굿즈_사진많주의)]]></title>
+        <id>https://extmovie.com/movietalk/90884944?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90884944?category=61633579"/>
+        <updated>2023-04-15T17:09:36.055Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8918point (95%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[떨 [왕 스포.230411]]]></title>
         <id>https://extmovie.com/movietalk/90884827?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/90870763?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90870763?category=61633579"/>
         <updated>2023-04-12T08:14:54.894Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8829point (90%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8918point (95%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[약스포) 존윅4 압아맥으로 보고 온 2회차 후기입니다]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/90860427?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90860427?category=61633579"/>
         <updated>2023-04-09T18:13:14.615Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8829point (90%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8918point (95%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["에어" 소감 및 엔딩크레딧 (게토레이 CF & 마이클 조던...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90856006?category=61633579"/>
         <updated>2023-04-08T06:14:21.438Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26155point (4%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마고 [왕 스포.230404]]]></title>
-        <id>https://extmovie.com/movietalk/90853980?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90853980?category=61633579"/>
-        <updated>2023-04-07T14:10:25.204Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10590point (84%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

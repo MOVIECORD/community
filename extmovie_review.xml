@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-04-16T04:13:29.858Z</updated>
+    <updated>2023-04-16T05:10:43.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[길복순 (2023) 클리셰의 난무. 스포일러 많음.]]></title>
+        <id>https://extmovie.com/movietalk/90827562?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90827562?category=61633579"/>
+        <updated>2023-04-16T05:10:34.463Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23501point (15%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킬링로맨스 의외의 호(aka 무대인사 및 굿즈_사진많주의)]]></title>
         <id>https://extmovie.com/movietalk/90884944?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/90874996?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90874996?category=61633579"/>
         <updated>2023-04-13T08:14:55.990Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3956911point (85%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3957094point (85%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<사랑의 고고학> 간단 후기]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/90871041?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90871041?category=61633579"/>
         <updated>2023-04-12T09:11:55.461Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3956911point (85%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3957094point (85%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스포주의> 존윅4 아맥 캐릭터 및 갠적 장면 리뷰 + 굿즈들]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/90856392?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90856392?category=61633579"/>
         <updated>2023-04-09T00:56:52.779Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23489point (15%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23501point (15%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<오디션> 간단 후기 (약스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90856430?category=61633579"/>
         <updated>2023-04-08T09:10:58.937Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3450point (17%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노스포][존윅4] 그 시절 우리가 좋아했던 킬러]]></title>
-        <id>https://extmovie.com/movietalk/90856006?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90856006?category=61633579"/>
-        <updated>2023-04-08T06:14:21.438Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26155point (4%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

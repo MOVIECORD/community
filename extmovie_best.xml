@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-17T19:08:39.566Z</updated>
+    <updated>2023-04-17T20:12:16.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/90891362"/>
         <updated>2023-04-17T17:10:52.302Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:34point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">정인생]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캡틴마블은 1편도 예고편 싫어요 수가 엄청 높았는데]]></title>
+        <id>https://extmovie.com/bestboard/90891316</id>
+        <link href="https://extmovie.com/bestboard/90891316"/>
+        <updated>2023-04-17T20:11:57.073Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9020point (1%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kwanini]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드림은 안타깝지만...]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/bestboard/90889884</id>
         <link href="https://extmovie.com/bestboard/90889884"/>
         <updated>2023-04-17T08:16:23.378Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16292point (44%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16296point (44%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[완전 진짜같네요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90889380"/>
         <updated>2023-04-17T05:11:23.429Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19324point (64%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼마리오 영화 피치공주 액션씬]]></title>
-        <id>https://extmovie.com/bestboard/90889356</id>
-        <link href="https://extmovie.com/bestboard/90889356"/>
-        <updated>2023-04-17T08:16:23.387Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1282276point (82%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-17T15:12:43.505Z</updated>
+    <updated>2023-04-17T16:15:10.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세인트 세이야' 일본 영화팬들 시사회 반응]]></title>
+        <id>https://extmovie.com/bestboard/90891615</id>
+        <link href="https://extmovie.com/bestboard/90891615"/>
+        <updated>2023-04-17T16:14:51.967Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3915735point (71%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드림은 안타깝지만...]]></title>
         <id>https://extmovie.com/bestboard/90891228</id>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/90889585</id>
         <link href="https://extmovie.com/bestboard/90889585"/>
         <updated>2023-04-17T06:15:51.183Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:87740point (49%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:87742point (49%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 방송사 확정된 김태희 복귀작, 임지연 차기작 드라마!]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/bestboard/90889026</id>
         <link href="https://extmovie.com/bestboard/90889026"/>
         <updated>2023-04-17T11:10:33.718Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24602point (52%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천시로]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24604point (52%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천시로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<인어공주> 실사판, 원작 애니메이션보다 1시간 더 길다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90888906"/>
         <updated>2023-04-17T04:14:20.644Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24398point (45%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍사빈,송중기,김형서 <화란> 포스터 공개]]></title>
-        <id>https://extmovie.com/bestboard/90888807</id>
-        <link href="https://extmovie.com/bestboard/90888807"/>
-        <updated>2023-04-17T03:12:39.936Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63959point (97%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

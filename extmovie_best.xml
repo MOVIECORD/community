@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-19T18:14:46.907Z</updated>
+    <updated>2023-04-19T19:10:00.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠엔틴 타란티노 공식 은퇴 선언]]></title>
+        <id>https://extmovie.com/bestboard/90900607</id>
+        <link href="https://extmovie.com/bestboard/90900607"/>
+        <updated>2023-04-19T19:09:40.757Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13873point (40%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스피예트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저어게 좋은 소식이 있어 이렇게 글 올립니다]]></title>
         <id>https://extmovie.com/bestboard/90900307</id>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/90897769</id>
         <link href="https://extmovie.com/bestboard/90897769"/>
         <updated>2023-04-19T07:18:23.246Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:51point (12%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">village1122]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:53point (13%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">village1122]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[롯데시네마 시그니처로그카드 드림 이벤트]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90897340"/>
         <updated>2023-04-19T07:18:23.250Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:448094point (40%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 신카이 마코토 감독 재내한 무대인사,GV ...]]></title>
-        <id>https://extmovie.com/bestboard/90897240</id>
-        <link href="https://extmovie.com/bestboard/90897240"/>
-        <updated>2023-04-19T13:15:28.081Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3916624point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-20T17:10:40.998Z</updated>
+    <updated>2023-04-20T18:14:46.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,21 @@
         <id>https://extmovie.com/bestboard/90904269</id>
         <link href="https://extmovie.com/bestboard/90904269"/>
         <updated>2023-04-20T15:12:01.277Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:20point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">lshstudios]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:22point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">lshstudios]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박정민 박지후 마리끌레르 영화제 개막식]]></title>
+        <id>https://extmovie.com/bestboard/90904098</id>
+        <link href="https://extmovie.com/bestboard/90904098"/>
+        <updated>2023-04-20T18:14:24.024Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:259099point (45%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cgv용산 경품현황]]></title>
+        <id>https://extmovie.com/bestboard/90903955</id>
+        <link href="https://extmovie.com/bestboard/90903955"/>
+        <updated>2023-04-20T18:14:24.025Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:295081point (83%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">인생은아름다워]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[킬링 로맨스] CGV 골든에그 회복]]></title>
@@ -32,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/90903907"/>
         <updated>2023-04-20T17:10:21.316Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:150860point (54%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Evil Dead Rise"에 대한 단상]]></title>
+        <id>https://extmovie.com/bestboard/90903836</id>
+        <link href="https://extmovie.com/bestboard/90903836"/>
+        <updated>2023-04-20T18:14:24.028Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20898point (23%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 영화 보신 분 계신가요]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/90902192"/>
         <updated>2023-04-20T06:15:54.855Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:448400point (42%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌 속앓이 회고…"올드보이·기생충 거절하고 후회했다"]]></title>
-        <id>https://extmovie.com/bestboard/90902176</id>
-        <link href="https://extmovie.com/bestboard/90902176"/>
-        <updated>2023-04-20T05:11:11.339Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:448400point (42%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<킬링 로맨스> 이선균이 부르는 '행복' 영상 공개]]></title>
-        <id>https://extmovie.com/bestboard/90902126</id>
-        <link href="https://extmovie.com/bestboard/90902126"/>
-        <updated>2023-04-20T09:12:59.658Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64817point (13%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥수역귀신 어제 개봉인데 아예 아무글도 없네요.]]></title>
-        <id>https://extmovie.com/bestboard/90902063</id>
-        <link href="https://extmovie.com/bestboard/90902063"/>
-        <updated>2023-04-20T10:13:01.314Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19705point (79%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
 </feed>

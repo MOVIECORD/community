@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-21T20:12:10.765Z</updated>
+    <updated>2023-04-21T21:10:52.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -143,14 +143,14 @@
         <id>https://extmovie.com/bestboard/90906184</id>
         <link href="https://extmovie.com/bestboard/90906184"/>
         <updated>2023-04-21T08:14:10.894Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88063point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88073point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨네Q  스폐셜티켓 No 86  무명]]></title>
         <id>https://extmovie.com/bestboard/90906179</id>
         <link href="https://extmovie.com/bestboard/90906179"/>
         <updated>2023-04-21T08:14:10.894Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88063point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88073point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송중기 & 케이티 손더스 커플 최근 이탈리아]]></title>
@@ -171,6 +171,13 @@
         <id>https://extmovie.com/bestboard/90906016</id>
         <link href="https://extmovie.com/bestboard/90906016"/>
         <updated>2023-04-21T08:14:10.897Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:65123point (19%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<스즈메의 문단속> 개봉 8주차 증정 특전 공개]]></title>
+        <id>https://extmovie.com/bestboard/90905986</id>
+        <link href="https://extmovie.com/bestboard/90905986"/>
+        <updated>2023-04-21T21:10:31.749Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:65123point (19%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90905456"/>
         <updated>2023-04-21T03:12:09.037Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24703point (55%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]그분이 오신다...마동석 ‘범죄도시3’ 5월 개봉확정]]></title>
-        <id>https://extmovie.com/bestboard/90905404</id>
-        <link href="https://extmovie.com/bestboard/90905404"/>
-        <updated>2023-04-21T02:03:45.803Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43792point (5%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
     </entry>
 </feed>

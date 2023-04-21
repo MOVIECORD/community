@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-21T21:10:52.211Z</updated>
+    <updated>2023-04-21T22:10:57.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 4월 21일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90908086</id>
+        <link href="https://extmovie.com/bestboard/90908086"/>
+        <updated>2023-04-21T22:10:38.865Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3917582point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCEU 신작 '더 플래시' 새 예고편 4월 25일 공개]]></title>
+        <id>https://extmovie.com/bestboard/90907919</id>
+        <link href="https://extmovie.com/bestboard/90907919"/>
+        <updated>2023-04-21T22:10:38.865Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:41point (10%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">lshstudios]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시3가 상대할 다섯 편의 헐리웃 블록버스터]]></title>
         <id>https://extmovie.com/bestboard/90907892</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90905503"/>
         <updated>2023-04-21T05:11:06.989Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:448666point (43%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시3 개봉일]]></title>
-        <id>https://extmovie.com/bestboard/90905491</id>
-        <link href="https://extmovie.com/bestboard/90905491"/>
-        <updated>2023-04-21T05:11:06.989Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5097point (50%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<더 배트맨> 오디션 탈락에 대한 니콜라스 홀트의 입장]]></title>
-        <id>https://extmovie.com/bestboard/90905456</id>
-        <link href="https://extmovie.com/bestboard/90905456"/>
-        <updated>2023-04-21T03:12:09.037Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24703point (55%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

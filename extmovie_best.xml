@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-21T16:14:57.909Z</updated>
+    <updated>2023-04-21T17:10:44.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/90907892</id>
         <link href="https://extmovie.com/bestboard/90907892"/>
         <updated>2023-04-21T15:11:54.438Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:156558point (82%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">옵티머스프라임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:156560point (82%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">옵티머스프라임]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자신의 작품 제대로 홍보하는 감독]]></title>
+        <id>https://extmovie.com/bestboard/90907740</id>
+        <link href="https://extmovie.com/bestboard/90907740"/>
+        <updated>2023-04-21T17:10:26.214Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1285065point (85%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이제 슬램덩크  굿즈도   신경꺼야겠어요]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/bestboard/90906021</id>
         <link href="https://extmovie.com/bestboard/90906021"/>
         <updated>2023-04-21T07:11:06.932Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3659point (35%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3661point (35%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<무명> 관객 특전 실물 공개(누아르 포스터, 사인 포스터, 누아...]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/bestboard/90905963</id>
         <link href="https://extmovie.com/bestboard/90905963"/>
         <updated>2023-04-21T08:14:10.900Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1285063point (85%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1285065point (85%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[슈퍼 마리오 브라더스] 씨네21 전문가 평점]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90905376"/>
         <updated>2023-04-21T03:12:09.037Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24703point (55%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 21일(금) 선착순 쿠폰 (드림 스쿠 1건)]]></title>
-        <id>https://extmovie.com/bestboard/90905340</id>
-        <link href="https://extmovie.com/bestboard/90905340"/>
-        <updated>2023-04-21T02:03:45.803Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2234point (96%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뿌뿌빠]]></content>
     </entry>
 </feed>

@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-04-21T16:14:57.904Z</updated>
+    <updated>2023-04-21T17:10:44.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너는 나를 절대 찾지 못할 거야' – "어둠과 최면의 우...]]></title>
+        <id>https://extmovie.com/movietalk/90908245?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/90908245?category=21915420"/>
+        <updated>2023-04-21T17:10:31.179Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162146point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인시디어스 5, Pendulum외 새 이미지들]]></title>
         <id>https://extmovie.com/movietalk/90908212?category=21915420</id>
         <link href="https://extmovie.com/movietalk/90908212?category=21915420"/>
         <updated>2023-04-21T16:14:42.852Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162111point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162146point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['birth/rebirth', R등급을 받다]]></title>
         <id>https://extmovie.com/movietalk/90908208?category=21915420</id>
         <link href="https://extmovie.com/movietalk/90908208?category=21915420"/>
         <updated>2023-04-21T16:14:42.852Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162111point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162146point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데메테르 호의 마지막 항해 R등급 받다]]></title>
         <id>https://extmovie.com/movietalk/90908200?category=21915420</id>
         <link href="https://extmovie.com/movietalk/90908200?category=21915420"/>
         <updated>2023-04-21T16:14:42.852Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162111point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162146point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스칼렛 요한슨, ‘블랙위도우 역은 이제 끝이다 언급‘]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90905643?category=21915420"/>
         <updated>2023-04-21T02:03:51.098Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3917582point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드림' 빅이슈 특별판 커버]]></title>
-        <id>https://extmovie.com/movietalk/90905621?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/90905621?category=21915420"/>
-        <updated>2023-04-21T02:03:51.098Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3963863point (87%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

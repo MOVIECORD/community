@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-21T17:10:44.541Z</updated>
+    <updated>2023-04-21T18:14:15.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/90907553"/>
         <updated>2023-04-21T15:11:54.440Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11053point (7%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아쿠추]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알 파치노... 한 솔로 역할 거절]]></title>
+        <id>https://extmovie.com/bestboard/90907546</id>
+        <link href="https://extmovie.com/bestboard/90907546"/>
+        <updated>2023-04-21T18:13:57.598Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23220point (6%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '클레오파트라' 감독이 주장하는 흑인 캐스팅 이유]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/bestboard/90905699</id>
         <link href="https://extmovie.com/bestboard/90905699"/>
         <updated>2023-04-21T14:10:33.365Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12576point (81%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12578point (81%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['킬링 로맨스' 관객 평점 역주행]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90905404"/>
         <updated>2023-04-21T02:03:45.803Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43792point (5%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCU <판타스틱 포> 캐스팅 루머]]></title>
-        <id>https://extmovie.com/bestboard/90905376</id>
-        <link href="https://extmovie.com/bestboard/90905376"/>
-        <updated>2023-04-21T03:12:09.037Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24703point (55%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

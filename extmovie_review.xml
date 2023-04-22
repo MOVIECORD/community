@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-04-22T09:10:47.950Z</updated>
+    <updated>2023-04-22T10:11:35.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(약스포)존윅 시리즈 안보고 존윅4 관람후기]]></title>
+        <id>https://extmovie.com/movietalk/90909764?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90909764?category=61633579"/>
+        <updated>2023-04-22T10:11:27.302Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1817point (15%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<라이스보이 슬립스>를 보고 왔습니다 (자세한 리뷰는 추후에...)]]></title>
         <id>https://extmovie.com/movietalk/90909586?category=61633579</id>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/90886360?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90886360?category=61633579"/>
         <updated>2023-04-16T08:13:36.708Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42747point (78%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42749point (79%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[길복순 (2023) 클리셰의 난무. 스포일러 많음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90883599?category=61633579"/>
         <updated>2023-04-15T10:11:48.732Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3661point (35%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로버트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[약스포][리뷰] 거울 속 외딴 성 - 참는 자에게 감동이 있으리니]]></title>
-        <id>https://extmovie.com/movietalk/90883431?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90883431?category=61633579"/>
-        <updated>2023-04-15T09:11:06.582Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26217point (6%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

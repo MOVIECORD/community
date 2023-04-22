@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-22T18:13:13.111Z</updated>
+    <updated>2023-04-22T19:09:41.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 4월 22일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90910539</id>
+        <link href="https://extmovie.com/bestboard/90910539"/>
+        <updated>2023-04-22T19:09:18.636Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3917831point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼마리오 2D 자막 시사회 후기[스포x]]]></title>
         <id>https://extmovie.com/bestboard/90910390</id>
@@ -53,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/90909948"/>
         <updated>2023-04-22T15:11:03.566Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20993point (26%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존 윅 OST 너무 좋네요....]]></title>
+        <id>https://extmovie.com/bestboard/90909926</id>
+        <link href="https://extmovie.com/bestboard/90909926"/>
+        <updated>2023-04-22T19:09:18.658Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:67point (16%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">lshstudios]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포)존윅 시리즈 안보고 존윅4 관람후기]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90907963"/>
         <updated>2023-04-22T16:13:46.688Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3964312point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가오갤 3’ 해외극장 그루트 팝콘 버킷]]></title>
-        <id>https://extmovie.com/bestboard/90907916</id>
-        <link href="https://extmovie.com/bestboard/90907916"/>
-        <updated>2023-04-22T00:55:32.513Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3964312point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCEU 신작 '더 플래시' 새 예고편 4월 25일 공개]]></title>
-        <id>https://extmovie.com/bestboard/90907919</id>
-        <link href="https://extmovie.com/bestboard/90907919"/>
-        <updated>2023-04-21T22:10:38.865Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:67point (16%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">lshstudios]]></content>
     </entry>
 </feed>

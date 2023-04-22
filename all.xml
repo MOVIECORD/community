@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-22T21:10:27.212Z</updated>
+    <updated>2023-04-22T22:10:37.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 4월 22일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://extmovie.com/bestboard/90910390"/>
         <updated>2023-04-22T18:12:53.901Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:207point (51%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">과일나무]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서쿠 옮기려다가 2개 다.. (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90910382</id>
+        <link href="https://extmovie.com/bestboard/90910382"/>
+        <updated>2023-04-22T22:10:20.924Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:105point (26%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에이르]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마리오 시사회 특전 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -180,6 +187,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88192point (51%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[둘리: 얼음별 대모험] 후속작 만화책으로 출간될 예정 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90908748</id>
+        <link href="https://extmovie.com/bestboard/90908748"/>
+        <updated>2023-04-22T22:10:20.955Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:448835point (44%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[조나단 메이저스 <어벤져스: 캉 다이너스티> 출연료는 2천만 달러 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/90908684</id>
         <link href="https://extmovie.com/bestboard/90908684"/>
@@ -234,20 +248,6 @@
         <link href="https://extmovie.com/bestboard/90908133"/>
         <updated>2023-04-22T09:10:29.539Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162156point (7%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스칼렛 요한슨, ‘블랙위도우 역은 이제 끝이다 언급‘ (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90908099</id>
-        <link href="https://extmovie.com/bestboard/90908099"/>
-        <updated>2023-04-22T00:55:32.513Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3964312point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 4월 21일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90908086</id>
-        <link href="https://extmovie.com/bestboard/90908086"/>
-        <updated>2023-04-21T22:10:38.865Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3917831point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 4월 22일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

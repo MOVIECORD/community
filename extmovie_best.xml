@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-23T17:09:57.349Z</updated>
+    <updated>2023-04-23T18:13:49.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/90913039"/>
         <updated>2023-04-23T16:13:48.022Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2123point (75%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">반드로이드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 오디션 지금 막 끝났습니다]]></title>
+        <id>https://extmovie.com/bestboard/90912825</id>
+        <link href="https://extmovie.com/bestboard/90912825"/>
+        <updated>2023-04-23T18:13:31.378Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40578point (22%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로튼토마토 '스파이더맨' 시리즈 최악~최고 순위]]></title>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/bestboard/90912734</id>
         <link href="https://extmovie.com/bestboard/90912734"/>
         <updated>2023-04-23T16:13:48.025Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162473point (8%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162475point (8%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4월 마지막주 VOD 출시작 정리]]></title>
@@ -111,6 +118,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23357point (10%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엄정화&보아 하퍼스바자 5월호 화보]]></title>
+        <id>https://extmovie.com/bestboard/90912064</id>
+        <link href="https://extmovie.com/bestboard/90912064"/>
+        <updated>2023-04-23T18:13:31.416Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:171359point (37%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[키아누 리브스 액션 영화 최악에서 최고 순위]]></title>
         <id>https://extmovie.com/bestboard/90911949</id>
         <link href="https://extmovie.com/bestboard/90911949"/>
@@ -165,6 +179,13 @@
         <link href="https://extmovie.com/bestboard/90911373"/>
         <updated>2023-04-23T10:11:00.080Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5431point (75%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">광제스님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난주에 신작영화가 많이 나왔는데 스크린확보가 쉽지않네요.]]></title>
+        <id>https://extmovie.com/bestboard/90911224</id>
+        <link href="https://extmovie.com/bestboard/90911224"/>
+        <updated>2023-04-23T18:13:31.419Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19812point (83%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게시판에 있는 용아맥 인어공주 광고 직관 후기]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/90910803"/>
         <updated>2023-04-23T05:10:25.822Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91912point (66%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파리 디즈니랜드 방문한 [가오갤 3] 배우, 제임스 건 감독]]></title>
-        <id>https://extmovie.com/bestboard/90910765</id>
-        <link href="https://extmovie.com/bestboard/90910765"/>
-        <updated>2023-04-23T07:10:07.977Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:449222point (46%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<가오갤 3> 해외 시사회 반응 공개]]></title>
-        <id>https://extmovie.com/bestboard/90910755</id>
-        <link href="https://extmovie.com/bestboard/90910755"/>
-        <updated>2023-04-23T01:00:59.113Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24915point (63%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이언 고슬링 알렉산드라 다드다리오 TAGHeuerCarrera60]]></title>
-        <id>https://extmovie.com/bestboard/90910742</id>
-        <link href="https://extmovie.com/bestboard/90910742"/>
-        <updated>2023-04-23T12:20:56.405Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:259402point (47%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-23T20:11:40.730Z</updated>
+    <updated>2023-04-23T21:10:26.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 저녁 관크의 역사가 새로 쓰여졌습니다.]]></title>
+        <id>https://extmovie.com/bestboard/90913126</id>
+        <link href="https://extmovie.com/bestboard/90913126"/>
+        <updated>2023-04-23T21:10:04.145Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4992point (43%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버포에버]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼마리오... 드림...어두운 영화판 전망]]></title>
         <id>https://extmovie.com/bestboard/90913039</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/bestboard/90912766</id>
         <link href="https://extmovie.com/bestboard/90912766"/>
         <updated>2023-04-23T15:10:33.286Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3918110point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3918112point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화관과 한국 영화들은 호되게 혼나야 되네요]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/bestboard/90912391</id>
         <link href="https://extmovie.com/bestboard/90912391"/>
         <updated>2023-04-23T15:10:33.306Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3964828point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3964830point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박은빈 토리버치 신세계 센텀시티점]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/90912331</id>
         <link href="https://extmovie.com/bestboard/90912331"/>
         <updated>2023-04-23T17:09:38.944Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3964828point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3964830point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오나라 최근 근황 (속옷 화보 촬영)]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/90911949</id>
         <link href="https://extmovie.com/bestboard/90911949"/>
         <updated>2023-04-23T09:10:30.141Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3918110point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3918112point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뽕중에 뽕은 중뽕! 21세기 프로파간다, 중국 영화​]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90910900"/>
         <updated>2023-04-23T03:12:32.248Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:449222point (46%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<가오갤 3> 상영시간은 약 2시간30분으로 확인]]></title>
-        <id>https://extmovie.com/bestboard/90910810</id>
-        <link href="https://extmovie.com/bestboard/90910810"/>
-        <updated>2023-04-23T06:14:35.577Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24915point (63%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-24T15:13:18.618Z</updated>
+    <updated>2023-04-24T16:14:47.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국영화가 죽 쑤는 이유 중 하나]]></title>
+        <id>https://extmovie.com/bestboard/90916717</id>
+        <link href="https://extmovie.com/bestboard/90916717"/>
+        <updated>2023-04-24T16:14:28.907Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1288point (14%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">율리시즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘드림’ 이병헌 감독 “‘극한직업2’, 미국서 리메이크 나온 후에 생각해...]]></title>
         <id>https://extmovie.com/bestboard/90916633</id>
@@ -48,11 +55,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3918463point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[범죄도시2 블루레이 이제 낼려고하나보네요 인스타에 손석구님이 올렸어요]]></title>
+        <id>https://extmovie.com/bestboard/90915693</id>
+        <link href="https://extmovie.com/bestboard/90915693"/>
+        <updated>2023-04-24T16:14:28.923Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5251point (62%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[메가박스  오리지널 티켓 슈퍼마리오 티켓 특전]]></title>
         <id>https://extmovie.com/bestboard/90915656</id>
         <link href="https://extmovie.com/bestboard/90915656"/>
         <updated>2023-04-24T09:12:19.074Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5229point (60%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5251point (62%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인어공주] 에리얼과 자매들 인형 출시]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90913648"/>
         <updated>2023-04-24T04:13:55.223Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3918463point (72%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트랜스포머 신작 여주 근황.jpg]]></title>
-        <id>https://extmovie.com/bestboard/90913634</id>
-        <link href="https://extmovie.com/bestboard/90913634"/>
-        <updated>2023-04-24T07:12:11.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1206point (98%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">쌈장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아쿠아맨 2] 티저 포스터 공개]]></title>
-        <id>https://extmovie.com/bestboard/90913410</id>
-        <link href="https://extmovie.com/bestboard/90913410"/>
-        <updated>2023-04-24T00:57:34.285Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:449573point (47%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

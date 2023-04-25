@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-04-25T16:15:07.009Z</updated>
+    <updated>2023-04-25T17:10:50.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약스포) 거울 속 외딴 성 내려가기 전에 봤었는데 좋네요]]></title>
+        <id>https://extmovie.com/movietalk/90921703?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90921703?category=61633579"/>
+        <updated>2023-04-25T17:10:41.193Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17573point (97%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정크헤드 (2021) 놀라운 SF 스탑 에니메이션. 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/90917339?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90888674?category=61633579"/>
         <updated>2023-04-17T00:57:28.801Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:481point (17%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">젤리빱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존윅4: 질려버린 액션에 안타까운 약호(feat. 소울메이트 with ranxiu427)]]></title>
-        <id>https://extmovie.com/movietalk/90886360?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90886360?category=61633579"/>
-        <updated>2023-04-16T08:13:36.708Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42766point (79%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-25T20:12:35.124Z</updated>
+    <updated>2023-04-25T21:10:49.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은 영화라도 극장가서 제 돈주고 보기 너무 아깝습니다.]]></title>
+        <id>https://extmovie.com/bestboard/90921461</id>
+        <link href="https://extmovie.com/bestboard/90921461"/>
+        <updated>2023-04-25T21:10:31.016Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1064point (58%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">원덩이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덴젤 워싱턴 [이퀄라이저 3] 19금 예고편 공개]]></title>
         <id>https://extmovie.com/bestboard/90921133</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90918773"/>
         <updated>2023-04-25T06:14:53.778Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25146point (70%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨네Q  슈퍼마리오 브라더스 주말 증정이벤트 ㅡ 오리지널 캐릭터  포스터]]></title>
-        <id>https://extmovie.com/bestboard/90918747</id>
-        <link href="https://extmovie.com/bestboard/90918747"/>
-        <updated>2023-04-25T08:14:27.991Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88842point (54%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
 </feed>

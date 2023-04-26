@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-26T17:10:51.759Z</updated>
+    <updated>2023-04-26T18:15:19.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['인어공주' 실사판 뉴 포스터 5종 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -65,6 +65,13 @@
         <id>https://extmovie.com/bestboard/90925210</id>
         <link href="https://extmovie.com/bestboard/90925210"/>
         <updated>2023-04-26T16:15:03.882Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66739point (46%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<가오갤 3> IMAX에서 돌비시네마까지 포맷별 관람 포인트 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/90925169</id>
+        <link href="https://extmovie.com/bestboard/90925169"/>
+        <updated>2023-04-26T18:15:01.308Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66739point (46%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/90923334"/>
         <updated>2023-04-26T07:16:02.204Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19980point (89%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[슈퍼 마리오] 골든에그 98% [드림] 89% (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/90923296</id>
-        <link href="https://extmovie.com/bestboard/90923296"/>
-        <updated>2023-04-26T05:10:51.084Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:450192point (50%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조엘 키너만, 닐 블룸캠프 차기작 캐스팅 (익스트림무비 ─ 영화정보)]]></title>

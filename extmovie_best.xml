@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-28T18:13:51.874Z</updated>
+    <updated>2023-04-28T19:09:52.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://extmovie.com/bestboard/90935316</id>
         <link href="https://extmovie.com/bestboard/90935316"/>
         <updated>2023-04-28T18:13:31.200Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:163347point (11%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:163349point (11%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마리오 3D 후기]]></title>
@@ -116,6 +116,13 @@
         <link href="https://extmovie.com/bestboard/90933615"/>
         <updated>2023-04-28T12:20:02.301Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1111point (71%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<스즈메의 문단속> 500만 관객 돌파]]></title>
+        <id>https://extmovie.com/bestboard/90933605</id>
+        <link href="https://extmovie.com/bestboard/90933605"/>
+        <updated>2023-04-28T19:09:31.797Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67648point (62%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존윅 챕터4  ㅡ 4주차 스폐셜 포스터 증정이벤트]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90931812"/>
         <updated>2023-04-28T02:05:36.389Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3973933point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미션 임파서블: 데드 레코닝 파트] 시네마콘 푸티지 반응]]></title>
-        <id>https://extmovie.com/bestboard/90931809</id>
-        <link href="https://extmovie.com/bestboard/90931809"/>
-        <updated>2023-04-28T02:05:36.389Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1286108point (86%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

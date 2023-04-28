@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-28T20:12:28.430Z</updated>
+    <updated>2023-04-28T21:10:04.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/90935012"/>
         <updated>2023-04-28T16:13:59.847Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:450772point (53%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요르고스 란티모스 신작 Poor Things 첫 스틸]]></title>
+        <id>https://extmovie.com/bestboard/90934990</id>
+        <link href="https://extmovie.com/bestboard/90934990"/>
+        <updated>2023-04-28T21:09:45.342Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:233point (58%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니+ 영화 '피터팬 & 웬디' 로튼토마토 초기 리뷰 번역]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/bestboard/90932176</id>
         <link href="https://extmovie.com/bestboard/90932176"/>
         <updated>2023-04-28T06:14:35.576Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:232point (57%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:233point (58%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실사화 한다는 토종 국산 애니]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90932034"/>
         <updated>2023-04-28T06:14:35.582Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:89718point (57%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV <가디언즈 오브 갤럭시 : VOLUME 3> 필름마크 증정 이벤트]]></title>
-        <id>https://extmovie.com/bestboard/90931925</id>
-        <link href="https://extmovie.com/bestboard/90931925"/>
-        <updated>2023-04-28T03:12:27.929Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39162point (85%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dumboy]]></content>
     </entry>
 </feed>

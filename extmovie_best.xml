@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-04-30T19:08:45.701Z</updated>
+    <updated>2023-04-30T20:11:19.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동진 [슈퍼 마리오 브라더스], [드림] 별점]]></title>
+        <id>https://extmovie.com/bestboard/90941999</id>
+        <link href="https://extmovie.com/bestboard/90941999"/>
+        <updated>2023-04-30T20:11:00.841Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8848point (91%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라이언캔슬링]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 4월 30일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/90941899</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/bestboard/90940091</id>
         <link href="https://extmovie.com/bestboard/90940091"/>
         <updated>2023-04-30T06:13:56.031Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20610point (12%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20612point (12%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<드림>후기(+강스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90939952"/>
         <updated>2023-04-30T10:11:04.873Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3921005point (73%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 미드저니가 만든 '에이리언' 뮤지컬]]></title>
-        <id>https://extmovie.com/bestboard/90939906</id>
-        <link href="https://extmovie.com/bestboard/90939906"/>
-        <updated>2023-04-30T08:13:12.658Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1286405point (86%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

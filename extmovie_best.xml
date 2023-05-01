@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-01T17:11:05.047Z</updated>
+    <updated>2023-05-01T18:14:41.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 5월 1일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90944946</id>
+        <link href="https://extmovie.com/bestboard/90944946"/>
+        <updated>2023-05-01T18:14:21.330Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3921355point (73%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슬램덩크'가 중국서 불매운동이 잠시 벌어졌었나 보네요.]]></title>
         <id>https://extmovie.com/bestboard/90944722</id>
@@ -25,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/90944557"/>
         <updated>2023-05-01T16:14:18.433Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25716point (90%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[익스트랙션2 공개일 떳습니다..]]></title>
+        <id>https://extmovie.com/bestboard/90944561</id>
+        <link href="https://extmovie.com/bestboard/90944561"/>
+        <updated>2023-05-01T18:14:21.332Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12166point (61%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[천재적인 호러 무비 주인공 코스프레]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90942201"/>
         <updated>2023-05-01T07:11:31.859Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3976590point (92%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쿵푸 팬더 2' 근황!]]></title>
-        <id>https://extmovie.com/bestboard/90942117</id>
-        <link href="https://extmovie.com/bestboard/90942117"/>
-        <updated>2023-05-01T13:13:25.714Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1417point (39%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주영화제 다녀 왔는데 후유증이 생겼습니다. ㅠㅠ]]></title>
-        <id>https://extmovie.com/bestboard/90942053</id>
-        <link href="https://extmovie.com/bestboard/90942053"/>
-        <updated>2023-05-01T02:08:03.167Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8192point (52%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">JinWork]]></content>
     </entry>
 </feed>

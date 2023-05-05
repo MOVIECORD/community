@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-05T20:11:56.363Z</updated>
+    <updated>2023-05-05T21:10:02.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은근히 유서깊은 어린이날 흥행 공식]]></title>
+        <id>https://extmovie.com/bestboard/90962516</id>
+        <link href="https://extmovie.com/bestboard/90962516"/>
+        <updated>2023-05-05T21:09:44.370Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117785point (63%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 5월 5일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/90962483</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90959534"/>
         <updated>2023-05-05T06:14:36.004Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3981746point (93%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가오갤3 새로 뜬 아트 포스터]]></title>
-        <id>https://extmovie.com/bestboard/90959437</id>
-        <link href="https://extmovie.com/bestboard/90959437"/>
-        <updated>2023-05-05T03:11:59.481Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:560point (34%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Irusan]]></content>
     </entry>
 </feed>

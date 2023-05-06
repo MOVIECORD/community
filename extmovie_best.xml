@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-06T20:11:35.172Z</updated>
+    <updated>2023-05-06T21:10:21.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7949point (38%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포행]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5/6 드림 롯데시네마 김포공항 무대인사 서프라이즈 사진]]></title>
+        <id>https://extmovie.com/bestboard/90964092</id>
+        <link href="https://extmovie.com/bestboard/90964092"/>
+        <updated>2023-05-06T21:10:04.697Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18252point (23%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">동네청년]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가오갤3편 마지막에 나오는]]></title>
         <id>https://extmovie.com/bestboard/90964017</id>
         <link href="https://extmovie.com/bestboard/90964017"/>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/90963501</id>
         <link href="https://extmovie.com/bestboard/90963501"/>
         <updated>2023-05-06T08:13:13.376Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117989point (64%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117991point (64%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가오갤3 국내 300만 가능할것 같아요]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/90963382</id>
         <link href="https://extmovie.com/bestboard/90963382"/>
         <updated>2023-05-06T06:13:49.732Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117989point (64%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117991point (64%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국영화들의 흥행이 시원치 않은 가운데 한국영화가 사는 법에 대한 ...]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/90962995</id>
         <link href="https://extmovie.com/bestboard/90962995"/>
         <updated>2023-05-06T13:11:34.644Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3982698point (94%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 플래쉬’ 뉴 티저]]></title>
-        <id>https://extmovie.com/bestboard/90962918</id>
-        <link href="https://extmovie.com/bestboard/90962918"/>
-        <updated>2023-05-06T14:09:12.298Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3982698point (94%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

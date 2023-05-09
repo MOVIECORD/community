@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-09T19:09:50.705Z</updated>
+    <updated>2023-05-09T20:12:16.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://extmovie.com/bestboard/90975719"/>
         <updated>2023-05-09T18:13:36.535Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황정민, 염정아 주연 [크로스] 해외 포스터 공개]]></title>
+        <id>https://extmovie.com/bestboard/90975712</id>
+        <link href="https://extmovie.com/bestboard/90975712"/>
+        <updated>2023-05-09T20:11:56.514Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<강수연 추모전>이 아니라 <강수연 상영전>이었다면…]]></title>
+        <id>https://extmovie.com/bestboard/90975222</id>
+        <link href="https://extmovie.com/bestboard/90975222"/>
+        <updated>2023-05-09T20:11:56.516Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31111point (58%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">HarrySon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['오펜하이머'에 나오는 캐릭터들 소개]]></title>
@@ -213,7 +227,7 @@
         <id>https://extmovie.com/bestboard/90973460</id>
         <link href="https://extmovie.com/bestboard/90973460"/>
         <updated>2023-05-09T06:14:31.759Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16162point (39%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16164point (39%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인어공주] 월드 프리미어 사진들]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90973185"/>
         <updated>2023-05-09T10:12:11.549Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3986780point (95%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<메가로돈 2> 정식 티저 포스터 공개]]></title>
-        <id>https://extmovie.com/bestboard/90973228</id>
-        <link href="https://extmovie.com/bestboard/90973228"/>
-        <updated>2023-05-09T07:10:48.478Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70265point (24%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석, 잘못된 정보 정정 "'범죄도시3', 전편 수위로 ...]]></title>
-        <id>https://extmovie.com/bestboard/90973183</id>
-        <link href="https://extmovie.com/bestboard/90973183"/>
-        <updated>2023-05-09T04:12:59.514Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

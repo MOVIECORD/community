@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-05-09T20:12:16.290Z</updated>
+    <updated>2023-05-09T21:10:14.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트랜스포머 : 비스트의 서막 러닝타임 공개]]></title>
+        <id>https://extmovie.com/movietalk/90975904?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/90975904?category=21915420"/>
+        <updated>2023-05-09T21:10:01.192Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2422point (17%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비틀주스 2 개봉일 확정, 위노나 라이더/제나 오르테가/저스틴 서로우 ...]]></title>
+        <id>https://extmovie.com/movietalk/90975903?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/90975903?category=21915420"/>
+        <updated>2023-05-09T21:10:01.193Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2422point (17%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샘 하그레이브 - ‘익스트랙션 2‘ 크리스 햄스워스 언급]]></title>
         <id>https://extmovie.com/movietalk/90975771?category=21915420</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/90973228?category=21915420"/>
         <updated>2023-05-09T03:12:33.243Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70265point (24%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석, 잘못된 정보 정정 "'범죄도시3', 전편 수위로 ...]]></title>
-        <id>https://extmovie.com/movietalk/90973183?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/90973183?category=21915420"/>
-        <updated>2023-05-09T03:12:33.244Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동진 평론가가 지적한 [가오갤 3] 최대 문제점]]></title>
-        <id>https://extmovie.com/movietalk/90973003?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/90973003?category=21915420"/>
-        <updated>2023-05-09T03:12:33.246Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

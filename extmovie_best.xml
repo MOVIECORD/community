@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-09T20:12:16.293Z</updated>
+    <updated>2023-05-09T21:10:14.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,7 +20,14 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<강수연 추모전>이 아니라 <강수연 상영전>이었다면…]]></title>
+        <title type="html"><![CDATA[<인어공주> 실사영화 프리미어에 나타난 우리의 악당~]]></title>
+        <id>https://extmovie.com/bestboard/90975566</id>
+        <link href="https://extmovie.com/bestboard/90975566"/>
+        <updated>2023-05-09T21:09:56.481Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:153384point (66%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<강수연 추모전>이 아니라 <강수연 특별전>이었다면…]]></title>
         <id>https://extmovie.com/bestboard/90975222</id>
         <link href="https://extmovie.com/bestboard/90975222"/>
         <updated>2023-05-09T20:11:56.516Z</updated>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/90973254"/>
         <updated>2023-05-09T06:14:31.759Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4202point (82%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤 3' 공식포스터 고화질 (2500X) & 팬포스터 모음...]]></title>
-        <id>https://extmovie.com/bestboard/90973185</id>
-        <link href="https://extmovie.com/bestboard/90973185"/>
-        <updated>2023-05-09T10:12:11.549Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3986780point (95%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

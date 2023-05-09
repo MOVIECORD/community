@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-09T17:10:54.693Z</updated>
+    <updated>2023-05-09T18:13:54.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성수 감독 [서울의 봄] 해외 포스터 공개]]></title>
+        <id>https://extmovie.com/bestboard/90975719</id>
+        <link href="https://extmovie.com/bestboard/90975719"/>
+        <updated>2023-05-09T18:13:36.535Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오펜하이머'에 나오는 캐릭터들 소개]]></title>
         <id>https://extmovie.com/bestboard/90975233</id>
@@ -17,6 +24,13 @@
         <id>https://extmovie.com/bestboard/90975172</id>
         <link href="https://extmovie.com/bestboard/90975172"/>
         <updated>2023-05-09T15:12:19.053Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3986780point (95%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타란티노 감독 - ‘헐리우드는 5,6년내 없어지며 내가 더 오래 생존할 ...]]></title>
+        <id>https://extmovie.com/bestboard/90975132</id>
+        <link href="https://extmovie.com/bestboard/90975132"/>
+        <updated>2023-05-09T18:13:36.542Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3986780point (95%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90973183"/>
         <updated>2023-05-09T04:12:59.514Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:453246point (66%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[듄: 파트2] 나라별 개봉일]]></title>
-        <id>https://extmovie.com/bestboard/90973081</id>
-        <link href="https://extmovie.com/bestboard/90973081"/>
-        <updated>2023-05-09T04:12:59.516Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1287792point (87%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빵티 정말 이상하네요... 진짜 랜덤인가..]]></title>
-        <id>https://extmovie.com/bestboard/90973050</id>
-        <link href="https://extmovie.com/bestboard/90973050"/>
-        <updated>2023-05-09T07:10:48.487Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:906point (13%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모도리스]]></content>
     </entry>
 </feed>

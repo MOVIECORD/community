@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-12T20:11:33.178Z</updated>
+    <updated>2023-05-12T21:10:07.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 5월 12일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/90986923</id>
+        <link href="https://extmovie.com/bestboard/90986923"/>
+        <updated>2023-05-12T21:09:49.242Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3925773point (75%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균,주지훈 [탈출: PROJECT SILENCE] 칸영화제 예고편 공개]]></title>
         <id>https://extmovie.com/bestboard/90986778</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/90986285</id>
         <link href="https://extmovie.com/bestboard/90986285"/>
         <updated>2023-05-12T15:11:50.261Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2030point (56%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2032point (57%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시3' 마동석, 무려 4년 만에 국내 매체 인터뷰 확정]]></title>
@@ -46,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/90986116"/>
         <updated>2023-05-12T15:11:50.271Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3990325point (96%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용산cgv 경품현황입니다.]]></title>
+        <id>https://extmovie.com/bestboard/90985999</id>
+        <link href="https://extmovie.com/bestboard/90985999"/>
+        <updated>2023-05-12T21:09:49.259Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:119point (29%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모던쥬스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kobis에 올라온 범죄도시3  상영타입입니다]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90984305"/>
         <updated>2023-05-12T04:13:36.039Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2373point (12%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">린M메리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데드풀 3] 위해 수염 기른 휴 잭맨 사진 공개]]></title>
-        <id>https://extmovie.com/bestboard/90984302</id>
-        <link href="https://extmovie.com/bestboard/90984302"/>
-        <updated>2023-05-12T13:14:15.669Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:454258point (71%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '사냥개들' 트레일러]]></title>
-        <id>https://extmovie.com/bestboard/90984215</id>
-        <link href="https://extmovie.com/bestboard/90984215"/>
-        <updated>2023-05-12T02:33:20.051Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3990325point (96%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

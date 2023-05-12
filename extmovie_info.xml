@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-05-12T18:13:32.983Z</updated>
+    <updated>2023-05-12T19:09:55.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[분노의 질주 12 제작한다]]></title>
+        <id>https://extmovie.com/movietalk/90987176?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/90987176?category=21915420"/>
+        <updated>2023-05-12T19:09:40.344Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2678point (43%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가오갤 3’ 뉴 포스터]]></title>
         <id>https://extmovie.com/movietalk/90987154?category=21915420</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/90985062?category=21915420</id>
         <link href="https://extmovie.com/movietalk/90985062?category=21915420"/>
         <updated>2023-05-12T04:13:41.619Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2663point (41%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2678point (43%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본영화 "레전드 & 버터플라이" 아마존 프라임 서비스 개시]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90984879?category=21915420"/>
         <updated>2023-05-12T03:12:34.134Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3990323point (96%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 넷플릭스 공개 '내 이름은 마더' 로튼토마토 초기 평]]></title>
-        <id>https://extmovie.com/movietalk/90984872?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/90984872?category=21915420"/>
-        <updated>2023-05-12T03:12:34.135Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3925773point (75%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

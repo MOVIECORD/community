@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-13T10:11:53.830Z</updated>
+    <updated>2023-05-13T11:09:06.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MCU 페이즈 4~5 영화 간단평]]></title>
+        <id>https://extmovie.com/bestboard/90988425</id>
+        <link href="https://extmovie.com/bestboard/90988425"/>
+        <updated>2023-05-13T11:08:47.942Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1094point (66%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kathryn.hailee]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인어공주 전단지 나왔네요]]></title>
         <id>https://extmovie.com/bestboard/90988348</id>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/bestboard/90986916</id>
         <link href="https://extmovie.com/bestboard/90986916"/>
         <updated>2023-05-13T00:54:08.705Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1288706point (88%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1288727point (88%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼마리오브라더스를 본 어른이의 필수템]]></title>
@@ -192,7 +199,14 @@
         <id>https://extmovie.com/bestboard/90986570</id>
         <link href="https://extmovie.com/bestboard/90986570"/>
         <updated>2023-05-12T22:11:10.584Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1288706point (88%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1288727point (88%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Hypnotic'에 대한 단상]]></title>
+        <id>https://extmovie.com/bestboard/90986518</id>
+        <link href="https://extmovie.com/bestboard/90986518"/>
+        <updated>2023-05-13T11:08:47.981Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21253point (35%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 곡성 천우희역 캐스팅 1순위였던 걸그룹 멤버]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/90986285"/>
         <updated>2023-05-12T15:11:50.261Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2038point (58%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시3' 마동석, 무려 4년 만에 국내 매체 인터뷰 확정]]></title>
-        <id>https://extmovie.com/bestboard/90986205</id>
-        <link href="https://extmovie.com/bestboard/90986205"/>
-        <updated>2023-05-12T12:20:12.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:454573point (72%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블덕후의 변기 시리즈]]></title>
-        <id>https://extmovie.com/bestboard/90986211</id>
-        <link href="https://extmovie.com/bestboard/90986211"/>
-        <updated>2023-05-13T00:54:08.795Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3990729point (96%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

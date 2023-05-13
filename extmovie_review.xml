@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-05-13T10:11:53.866Z</updated>
+    <updated>2023-05-13T11:09:06.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로켓에게 바치는 헌사, ⟪​가디언즈 오브 갤럭시 vol.3⟫​]]></title>
+        <id>https://extmovie.com/movietalk/90988838?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/90988838?category=61633579"/>
+        <updated>2023-05-13T11:08:57.627Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:531point (28%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">XKazy카이카지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<유랑지구2> 간단 리뷰]]></title>
         <id>https://extmovie.com/movietalk/90987428?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/90978473?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90978473?category=61633579"/>
         <updated>2023-05-10T08:14:59.401Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21566point (47%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서래누나나도죽여줘요]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21568point (47%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서래누나나도죽여줘요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아나 데 아르마스의 2023 신작  "Ghosted"]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90958560?category=61633579"/>
         <updated>2023-05-05T02:00:01.456Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24881point (61%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스크림 6 [왕 스포.230426]]]></title>
-        <id>https://extmovie.com/movietalk/90959140?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90959140?category=61633579"/>
-        <updated>2023-05-04T18:14:02.755Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10807point (95%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

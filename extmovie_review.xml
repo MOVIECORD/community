@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-05-20T06:15:06.150Z</updated>
+    <updated>2023-05-20T07:10:25.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[둘리 리마스터링 후기 스포]]></title>
+        <id>https://extmovie.com/movietalk/91014406?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91014406?category=61633579"/>
+        <updated>2023-05-20T07:10:16.248Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17467point (92%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[똑똑똑 [왕 스포.230513]]]></title>
         <id>https://extmovie.com/movietalk/91012688?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/91003352?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91003352?category=61633579"/>
         <updated>2023-05-17T10:12:35.078Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17373point (89%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17467point (92%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(강스포)《분노의 질주: 라이드 오어 다이》4DX 관람]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/90987094?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90987094?category=61633579"/>
         <updated>2023-05-12T17:09:59.749Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3997928point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3998000point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포] 가디언즈오브갤럭시3 레알 짧은 후기]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/90980125?category=61633579</id>
         <link href="https://extmovie.com/movietalk/90980125?category=61633579"/>
         <updated>2023-05-10T22:13:10.949Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19989point (90%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20098point (94%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <롱디> 관람...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90976816?category=61633579"/>
         <updated>2023-05-10T02:01:22.262Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:178793point (62%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑소시스트 더 바티칸 [왕 스포.230504]]]></title>
-        <id>https://extmovie.com/movietalk/90975822?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90975822?category=61633579"/>
-        <updated>2023-05-09T17:10:45.472Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10849point (97%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-05-22T15:11:51.135Z</updated>
+    <updated>2023-05-22T16:14:20.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리드3 강력비추 스포 결말]]></title>
+        <id>https://extmovie.com/movietalk/91022060?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91022060?category=61633579"/>
+        <updated>2023-05-22T16:14:12.086Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30885point (51%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크레이터 [왕 스포.230517]]]></title>
         <id>https://extmovie.com/movietalk/91022034?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90986968?category=61633579"/>
         <updated>2023-05-12T16:13:44.384Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43708point (3%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<가디언즈 오브 갤럭시 Vol.3> 리뷰 및 분석]]></title>
-        <id>https://extmovie.com/movietalk/90986285?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90986285?category=61633579"/>
-        <updated>2023-05-12T11:09:41.819Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2106point (71%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
     </entry>
 </feed>

@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-24T16:15:01.234Z</updated>
+    <updated>2023-05-24T17:10:47.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 5월 24일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91031597</id>
+        <link href="https://extmovie.com/bestboard/91031597"/>
+        <updated>2023-05-24T17:10:28.958Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3930719point (76%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시3 후기(노스포)]]></title>
         <id>https://extmovie.com/bestboard/91031440</id>
         <link href="https://extmovie.com/bestboard/91031440"/>
         <updated>2023-05-24T16:14:43.203Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10356point (71%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10358point (71%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플래시 감독이 밝힌 충격적인 카메오]]></title>
         <id>https://extmovie.com/bestboard/91031332</id>
         <link href="https://extmovie.com/bestboard/91031332"/>
         <updated>2023-05-24T16:14:43.219Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93277point (72%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93279point (72%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인어공주] 더빙 후기 - 다른 건 몰라도 일단 다니엘 양은요]]></title>
@@ -41,11 +48,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27583point (49%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아까 용산CGV에서 들은 <범도3>가 <인공>보다 예매율 높은...]]></title>
+        <id>https://extmovie.com/bestboard/91030727</id>
+        <link href="https://extmovie.com/bestboard/91030727"/>
+        <updated>2023-05-24T17:10:28.986Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92324point (68%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['인어공주' 중국서도 반응 안 좋은가 봐요]]></title>
         <id>https://extmovie.com/bestboard/91030717</id>
         <link href="https://extmovie.com/bestboard/91030717"/>
         <updated>2023-05-24T14:11:04.553Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3930715point (76%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3930719point (76%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노윤서 칸 - 디카프리오, 양자경, 알폰소 쿠아론과]]></title>
@@ -53,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/91030575"/>
         <updated>2023-05-24T14:11:04.554Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4003686point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실시간 예매율, 범죄도시 3가 인어공주 3배 이상]]></title>
+        <id>https://extmovie.com/bestboard/91030505</id>
+        <link href="https://extmovie.com/bestboard/91030505"/>
+        <updated>2023-05-24T17:10:28.986Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:457522point (87%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['흑인 인어공주' 굿즈 실종... '하이 리스크 로우 리턴...]]></title>
@@ -66,14 +87,14 @@
         <id>https://extmovie.com/bestboard/91030258</id>
         <link href="https://extmovie.com/bestboard/91030258"/>
         <updated>2023-05-24T13:14:50.449Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92322point (68%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92324point (68%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시3 천만 가능하다고 생각하시나요???]]></title>
         <id>https://extmovie.com/bestboard/91030209</id>
         <link href="https://extmovie.com/bestboard/91030209"/>
         <updated>2023-05-24T11:09:51.420Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2217point (93%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kathryn.hailee]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2219point (93%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kathryn.hailee]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인어 공주 (실사) 맨 마지막 크레딧에서 추모하는 사람 (스포)]]></title>
@@ -136,7 +157,7 @@
         <id>https://extmovie.com/bestboard/91029634</id>
         <link href="https://extmovie.com/bestboard/91029634"/>
         <updated>2023-05-24T13:14:50.471Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9217point (11%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오오옹이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9219point (11%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오오옹이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<아기공룡 둘리: 얼음별 대모험> 메가박스 오리지널 티켓 실물 공개]]></title>
@@ -164,7 +185,7 @@
         <id>https://extmovie.com/bestboard/91029322</id>
         <link href="https://extmovie.com/bestboard/91029322"/>
         <updated>2023-05-24T09:11:14.627Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92322point (68%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92324point (68%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오펜하이머에서 젊은 시절 칼리언 머파 모습]]></title>
@@ -178,7 +199,7 @@
         <id>https://extmovie.com/bestboard/91029207</id>
         <link href="https://extmovie.com/bestboard/91029207"/>
         <updated>2023-05-24T08:14:29.569Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18269point (24%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">릭과모티]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18271point (24%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">릭과모티]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기쿠지로의 여름, 애프터썬, 썬다운, 행복한라짜로 온라인 무료상영]]></title>
@@ -213,7 +234,7 @@
         <id>https://extmovie.com/bestboard/91028678</id>
         <link href="https://extmovie.com/bestboard/91028678"/>
         <updated>2023-05-24T06:14:32.477Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21693point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서래누나나도죽여줘요]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21695point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서래누나나도죽여줘요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 인어공주 2023 - 흑인 인어공주는 나쁘지 않다 진짜 나쁜 건.....]]></title>
@@ -227,27 +248,6 @@
         <id>https://extmovie.com/bestboard/91028696</id>
         <link href="https://extmovie.com/bestboard/91028696"/>
         <updated>2023-05-24T08:14:29.574Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:457522point (87%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석 “‘범죄도시’ 이야기 50개 있어, 나이 들어서도 찍고 싶다”]]></title>
-        <id>https://extmovie.com/bestboard/91028623</id>
-        <link href="https://extmovie.com/bestboard/91028623"/>
-        <updated>2023-05-24T07:10:39.363Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:457522point (87%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주' 주연 할리 베일리 실종사건? 디즈니 '韓 광...]]></title>
-        <id>https://extmovie.com/bestboard/91028564</id>
-        <link href="https://extmovie.com/bestboard/91028564"/>
-        <updated>2023-05-24T06:14:32.478Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:457522point (87%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인어공주] CGV 에그지수 82%로 시작]]></title>
-        <id>https://extmovie.com/bestboard/91028549</id>
-        <link href="https://extmovie.com/bestboard/91028549"/>
-        <updated>2023-05-24T06:14:32.479Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:457522point (87%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

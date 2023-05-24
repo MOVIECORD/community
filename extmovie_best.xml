@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-24T20:11:59.951Z</updated>
+    <updated>2023-05-24T21:09:27.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://extmovie.com/bestboard/91031332</id>
         <link href="https://extmovie.com/bestboard/91031332"/>
         <updated>2023-05-24T16:14:43.219Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93279point (72%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93340point (72%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인어공주] 더빙 후기 - 다른 건 몰라도 일단 다니엘 양은요]]></title>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/91031036"/>
         <updated>2023-05-24T15:12:15.523Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27583point (49%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<인어공주> 리뷰 - 파격적인 캐스팅에 비해 안일했던 원작 구현]]></title>
+        <id>https://extmovie.com/bestboard/91030925</id>
+        <link href="https://extmovie.com/bestboard/91030925"/>
+        <updated>2023-05-24T21:09:05.708Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:833point (94%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마고 로비 보그]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91028819"/>
         <updated>2023-05-24T08:14:29.572Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1290691point (90%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포)인어공주 봤습니다 기대도 안했습니다만...]]></title>
-        <id>https://extmovie.com/bestboard/91028678</id>
-        <link href="https://extmovie.com/bestboard/91028678"/>
-        <updated>2023-05-24T06:14:32.477Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21695point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서래누나나도죽여줘요]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-27T11:09:09.947Z</updated>
+    <updated>2023-05-27T12:19:30.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,14 +10,21 @@
         <id>https://extmovie.com/bestboard/91043230</id>
         <link href="https://extmovie.com/bestboard/91043230"/>
         <updated>2023-05-27T11:08:51.059Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1735point (99%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1743point (0%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메박 대전 범죄도시3 온가족 감상평(스포)]]></title>
+        <id>https://extmovie.com/bestboard/91043172</id>
+        <link href="https://extmovie.com/bestboard/91043172"/>
+        <updated>2023-05-27T12:19:11.122Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4613point (15%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">존버가이기는거]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비닐벗기고 찍긴 처음입니다]]></title>
         <id>https://extmovie.com/bestboard/91042996</id>
         <link href="https://extmovie.com/bestboard/91042996"/>
         <updated>2023-05-27T10:10:43.102Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14352point (61%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14361point (62%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범도3을 보고..<무스포 먼저>]]></title>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/91042759</id>
         <link href="https://extmovie.com/bestboard/91042759"/>
         <updated>2023-05-27T10:10:43.113Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291243point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291264point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[용산 범죄도시3 프리미엄 상영회 깜짝 무인]]></title>
@@ -41,18 +48,32 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1420point (39%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">비상하는곰]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴욕 타임스퀘어 [플래시] 간판]]></title>
+        <id>https://extmovie.com/bestboard/91042678</id>
+        <link href="https://extmovie.com/bestboard/91042678"/>
+        <updated>2023-05-27T12:19:11.149Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291264point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인어공주 시내마스코어 등급 A]]></title>
+        <id>https://extmovie.com/bestboard/91042609</id>
+        <link href="https://extmovie.com/bestboard/91042609"/>
+        <updated>2023-05-27T12:19:11.149Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8268point (57%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자기 자신이 못 생겼다고 생각하는 여배우]]></title>
         <id>https://extmovie.com/bestboard/91042595</id>
         <link href="https://extmovie.com/bestboard/91042595"/>
         <updated>2023-05-27T08:13:02.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291095point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291097point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레디 플레이어원의 여주 엄청예쁘네요]]></title>
         <id>https://extmovie.com/bestboard/91042585</id>
         <link href="https://extmovie.com/bestboard/91042585"/>
         <updated>2023-05-27T08:13:02.294Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11141point (12%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11143point (12%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[둘리 또다른 굿즈 예고]]></title>
@@ -66,14 +87,14 @@
         <id>https://extmovie.com/bestboard/91042333</id>
         <link href="https://extmovie.com/bestboard/91042333"/>
         <updated>2023-05-27T07:10:02.022Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291243point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291264point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인어공주] 로튼토마토 지수 하락, 67%]]></title>
         <id>https://extmovie.com/bestboard/91042313</id>
         <link href="https://extmovie.com/bestboard/91042313"/>
         <updated>2023-05-27T07:10:02.022Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:458399point (91%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:458407point (92%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인어공주 물속 장면 찍는 방법.mp4]]></title>
@@ -87,35 +108,49 @@
         <id>https://extmovie.com/bestboard/91042116</id>
         <link href="https://extmovie.com/bestboard/91042116"/>
         <updated>2023-05-27T08:13:02.301Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291243point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291264point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘트랜스포머 7’ 미국 시사회 초기 반응 “마이클 베이 작품보다 낫네”]]></title>
         <id>https://extmovie.com/bestboard/91042092</id>
         <link href="https://extmovie.com/bestboard/91042092"/>
         <updated>2023-05-27T06:13:32.004Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:458399point (91%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:458407point (92%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸 영화제 경쟁작 알리체 로르와커 [라 키메라] 로튼 평]]></title>
+        <id>https://extmovie.com/bestboard/91042016</id>
+        <link href="https://extmovie.com/bestboard/91042016"/>
+        <updated>2023-05-27T12:19:11.158Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291264point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은퇴 앞둔 타란티노 "스트리밍 영화에는 시대정신이 없다"]]></title>
         <id>https://extmovie.com/bestboard/91041993</id>
         <link href="https://extmovie.com/bestboard/91041993"/>
         <updated>2023-05-27T04:12:32.916Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27780point (56%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27786point (56%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정수정, 전여빈 칸 인터뷰 현장 샷들]]></title>
         <id>https://extmovie.com/bestboard/91041702</id>
         <link href="https://extmovie.com/bestboard/91041702"/>
         <updated>2023-05-27T10:10:43.123Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007038point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007060point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인어공주] IMDB 점수 7.0]]></title>
         <id>https://extmovie.com/bestboard/91041595</id>
         <link href="https://extmovie.com/bestboard/91041595"/>
         <updated>2023-05-27T10:10:43.124Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:458399point (91%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:458407point (92%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀여운  내친구 둘리 보러 오픈런 했어요]]></title>
+        <id>https://extmovie.com/bestboard/91041426</id>
+        <link href="https://extmovie.com/bestboard/91041426"/>
+        <updated>2023-05-27T12:19:11.168Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11602point (34%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아쿠추]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[둘리 오티 귀엽네요~^^]]></title>
@@ -150,21 +185,21 @@
         <id>https://extmovie.com/bestboard/91040955</id>
         <link href="https://extmovie.com/bestboard/91040955"/>
         <updated>2023-05-27T00:59:07.528Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:94354point (76%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:94362point (76%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스파이더맨 노웨이홈 마지막 전투 레고 세트]]></title>
         <id>https://extmovie.com/bestboard/91040940</id>
         <link href="https://extmovie.com/bestboard/91040940"/>
         <updated>2023-05-27T06:13:32.028Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8264point (56%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8268point (57%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스칼렛 요한슨 76회 칸영화제 포토슛]]></title>
         <id>https://extmovie.com/bestboard/91040845</id>
         <link href="https://extmovie.com/bestboard/91040845"/>
         <updated>2023-05-27T02:05:20.177Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007038point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007060point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[< 보호자 > 개봉일 확정]]></title>
@@ -178,76 +213,41 @@
         <id>https://extmovie.com/bestboard/91040714</id>
         <link href="https://extmovie.com/bestboard/91040714"/>
         <updated>2023-05-27T00:59:07.532Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1735point (99%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1743point (0%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 5월 26일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/91040682</id>
         <link href="https://extmovie.com/bestboard/91040682"/>
         <updated>2023-05-26T20:11:23.195Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3931814point (77%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3931819point (77%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화관에서 관객들이 저절로 소리를 낼 수 밖에 없던 순간들]]></title>
         <id>https://extmovie.com/bestboard/91040674</id>
         <link href="https://extmovie.com/bestboard/91040674"/>
         <updated>2023-05-26T17:11:03.127Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31190point (60%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31192point (61%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플> 매즈 미켈슨 '폴라' 속편 [블랙 카이저] 바네사 허...]]></title>
         <id>https://extmovie.com/bestboard/91040648</id>
         <link href="https://extmovie.com/bestboard/91040648"/>
         <updated>2023-05-26T22:10:37.773Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291243point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291264point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마틴 스콜세지 신작 로튼 토마토 총평]]></title>
         <id>https://extmovie.com/bestboard/91040566</id>
         <link href="https://extmovie.com/bestboard/91040566"/>
         <updated>2023-05-26T17:11:03.128Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31190point (60%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31192point (61%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<범죄도시3> 씨네21 평론가 평점]]></title>
         <id>https://extmovie.com/bestboard/91040564</id>
         <link href="https://extmovie.com/bestboard/91040564"/>
         <updated>2023-05-26T20:11:23.199Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31190point (60%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인어공주 할리 베일리 악플이 한국에 참 많네요]]></title>
-        <id>https://extmovie.com/bestboard/91040510</id>
-        <link href="https://extmovie.com/bestboard/91040510"/>
-        <updated>2023-05-26T18:13:34.146Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2286point (3%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아바타처돌이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빔 벤더스 감독, 야쿠쇼 코지 주연 칸 영화제 경쟁부분 초청작 [퍼펙트...]]></title>
-        <id>https://extmovie.com/bestboard/91040481</id>
-        <link href="https://extmovie.com/bestboard/91040481"/>
-        <updated>2023-05-27T00:59:07.549Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1291243point (91%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘거미집’ 칸영화제 포토콜, 인터뷰 등]]></title>
-        <id>https://extmovie.com/bestboard/91040339</id>
-        <link href="https://extmovie.com/bestboard/91040339"/>
-        <updated>2023-05-27T00:59:07.550Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007038point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폼 클레멘티에프가 올린 보그코리아 화보]]></title>
-        <id>https://extmovie.com/bestboard/91040315</id>
-        <link href="https://extmovie.com/bestboard/91040315"/>
-        <updated>2023-05-27T00:59:07.550Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007038point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<인어공주>의 문제점을 지적한 AP통신 리뷰]]></title>
-        <id>https://extmovie.com/bestboard/91040290</id>
-        <link href="https://extmovie.com/bestboard/91040290"/>
-        <updated>2023-05-26T16:14:33.539Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27780point (56%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31192point (61%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
 </feed>

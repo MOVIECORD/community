@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-05-29T11:10:15.208Z</updated>
+    <updated>2023-05-29T12:21:23.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[큐어 - 주관적 끄적임 (스포 o)]]></title>
+        <id>https://extmovie.com/movietalk/91049128?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91049128?category=61633579"/>
+        <updated>2023-05-29T12:21:14.733Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:323point (80%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spark]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(왕스포 100% 주의) 남은 인생 10년 후기]]></title>
         <id>https://extmovie.com/movietalk/91048694?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/91031204?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91031204?category=61633579"/>
         <updated>2023-05-24T14:11:14.203Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3979point (63%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">침대위의마술사]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3981point (63%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">침대위의마술사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익무당첨으로 본 유랑지구2]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/91030037?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91030037?category=61633579"/>
         <updated>2023-05-24T10:12:29.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1507point (56%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1518point (58%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<남은 인생 10년> 간단 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91026512?category=61633579"/>
         <updated>2023-05-23T14:15:30.562Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:180281point (67%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[말없는 소녀] 간단 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91026105?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91026105?category=61633579"/>
-        <updated>2023-05-23T13:16:40.380Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43746point (4%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">짱제니]]></content>
     </entry>
 </feed>

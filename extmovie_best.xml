@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-05-31T18:14:41.319Z</updated>
+    <updated>2023-05-31T19:09:29.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -27,11 +27,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9437point (23%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라이언캔슬링]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[플래시 시사회 자체에 대한 단점?]]></title>
+        <id>https://extmovie.com/bestboard/91057333</id>
+        <link href="https://extmovie.com/bestboard/91057333"/>
+        <updated>2023-05-31T19:09:11.985Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9923point (48%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">납득이안가요]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<범죄도시3> 후기: 말맛은 챙겼지만 슬슬 패가 보이기 시작했다]]></title>
         <id>https://extmovie.com/bestboard/91057103</id>
         <link href="https://extmovie.com/bestboard/91057103"/>
         <updated>2023-05-31T16:16:23.278Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:961point (28%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:963point (29%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플래시 보고왔습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91054824"/>
         <updated>2023-05-31T05:11:36.984Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:469point (15%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">루니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알 파치노...54살 연하 여친이 곧 출산]]></title>
-        <id>https://extmovie.com/bestboard/91054757</id>
-        <link href="https://extmovie.com/bestboard/91054757"/>
-        <updated>2023-05-31T05:11:36.985Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24071point (34%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
 </feed>

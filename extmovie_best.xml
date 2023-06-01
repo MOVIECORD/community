@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-01T18:14:51.159Z</updated>
+    <updated>2023-06-01T19:09:35.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://extmovie.com/bestboard/91060813"/>
         <updated>2023-06-01T16:14:23.975Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58836point (78%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">킹치만귀여운걸]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시고니 위버가 말하는 '아바타 3' 진행상황]]></title>
+        <id>https://extmovie.com/bestboard/91060595</id>
+        <link href="https://extmovie.com/bestboard/91060595"/>
+        <updated>2023-06-01T19:09:17.877Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4012175point (2%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플래시  회원시사 cgv]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91059624"/>
         <updated>2023-06-01T09:11:42.636Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10733point (91%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라잇큐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠 데이아, '스파이더맨 4' 미셸 MJ 리턴 컨펌]]></title>
-        <id>https://extmovie.com/bestboard/91059630</id>
-        <link href="https://extmovie.com/bestboard/91059630"/>
-        <updated>2023-06-01T08:14:20.965Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4012175point (2%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

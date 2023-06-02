@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-02T19:09:21.341Z</updated>
+    <updated>2023-06-02T20:11:44.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91065249"/>
         <updated>2023-06-02T16:13:54.323Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4013499point (2%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후배가 <인어공주>를 무려 2회차 하게된 이유라며...]]></title>
+        <id>https://extmovie.com/bestboard/91065237</id>
+        <link href="https://extmovie.com/bestboard/91065237"/>
+        <updated>2023-06-02T20:11:25.773Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92564point (69%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV 범죄도시3  2주차 현장증정이벤트]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91063106"/>
         <updated>2023-06-02T05:10:51.543Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:195point (48%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">간편]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 오늘의 쿠폰소식6개!!]]></title>
-        <id>https://extmovie.com/bestboard/91063074</id>
-        <link href="https://extmovie.com/bestboard/91063074"/>
-        <updated>2023-06-02T04:13:15.786Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3319point (6%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eico]]></content>
     </entry>
 </feed>

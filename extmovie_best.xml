@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-03T21:09:25.944Z</updated>
+    <updated>2023-06-03T22:10:39.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 흥행세를 보면 한국영화의 위기란건 없다는 결론이 나오네요]]></title>
+        <id>https://extmovie.com/bestboard/91069329</id>
+        <link href="https://extmovie.com/bestboard/91069329"/>
+        <updated>2023-06-03T22:10:19.600Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:205point (51%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 6월 3일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/91068964</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/91068820</id>
         <link href="https://extmovie.com/bestboard/91068820"/>
         <updated>2023-06-03T17:09:38.054Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:197point (49%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:205point (51%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가디언즈 오브 갤럭시 VOLUME 3 400만 돌파]]></title>
@@ -122,14 +129,14 @@
         <id>https://extmovie.com/bestboard/91068253</id>
         <link href="https://extmovie.com/bestboard/91068253"/>
         <updated>2023-06-03T14:09:03.202Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11377point (23%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11379point (23%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포O) 범죄도시3 코엑스 메가박스에서 무대인사로 보고 왔습니다~ (장문)]]></title>
         <id>https://extmovie.com/bestboard/91067726</id>
         <link href="https://extmovie.com/bestboard/91067726"/>
         <updated>2023-06-03T15:10:32.477Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22063point (64%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22064point (65%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드림 팰리스 라이브러리톡 ㅡ  결국 눈물을 보이고 마시는 김선영배우님]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91066894</id>
         <link href="https://extmovie.com/bestboard/91066894"/>
         <updated>2023-06-03T06:13:59.372Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1292783point (92%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이클 섀넌, [플래시] 조드 장군으로 복귀하기 전]]></title>
-        <id>https://extmovie.com/bestboard/91066691</id>
-        <link href="https://extmovie.com/bestboard/91066691"/>
-        <updated>2023-06-03T03:10:57.103Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1292783point (92%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

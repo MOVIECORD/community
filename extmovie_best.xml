@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-06T17:10:29.706Z</updated>
+    <updated>2023-06-06T18:14:03.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:113point (28%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[약스포?) [트랜스포머: 비스트의 서막] 주관 100% 고급리뷰]]></title>
+        <id>https://extmovie.com/bestboard/91078960</id>
+        <link href="https://extmovie.com/bestboard/91078960"/>
+        <updated>2023-06-06T18:13:42.909Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:286point (71%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제임스건이 디즈니에게 날리는 일침]]></title>
         <id>https://extmovie.com/bestboard/91078935</id>
         <link href="https://extmovie.com/bestboard/91078935"/>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/91078497</id>
         <link href="https://extmovie.com/bestboard/91078497"/>
         <updated>2023-06-06T12:22:00.143Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:76925point (5%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:76927point (5%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트렌스포머 아카 쩌네요 영화도 좋았습니다..]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91077453"/>
         <updated>2023-06-06T06:14:11.930Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1293341point (93%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한극장 갔다가  말없는 소녀 보실려는 어르신들보고]]></title>
-        <id>https://extmovie.com/bestboard/91077432</id>
-        <link href="https://extmovie.com/bestboard/91077432"/>
-        <updated>2023-06-06T11:09:22.172Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:96106point (84%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-06T18:14:03.050Z</updated>
+    <updated>2023-06-06T19:09:51.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/91079662</id>
         <link href="https://extmovie.com/bestboard/91079662"/>
         <updated>2023-06-06T17:10:12.256Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3935724point (78%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3935726point (78%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배두나 ‘레벨 문’ 첫모습]]></title>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91079601"/>
         <updated>2023-06-06T16:14:42.242Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4016800point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인시디어스 5 새 예고편, 포스터]]></title>
+        <id>https://extmovie.com/bestboard/91079286</id>
+        <link href="https://extmovie.com/bestboard/91079286"/>
+        <updated>2023-06-06T19:09:30.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10121point (59%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비요정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캡틴 아메리카 4 새 제목 공식 로고]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/bestboard/91077641</id>
         <link href="https://extmovie.com/bestboard/91077641"/>
         <updated>2023-06-06T06:14:11.926Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5622point (89%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5624point (89%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 여름 극장가, '2022년 악몽' 씻을까...기대와 우려 사이]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91077021"/>
         <updated>2023-06-06T14:10:16.750Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:113point (28%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트랜스포머: 비스트의 서막] 개봉에 맞추어 '트랜스포머' ...]]></title>
-        <id>https://extmovie.com/bestboard/91077453</id>
-        <link href="https://extmovie.com/bestboard/91077453"/>
-        <updated>2023-06-06T06:14:11.930Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1293341point (93%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

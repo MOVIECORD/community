@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-07T17:09:59.809Z</updated>
+    <updated>2023-06-07T18:16:24.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 6월 7일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91084218</id>
+        <link href="https://extmovie.com/bestboard/91084218"/>
+        <updated>2023-06-07T18:16:03.996Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3936407point (78%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cgv가 업자들 안막는 이유는 뭘까요?]]></title>
         <id>https://extmovie.com/bestboard/91083768</id>
         <link href="https://extmovie.com/bestboard/91083768"/>
         <updated>2023-06-07T15:12:16.491Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1990point (49%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힐링]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1992point (49%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힐링]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역대 가장 혹독했던 영화 촬영 현장 19]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91081685"/>
         <updated>2023-06-07T08:15:38.501Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:461128point (5%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플래시' 에즈라 밀러 이슈가 크긴 크네요...]]></title>
-        <id>https://extmovie.com/bestboard/91081647</id>
-        <link href="https://extmovie.com/bestboard/91081647"/>
-        <updated>2023-06-07T06:14:42.095Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3936407point (78%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

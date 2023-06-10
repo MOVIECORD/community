@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-06-10T14:09:40.941Z</updated>
+    <updated>2023-06-10T15:10:44.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 6월 10일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/movietalk/91096724?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91096724?category=21915420"/>
+        <updated>2023-06-10T15:10:31.650Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937478point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탐 홀랜드, 마일드 모렐리스 팀업 원한다 언급 / ‘스파이더맨 4’ 각본 ...]]></title>
         <id>https://extmovie.com/movietalk/91096531?category=21915420</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/91096180?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91096180?category=21915420"/>
         <updated>2023-06-10T12:19:06.836Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937456point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937478point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘더 플래쉬’ 중국판 포스터 2종]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/91095366?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91095366?category=21915420"/>
         <updated>2023-06-10T07:10:11.804Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937456point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937478point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<슬픔의 삼각형> 5만 관객 돌파]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/91093203?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91093203?category=21915420"/>
         <updated>2023-06-09T15:11:56.134Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937456point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937478point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡플레이 회원분들 존윅4 무료로 보는법(-6/11)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91092901?category=21915420"/>
         <updated>2023-06-09T14:10:33.638Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:462009point (10%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주' 일본 개봉 첫날 관객 반응]]></title>
-        <id>https://extmovie.com/movietalk/91092695?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91092695?category=21915420"/>
-        <updated>2023-06-09T13:14:23.638Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3937456point (79%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

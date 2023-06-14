@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-14T20:11:52.847Z</updated>
+    <updated>2023-06-14T21:10:38.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://extmovie.com/bestboard/91112333"/>
         <updated>2023-06-14T13:14:32.623Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:27point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">런던블루]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현시각 CGV 용산 경품 현황]]></title>
+        <id>https://extmovie.com/bestboard/91112319</id>
+        <link href="https://extmovie.com/bestboard/91112319"/>
+        <updated>2023-06-14T21:10:19.729Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6718point (62%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">광제스님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['사냥개들' 우도환 "김새론 음주운전 청천벽력…눈 앞이...]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/bestboard/91109778</id>
         <link href="https://extmovie.com/bestboard/91109778"/>
         <updated>2023-06-14T10:11:50.729Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1294808point (94%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1294810point (94%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[귀공자 전단지]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91109703"/>
         <updated>2023-06-14T11:10:06.896Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3771point (45%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 플래시 보고왔어요]]></title>
-        <id>https://extmovie.com/bestboard/91109534</id>
-        <link href="https://extmovie.com/bestboard/91109534"/>
-        <updated>2023-06-14T06:14:13.856Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3325point (7%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천무]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-06-15T09:11:41.902Z</updated>
+    <updated>2023-06-15T10:13:18.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<플래시> 재밌게 봤어요 기대만큼은 했던 영화]]></title>
+        <id>https://extmovie.com/movietalk/91116864?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91116864?category=61633579"/>
+        <updated>2023-06-15T10:13:10.419Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17727point (3%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">현71]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플래쉬 (2023) 스포일러 없음.]]></title>
         <id>https://extmovie.com/movietalk/91115703?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/91112753?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91112753?category=61633579"/>
         <updated>2023-06-14T13:14:42.697Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1068point (59%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1070point (60%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[약스포][엘리멘탈] 정말 모험을 해야할 주체는 어디?]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/91093234?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91093234?category=61633579"/>
         <updated>2023-06-09T16:13:59.979Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4028529point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4028531point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헬레이저 [왕 스포.230603]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91085322?category=61633579"/>
         <updated>2023-06-08T04:13:43.087Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24687point (55%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트랜스포머 : 비스트의 서막 후기(스포)]]></title>
-        <id>https://extmovie.com/movietalk/91085171?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91085171?category=61633579"/>
-        <updated>2023-06-08T01:04:51.997Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7806point (30%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
     </entry>
 </feed>

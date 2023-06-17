@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-06-17T16:13:34.772Z</updated>
+    <updated>2023-06-17T17:10:07.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[플래시] 소신 후기]]></title>
+        <id>https://extmovie.com/movietalk/91126638?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91126638?category=61633579"/>
+        <updated>2023-06-17T17:09:59.710Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3996point (64%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[떼시스 [왕 스포.230612]]]></title>
         <id>https://extmovie.com/movietalk/91126592?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91105006?category=61633579"/>
         <updated>2023-06-13T08:15:06.076Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25016point (66%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시 3 (2023) 스포일러 없음.]]></title>
-        <id>https://extmovie.com/movietalk/91102105?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91102105?category=61633579"/>
-        <updated>2023-06-13T03:12:21.094Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26324point (9%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

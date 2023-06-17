@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-17T20:11:49.891Z</updated>
+    <updated>2023-06-17T21:10:08.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3630point (33%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힐태식]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신도림 씨네큐트랜스포머 긋즈 상영 머그컵 상태 좋네요.]]></title>
+        <id>https://extmovie.com/bestboard/91125743</id>
+        <link href="https://extmovie.com/bestboard/91125743"/>
+        <updated>2023-06-17T21:09:46.148Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24862point (61%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[임지연 & 김태희 투샷]]></title>
         <id>https://extmovie.com/bestboard/91125674</id>
         <link href="https://extmovie.com/bestboard/91125674"/>
@@ -137,6 +144,13 @@
         <link href="https://extmovie.com/bestboard/91125298"/>
         <updated>2023-06-17T13:12:44.404Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1242point (6%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<아바타>,<가오갤> '조 샐다나', 분장 벗고 액...]]></title>
+        <id>https://extmovie.com/bestboard/91125190</id>
+        <link href="https://extmovie.com/bestboard/91125190"/>
+        <updated>2023-06-17T21:09:46.175Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1192point (94%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">센세이셔날]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엘리멘탈, 플래시 시네마 스코어]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91124467"/>
         <updated>2023-06-17T13:12:44.458Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12053point (56%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['익스트랙션 2' 역대급 발암캐 주의]]></title>
-        <id>https://extmovie.com/bestboard/91124412</id>
-        <link href="https://extmovie.com/bestboard/91124412"/>
-        <updated>2023-06-17T07:10:17.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3940922point (80%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의외로 잘 빠진 수작 플래시 - 스포일러 있음]]></title>
-        <id>https://extmovie.com/bestboard/91124292</id>
-        <link href="https://extmovie.com/bestboard/91124292"/>
-        <updated>2023-06-17T12:18:44.134Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:994point (38%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
     </entry>
 </feed>

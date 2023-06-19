@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-19T18:15:05.185Z</updated>
+    <updated>2023-06-19T19:10:04.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91132988"/>
         <updated>2023-06-19T17:10:10.451Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1418point (39%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오이건귀하군요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['음주운전 중 취침' 곽도원, 벌금 1000만원 약식명령]]></title>
+        <id>https://extmovie.com/bestboard/91132979</id>
+        <link href="https://extmovie.com/bestboard/91132979"/>
+        <updated>2023-06-19T19:09:42.594Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4198point (81%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드풀 원작자, "<데드풀 3> 출연진은 압도적이다"]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91131216"/>
         <updated>2023-06-19T05:11:30.669Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24921point (63%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘A’ 계약 논란에 대한 제작사의 입장]]></title>
-        <id>https://extmovie.com/bestboard/91131192</id>
-        <link href="https://extmovie.com/bestboard/91131192"/>
-        <updated>2023-06-19T04:13:51.193Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3941679point (80%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

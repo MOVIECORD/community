@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-19T17:10:29.993Z</updated>
+    <updated>2023-06-19T18:15:05.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 6월 19일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91133264</id>
+        <link href="https://extmovie.com/bestboard/91133264"/>
+        <updated>2023-06-19T18:14:46.948Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3941679point (80%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 만난 ‘미션 임파서블’ 멤버들]]></title>
         <id>https://extmovie.com/bestboard/91133192</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/bestboard/91132656</id>
         <link href="https://extmovie.com/bestboard/91132656"/>
         <updated>2023-06-19T13:15:56.774Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2410point (16%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">니이름이우예되노]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2412point (16%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">니이름이우예되노]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<엘리멘탈> 이모티콘 출시]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/bestboard/91131781</id>
         <link href="https://extmovie.com/bestboard/91131781"/>
         <updated>2023-06-19T14:11:40.869Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:271176point (3%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:271179point (3%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV에서 스피드쿠폰으로 결제했는데 문제가 생겼어요]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91131192</id>
         <link href="https://extmovie.com/bestboard/91131192"/>
         <updated>2023-06-19T04:13:51.193Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3941679point (80%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['레벨 문'에 나오는 배두나 모습]]></title>
-        <id>https://extmovie.com/bestboard/91131135</id>
-        <link href="https://extmovie.com/bestboard/91131135"/>
-        <updated>2023-06-19T05:11:30.674Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3941679point (80%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

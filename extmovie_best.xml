@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-23T16:16:42.384Z</updated>
+    <updated>2023-06-23T17:12:42.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 6월 23일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91150970</id>
+        <link href="https://extmovie.com/bestboard/91150970"/>
+        <updated>2023-06-23T17:12:21.494Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3943682point (81%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[픽사 ‘엘리멘탈’ 역주행 신화, “한국인 정서가 마음을 뒤흔든다”]]></title>
         <id>https://extmovie.com/bestboard/91150769</id>
@@ -153,6 +160,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1297038point (97%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스포)  '귀공자', 박훈정 감독의 퇴보…두 배우의 빛바랜 호연]]></title>
+        <id>https://extmovie.com/bestboard/91148686</id>
+        <link href="https://extmovie.com/bestboard/91148686"/>
+        <updated>2023-06-23T17:12:21.561Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4932point (38%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[플래시] 일본 아트 포스터]]></title>
         <id>https://extmovie.com/bestboard/91148682</id>
         <link href="https://extmovie.com/bestboard/91148682"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91147575"/>
         <updated>2023-06-23T05:13:11.400Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4039529point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인디아나 존스 운명의 다이얼  필름마크 no131]]></title>
-        <id>https://extmovie.com/bestboard/91147539</id>
-        <link href="https://extmovie.com/bestboard/91147539"/>
-        <updated>2023-06-23T06:16:47.712Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10842point (97%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타이태닉 관광 잠수정 탄 5명, 전원 사망…내부 폭발한 듯(종합2보)]]></title>
-        <id>https://extmovie.com/bestboard/91147516</id>
-        <link href="https://extmovie.com/bestboard/91147516"/>
-        <updated>2023-06-23T08:16:03.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:466001point (30%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

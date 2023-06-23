@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-06-23T17:12:42.542Z</updated>
+    <updated>2023-06-23T18:15:54.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/91150280"/>
         <updated>2023-06-23T14:16:16.755Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:445point (9%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">발피]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['엘리멘탈' 디테일 포인트 4가지]]></title>
+        <id>https://extmovie.com/bestboard/91150129</id>
+        <link href="https://extmovie.com/bestboard/91150129"/>
+        <updated>2023-06-23T18:15:37.145Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3943682point (81%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인디와이어 선정 ‘픽사 애니 랭킹’]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/bestboard/91149241</id>
         <link href="https://extmovie.com/bestboard/91149241"/>
         <updated>2023-06-23T09:13:01.501Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:301792point (17%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:301795point (17%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[롯데시네마 시그니처아트카드 No.131 애스터로이드 시티]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91147794"/>
         <updated>2023-06-23T03:02:40.639Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3659point (35%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eico]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희, 송혜교 입국샷]]></title>
-        <id>https://extmovie.com/bestboard/91147575</id>
-        <link href="https://extmovie.com/bestboard/91147575"/>
-        <updated>2023-06-23T05:13:11.400Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4039529point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

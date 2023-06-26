@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-06-26T12:24:33.441Z</updated>
+    <updated>2023-06-26T13:22:30.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(약스포) 엘리멘탈 초강추^^ 한줄평!!]]></title>
+        <id>https://extmovie.com/movietalk/91160053?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91160053?category=61633579"/>
+        <updated>2023-06-26T13:22:19.844Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30920point (52%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[89년작) 인디아나 존스 3 보고 온 장문 리뷰 입니다]]></title>
         <id>https://extmovie.com/movietalk/91156847?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91129656?category=61633579"/>
         <updated>2023-06-18T16:13:31.865Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:727point (71%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">용산여의도영등포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘리멘탈vs범죄 도시 3]]></title>
-        <id>https://extmovie.com/movietalk/91129588?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91129588?category=61633579"/>
-        <updated>2023-06-18T16:13:31.866Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:17point (4%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">qordk]]></content>
     </entry>
 </feed>

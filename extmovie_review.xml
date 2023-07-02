@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-02T01:13:52.363Z</updated>
+    <updated>2023-07-02T03:00:45.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포) 스파이더맨 어크로스... 경탄스럽네요]]></title>
+        <id>https://extmovie.com/movietalk/91181060?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91181060?category=61633579"/>
+        <updated>2023-07-02T03:00:37.202Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8232point (55%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애스터로이드 시티 리뷰]]></title>
         <id>https://extmovie.com/movietalk/91179594?category=61633579</id>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/91149732?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91149732?category=61633579"/>
         <updated>2023-06-23T09:13:13.566Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:183831point (79%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:183832point (79%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<플래시> : 멀티버스 이대로 괜찮은가]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91146585?category=61633579"/>
         <updated>2023-06-22T15:11:42.486Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11625point (35%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘리멘탈 - 간질간질하고 따끈따끈한 로멘틱 코미디 - 스포일러 있음]]></title>
-        <id>https://extmovie.com/movietalk/91145346?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91145346?category=61633579"/>
-        <updated>2023-06-22T09:11:43.963Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1085point (64%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
     </entry>
 </feed>

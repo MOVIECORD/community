@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-02T20:12:24.645Z</updated>
+    <updated>2023-07-02T21:11:04.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91182647"/>
         <updated>2023-07-02T18:14:08.565Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3947399point (82%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[보 이즈 어프레이드] 봤어요]]></title>
+        <id>https://extmovie.com/bestboard/91182578</id>
+        <link href="https://extmovie.com/bestboard/91182578"/>
+        <updated>2023-07-02T21:10:43.491Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/73.gif" alt="[레벨:73]" title="포인트:1299009point (99%), 레벨:73/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동진 평론가 [인디아나 존스 5][애스터로이드 시티] 별점평]]></title>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/91182445</id>
         <link href="https://extmovie.com/bestboard/91182445"/>
         <updated>2023-07-02T16:14:19.979Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:101063point (21%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:101079point (21%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헤일리 애트웰 최근화보]]></title>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/bestboard/91182117</id>
         <link href="https://extmovie.com/bestboard/91182117"/>
         <updated>2023-07-02T13:16:00.192Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:101063point (21%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:101079point (21%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워너 역사상 최악의 흥행 실패가 될 <플래시>(더 다이렉트)]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91181095</id>
         <link href="https://extmovie.com/bestboard/91181095"/>
         <updated>2023-07-02T06:15:42.155Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:468837point (44%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[원피스] 실사 루피 배우와 일본 성우가 같이 찍은 사진]]></title>
-        <id>https://extmovie.com/bestboard/91181080</id>
-        <link href="https://extmovie.com/bestboard/91181080"/>
-        <updated>2023-07-02T10:11:49.424Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:468837point (44%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

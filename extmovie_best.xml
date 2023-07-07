@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-07T20:13:48.389Z</updated>
+    <updated>2023-07-07T21:11:45.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3949482point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘자 악귀..]]></title>
+        <id>https://extmovie.com/bestboard/91200892</id>
+        <link href="https://extmovie.com/bestboard/91200892"/>
+        <updated>2023-07-07T21:11:25.863Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14619point (73%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[호화 캐스팅의 망작(?) '범죄의 장인' 로튼토마토 리뷰]]></title>
         <id>https://extmovie.com/bestboard/91200727</id>
         <link href="https://extmovie.com/bestboard/91200727"/>
         <updated>2023-07-07T18:15:33.318Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3949482point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오펜하이머] 출연진 피플지 사진]]></title>
+        <id>https://extmovie.com/bestboard/91200692</id>
+        <link href="https://extmovie.com/bestboard/91200692"/>
+        <updated>2023-07-07T21:11:25.863Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1300442point (0%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[미션 임파서블: 데드 레코닝 파트1] 일본 극장 굿즈]]></title>
@@ -171,7 +185,7 @@
         <id>https://extmovie.com/bestboard/91199336</id>
         <link href="https://extmovie.com/bestboard/91199336"/>
         <updated>2023-07-07T19:09:46.141Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:273382point (11%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:273384point (11%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<밀수> 시사회 이벤트 중인거 다들 아셨나요?]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91198577"/>
         <updated>2023-07-07T05:12:26.778Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11884point (48%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒷북이지만 영화 '승부' 잠정 연기 되었네요.]]></title>
-        <id>https://extmovie.com/bestboard/91198548</id>
-        <link href="https://extmovie.com/bestboard/91198548"/>
-        <updated>2023-07-07T05:12:26.778Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:173point (43%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아가복분자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 쿠폰소식은 4개입니다 불금 싸랑해요♡♡♡]]></title>
-        <id>https://extmovie.com/bestboard/91198452</id>
-        <link href="https://extmovie.com/bestboard/91198452"/>
-        <updated>2023-07-07T02:55:13.462Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4041point (68%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eico]]></content>
     </entry>
 </feed>

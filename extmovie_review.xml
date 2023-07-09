@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-09T01:16:16.167Z</updated>
+    <updated>2023-07-09T03:04:01.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플래시를 보고]]></title>
+        <id>https://extmovie.com/movietalk/91204777?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91204777?category=61633579"/>
+        <updated>2023-07-09T03:03:53.859Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14337point (61%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세인트 세이야 더 비기닝 [왕 스포.230629]]]></title>
         <id>https://extmovie.com/movietalk/91204020?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/91184823?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91184823?category=61633579"/>
         <updated>2023-07-03T07:12:11.105Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4060104point (12%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4060106point (12%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강스포!!!! <스파이더맨 : 어크로스 더 유니버스> - 필연과 변칙...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91168468?category=61633579"/>
         <updated>2023-06-28T18:15:53.121Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:536point (29%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">찹쌀찹쌀떡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황무지 [왕 스포.230622]]]></title>
-        <id>https://extmovie.com/movietalk/91168319?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91168319?category=61633579"/>
-        <updated>2023-06-28T16:20:17.116Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11687point (38%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

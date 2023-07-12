@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-12T20:13:47.757Z</updated>
+    <updated>2023-07-12T21:11:57.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/91218476</id>
         <link href="https://extmovie.com/bestboard/91218476"/>
         <updated>2023-07-12T17:11:54.767Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3951508point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3951510point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고급리뷰] 미션 임파서블 7 "미션 해결의 열쇠는 결국 아날로그...]]></title>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91218186"/>
         <updated>2023-07-12T19:10:17.716Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:846point (96%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘데드풀 3’ 세트장 추가샷 (잠재스포)]]></title>
+        <id>https://extmovie.com/bestboard/91218267</id>
+        <link href="https://extmovie.com/bestboard/91218267"/>
+        <updated>2023-07-12T21:11:37.055Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4066122point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미션 임파서블: 데드 레코닝 파트 1 노약스포 후기]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/bestboard/91217793</id>
         <link href="https://extmovie.com/bestboard/91217793"/>
         <updated>2023-07-12T14:12:29.760Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3951508point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3951510point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밀수 프로모션 티켓]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91215865"/>
         <updated>2023-07-12T05:12:55.610Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44424point (21%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데드 레코닝 파트1' 현재 로튼 근황 - 97% + 95%]]></title>
-        <id>https://extmovie.com/bestboard/91215779</id>
-        <link href="https://extmovie.com/bestboard/91215779"/>
-        <updated>2023-07-12T16:17:10.855Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4066122point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

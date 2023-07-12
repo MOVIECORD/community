@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-12T18:16:08.315Z</updated>
+    <updated>2023-07-12T19:10:35.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91218476"/>
         <updated>2023-07-12T17:11:54.767Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3951508point (83%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고급리뷰] 미션 임파서블 7 "미션 해결의 열쇠는 결국 아날로그...]]></title>
+        <id>https://extmovie.com/bestboard/91218186</id>
+        <link href="https://extmovie.com/bestboard/91218186"/>
+        <updated>2023-07-12T19:10:17.716Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:846point (96%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미션 임파서블: 데드 레코닝 파트 1 노약스포 후기]]></title>
@@ -25,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91217838"/>
         <updated>2023-07-12T16:17:10.741Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4066122point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데드레코닝 파트1 전편은 쉬어가는타임...]]></title>
+        <id>https://extmovie.com/bestboard/91217837</id>
+        <link href="https://extmovie.com/bestboard/91217837"/>
+        <updated>2023-07-12T19:10:17.716Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21146point (32%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지브리 신작 애니 근황 1분에 확인하기]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/91215779</id>
         <link href="https://extmovie.com/bestboard/91215779"/>
         <updated>2023-07-12T16:17:10.855Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4066122point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 건, 로켓과 그루트가 만나게 된 감성적인 과거 단편작품 스토리...]]></title>
-        <id>https://extmovie.com/bestboard/91215455</id>
-        <link href="https://extmovie.com/bestboard/91215455"/>
-        <updated>2023-07-12T07:12:20.650Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4066122point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 버거킹의 핑크 버거, 바비 쉐이크]]></title>
-        <id>https://extmovie.com/bestboard/91215665</id>
-        <link href="https://extmovie.com/bestboard/91215665"/>
-        <updated>2023-07-12T06:16:21.171Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4066122point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

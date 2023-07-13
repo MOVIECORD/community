@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-13T07:12:56.767Z</updated>
+    <updated>2023-07-13T08:16:09.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비공식작전 언론배급시사리뷰]]></title>
+        <id>https://extmovie.com/movietalk/91221208?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91221208?category=61633579"/>
+        <updated>2023-07-13T08:16:00.469Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2793point (54%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jjinnynim]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<미션 임파서블 데드 레코닝 파트 1> 단평 (스포주의)]]></title>
         <id>https://extmovie.com/movietalk/91220881?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91193056?category=61633579"/>
         <updated>2023-07-05T11:11:25.928Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:695point (64%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<악마들> 후기]]></title>
-        <id>https://extmovie.com/movietalk/91192206?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91192206?category=61633579"/>
-        <updated>2023-07-05T07:13:18.944Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6320point (36%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라무네스]]></content>
     </entry>
 </feed>

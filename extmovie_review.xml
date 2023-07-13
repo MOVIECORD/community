@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-13T17:12:10.987Z</updated>
+    <updated>2023-07-13T18:16:10.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미션임파서블 후기 일사 화이트 위도우가 확실히 강렬하네요(스포 강력)]]></title>
+        <id>https://extmovie.com/movietalk/91222975?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91222975?category=61633579"/>
+        <updated>2023-07-13T18:16:01.004Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:425241point (26%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시3 [왕 스포.230705]]]></title>
         <id>https://extmovie.com/movietalk/91222808?category=61633579</id>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/91206312?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91206312?category=61633579"/>
         <updated>2023-07-09T16:14:41.466Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30330point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30340point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포)'보 이즈 어프레이드' 혼란하다 혼란해~~]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/91193245?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91193245?category=61633579"/>
         <updated>2023-07-05T16:22:04.586Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30330point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30340point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리바운드 [왕 스포.230627]]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/91193499?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91193499?category=61633579"/>
         <updated>2023-07-05T14:12:53.952Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:848point (97%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한줄리뷰] 애스터로이드 시티 "결국 웨스 앤더슨은 수용의 문제&q...]]></title>
-        <id>https://extmovie.com/movietalk/91193492?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91193492?category=61633579"/>
-        <updated>2023-07-05T14:12:53.956Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:848point (97%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

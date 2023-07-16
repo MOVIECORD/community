@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-16T17:11:14.448Z</updated>
+    <updated>2023-07-16T18:14:58.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번 미임파에서 "나잇&데이" 의 향기가 스멀스멀 ㅎ]]></title>
+        <id>https://extmovie.com/movietalk/91233255?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91233255?category=61633579"/>
+        <updated>2023-07-16T18:14:49.174Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:453point (11%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">moviealone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘리멘탈] 이쁜 상상력의 세계에서 느낀 화합의 중요성]]></title>
         <id>https://extmovie.com/movietalk/91233132?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91204020?category=61633579"/>
         <updated>2023-07-08T15:12:20.892Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11797point (43%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노 스포] 미임파7 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91203966?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91203966?category=61633579"/>
-        <updated>2023-07-08T15:12:20.895Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3585point (29%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NaF3]]></content>
     </entry>
 </feed>

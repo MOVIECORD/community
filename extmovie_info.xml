@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-07-17T13:23:26.944Z</updated>
+    <updated>2023-07-17T14:12:48.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야마다 안나님 주연 영화 "네 마음을 열어줘" 한글포스터]]></title>
+        <id>https://extmovie.com/movietalk/91236304?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91236304?category=21915420"/>
+        <updated>2023-07-17T14:12:32.592Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44532point (24%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지브리 신작의 비평가들 반응 "성숙하고 복잡하며 시각적으로 놀랍...]]></title>
         <id>https://extmovie.com/movietalk/91236112?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91233554?category=21915420"/>
         <updated>2023-07-17T01:13:22.287Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3953630point (84%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현재 '바비' 캐스트들 구글 검색하면 나오는 화면들]]></title>
-        <id>https://extmovie.com/movietalk/91233548?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91233548?category=21915420"/>
-        <updated>2023-07-17T01:13:22.288Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4071873point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

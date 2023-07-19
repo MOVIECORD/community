@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-19T07:11:19.973Z</updated>
+    <updated>2023-07-19T08:14:46.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바비] - 그레타 거윅 감독의 연출력이 빛나는 영화 (강스포)]]></title>
+        <id>https://extmovie.com/movietalk/91244028?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91244028?category=61633579"/>
+        <updated>2023-07-19T08:14:37.561Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1750point (1%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀수 영화리뷰 / 시사회무대인사 (조인성, 박정민, 김혜수, 염정아, 고...]]></title>
         <id>https://extmovie.com/movietalk/91241351?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91206312?category=61633579"/>
         <updated>2023-07-09T16:14:41.466Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30955point (53%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포)'보 이즈 어프레이드' 혼란하다 혼란해~~]]></title>
-        <id>https://extmovie.com/movietalk/91206759?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91206759?category=61633579"/>
-        <updated>2023-07-09T15:11:49.307Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:319point (79%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">F급감별사]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-19T17:10:49.561Z</updated>
+    <updated>2023-07-19T18:14:44.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/91245342"/>
         <updated>2023-07-19T15:11:40.823Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:473507point (67%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우 윤아 청룡시리즈어워즈 레드카펫]]></title>
+        <id>https://extmovie.com/bestboard/91245230</id>
+        <link href="https://extmovie.com/bestboard/91245230"/>
+        <updated>2023-07-19T18:14:22.144Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:276097point (20%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<밀수> 캐릭터 능력치]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/91244207</id>
         <link href="https://extmovie.com/bestboard/91244207"/>
         <updated>2023-07-19T10:12:24.339Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9615point (32%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">나이스가이83]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9617point (32%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">나이스가이83]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오리지널 티켓] No.85 예고]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/bestboard/91244007</id>
         <link href="https://extmovie.com/bestboard/91244007"/>
         <updated>2023-07-19T15:11:40.835Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10258point (66%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">후니허니하니]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10268point (67%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">후니허니하니]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<바비> 초간단 리뷰]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/bestboard/91243809</id>
         <link href="https://extmovie.com/bestboard/91243809"/>
         <updated>2023-07-19T10:12:24.340Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:102863point (57%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:102865point (57%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<밀수> 언론 시사 반응 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91243674"/>
         <updated>2023-07-19T08:14:28.096Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16519point (53%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">루다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바비는 남자들이 대놓고 나사빠져서 나오죠]]></title>
-        <id>https://extmovie.com/bestboard/91243498</id>
-        <link href="https://extmovie.com/bestboard/91243498"/>
-        <updated>2023-07-19T07:10:59.782Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5278point (64%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아라그]]></content>
     </entry>
 </feed>

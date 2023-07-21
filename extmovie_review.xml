@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-21T12:21:39.879Z</updated>
+    <updated>2023-07-21T13:15:42.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스포] 바비 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/91253876?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91253876?category=61633579"/>
+        <updated>2023-07-21T13:15:33.709Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3693point (38%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NaF3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[그녀가 좋아하는 것은] 그 소년, 그 소녀의 사정]]></title>
         <id>https://extmovie.com/movietalk/91249200?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/91233255?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91233255?category=61633579"/>
         <updated>2023-07-16T18:14:49.174Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:468point (14%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">moviealone]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:472point (15%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">moviealone]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[엘리멘탈] 이쁜 상상력의 세계에서 느낀 화합의 중요성]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91218427?category=61633579"/>
         <updated>2023-07-12T15:13:03.209Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:134point (33%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Dedicated]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고급리뷰] 미션 임파서블 7 "미션 해결의 열쇠는 결국 아날로그에...]]></title>
-        <id>https://extmovie.com/movietalk/91218186?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91218186?category=61633579"/>
-        <updated>2023-07-12T15:13:03.213Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1009point (42%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

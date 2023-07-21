@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-21T17:10:47.596Z</updated>
+    <updated>2023-07-21T18:14:46.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/91254150</id>
         <link href="https://extmovie.com/bestboard/91254150"/>
         <updated>2023-07-21T17:10:25.551Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:118point (29%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">날토끼]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:120point (30%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">날토끼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마고 로비, 어린 시절에 저지른 '장난'이 충격]]></title>
@@ -24,7 +24,14 @@
         <id>https://extmovie.com/bestboard/91253890</id>
         <link href="https://extmovie.com/bestboard/91253890"/>
         <updated>2023-07-21T15:11:51.400Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44836point (31%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">FutureX]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44838point (31%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">FutureX]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해리포터 엄브리지 배우 근황]]></title>
+        <id>https://extmovie.com/bestboard/91253833</id>
+        <link href="https://extmovie.com/bestboard/91253833"/>
+        <updated>2023-07-21T18:14:27.513Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:473906point (69%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오펜하이머] 로튼토마토 팝콘 점수 95%]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91251734"/>
         <updated>2023-07-21T06:15:03.081Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4444point (2%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">during]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강렬한 폼 클레멘티에프 베니티 페어 이탈리아 8월]]></title>
-        <id>https://extmovie.com/bestboard/91251551</id>
-        <link href="https://extmovie.com/bestboard/91251551"/>
-        <updated>2023-07-21T06:15:03.085Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4077367point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

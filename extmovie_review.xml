@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-22T12:20:02.256Z</updated>
+    <updated>2023-07-22T13:12:55.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화리뷰] 바비 "미친 척할 때가 가장 매력적인"]]></title>
+        <id>https://extmovie.com/movietalk/91256344?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91256344?category=61633579"/>
+        <updated>2023-07-22T13:12:45.835Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1061point (57%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미션 임파서블 데드레코팅 - 롯데시네마 롯데월드]]></title>
         <id>https://extmovie.com/movietalk/91255910?category=61633579</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/91248925?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91248925?category=61633579"/>
         <updated>2023-07-20T08:14:54.663Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1009point (42%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1061point (57%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 바비 단평 리뷰 (약스포)]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/91246077?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91246077?category=61633579"/>
         <updated>2023-07-19T16:14:26.724Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44680point (27%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44683point (27%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가디언즈 오브 갤럭시 Volume 3 [왕 스포.230710]]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/91229660?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91229660?category=61633579"/>
         <updated>2023-07-15T11:10:22.210Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44680point (27%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44683point (27%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[비닐하우스] 자비없는 인과율]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91218486?category=61633579"/>
         <updated>2023-07-12T15:13:03.208Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11831point (45%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전체가 스포인 도라에몽 진구와 하늘의유토피아]]></title>
-        <id>https://extmovie.com/movietalk/91218480?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91218480?category=61633579"/>
-        <updated>2023-07-12T15:13:03.209Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26175point (5%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
 </feed>

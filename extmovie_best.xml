@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-22T17:09:35.912Z</updated>
+    <updated>2023-07-22T18:13:26.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -80,7 +80,7 @@
         <id>https://extmovie.com/bestboard/91256086</id>
         <link href="https://extmovie.com/bestboard/91256086"/>
         <updated>2023-07-22T15:10:22.732Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7370point (4%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7372point (4%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한예리 SNL 코리아 시즌 4]]></title>
@@ -116,6 +116,13 @@
         <link href="https://extmovie.com/bestboard/91255849"/>
         <updated>2023-07-22T11:09:52.838Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:474061point (70%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘바비’ ‘오펜하이머’ 둘다 시네마스코어 A]]></title>
+        <id>https://extmovie.com/bestboard/91255815</id>
+        <link href="https://extmovie.com/bestboard/91255815"/>
+        <updated>2023-07-22T18:13:06.097Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4077967point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김혜수가 올린 ‘밀수’ 무대인사 부산 가는길]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91254936</id>
         <link href="https://extmovie.com/bestboard/91254936"/>
         <updated>2023-07-22T14:09:22.739Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31449point (68%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠데이아 영화 <챌린저스> 내년 4월로 개봉 연기]]></title>
-        <id>https://extmovie.com/bestboard/91254907</id>
-        <link href="https://extmovie.com/bestboard/91254907"/>
-        <updated>2023-07-22T07:10:15.645Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31449point (68%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

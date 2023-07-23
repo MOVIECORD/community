@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-23T19:09:12.126Z</updated>
+    <updated>2023-07-23T20:11:14.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/91258414"/>
         <updated>2023-07-23T15:10:28.313Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:718point (69%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전담]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명탐정코난 극장판 흑철의어영  특전 2주차]]></title>
+        <id>https://extmovie.com/bestboard/91258407</id>
+        <link href="https://extmovie.com/bestboard/91258407"/>
+        <updated>2023-07-23T20:10:55.364Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12733point (89%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['오펜하이머'에서 발견된 고증 오류]]></title>
@@ -153,6 +160,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4078756point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오리지널 보다 더 멋진 팬포스터들 모음]]></title>
+        <id>https://extmovie.com/bestboard/91257908</id>
+        <link href="https://extmovie.com/bestboard/91257908"/>
+        <updated>2023-07-23T20:10:55.404Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4078756point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[폼 클레멘티에프가 올린 헬기 스카이다이빙]]></title>
         <id>https://extmovie.com/bestboard/91257888</id>
         <link href="https://extmovie.com/bestboard/91257888"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91257367"/>
         <updated>2023-07-23T06:14:32.599Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:474369point (71%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미야자키 하야오 신작 일본 반응이 극단적으로 갈리는 이유]]></title>
-        <id>https://extmovie.com/bestboard/91257332</id>
-        <link href="https://extmovie.com/bestboard/91257332"/>
-        <updated>2023-07-23T05:10:35.979Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3956134point (85%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더문 무대인사 보러 가는데ㅠㅠㅠㅠㅠㅠ]]></title>
-        <id>https://extmovie.com/bestboard/91257335</id>
-        <link href="https://extmovie.com/bestboard/91257335"/>
-        <updated>2023-07-23T14:09:31.253Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:12point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">주먹밤]]></content>
     </entry>
 </feed>

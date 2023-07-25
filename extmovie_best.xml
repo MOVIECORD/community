@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-25T18:13:26.551Z</updated>
+    <updated>2023-07-25T19:08:21.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -45,7 +45,14 @@
         <id>https://extmovie.com/bestboard/91266208</id>
         <link href="https://extmovie.com/bestboard/91266208"/>
         <updated>2023-07-25T14:11:23.570Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:475125point (75%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:475127point (75%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80회 베니스 국제 영화제 초청작들 대충 정리]]></title>
+        <id>https://extmovie.com/bestboard/91266093</id>
+        <link href="https://extmovie.com/bestboard/91266093"/>
+        <updated>2023-07-25T19:08:02.590Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3957196point (85%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미임파 7, 엘리멘탈 일일 관객수 골든크로스?]]></title>
@@ -94,14 +101,14 @@
         <id>https://extmovie.com/bestboard/91265848</id>
         <link href="https://extmovie.com/bestboard/91265848"/>
         <updated>2023-07-25T12:23:10.501Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:475125point (75%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:475127point (75%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오펜하이머] 15세 관람가 영등위 등급표]]></title>
         <id>https://extmovie.com/bestboard/91265742</id>
         <link href="https://extmovie.com/bestboard/91265742"/>
         <updated>2023-07-25T11:09:44.468Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:475125point (75%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:475127point (75%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오펜하이머 15세는 한국 특유의 교육열이 작동한 거 아닌지...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91264866"/>
         <updated>2023-07-25T06:14:56.224Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39533point (95%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희 실물체감 시리즈]]></title>
-        <id>https://extmovie.com/bestboard/91264647</id>
-        <link href="https://extmovie.com/bestboard/91264647"/>
-        <updated>2023-07-25T06:14:56.225Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4081944point (16%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

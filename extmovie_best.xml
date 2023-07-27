@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-27T18:14:17.407Z</updated>
+    <updated>2023-07-27T19:09:15.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91274771"/>
         <updated>2023-07-27T17:10:24.114Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3958058point (86%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실사판 ‘스트리트 파이터’ 감독, 전직 유튜버 출신 “파동권에 경의를 ...]]></title>
+        <id>https://extmovie.com/bestboard/91274668</id>
+        <link href="https://extmovie.com/bestboard/91274668"/>
+        <updated>2023-07-27T19:08:56.521Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1304789point (4%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더문 다음은 신과함께3…김용화 감독, 계속 도전하는 이유]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/bestboard/91273634</id>
         <link href="https://extmovie.com/bestboard/91273634"/>
         <updated>2023-07-27T12:21:40.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1479point (50%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">코블리]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1481point (51%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">코블리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메가박스 8월 개봉작 소개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91272024"/>
         <updated>2023-07-27T06:14:46.904Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4464point (4%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오펜하이머 용아맥 19일 예매는 언제 즈음 뜰까요?]]></title>
-        <id>https://extmovie.com/bestboard/91272015</id>
-        <link href="https://extmovie.com/bestboard/91272015"/>
-        <updated>2023-07-27T12:21:40.875Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:94point (23%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시넷필]]></content>
     </entry>
 </feed>

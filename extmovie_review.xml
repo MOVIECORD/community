@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-27T09:12:10.372Z</updated>
+    <updated>2023-07-27T10:12:01.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-07-27T09:12:00.801Z</updated>
+        <updated>2023-07-27T10:11:52.909Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=611"><img src="https://img.extmovie.com/files/attach/images/49910895/546/268/091/5735bb58b0685c356d332e398e5949f7.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킬리안 머피가 출연한 유혹의 계절을 보고 쓴 글]]></title>
+        <id>https://extmovie.com/movietalk/91273764?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91273764?category=61633579"/>
+        <updated>2023-07-27T10:11:53.170Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3419point (15%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">frames]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미야자키 하야오 '그대들 어떻게 살 것인가' 관람 하고 왔어요.]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91223826?category=61633579"/>
         <updated>2023-07-14T02:57:00.778Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1003point (40%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빗주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인시디어스 - 빨간 문 후기]]></title>
-        <id>https://extmovie.com/movietalk/91223753?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91223753?category=61633579"/>
-        <updated>2023-07-14T01:12:24.592Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44063point (12%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
     </entry>
 </feed>

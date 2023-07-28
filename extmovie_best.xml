@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-07-28T17:10:08.558Z</updated>
+    <updated>2023-07-28T18:13:16.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -27,11 +27,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8665point (80%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[그대들 어떻게 살 것인가] 100억엔 돌파 부정적인 전망이라네요]]></title>
+        <id>https://extmovie.com/bestboard/91278361</id>
+        <link href="https://extmovie.com/bestboard/91278361"/>
+        <updated>2023-07-28T18:12:56.459Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3183point (94%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D.P. 시즌 2 후기입니다]]></title>
         <id>https://extmovie.com/bestboard/91278267</id>
         <link href="https://extmovie.com/bestboard/91278267"/>
         <updated>2023-07-28T15:11:37.154Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8212point (53%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안소의]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8214point (54%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안소의]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['플래시' 본 니콜라스 케이지의 소감]]></title>
@@ -123,6 +130,13 @@
         <link href="https://extmovie.com/bestboard/91277592"/>
         <updated>2023-07-28T12:21:23.002Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3958566point (86%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오펜하이머 광고버스 상세샷]]></title>
+        <id>https://extmovie.com/bestboard/91277517</id>
+        <link href="https://extmovie.com/bestboard/91277517"/>
+        <updated>2023-07-28T18:12:56.528Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22140point (67%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV 시나리오 카드 No.3 밀수]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91275934"/>
         <updated>2023-07-28T03:11:29.755Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46511point (72%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">허니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실시간 예매율 1강 2중]]></title>
-        <id>https://extmovie.com/bestboard/91275904</id>
-        <link href="https://extmovie.com/bestboard/91275904"/>
-        <updated>2023-07-28T09:10:59.024Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14772point (80%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV VIP이신분들...]]></title>
-        <id>https://extmovie.com/bestboard/91275858</id>
-        <link href="https://extmovie.com/bestboard/91275858"/>
-        <updated>2023-07-28T04:13:08.915Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1008point (42%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이븐771]]></content>
     </entry>
 </feed>

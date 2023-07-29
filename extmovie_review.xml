@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-29T10:10:45.614Z</updated>
+    <updated>2023-07-29T11:08:54.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-07-29T10:10:35.909Z</updated>
+        <updated>2023-07-29T11:08:46.079Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=611"><img src="https://img.extmovie.com/files/attach/images/49910895/546/268/091/5735bb58b0685c356d332e398e5949f7.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀수 한줄평]]></title>
+        <id>https://extmovie.com/movietalk/91280917?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91280917?category=61633579"/>
+        <updated>2023-07-29T11:08:46.318Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17471point (93%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kiss me stupid (1964) 빌리 와일더의 수작. 스포일러 있음.]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91232471?category=61633579"/>
         <updated>2023-07-16T11:10:41.751Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4464point (4%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포] 좋.댓.구 단평 (feat. 무대인사)]]></title>
-        <id>https://extmovie.com/movietalk/91229660?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91229660?category=61633579"/>
-        <updated>2023-07-15T11:10:22.210Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44783point (30%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
 </feed>

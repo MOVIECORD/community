@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-30T23:10:46.565Z</updated>
+    <updated>2023-07-31T00:58:08.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-07-30T23:10:37.602Z</updated>
+        <updated>2023-07-31T00:57:58.643Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=611"><img src="https://img.extmovie.com/files/attach/images/49910895/546/268/091/5735bb58b0685c356d332e398e5949f7.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스포x) DP 시즌 2 간단 후기]]></title>
+        <id>https://extmovie.com/movietalk/91283661?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91283661?category=61633579"/>
+        <updated>2023-07-31T00:57:58.974Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17508point (94%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미야자키 하야오 [그대들은 어떻게 살것인가] 감상기]]></title>
+        <id>https://extmovie.com/movietalk/91283623?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91283623?category=61633579"/>
+        <updated>2023-07-31T00:57:58.974Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2271point (2%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Blackiceberg]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포x) 밀수 한줄평]]></title>
         <id>https://extmovie.com/movietalk/91280917?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91280917?category=61633579"/>
         <updated>2023-07-29T11:08:46.318Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17496point (94%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17508point (94%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kiss me stupid (1964) 빌리 와일더의 수작. 스포일러 있음.]]></title>
@@ -242,19 +256,5 @@
         <link href="https://extmovie.com/movietalk/91233255?category=61633579"/>
         <updated>2023-07-16T18:14:49.174Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:516point (25%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">moviealone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘리멘탈] 이쁜 상상력의 세계에서 느낀 화합의 중요성]]></title>
-        <id>https://extmovie.com/movietalk/91233132?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91233132?category=61633579"/>
-        <updated>2023-07-16T16:14:42.985Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4464point (4%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애스터로이드 시티] 개인적인 리뷰 (한줄평)]]></title>
-        <id>https://extmovie.com/movietalk/91232471?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91232471?category=61633579"/>
-        <updated>2023-07-16T11:10:41.751Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4464point (4%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

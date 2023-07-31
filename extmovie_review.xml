@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-07-31T14:11:30.675Z</updated>
+    <updated>2023-07-31T15:13:13.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-07-31T14:11:21.330Z</updated>
+        <updated>2023-07-31T15:13:02.242Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=611"><img src="https://img.extmovie.com/files/attach/images/49910895/546/268/091/5735bb58b0685c356d332e398e5949f7.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스포x) 더 문 한줄평]]></title>
+        <id>https://extmovie.com/movietalk/91287386?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91287386?category=61633579"/>
+        <updated>2023-07-31T15:13:02.662Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17679point (1%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포x) DP 시즌 2 간단 후기]]></title>
         <id>https://extmovie.com/movietalk/91283661?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91283661?category=61633579"/>
         <updated>2023-07-31T00:57:58.974Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17524point (95%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17679point (1%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미야자키 하야오 [그대들은 어떻게 살것인가] 감상기]]></title>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/91280917?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91280917?category=61633579"/>
         <updated>2023-07-29T11:08:46.318Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17524point (95%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17679point (1%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조화와균형]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kiss me stupid (1964) 빌리 와일더의 수작. 스포일러 있음.]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91236467?category=61633579"/>
         <updated>2023-07-17T16:18:08.384Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11831point (45%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 미임파에서 "나잇&데이" 의 향기가 스멀스멀 ㅎ]]></title>
-        <id>https://extmovie.com/movietalk/91233255?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91233255?category=61633579"/>
-        <updated>2023-07-16T18:14:49.174Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:516point (25%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">moviealone]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-01T20:12:07.367Z</updated>
+    <updated>2023-08-01T21:10:32.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -230,6 +230,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:279207point (30%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[저가 코스프레 <주술회전> 고죠]]></title>
+        <id>https://extmovie.com/bestboard/91288892</id>
+        <link href="https://extmovie.com/bestboard/91288892"/>
+        <updated>2023-08-01T21:10:14.395Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1305672point (5%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]“조병규 학폭 거짓이면 50억 낼 것” 폭로자, 공개검증 새 제안]]></title>
         <id>https://extmovie.com/bestboard/91288870</id>
         <link href="https://extmovie.com/bestboard/91288870"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91288768"/>
         <updated>2023-08-01T05:11:22.590Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1304439point (4%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+ 8월 주요 라인업]]></title>
-        <id>https://extmovie.com/bestboard/91288748</id>
-        <link href="https://extmovie.com/bestboard/91288748"/>
-        <updated>2023-08-01T06:22:23.814Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:88996point (54%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

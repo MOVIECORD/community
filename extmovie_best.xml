@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-02T17:10:10.979Z</updated>
+    <updated>2023-08-02T18:14:13.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CJ ENM은 1,000억 원의 제작비로 200억도 회수하지 못할 위기에 처했습...]]></title>
+        <id>https://extmovie.com/bestboard/91295006</id>
+        <link href="https://extmovie.com/bestboard/91295006"/>
+        <updated>2023-08-02T18:13:53.972Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1633point (79%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 8월 2일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/91294826</id>
         <link href="https://extmovie.com/bestboard/91294826"/>
         <updated>2023-08-02T16:14:51.036Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3960524point (86%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바비 열풍' 한국에서는 잠잠…외신 "페미니스트 낙인 ...]]></title>
+        <id>https://extmovie.com/bestboard/91294789</id>
+        <link href="https://extmovie.com/bestboard/91294789"/>
+        <updated>2023-08-02T18:13:53.972Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:806point (88%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전담]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 문-(조금 긴)한줄평]]></title>
@@ -227,7 +241,7 @@
         <id>https://extmovie.com/bestboard/91292533</id>
         <link href="https://extmovie.com/bestboard/91292533"/>
         <updated>2023-08-02T09:11:18.689Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:104843point (96%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:104845point (96%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조인성의 인성은 넘사벽..‘밀수’ 시사회에 장애인+보육원 아이들 초대]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91292522"/>
         <updated>2023-08-02T08:13:55.407Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:477542point (87%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 문 별점]]></title>
-        <id>https://extmovie.com/bestboard/91292478</id>
-        <link href="https://extmovie.com/bestboard/91292478"/>
-        <updated>2023-08-02T04:12:52.612Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1633point (79%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더 문] 노스포 단평]]></title>
-        <id>https://extmovie.com/bestboard/91292393</id>
-        <link href="https://extmovie.com/bestboard/91292393"/>
-        <updated>2023-08-02T03:11:36.260Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:121926point (84%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
     </entry>
 </feed>

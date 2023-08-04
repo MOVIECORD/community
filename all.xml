@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-04T20:18:11.020Z</updated>
+    <updated>2023-08-04T21:09:34.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[노스포] [고급리뷰] 콘크리트 유토피아 (★★★★★) 2023년 개봉작 첫 만... (익스트림무비 ─ 익무힛갤)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://extmovie.com/bestboard/91301730"/>
         <updated>2023-08-04T17:09:50.633Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6164point (26%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">IMAX익무]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건축학 개론 - 제주 서연의 집, 지금은 카페 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91301580</id>
+        <link href="https://extmovie.com/bestboard/91301580"/>
+        <updated>2023-08-04T21:09:16.391Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6547point (51%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ranxiu427]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콘크리트 유토피아 별점 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -243,17 +250,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4093449point (18%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오스카 거장이 추천한 '밀수' (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91299153</id>
-        <link href="https://extmovie.com/bestboard/91299153"/>
-        <updated>2023-08-04T04:17:34.203Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3961323point (87%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-08-04T20:17:56.218Z</updated>
+        <updated>2023-08-04T21:09:20.890Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=611"><img src="https://img.extmovie.com/files/attach/images/49910895/546/268/091/5735bb58b0685c356d332e398e5949f7.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -505,7 +505,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-08-04T20:18:01.283Z</updated>
+        <updated>2023-08-04T21:09:25.830Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=611"><img src="https://img.extmovie.com/files/attach/images/49910895/546/268/091/5735bb58b0685c356d332e398e5949f7.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-08-04T20:18:06.699Z</updated>
+        <updated>2023-08-04T21:09:30.614Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=611"><img src="https://img.extmovie.com/files/attach/images/49910895/546/268/091/5735bb58b0685c356d332e398e5949f7.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

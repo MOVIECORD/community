@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-05T19:08:55.795Z</updated>
+    <updated>2023-08-05T20:10:53.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91304677"/>
         <updated>2023-08-05T16:12:46.411Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3961570point (87%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이슨 스타뎀 ‘메가로돈2’ 최악의 혹평 “로튼토마토 28%, 재앙이다”[...]]></title>
+        <id>https://extmovie.com/bestboard/91304653</id>
+        <link href="https://extmovie.com/bestboard/91304653"/>
+        <updated>2023-08-05T20:10:35.760Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:478350point (91%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 놀란 부부 - 25년전과 지금]]></title>
@@ -174,6 +181,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:727point (71%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">noae_movie]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(주의)시그니처 아트카드 증정기간 변경]]></title>
+        <id>https://extmovie.com/bestboard/91302920</id>
+        <link href="https://extmovie.com/bestboard/91302920"/>
+        <updated>2023-08-05T20:10:35.829Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:382point (95%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바니티]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<오펜하이머>에는 삭제 장면이 존재하지 않는다.]]></title>
         <id>https://extmovie.com/bestboard/91302818</id>
         <link href="https://extmovie.com/bestboard/91302818"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91302471"/>
         <updated>2023-08-05T09:09:32.822Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:478350point (91%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<보헤미안 랩소디> 커플 파경 보도, 라미 말렉과 루시 보인턴 5...]]></title>
-        <id>https://extmovie.com/bestboard/91302435</id>
-        <link href="https://extmovie.com/bestboard/91302435"/>
-        <updated>2023-08-05T03:11:05.119Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1306459point (6%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스크림 7 감독 확정]]></title>
-        <id>https://extmovie.com/bestboard/91302171</id>
-        <link href="https://extmovie.com/bestboard/91302171"/>
-        <updated>2023-08-05T12:18:53.571Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:176113point (53%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
 </feed>

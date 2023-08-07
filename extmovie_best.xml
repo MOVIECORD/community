@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-07T19:09:43.834Z</updated>
+    <updated>2023-08-07T20:11:48.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -199,7 +199,7 @@
         <id>https://extmovie.com/bestboard/91309663</id>
         <link href="https://extmovie.com/bestboard/91309663"/>
         <updated>2023-08-07T12:26:43.634Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2867point (62%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2869point (62%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고현정 = 나나 = 마스크걸 ?! - ‘마스크걸’ 트레일러]]></title>
@@ -237,17 +237,17 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:620point (47%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">편의점박사]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<달짝지근해 7510> 노브랜드 콜라보 굿즈]]></title>
+        <id>https://extmovie.com/bestboard/91309295</id>
+        <link href="https://extmovie.com/bestboard/91309295"/>
+        <updated>2023-08-07T20:11:29.994Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3962252point (87%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[보호자 로튼토마토 등록]]></title>
         <id>https://extmovie.com/bestboard/91309243</id>
         <link href="https://extmovie.com/bestboard/91309243"/>
         <updated>2023-08-07T06:14:35.768Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27744point (55%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아사코]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가박스 수원 AK플라자 오픈 이벤트]]></title>
-        <id>https://extmovie.com/bestboard/91309218</id>
-        <link href="https://extmovie.com/bestboard/91309218"/>
-        <updated>2023-08-07T07:10:42.202Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90261point (60%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

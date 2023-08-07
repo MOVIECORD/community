@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-07T18:13:28.219Z</updated>
+    <updated>2023-08-07T19:09:43.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -108,7 +108,7 @@
         <id>https://extmovie.com/bestboard/91310544</id>
         <link href="https://extmovie.com/bestboard/91310544"/>
         <updated>2023-08-07T12:26:43.611Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/71.gif" alt="[레벨:71]" title="포인트:1018952point (18%), 레벨:71/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익무노예]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/71.gif" alt="[레벨:71]" title="포인트:1018954point (18%), 레벨:71/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익무노예]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콘크리트 유토피아 영화 3사 굿즈 디자인 비교]]></title>
@@ -116,6 +116,13 @@
         <link href="https://extmovie.com/bestboard/91310433"/>
         <updated>2023-08-07T13:14:33.944Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:928point (19%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">chacha1223]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실시간 예매율 오펜하이머 1위, 콘크리트 유토피아 2위]]></title>
+        <id>https://extmovie.com/bestboard/91310374</id>
+        <link href="https://extmovie.com/bestboard/91310374"/>
+        <updated>2023-08-07T19:09:22.614Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:478951point (94%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오리지널 티켓] No.86 콘크리트 유토피아]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91309218</id>
         <link href="https://extmovie.com/bestboard/91309218"/>
         <updated>2023-08-07T07:10:42.202Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90261point (60%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<콘크리트 유토피아> 개봉주 무대인사 박지후 합류]]></title>
-        <id>https://extmovie.com/bestboard/91309206</id>
-        <link href="https://extmovie.com/bestboard/91309206"/>
-        <updated>2023-08-07T04:13:11.085Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90261point (60%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

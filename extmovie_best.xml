@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-08T20:22:12.884Z</updated>
+    <updated>2023-08-08T21:10:53.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/91315579"/>
         <updated>2023-08-08T12:21:26.364Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12734point (89%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강동원 주연 '천박사 퇴마 연구소' 올 추석 개봉]]></title>
+        <id>https://extmovie.com/bestboard/91315561</id>
+        <link href="https://extmovie.com/bestboard/91315561"/>
+        <updated>2023-08-08T21:10:32.820Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16841point (67%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 배우&작가 조합 파업 현재 근황]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91313579"/>
         <updated>2023-08-08T15:11:37.204Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:820point (91%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">noae_movie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수' 13일 연속 독주…'더 문'·'비공식&#03...]]></title>
-        <id>https://extmovie.com/bestboard/91313300</id>
-        <link href="https://extmovie.com/bestboard/91313300"/>
-        <updated>2023-08-08T08:14:19.851Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:479137point (95%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

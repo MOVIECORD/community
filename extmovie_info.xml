@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-08-08T17:11:27.256Z</updated>
+    <updated>2023-08-08T18:15:08.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소용돌이 - 퍼스트 룩 [한글 자막]]]></title>
+        <id>https://extmovie.com/movietalk/91317203?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91317203?category=21915420"/>
+        <updated>2023-08-08T18:14:52.765Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5628point (90%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박보영 인스타]]></title>
         <id>https://extmovie.com/movietalk/91316540?category=21915420</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/91315279?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91315279?category=21915420"/>
         <updated>2023-08-08T09:11:12.817Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1307030point (7%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1307032point (7%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워너 호주가 올린 '바비' 비하인드신들]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/91313476?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91313476?category=21915420"/>
         <updated>2023-08-08T03:11:33.424Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4096667point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블루 비틀' 첫 사운드트랙 영상 / 잭 스나이더, 아이들과 같...]]></title>
-        <id>https://extmovie.com/movietalk/91313324?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91313324?category=21915420"/>
-        <updated>2023-08-08T02:30:20.190Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4096667point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

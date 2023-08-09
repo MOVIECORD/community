@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-09T20:12:42.976Z</updated>
+    <updated>2023-08-09T21:11:07.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[김지운 감독 거미집 로튼 지수 공개 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -180,6 +180,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18005point (13%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Robo_cop]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[실시간 예매율, [더 문] 6위 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91320352</id>
+        <link href="https://extmovie.com/bestboard/91320352"/>
+        <updated>2023-08-09T21:10:46.109Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/50.gif" alt="[레벨:50]" title="포인트:479459point (97%), 레벨:50/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[요새들어 현대인들은 지루한걸 더욱 못참는것 같네요. (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/91320247</id>
         <link href="https://extmovie.com/bestboard/91320247"/>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/91319791"/>
         <updated>2023-08-09T08:15:52.820Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:122432point (87%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어색하고 묘한 <보호자> (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91319672</id>
-        <link href="https://extmovie.com/bestboard/91319672"/>
-        <updated>2023-08-09T08:15:52.820Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:39827point (3%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김지운 감독 거미집 로튼 지수 공개 (익스트림무비 ─ 영화정보)]]></title>

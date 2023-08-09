@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-08T23:11:43.694Z</updated>
+    <updated>2023-08-09T00:57:35.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<밀수>, <비공식작전>, <더문>, <콘크리트 유토피...]]></title>
+        <id>https://extmovie.com/movietalk/91317960?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91317960?category=61633579"/>
+        <updated>2023-08-09T00:57:26.304Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:185693point (85%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화리뷰] 비밀의 언덕(2023) : 감독님 혹시 저 아세요?]]></title>
         <id>https://extmovie.com/movietalk/91315062?category=61633579</id>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/91294364?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91294364?category=61633579"/>
         <updated>2023-08-02T13:14:37.843Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1307038point (7%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1307055point (7%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밀수 / 더 문 / 비공식작전 평가 모음]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91293593?category=61633579"/>
         <updated>2023-08-02T10:11:58.873Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1690point (90%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">배고파흠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스포유][리뷰] 더 문 - SF로는 아슬, 재난영화로는 낙제 그래도 흥행은...]]></title>
-        <id>https://extmovie.com/movietalk/91293430?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91293430?category=61633579"/>
-        <updated>2023-08-02T08:14:08.732Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30795point (49%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

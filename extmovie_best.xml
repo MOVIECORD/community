@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-09T17:10:35.828Z</updated>
+    <updated>2023-08-09T18:14:52.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,7 +24,14 @@
         <id>https://extmovie.com/bestboard/91321929</id>
         <link href="https://extmovie.com/bestboard/91321929"/>
         <updated>2023-08-09T17:10:17.029Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:272972point (9%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:272974point (9%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콘크리트유토피아 GV 다녀왔습니다 ㅎㅎ]]></title>
+        <id>https://extmovie.com/bestboard/91321844</id>
+        <link href="https://extmovie.com/bestboard/91321844"/>
+        <updated>2023-08-09T18:14:30.670Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:583point (39%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">압꾸정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무빙…나쁘진 않은데 늘어지는 전개가 살짝 아쉬움]]></title>
@@ -53,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/91321556"/>
         <updated>2023-08-09T15:13:04.170Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3963370point (87%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[콘크리트 유토피아]  보자마자 단평]]></title>
+        <id>https://extmovie.com/bestboard/91321434</id>
+        <link href="https://extmovie.com/bestboard/91321434"/>
+        <updated>2023-08-09T18:14:30.684Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90640point (61%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[콘크리트 유토피아] CGV 골든에그 89%]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91319644"/>
         <updated>2023-08-09T09:12:04.863Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:131point (32%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호호88]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보호자' 정우성 감독 작품.. 아쉽네요.]]></title>
-        <id>https://extmovie.com/bestboard/91319570</id>
-        <link href="https://extmovie.com/bestboard/91319570"/>
-        <updated>2023-08-09T08:15:52.822Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3963370point (87%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘크리트 유토피아 CGV 에그지수 평들 속상하네요..]]></title>
-        <id>https://extmovie.com/bestboard/91319562</id>
-        <link href="https://extmovie.com/bestboard/91319562"/>
-        <updated>2023-08-09T08:15:52.822Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6772point (66%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">IMAX익무]]></content>
     </entry>
 </feed>

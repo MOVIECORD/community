@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-09T09:12:23.291Z</updated>
+    <updated>2023-08-09T10:12:56.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스포][콘크리트 유토피아] 아무도 없는 쓸쓸한 나의 아파트지만 객석은...]]></title>
+        <id>https://extmovie.com/movietalk/91320589?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91320589?category=61633579"/>
+        <updated>2023-08-09T10:12:46.812Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30901point (52%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강스포 아파트는! 주민의것! 콘토피아 리뷰]]></title>
         <id>https://extmovie.com/movietalk/91320231?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91320231?category=61633579"/>
         <updated>2023-08-09T09:12:14.529Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26519point (16%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26530point (16%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어색하고 묘한 <보호자>]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/91311620?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91311620?category=61633579"/>
         <updated>2023-08-07T14:11:05.377Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26519point (16%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26530point (16%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재밌게 본 밀수(노스포) - 믿고 보는 류승완, 믿고 보는 김혜수 & ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91294924?category=61633579"/>
         <updated>2023-08-02T16:15:01.607Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1022point (46%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">세스크라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<비공식작전> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/91294364?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91294364?category=61633579"/>
-        <updated>2023-08-02T13:14:37.843Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1307125point (7%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

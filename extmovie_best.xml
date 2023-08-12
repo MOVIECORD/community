@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-12T19:08:33.173Z</updated>
+    <updated>2023-08-12T20:10:52.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/91333120"/>
         <updated>2023-08-12T17:08:55.267Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:281453point (38%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용아맥 오펜하이머 당일취소표 구할때요]]></title>
+        <id>https://extmovie.com/bestboard/91333082</id>
+        <link href="https://extmovie.com/bestboard/91333082"/>
+        <updated>2023-08-12T20:10:31.485Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1606point (74%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">잠좀자자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오펜하이머 누드씬 있나요?]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/bestboard/91332552</id>
         <link href="https://extmovie.com/bestboard/91332552"/>
         <updated>2023-08-12T10:10:16.941Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6536point (50%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아라그]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6538point (50%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아라그]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스토퍼 놀란.. 한국의 물리학자 김상욱에게 공격(?) 당하다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91331517"/>
         <updated>2023-08-12T15:09:47.636Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:480186point (0%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<블루 비틀>의 첫 반응: DC 신작 호평]]></title>
-        <id>https://extmovie.com/bestboard/91331485</id>
-        <link href="https://extmovie.com/bestboard/91331485"/>
-        <updated>2023-08-12T01:40:24.660Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32213point (91%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

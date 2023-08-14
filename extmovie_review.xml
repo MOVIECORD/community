@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-14T14:10:48.394Z</updated>
+    <updated>2023-08-14T15:10:39.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개봉직전이니까 올리는 오펜하이머 영화 후기]]></title>
+        <id>https://extmovie.com/movietalk/91340348?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91340348?category=61633579"/>
+        <updated>2023-08-14T15:10:30.630Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:16point (4%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">avisxxrh]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간이길 바란 처절함 <볼코노고프 대위 탈출하다>]]></title>
         <id>https://extmovie.com/movietalk/91338602?category=61633579</id>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/91321393?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91321393?category=61633579"/>
         <updated>2023-08-09T13:17:08.895Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1307906point (7%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1307908point (7%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포][콘크리트 유토피아] 아무도 없는 쓸쓸한 나의 아파트...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91312079?category=61633579"/>
         <updated>2023-08-07T16:14:20.343Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3681point (37%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 달짝지근해 : 7510 메박 이수서 시사회로 보고 왔습...]]></title>
-        <id>https://extmovie.com/movietalk/91311621?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91311621?category=61633579"/>
-        <updated>2023-08-07T16:14:20.358Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34510point (57%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

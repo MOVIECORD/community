@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-15T17:10:24.391Z</updated>
+    <updated>2023-08-15T18:13:01.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/91345753</id>
         <link href="https://extmovie.com/bestboard/91345753"/>
         <updated>2023-08-15T16:13:46.717Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3966110point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3966112point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘이퀄라이저 3’ IMAX 포스터]]></title>
@@ -101,7 +101,7 @@
         <id>https://extmovie.com/bestboard/91344520</id>
         <link href="https://extmovie.com/bestboard/91344520"/>
         <updated>2023-08-15T12:19:10.512Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3966110point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3966112point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[달짝지근해 평이 좋네요. 주말 스코어 궁금.]]></title>
@@ -123,6 +123,13 @@
         <link href="https://extmovie.com/bestboard/91344385"/>
         <updated>2023-08-15T13:12:20.743Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11126point (11%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">후니허니하니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10만원 엘사 피규어]]></title>
+        <id>https://extmovie.com/bestboard/91344357</id>
+        <link href="https://extmovie.com/bestboard/91344357"/>
+        <updated>2023-08-15T18:12:42.267Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18886point (47%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nowherefast]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[킬리언 머피라면 정통 스릴러...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91343615"/>
         <updated>2023-08-15T09:11:05.907Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4766point (26%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화관서 폰 좀 하지마세요 제발]]></title>
-        <id>https://extmovie.com/bestboard/91343477</id>
-        <link href="https://extmovie.com/bestboard/91343477"/>
-        <updated>2023-08-15T08:14:31.657Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:47point (11%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jayr]]></content>
     </entry>
 </feed>

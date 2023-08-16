@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-16T02:15:58.858Z</updated>
+    <updated>2023-08-16T03:12:09.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어제 저녁에 본 보호자~~]]></title>
+        <id>https://extmovie.com/movietalk/91347485?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91347485?category=61633579"/>
+        <updated>2023-08-16T03:11:59.620Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41805point (54%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<보호자> 간단 리뷰]]></title>
         <id>https://extmovie.com/movietalk/91347234?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91347234?category=61633579"/>
         <updated>2023-08-16T02:15:49.345Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:186259point (87%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:186263point (87%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<오펜하이머> 봤어요]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/91343191?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91343191?category=61633579"/>
         <updated>2023-08-15T06:14:23.890Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1421point (39%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1422point (40%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 오펜하이머 왕아맥으로 본 간단 후기입니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91321992?category=61633579"/>
         <updated>2023-08-09T16:16:39.451Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:917point (16%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[콘크리트 유토피아] 아쉬운 점 3가지 (스포 O)]]></title>
-        <id>https://extmovie.com/movietalk/91321803?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91321803?category=61633579"/>
-        <updated>2023-08-09T15:13:17.364Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4766point (26%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

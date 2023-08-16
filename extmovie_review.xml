@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-16T01:42:08.004Z</updated>
+    <updated>2023-08-16T02:15:58.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<보호자> 간단 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/91347234?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91347234?category=61633579"/>
+        <updated>2023-08-16T02:15:49.345Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:186259point (87%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<오펜하이머> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/91345845?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91321803?category=61633579"/>
         <updated>2023-08-09T15:13:17.364Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4766point (26%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘크리트 유토피아같은 영화가 많아져야 합니다]]></title>
-        <id>https://extmovie.com/movietalk/91321553?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91321553?category=61633579"/>
-        <updated>2023-08-09T14:11:17.401Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:775point (81%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
 </feed>

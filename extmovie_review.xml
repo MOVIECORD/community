@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-17T11:09:35.844Z</updated>
+    <updated>2023-08-17T12:19:38.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '비공식작전(2023)' 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/91354180?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91354180?category=61633579"/>
+        <updated>2023-08-17T12:19:29.111Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2819point (57%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '밀수(2023)' 리뷰]]></title>
         <id>https://extmovie.com/movietalk/91354171?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91354171?category=61633579"/>
         <updated>2023-08-17T11:09:26.613Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2808point (56%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2819point (57%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오펜하이머, 놀란 감독의 습작 같은 작품]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/91343191?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91343191?category=61633579"/>
         <updated>2023-08-15T06:14:23.890Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1769point (5%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1773point (6%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 오펜하이머 왕아맥으로 본 간단 후기입니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91327434?category=61633579"/>
         <updated>2023-08-10T23:10:39.076Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26666point (20%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포)콘크리트 유토피아 봤습니다.]]></title>
-        <id>https://extmovie.com/movietalk/91327213?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91327213?category=61633579"/>
-        <updated>2023-08-10T16:16:41.611Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6124point (23%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">낑깡낑낑]]></content>
     </entry>
 </feed>

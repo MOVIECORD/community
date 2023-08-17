@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-17T19:09:32.384Z</updated>
+    <updated>2023-08-17T20:11:55.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['거미집'에 대한 단상]]></title>
+        <id>https://extmovie.com/bestboard/91354645</id>
+        <link href="https://extmovie.com/bestboard/91354645"/>
+        <updated>2023-08-17T20:11:37.321Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23202point (5%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 8월 17일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/91354691</id>
@@ -74,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/91353848"/>
         <updated>2023-08-17T14:10:25.404Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:645point (53%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Kuri]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마고 로비 <WSJ 매거진 중국판> 화보]]></title>
+        <id>https://extmovie.com/bestboard/91353829</id>
+        <link href="https://extmovie.com/bestboard/91353829"/>
+        <updated>2023-08-17T20:11:37.337Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:158228point (91%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하정우, 흥행 부진에 눈물...'1947 보스톤'으로 자존심 회복...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91351649"/>
         <updated>2023-08-17T05:10:08.180Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29608point (13%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘크리트 아파트'에 나온 539번 그거...(약스포)]]></title>
-        <id>https://extmovie.com/bestboard/91351547</id>
-        <link href="https://extmovie.com/bestboard/91351547"/>
-        <updated>2023-08-17T04:12:32.511Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3966958point (88%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 카메론, '크리스토퍼 놀란은 2011년 '인셉션'으...]]></title>
-        <id>https://extmovie.com/bestboard/91351529</id>
-        <link href="https://extmovie.com/bestboard/91351529"/>
-        <updated>2023-08-17T03:11:33.032Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4104969point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

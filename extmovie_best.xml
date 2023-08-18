@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-18T16:14:43.532Z</updated>
+    <updated>2023-08-18T17:09:47.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 18일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91358826</id>
+        <link href="https://extmovie.com/bestboard/91358826"/>
+        <updated>2023-08-18T17:09:29.383Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3967413point (89%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오펜하이머] 레터박스에 문제에 대한 CGV의 답변 받았습니다]]></title>
         <id>https://extmovie.com/bestboard/91358110</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/bestboard/91357949</id>
         <link href="https://extmovie.com/bestboard/91357949"/>
         <updated>2023-08-18T14:10:10.041Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4105996point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4105998point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cgvvip 이벤트]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91355098"/>
         <updated>2023-08-18T16:14:20.235Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:282871point (42%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8월 16일자 북미박스오피스 ㅡ 올드보이 재개봉 9위]]></title>
-        <id>https://extmovie.com/bestboard/91355071</id>
-        <link href="https://extmovie.com/bestboard/91355071"/>
-        <updated>2023-08-18T15:10:43.315Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:106155point (5%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-19T14:09:08.169Z</updated>
+    <updated>2023-08-19T15:10:10.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한줄리뷰] 달짝지근해: 7510 (★★☆) "밋밋한 맛은 순한...]]></title>
+        <id>https://extmovie.com/movietalk/91361930?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91361930?category=61633579"/>
+        <updated>2023-08-19T15:10:00.905Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4662point (18%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포) <달짝지근해: 7510> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/91358536?category=61633579</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/91350590?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91350590?category=61633579"/>
         <updated>2023-08-16T16:15:12.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4647point (17%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4662point (18%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<보호자> 봤어요]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/91344639?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91344639?category=61633579"/>
         <updated>2023-08-15T11:09:16.199Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9163point (8%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9173point (9%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영화리뷰] 보호자 : 정우성이 살면서 인상깊게 본 영화들의...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91338602?category=61633579"/>
         <updated>2023-08-14T08:14:30.890Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40015point (8%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[콘크리트 유토피아] 리뷰 - 평점, 한줄평, 추천도, 강스포 ...]]></title>
-        <id>https://extmovie.com/movietalk/91333672?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91333672?category=61633579"/>
-        <updated>2023-08-12T18:12:14.516Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1357point (27%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">세스크라]]></content>
     </entry>
 </feed>

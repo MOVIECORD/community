@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-19T18:12:29.389Z</updated>
+    <updated>2023-08-19T19:09:05.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91362050"/>
         <updated>2023-08-19T16:14:30.476Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18489point (32%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중간보스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘토르 5’ 이미 제작 계획중]]></title>
+        <id>https://extmovie.com/bestboard/91361936</id>
+        <link href="https://extmovie.com/bestboard/91361936"/>
+        <updated>2023-08-19T19:08:42.972Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4106729point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘무간도’ 레전드신을 재현한 유덕화 & 양조위]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91359215"/>
         <updated>2023-08-19T06:13:28.411Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92868point (70%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잭 스나이더 [레벨 문] 키아트 사진 공개]]></title>
-        <id>https://extmovie.com/bestboard/91359186</id>
-        <link href="https://extmovie.com/bestboard/91359186"/>
-        <updated>2023-08-19T09:09:42.339Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:481631point (8%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

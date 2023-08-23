@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-23T17:09:54.177Z</updated>
+    <updated>2023-08-23T18:11:51.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91375219"/>
         <updated>2023-08-23T16:13:47.500Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117144point (60%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ReMemBerMe]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잠 시사회 다녀왔어요 묘하게 기빨린 기분이에요]]></title>
+        <id>https://extmovie.com/bestboard/91375213</id>
+        <link href="https://extmovie.com/bestboard/91375213"/>
+        <updated>2023-08-23T18:11:32.179Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18440point (30%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">현71]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[무빙 10화, 11화 소감] 강풀 형 이정도까지 원한 건 아니었어!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91372480"/>
         <updated>2023-08-23T07:10:39.715Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29975point (24%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스타워즈: 아소카' 로튼토마토 리뷰 번역]]></title>
-        <id>https://extmovie.com/bestboard/91372478</id>
-        <link href="https://extmovie.com/bestboard/91372478"/>
-        <updated>2023-08-23T05:09:59.417Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3969347point (89%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

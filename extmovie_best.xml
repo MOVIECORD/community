@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-24T17:10:10.103Z</updated>
+    <updated>2023-08-24T18:14:03.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91378586"/>
         <updated>2023-08-24T17:09:49.985Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2347point (9%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Blackiceberg]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거미집 영화와 1947보스톤 영화 런닝타임과 관람등급]]></title>
+        <id>https://extmovie.com/bestboard/91378520</id>
+        <link href="https://extmovie.com/bestboard/91378520"/>
+        <updated>2023-08-24T18:13:40.227Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:15039point (92%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Xnxjxjxj]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 천박사 퇴마 연구소 개봉날짜&런닝타임]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91375213"/>
         <updated>2023-08-23T18:11:32.179Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18446point (30%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">현71]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이코드명포춘 간략 소감]]></title>
-        <id>https://extmovie.com/bestboard/91375187</id>
-        <link href="https://extmovie.com/bestboard/91375187"/>
-        <updated>2023-08-23T23:10:21.134Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26613point (19%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
 </feed>

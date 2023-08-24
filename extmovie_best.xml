@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-24T16:14:48.677Z</updated>
+    <updated>2023-08-24T17:10:10.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 주가 근황.jpg]]></title>
+        <id>https://extmovie.com/bestboard/91378586</id>
+        <link href="https://extmovie.com/bestboard/91378586"/>
+        <updated>2023-08-24T17:09:49.985Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2347point (9%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Blackiceberg]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 천박사 퇴마 연구소 개봉날짜&런닝타임]]></title>
         <id>https://extmovie.com/bestboard/91378195</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91375187"/>
         <updated>2023-08-23T23:10:21.134Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26613point (19%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5년만에 다시 간 B'z 콘서트 후기]]></title>
-        <id>https://extmovie.com/bestboard/91375097</id>
-        <link href="https://extmovie.com/bestboard/91375097"/>
-        <updated>2023-08-24T06:14:25.425Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6109point (22%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">가넷레드]]></content>
     </entry>
 </feed>

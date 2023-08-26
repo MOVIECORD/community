@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-26T18:12:33.862Z</updated>
+    <updated>2023-08-26T19:08:38.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -116,6 +116,13 @@
         <link href="https://extmovie.com/bestboard/91382832"/>
         <updated>2023-08-26T09:09:37.310Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:94888point (79%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고딩 때 1년 선배가 스눕독이었다는 카메론 디아즈]]></title>
+        <id>https://extmovie.com/bestboard/91382757</id>
+        <link href="https://extmovie.com/bestboard/91382757"/>
+        <updated>2023-08-26T19:08:18.968Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:483828point (19%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코난이랑 오펜하이머 포스터 건졌습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91381342"/>
         <updated>2023-08-25T15:10:42.492Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:32631point (4%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타노스가 우리에게 주는교훈]]></title>
-        <id>https://extmovie.com/bestboard/91381296</id>
-        <link href="https://extmovie.com/bestboard/91381296"/>
-        <updated>2023-08-26T04:12:52.006Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13086point (5%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
     </entry>
 </feed>

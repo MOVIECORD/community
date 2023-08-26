@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-26T02:14:16.851Z</updated>
+    <updated>2023-08-26T03:11:04.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보호자를 보았습니다.]]></title>
+        <id>https://extmovie.com/movietalk/91382620?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91382620?category=61633579"/>
+        <updated>2023-08-26T03:10:55.629Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15334point (5%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[약스포][강변의 무코리타] 오늘은 죽음이란 것에 대해 생각...]]></title>
         <id>https://extmovie.com/movietalk/91380858?category=61633579</id>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/91358536?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91358536?category=61633579"/>
         <updated>2023-08-18T14:10:24.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1309932point (9%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1309938point (9%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포) <오펜하이머> - 원자폭탄보다 파괴적인 정치역...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91354171?category=61633579"/>
         <updated>2023-08-17T11:09:26.613Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2858point (61%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오펜하이머, 놀란 감독의 습작 같은 작품]]></title>
-        <id>https://extmovie.com/movietalk/91353998?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91353998?category=61633579"/>
-        <updated>2023-08-17T11:09:26.617Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70254point (23%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ps1881]]></content>
     </entry>
 </feed>

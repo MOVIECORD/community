@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-26T21:09:05.659Z</updated>
+    <updated>2023-08-26T22:09:24.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91384095"/>
         <updated>2023-08-26T17:08:50.753Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3970538point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노스포) 잠 GV로 롯시 월드타워 에서 보고 온 후기입니다]]></title>
+        <id>https://extmovie.com/bestboard/91383704</id>
+        <link href="https://extmovie.com/bestboard/91383704"/>
+        <updated>2023-08-26T22:09:05.613Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36240point (6%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이상했던 디즈니플러스의 한국진출 초기전략]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/bestboard/91383559</id>
         <link href="https://extmovie.com/bestboard/91383559"/>
         <updated>2023-08-26T17:08:50.770Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:285762point (52%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:285764point (52%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(노스포) [잠] 추천 후기, 그리고 이선균 배우님 싸인]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/bestboard/91383480</id>
         <link href="https://extmovie.com/bestboard/91383480"/>
         <updated>2023-08-26T16:12:19.661Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:107220point (11%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:107240point (11%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오펜하이머] 재관람 하며 눈에 띄었던 배우]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91381381"/>
         <updated>2023-08-25T20:11:22.522Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3970538point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 실사 <원피스> 첫 해외 반응 공개]]></title>
-        <id>https://extmovie.com/bestboard/91381342</id>
-        <link href="https://extmovie.com/bestboard/91381342"/>
-        <updated>2023-08-25T15:10:42.492Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:32631point (4%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

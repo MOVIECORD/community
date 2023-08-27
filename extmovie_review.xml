@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-27T12:18:04.851Z</updated>
+    <updated>2023-08-27T13:11:47.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보호자 GV를 관람하고 느낀점 (정우성, 김남길, 김준한, 박...]]></title>
+        <id>https://extmovie.com/movietalk/91386638?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91386638?category=61633579"/>
+        <updated>2023-08-27T13:11:38.465Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:315point (78%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 더 문 관람 후기 리뷰]]></title>
         <id>https://extmovie.com/movietalk/91386143?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/91378790?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91378790?category=61633579"/>
         <updated>2023-08-24T23:11:04.294Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:299point (74%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:315point (78%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오펜하이머 간단한 소감 (약스포 주의)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91357751?category=61633579"/>
         <updated>2023-08-18T10:11:23.541Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46066point (61%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<달짝지근해> 간단 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91357656?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91357656?category=61633579"/>
-        <updated>2023-08-18T09:10:47.435Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:186903point (89%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
 </feed>

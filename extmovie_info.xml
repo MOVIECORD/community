@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-08-29T02:46:57.305Z</updated>
+    <updated>2023-08-29T03:13:01.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가문의 영광 리턴즈' 캐릭터 소개]]></title>
+        <id>https://extmovie.com/movietalk/91391162?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91391162?category=21915420"/>
+        <updated>2023-08-29T03:12:45.457Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3971269point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가문의 영광 리턴즈' 1차 예고편 공개]]></title>
         <id>https://extmovie.com/movietalk/91391041?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91391041?category=21915420"/>
         <updated>2023-08-29T02:46:42.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3971224point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3971269point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['1947 보스톤' 임시완, 체지방 6%대→대회 참가......]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/91390060?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91390060?category=21915420"/>
         <updated>2023-08-28T15:11:31.596Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3971224point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3971269point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘아쿠아맨 2’ 버라이언트 커버]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91388615?category=21915420"/>
         <updated>2023-08-28T06:14:49.731Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95572point (81%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 퍼스트 슬램덩크' 일본 관객수 천만 돌파]]></title>
-        <id>https://extmovie.com/movietalk/91388403?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91388403?category=21915420"/>
-        <updated>2023-08-28T05:10:56.513Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3971224point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

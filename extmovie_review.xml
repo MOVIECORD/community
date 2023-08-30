@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-30T14:10:01.210Z</updated>
+    <updated>2023-08-30T15:13:33.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타겟 무대인사 사진정리, 의외로 재밌었던 후기 / CGV왕십리]]></title>
+        <id>https://extmovie.com/movietalk/91396452?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91396452?category=61633579"/>
+        <updated>2023-08-30T15:13:23.772Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:346point (86%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 놀란감독 영화 중 유일하게 한번에 정주행 성공함 ㅋㅋ]]></title>
         <id>https://extmovie.com/movietalk/91391698?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/91386638?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91386638?category=61633579"/>
         <updated>2023-08-27T13:11:38.465Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:327point (81%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:346point (86%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 더 문 관람 후기 리뷰]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/91378790?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91378790?category=61633579"/>
         <updated>2023-08-24T23:11:04.294Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:327point (81%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:346point (86%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오펜하이머 간단한 소감 (약스포 주의)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91358536?category=61633579"/>
         <updated>2023-08-18T14:10:24.033Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1310628point (10%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포) <오펜하이머> - 원자폭탄보다 파괴적인 정치역...]]></title>
-        <id>https://extmovie.com/movietalk/91358513?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91358513?category=61633579"/>
-        <updated>2023-08-18T13:13:06.186Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1124point (75%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
     </entry>
 </feed>

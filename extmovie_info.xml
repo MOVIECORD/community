@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-08-30T22:10:50.147Z</updated>
+    <updated>2023-08-30T23:11:17.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본영화 나의 행복한 결혼 10월달 개봉인듯싶네요]]></title>
+        <id>https://extmovie.com/movietalk/91396781?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91396781?category=21915420"/>
+        <updated>2023-08-30T23:11:00.206Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46168point (64%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프레디의 피자가게 - 파이널 예고편 [한글 자막]]]></title>
         <id>https://extmovie.com/movietalk/91396737?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91393743?category=21915420"/>
         <updated>2023-08-30T00:48:05.139Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3971963point (90%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이퀄라이저 3' 해외 단평 하나 / 뉴 프로모 클립...]]></title>
-        <id>https://extmovie.com/movietalk/91393719?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91393719?category=21915420"/>
-        <updated>2023-08-30T00:48:05.148Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4120035point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

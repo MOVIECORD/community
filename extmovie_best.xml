@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-08-30T19:09:18.864Z</updated>
+    <updated>2023-08-30T20:11:55.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/91395936"/>
         <updated>2023-08-30T15:13:11.608Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47348point (93%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">허니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매튜 매커너히의 아내가 시어머니로부터 ‘괴롭힘’을 당한 과거를 밝혔다]]></title>
+        <id>https://extmovie.com/bestboard/91395821</id>
+        <link href="https://extmovie.com/bestboard/91395821"/>
+        <updated>2023-08-30T20:11:35.776Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1310630point (10%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시무 리우 한국 왔나보네요.]]></title>
@@ -192,14 +199,14 @@
         <id>https://extmovie.com/bestboard/91393906</id>
         <link href="https://extmovie.com/bestboard/91393906"/>
         <updated>2023-08-30T07:10:15.505Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:484986point (24%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:484992point (24%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피프티 피프티, 결국 ‘항고’ 결정…“본안소송도 제기할 것”]]></title>
         <id>https://extmovie.com/bestboard/91393888</id>
         <link href="https://extmovie.com/bestboard/91393888"/>
         <updated>2023-08-30T16:14:06.475Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:484986point (24%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:484992point (24%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['예스터데이' 통편집 배우 때문에 걸었던 소송 기각]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91393544"/>
         <updated>2023-08-30T04:13:23.886Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:123192point (90%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킬러즈 오브더 플라워 문’ 첫 포스터 / 개봉일정 변경, IMAX 개봉]]></title>
-        <id>https://extmovie.com/bestboard/91393465</id>
-        <link href="https://extmovie.com/bestboard/91393465"/>
-        <updated>2023-08-30T04:13:23.886Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4120035point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

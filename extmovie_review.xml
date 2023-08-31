@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-08-30T23:11:17.371Z</updated>
+    <updated>2023-08-31T00:48:14.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타겟 너무 잘봤어요]]></title>
+        <id>https://extmovie.com/movietalk/91397219?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91397219?category=61633579"/>
+        <updated>2023-08-31T00:48:06.046Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41823point (55%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타겟 무대인사 사진정리, 의외로 재밌었던 후기 / CGV왕십리]]></title>
         <id>https://extmovie.com/movietalk/91396452?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/91375213?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91375213?category=61633579"/>
         <updated>2023-08-23T15:11:26.059Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18481point (32%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">현71]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18491point (32%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">현71]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[좌우충돌 걸스 트립 <조이라이드>]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91361930?category=61633579"/>
         <updated>2023-08-19T15:10:00.905Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5188point (57%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포) <달짝지근해: 7510> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/91358536?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91358536?category=61633579"/>
-        <updated>2023-08-18T14:10:24.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1310634point (10%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

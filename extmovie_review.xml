@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-09-01T04:13:47.125Z</updated>
+    <updated>2023-09-01T05:11:20.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[늦게 오펜하이머를 보고 - 역사는 반복되는가 (노스포)]]></title>
+        <id>https://extmovie.com/movietalk/91401160?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91401160?category=61633579"/>
+        <updated>2023-09-01T05:11:10.306Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1237point (5%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타겟 약스포) 한남자, 조이 라이드, 타겟 봤습니다]]></title>
         <id>https://extmovie.com/movietalk/91399410?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91366165?category=61633579"/>
         <updated>2023-08-21T04:13:19.142Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:494point (20%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '콘크리트 유토피아'(2023) 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91365851?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91365851?category=61633579"/>
-        <updated>2023-08-21T02:15:26.205Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2858point (61%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
     </entry>
 </feed>

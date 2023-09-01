@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-09-01T14:11:07.672Z</updated>
+    <updated>2023-09-01T15:12:09.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘리멘탈 [왕 스포.230824]]]></title>
+        <id>https://extmovie.com/movietalk/91402898?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91402898?category=61633579"/>
+        <updated>2023-09-01T15:12:00.466Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11843point (46%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타겟 재미없었어요...ㅠㅠ]]></title>
         <id>https://extmovie.com/movietalk/91402090?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91367708?category=61633579"/>
         <updated>2023-08-21T10:13:10.079Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:186965point (89%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 지난주 토요일에 '지옥만세'를  보고 온 ...]]></title>
-        <id>https://extmovie.com/movietalk/91365772?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91365772?category=61633579"/>
-        <updated>2023-08-21T04:13:19.142Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36744point (20%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

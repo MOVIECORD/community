@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-09-01T09:11:46.004Z</updated>
+    <updated>2023-09-01T10:12:07.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타겟 재미없었어요...ㅠㅠ]]></title>
+        <id>https://extmovie.com/movietalk/91402090?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91402090?category=61633579"/>
+        <updated>2023-09-01T10:11:57.973Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1704point (93%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dindaruff]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[늦게 오펜하이머를 보고 - 역사는 반복되는가 (노스포)]]></title>
         <id>https://extmovie.com/movietalk/91401160?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91365772?category=61633579"/>
         <updated>2023-08-21T04:13:19.142Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36744point (20%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<달짝지근해 : 7510> 간단후기 노스포!]]></title>
-        <id>https://extmovie.com/movietalk/91366165?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91366165?category=61633579"/>
-        <updated>2023-08-21T04:13:19.142Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:494point (20%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
     </entry>
 </feed>

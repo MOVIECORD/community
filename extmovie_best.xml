@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-02T18:12:58.561Z</updated>
+    <updated>2023-09-02T19:09:18.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91405042"/>
         <updated>2023-09-02T17:08:57.319Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3973133point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제80회 베니스 영화제 평생공로상을 수상하는 양조위 사진]]></title>
+        <id>https://extmovie.com/bestboard/91404884</id>
+        <link href="https://extmovie.com/bestboard/91404884"/>
+        <updated>2023-09-02T19:08:55.359Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:158919point (94%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유가령이 올린 양조위 부부 베니스영화제 베네치아]]></title>
@@ -81,6 +88,13 @@
         <link href="https://extmovie.com/bestboard/91404299"/>
         <updated>2023-09-02T10:10:23.048Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:485517point (27%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혹시 신카이 마코토 감독 좋아하시는분]]></title>
+        <id>https://extmovie.com/bestboard/91404266</id>
+        <link href="https://extmovie.com/bestboard/91404266"/>
+        <updated>2023-09-02T19:08:55.369Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2460point (21%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박정민 x 지수 좀비 드라마 캐스팅]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91402687"/>
         <updated>2023-09-01T17:10:07.953Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24971point (65%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무빙 디즈니플러스 15위!]]></title>
-        <id>https://extmovie.com/bestboard/91402622</id>
-        <link href="https://extmovie.com/bestboard/91402622"/>
-        <updated>2023-09-01T20:13:17.428Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4218point (83%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무빙]조인성에 대해...]]></title>
-        <id>https://extmovie.com/bestboard/91402588</id>
-        <link href="https://extmovie.com/bestboard/91402588"/>
-        <updated>2023-09-01T23:10:16.151Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24876point (61%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">숲그늘]]></content>
     </entry>
 </feed>

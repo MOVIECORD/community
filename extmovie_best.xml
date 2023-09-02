@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-02T20:10:48.968Z</updated>
+    <updated>2023-09-02T21:09:26.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/91404518"/>
         <updated>2023-09-02T14:09:12.384Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4218point (83%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타겟 무대인사 선물 내용물]]></title>
+        <id>https://extmovie.com/bestboard/91404435</id>
+        <link href="https://extmovie.com/bestboard/91404435"/>
+        <updated>2023-09-02T21:09:07.617Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2296point (4%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">류경민]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금 더넌2 관람등급과 개봉일 공개 되었습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91402714"/>
         <updated>2023-09-01T17:10:07.953Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:384point (96%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DMS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV 이런 건 무슨 상황인가요??]]></title>
-        <id>https://extmovie.com/bestboard/91402692</id>
-        <link href="https://extmovie.com/bestboard/91402692"/>
-        <updated>2023-09-01T15:11:48.620Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11494point (29%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">니콜라요키치]]></content>
     </entry>
 </feed>

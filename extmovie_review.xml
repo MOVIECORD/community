@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-09-03T14:09:21.952Z</updated>
+    <updated>2023-09-03T15:10:32.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘크리트 유토피아 보고왔습니다.(스포) + 소하메가박스 리뉴얼]]></title>
+        <id>https://extmovie.com/movietalk/91407682?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91407682?category=61633579"/>
+        <updated>2023-09-03T15:10:24.315Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2669point (42%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">니트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅 [왕 스포.230825]]]></title>
         <id>https://extmovie.com/movietalk/91405152?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91368003?category=61633579"/>
         <updated>2023-08-21T12:19:59.969Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:350point (87%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spark]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달짝지근해 (2023) 가까스로 수작이 되었다. 스포일러  있음.]]></title>
-        <id>https://extmovie.com/movietalk/91364745?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91364745?category=61633579"/>
-        <updated>2023-08-21T11:09:31.458Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27080point (33%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

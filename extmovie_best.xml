@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-04T20:10:57.728Z</updated>
+    <updated>2023-09-04T21:09:34.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -59,7 +59,14 @@
         <id>https://extmovie.com/bestboard/91410528</id>
         <link href="https://extmovie.com/bestboard/91410528"/>
         <updated>2023-09-04T14:10:35.188Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3973752point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3973754point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제라드 버틀러 '칸다하' 9월20일 개봉]]></title>
+        <id>https://extmovie.com/bestboard/91410520</id>
+        <link href="https://extmovie.com/bestboard/91410520"/>
+        <updated>2023-09-04T21:09:15.090Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3973754point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<무빙> 씨네21 화보 (이정하, 고윤정, 김도훈)]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/91408461</id>
         <link href="https://extmovie.com/bestboard/91408461"/>
         <updated>2023-09-04T06:14:26.811Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3973752point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3973754point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 디 익셉션, 설정이 흥미롭습니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91408250"/>
         <updated>2023-09-04T02:17:46.818Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4805point (29%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eico]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<원피스>의 세계에 전기가 존재할까? 오다 에이치로도 “생각해 ...]]></title>
-        <id>https://extmovie.com/bestboard/91408216</id>
-        <link href="https://extmovie.com/bestboard/91408216"/>
-        <updated>2023-09-04T04:13:05.789Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1311373point (11%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

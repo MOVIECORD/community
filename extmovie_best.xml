@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-05T16:14:42.483Z</updated>
+    <updated>2023-09-05T17:10:09.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/91413773"/>
         <updated>2023-09-05T15:11:18.155Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:486259point (31%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신세경이 올린 ‘아라문의 검’ 제작발표회]]></title>
+        <id>https://extmovie.com/bestboard/91413721</id>
+        <link href="https://extmovie.com/bestboard/91413721"/>
+        <updated>2023-09-05T17:09:49.970Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127293point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['원피스' 휘어져버린 명검(?) 장면, 일본 반응]]></title>
@@ -223,6 +230,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1311499point (11%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[조이라이드 수입사는 확실히 도라이근성이 있는듯하네요..]]></title>
+        <id>https://extmovie.com/bestboard/91411550</id>
+        <link href="https://extmovie.com/bestboard/91411550"/>
+        <updated>2023-09-05T17:09:50.058Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:157024point (85%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이안커티스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[화모닝 오늘의 쿠폰소식 5개 입니다 베니스 신작! ♡♡]]></title>
         <id>https://extmovie.com/bestboard/91411529</id>
         <link href="https://extmovie.com/bestboard/91411529"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91411369"/>
         <updated>2023-09-05T01:42:11.459Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127293point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["불안한 추석 3파전, 1편이라도 흥하면 다행인데…"]]></title>
-        <id>https://extmovie.com/bestboard/91411364</id>
-        <link href="https://extmovie.com/bestboard/91411364"/>
-        <updated>2023-09-05T00:46:57.471Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4716point (22%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장료문원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 똑똑똑 업로드]]></title>
-        <id>https://extmovie.com/bestboard/91411271</id>
-        <link href="https://extmovie.com/bestboard/91411271"/>
-        <updated>2023-09-04T23:10:16.838Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25292point (75%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
 </feed>

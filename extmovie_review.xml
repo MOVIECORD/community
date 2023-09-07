@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-09-07T04:13:45.545Z</updated>
+    <updated>2023-09-07T05:10:50.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[잠] - 자신의 가능성을 완전히 활용하지 못하고 있는 이야...]]></title>
+        <id>https://extmovie.com/movietalk/91419319?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91419319?category=61633579"/>
+        <updated>2023-09-07T05:10:40.728Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2190point (88%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킬러 북클럽 [왕 스포.230830]]]></title>
         <id>https://extmovie.com/movietalk/91417799?category=61633579</id>
@@ -17,14 +24,14 @@
         <id>https://extmovie.com/movietalk/91417287?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91417287?category=61633579"/>
         <updated>2023-09-06T13:15:27.265Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1311794point (11%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1311806point (11%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['엑소시스트: 믿는자' 국내 메인 포스터, 2차 예고편]]></title>
         <id>https://extmovie.com/movietalk/91417263?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91417263?category=61633579"/>
         <updated>2023-09-06T13:15:27.277Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3974701point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3974712point (91%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[약스포)일주일간 친구 봤습니다 불호입니다]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/91413406?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91413406?category=61633579"/>
         <updated>2023-09-05T09:11:51.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:187462point (91%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:187470point (91%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 '잠' 시사회 다녀왔습니다. (약스포)]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/91380858?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91380858?category=61633579"/>
         <updated>2023-08-25T09:10:35.441Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31806point (79%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공포영화리뷰] 신체모음.zip 시사회 무대인사 관람후기]]></title>
-        <id>https://extmovie.com/movietalk/91378790?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91378790?category=61633579"/>
-        <updated>2023-08-24T23:11:04.294Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:350point (87%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31807point (79%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

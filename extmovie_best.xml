@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-08T19:10:29.355Z</updated>
+    <updated>2023-09-08T20:11:34.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://extmovie.com/bestboard/91422451"/>
         <updated>2023-09-08T14:10:24.483Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15456point (10%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주토피아 일러스트 그려봤어요 🦊🐰]]></title>
+        <id>https://extmovie.com/bestboard/91422401</id>
+        <link href="https://extmovie.com/bestboard/91422401"/>
+        <updated>2023-09-08T20:11:15.892Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17815point (6%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기무라 타쿠야가 SNS 글로 욕먹고 있네요.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91420209"/>
         <updated>2023-09-07T20:11:32.194Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:487211point (36%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <잠> 보고 난 간단 후기]]></title>
-        <id>https://extmovie.com/bestboard/91420190</id>
-        <link href="https://extmovie.com/bestboard/91420190"/>
-        <updated>2023-09-08T10:11:35.650Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41839point (55%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-09-11T13:14:43.748Z</updated>
+    <updated>2023-09-11T14:11:43.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조재휘 평론가님 <잠> 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/91432585?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91432585?category=61633579"/>
+        <updated>2023-09-11T14:11:32.980Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:364point (91%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">letsfg]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1947 보스톤.]]></title>
         <id>https://extmovie.com/movietalk/91431525?category=61633579</id>
@@ -38,14 +45,14 @@
         <id>https://extmovie.com/movietalk/91428538?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91428538?category=61633579"/>
         <updated>2023-09-10T09:10:12.383Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5538point (83%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5540point (83%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[('잠' 포함) 이번주 관람작 중 5편 한줄리뷰 모음집]]></title>
         <id>https://extmovie.com/movietalk/91428516?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91428516?category=61633579"/>
         <updated>2023-09-10T09:10:12.383Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5538point (83%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5540point (83%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마담 싸이코 [왕 스포.230904]]]></title>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/91417263?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91417263?category=61633579"/>
         <updated>2023-09-06T13:15:27.277Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3976319point (92%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3976323point (92%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[약스포)일주일간 친구 봤습니다 불호입니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91398914?category=61633579"/>
         <updated>2023-08-31T09:11:40.439Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:978point (33%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<타겟> 간단 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91398316?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91398316?category=61633579"/>
-        <updated>2023-08-31T07:10:29.753Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:578point (38%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
     </entry>
 </feed>

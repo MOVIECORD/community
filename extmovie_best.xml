@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-14T16:14:32.400Z</updated>
+    <updated>2023-09-14T17:10:39.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91442868"/>
         <updated>2023-09-14T16:14:13.014Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8445point (67%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌비광]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 콘서트 예매 전쟁이네요 ;;;;]]></title>
+        <id>https://extmovie.com/bestboard/91442857</id>
+        <link href="https://extmovie.com/bestboard/91442857"/>
+        <updated>2023-09-14T17:10:17.378Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1103point (69%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[치악산 후기]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/bestboard/91442193</id>
         <link href="https://extmovie.com/bestboard/91442193"/>
         <updated>2023-09-14T09:11:12.359Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:529point (28%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">uncletom]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:531point (28%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">uncletom]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22년) 아이유 골든아워 CGV 압아맥으로 보고 온 리뷰입니다.]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91440305</id>
         <link href="https://extmovie.com/bestboard/91440305"/>
         <updated>2023-09-14T02:16:55.684Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:489791point (48%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["故김기영 부정적 묘사" "그분 아니다"…'거...]]></title>
-        <id>https://extmovie.com/bestboard/91440279</id>
-        <link href="https://extmovie.com/bestboard/91440279"/>
-        <updated>2023-09-14T01:43:46.540Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:489791point (48%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-09-14T15:12:32.002Z</updated>
+    <updated>2023-09-14T16:14:32.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[자체자막] 웨스 앤더슨 신작 기상천외한 헨리 슈거 이야기 ...]]></title>
+        <id>https://extmovie.com/movietalk/91443697?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91443697?category=21915420"/>
+        <updated>2023-09-14T16:14:18.214Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4380point (97%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 9월 14일 박스오피스]]></title>
+        <id>https://extmovie.com/movietalk/91443633?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91443633?category=21915420"/>
+        <updated>2023-09-14T16:14:18.216Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18790point (44%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중간보스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아쿠아맨 2’ 아쿠아맨 스텔스 수트, 블랙만타 수트, 네크러...]]></title>
         <id>https://extmovie.com/movietalk/91443070?category=21915420</id>
@@ -52,7 +66,7 @@
         <id>https://extmovie.com/movietalk/91442541?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91442541?category=21915420"/>
         <updated>2023-09-14T09:11:17.476Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4370point (96%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4380point (97%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신혜선 새 영화 <용감한 시민> 속 발연기]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/movietalk/91440439?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91440439?category=21915420"/>
         <updated>2023-09-14T00:47:25.631Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4138075point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 완 감독의 '아쿠아맨 2' 배트맨 출연 질문...]]></title>
-        <id>https://extmovie.com/movietalk/91440371?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91440371?category=21915420"/>
-        <updated>2023-09-14T00:47:25.633Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4138075point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아쿠아맨 2' 뉴스틸 2종, 내용은 브로맨스 액션 ...]]></title>
-        <id>https://extmovie.com/movietalk/91440362?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91440362?category=21915420"/>
-        <updated>2023-09-14T00:47:25.634Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4138075point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

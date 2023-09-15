@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-15T20:11:53.423Z</updated>
+    <updated>2023-09-15T21:09:45.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 9월 15일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91447125</id>
+        <link href="https://extmovie.com/bestboard/91447125"/>
+        <updated>2023-09-15T21:09:24.406Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3977812point (92%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCU가 당분간 ‘무빙’ 유니버스를 따라잡기 힘든 이유]]></title>
         <id>https://extmovie.com/bestboard/91446958</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91443794"/>
         <updated>2023-09-15T05:10:41.372Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4139415point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석에 천박사 보려고 했는데 엄마가 무당이야기는 안보신다네요 ㅋㅋ]]></title>
-        <id>https://extmovie.com/bestboard/91443751</id>
-        <link href="https://extmovie.com/bestboard/91443751"/>
-        <updated>2023-09-15T15:11:32.133Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:234point (58%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">히히릿]]></content>
     </entry>
 </feed>

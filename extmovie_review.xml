@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-09-16T08:12:45.982Z</updated>
+    <updated>2023-09-16T09:10:25.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(약스포) 고윤정 ‘무빙’ 비하인드신 모음]]></title>
+        <id>https://extmovie.com/movietalk/91449067?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91449067?category=61633579"/>
+        <updated>2023-09-16T09:10:16.212Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4140479point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[던전 앤 드래곤 : 도적들의 명예]]></title>
         <id>https://extmovie.com/movietalk/91447177?category=61633579</id>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/91431192?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91431192?category=61633579"/>
         <updated>2023-09-11T05:10:57.857Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3106point (86%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3108point (86%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타겟 (2023) 잘 만든 스릴러. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91419319?category=61633579"/>
         <updated>2023-09-07T05:10:40.728Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3270point (2%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킬러 북클럽 [왕 스포.230830]]]></title>
-        <id>https://extmovie.com/movietalk/91417799?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91417799?category=61633579"/>
-        <updated>2023-09-06T15:13:34.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12215point (64%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

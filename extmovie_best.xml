@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-17T18:12:48.726Z</updated>
+    <updated>2023-09-17T19:09:42.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 9월 17일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91453066</id>
+        <link href="https://extmovie.com/bestboard/91453066"/>
+        <updated>2023-09-17T19:09:22.658Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3978346point (92%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디워 아시나요]]></title>
         <id>https://extmovie.com/bestboard/91452655</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91449783"/>
         <updated>2023-09-17T12:18:24.228Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4140939point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박평식이 9점 준 영화 10작품]]></title>
-        <id>https://extmovie.com/bestboard/91449767</id>
-        <link href="https://extmovie.com/bestboard/91449767"/>
-        <updated>2023-09-16T14:08:58.231Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1368point (29%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

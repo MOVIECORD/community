@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-17T16:13:07.427Z</updated>
+    <updated>2023-09-17T17:09:32.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약스포) 아이유 콘서트 골든아워 오렌지 태양 아래 후기]]></title>
+        <id>https://extmovie.com/bestboard/91452255</id>
+        <link href="https://extmovie.com/bestboard/91452255"/>
+        <updated>2023-09-17T17:09:11.261Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1054point (55%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">용산여의도영등포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개봉 확정 지은 디즈니 애니메이션]]></title>
         <id>https://extmovie.com/bestboard/91452302</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/91451801</id>
         <link href="https://extmovie.com/bestboard/91451801"/>
         <updated>2023-09-17T14:09:02.995Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:459point (12%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:461point (13%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현존 OTT 서비스 화질 순위 간단 테스트(잇섭)]]></title>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/bestboard/91451430</id>
         <link href="https://extmovie.com/bestboard/91451430"/>
         <updated>2023-09-17T09:10:44.046Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124628point (98%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124630point (98%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 간지나는 영화 시리즈 로고 뽑아보기]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/91451028</id>
         <link href="https://extmovie.com/bestboard/91451028"/>
         <updated>2023-09-17T08:12:46.509Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124628point (98%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124630point (98%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마블 최악의 영화들 모음]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91449708"/>
         <updated>2023-09-16T15:09:46.721Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1368point (29%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1년에 한번씩은 꼭 보게 되는 미드 시트콤 6편]]></title>
-        <id>https://extmovie.com/bestboard/91449640</id>
-        <link href="https://extmovie.com/bestboard/91449640"/>
-        <updated>2023-09-16T23:10:14.509Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61968point (99%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-19T18:14:26.788Z</updated>
+    <updated>2023-09-19T19:09:13.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91461360"/>
         <updated>2023-09-19T16:14:53.821Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:491781point (58%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘드림 시나리오’ 첫 포스터, 트레일러]]></title>
+        <id>https://extmovie.com/bestboard/91461230</id>
+        <link href="https://extmovie.com/bestboard/91461230"/>
+        <updated>2023-09-19T19:08:53.579Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4144024point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[천박사 퇴마연구소 무대인사 시사회 다녀왔습니다]]></title>
@@ -39,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/91460814"/>
         <updated>2023-09-19T14:11:07.190Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33259point (21%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The Nun II'에 대한 단상]]></title>
+        <id>https://extmovie.com/bestboard/91460743</id>
+        <link href="https://extmovie.com/bestboard/91460743"/>
+        <updated>2023-09-19T19:08:53.584Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23509point (15%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 영화를 봐야 하나 말아야 하나 고민이..]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91458576"/>
         <updated>2023-09-19T04:13:29.084Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42909point (83%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가문의 영광: 리턴즈' 후기.. 왜 돌아왔지?]]></title>
-        <id>https://extmovie.com/bestboard/91458517</id>
-        <link href="https://extmovie.com/bestboard/91458517"/>
-        <updated>2023-09-19T04:13:29.088Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3979376point (93%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주현 김여진 정웅인 드라이브' 2023년 하반기 개봉]]></title>
-        <id>https://extmovie.com/bestboard/91458457</id>
-        <link href="https://extmovie.com/bestboard/91458457"/>
-        <updated>2023-09-19T10:13:08.292Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1315651point (15%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

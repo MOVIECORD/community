@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-20T18:14:25.442Z</updated>
+    <updated>2023-09-20T19:09:34.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/91464786"/>
         <updated>2023-09-20T16:14:33.417Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3572point (28%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이큐 두 자리가 천재 아이를 유괴했을 때 벌어지는 일.jpg]]></title>
+        <id>https://extmovie.com/bestboard/91464141</id>
+        <link href="https://extmovie.com/bestboard/91464141"/>
+        <updated>2023-09-20T19:09:15.896Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:898point (10%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">랑싀]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디플 '무빙' 최종장 18-20 업]]></title>
@@ -157,14 +164,14 @@
         <id>https://extmovie.com/bestboard/91462911</id>
         <link href="https://extmovie.com/bestboard/91462911"/>
         <updated>2023-09-20T05:10:45.233Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39302point (89%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39303point (89%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전종서 넷플릭스 영화 '발레리나' 메인 포스터]]></title>
         <id>https://extmovie.com/bestboard/91462860</id>
         <link href="https://extmovie.com/bestboard/91462860"/>
         <updated>2023-09-20T05:10:45.233Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3979845point (93%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3979849point (93%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리에이터 해외반응]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91462249"/>
         <updated>2023-09-20T11:09:39.268Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:102211point (44%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 무빙 마지막 회..ㅜ_ㅜ 캐릭터 리터칭 완성]]></title>
-        <id>https://extmovie.com/bestboard/91462016</id>
-        <link href="https://extmovie.com/bestboard/91462016"/>
-        <updated>2023-09-20T01:45:10.050Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:277point (69%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">페리테일]]></content>
     </entry>
 </feed>

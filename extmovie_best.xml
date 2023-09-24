@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-24T19:08:37.670Z</updated>
+    <updated>2023-09-24T20:11:07.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3981383point (93%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[9월 24일 영화 예매율 순위]]></title>
+        <id>https://extmovie.com/bestboard/91479584</id>
+        <link href="https://extmovie.com/bestboard/91479584"/>
+        <updated>2023-09-24T20:10:48.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:940point (22%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">데이지8]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(약스포) '바비' 삭제 장면 내용 공개]]></title>
         <id>https://extmovie.com/bestboard/91479513</id>
         <link href="https://extmovie.com/bestboard/91479513"/>
@@ -102,6 +109,13 @@
         <link href="https://extmovie.com/bestboard/91479368"/>
         <updated>2023-09-24T10:10:20.086Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:493445point (67%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<엘리멘탈> 디즈니+ 공개 5일만에 2,640만 뷰 달성]]></title>
+        <id>https://extmovie.com/bestboard/91479364</id>
+        <link href="https://extmovie.com/bestboard/91479364"/>
+        <updated>2023-09-24T20:10:48.909Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:103032point (60%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번에 미국 LA 가는데 씨네필은 가야한다! 이런 곳 있나요,,?]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91477826"/>
         <updated>2023-09-24T00:51:17.862Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:940point (22%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">데이지8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미집 후기 - 노스포]]></title>
-        <id>https://extmovie.com/bestboard/91477747</id>
-        <link href="https://extmovie.com/bestboard/91477747"/>
-        <updated>2023-09-23T19:08:16.393Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:473point (15%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Irenelee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<거미집>시사회 노스포 짧은 후기]]></title>
-        <id>https://extmovie.com/bestboard/91477699</id>
-        <link href="https://extmovie.com/bestboard/91477699"/>
-        <updated>2023-09-23T18:12:54.118Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9801point (42%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌비광]]></content>
     </entry>
 </feed>

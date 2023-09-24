@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-24T06:14:55.157Z</updated>
+    <updated>2023-09-24T07:10:00.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1314955point (14%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제임스 코든, 탐 크루즈가 자신 속여 전투기 태웠다 폭로]]></title>
+        <id>https://extmovie.com/bestboard/91478500</id>
+        <link href="https://extmovie.com/bestboard/91478500"/>
+        <updated>2023-09-24T07:09:41.044Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150252point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[거미집 후기(노스포)]]></title>
         <id>https://extmovie.com/bestboard/91478606</id>
         <link href="https://extmovie.com/bestboard/91478606"/>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/91478467</id>
         <link href="https://extmovie.com/bestboard/91478467"/>
         <updated>2023-09-24T04:12:46.062Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5241point (61%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">존버가이기는거]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5243point (61%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">존버가이기는거]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[놀란 감독이 말하는 ‘스마트폰 없이도 항상 정보를 얻는 방법’]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/bestboard/91476854</id>
         <link href="https://extmovie.com/bestboard/91476854"/>
         <updated>2023-09-23T14:09:11.256Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2371point (12%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2377point (12%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엠마 왓슨 & 사나 뉴욕 프라다 쇼]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91475902"/>
         <updated>2023-09-23T09:10:07.202Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5912point (9%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라라랜더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 tvn 드라마 <무인도의 디바> 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/91475803</id>
-        <link href="https://extmovie.com/bestboard/91475803"/>
-        <updated>2023-09-23T05:09:53.651Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:103017point (60%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-24T20:11:07.798Z</updated>
+    <updated>2023-09-24T21:09:10.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[범죄도시 4] 빌런은 다수, 여형사 합류 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://extmovie.com/bestboard/91480198"/>
         <updated>2023-09-24T16:12:26.068Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:493445point (67%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 주 감상 작품들 한줄평 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91480186</id>
+        <link href="https://extmovie.com/bestboard/91480186"/>
+        <updated>2023-09-24T21:08:52.270Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:125252point (1%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[임시완 '오징어게임2' 출연 확정... 숨겨진 이야기 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/91477849"/>
         <updated>2023-09-23T20:11:13.382Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3981383point (93%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 23일, 영화 예매율 순위 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91477826</id>
-        <link href="https://extmovie.com/bestboard/91477826"/>
-        <updated>2023-09-24T00:51:17.862Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:940point (22%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">데이지8]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 9월 24일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>
@@ -506,7 +506,7 @@
         <id>https://extmovie.com/movietalk/91478119?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91478119?category=61633579"/>
         <updated>2023-09-24T01:50:58.188Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40136point (11%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40138point (11%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘더 크리에이터’ 해외단평중 하나 - 조지 루카스와 리들리 ... (익스트림무비 ─ 영화리뷰)]]></title>
@@ -646,7 +646,7 @@
         <id>https://extmovie.com/movietalk/91466511?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91466511?category=61633579"/>
         <updated>2023-09-20T22:10:32.747Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40136point (11%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40138point (11%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포 <거미집> 유머를 바탕으로 풀어낸 영화의 영화 (익스트림무비 ─ 영화리뷰)]]></title>

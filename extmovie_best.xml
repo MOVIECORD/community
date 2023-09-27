@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-27T18:14:45.300Z</updated>
+    <updated>2023-09-27T19:09:53.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91491464"/>
         <updated>2023-09-27T17:11:19.674Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3982636point (94%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와..메가박스 코엑스서 거미집 GV 끝나고 송강호 형님이 싸인해쥬셨어...]]></title>
+        <id>https://extmovie.com/bestboard/91491417</id>
+        <link href="https://extmovie.com/bestboard/91491417"/>
+        <updated>2023-09-27T19:09:31.897Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40766point (27%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['쏘우 X' 해외 호평 반응 - 시리즈 중 최고 수준]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/bestboard/91488450</id>
         <link href="https://extmovie.com/bestboard/91488450"/>
         <updated>2023-09-27T13:14:14.640Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40763point (27%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40766point (27%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무대인사 직전 취소표]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91489214"/>
         <updated>2023-09-27T09:11:25.332Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:47802point (1%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김희원, 강풀 '조명가게'로 감독 데뷔]]></title>
-        <id>https://extmovie.com/bestboard/91488890</id>
-        <link href="https://extmovie.com/bestboard/91488890"/>
-        <updated>2023-09-27T03:11:55.433Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2683point (43%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

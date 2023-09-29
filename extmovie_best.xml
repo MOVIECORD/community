@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-29T17:11:07.278Z</updated>
+    <updated>2023-09-29T18:14:30.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,10 +20,24 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4157011point (31%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[거미집] 엔딩이 여운이 짙네요.]]></title>
+        <id>https://extmovie.com/bestboard/91498060</id>
+        <link href="https://extmovie.com/bestboard/91498060"/>
+        <updated>2023-09-29T18:14:10.122Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11017point (6%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[실시간 예매율 - 천박사 32.1%]]></title>
         <id>https://extmovie.com/bestboard/91497637</id>
         <link href="https://extmovie.com/bestboard/91497637"/>
         <updated>2023-09-29T16:14:02.402Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:494885point (74%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더 마블스] 상영시간 1시간45분]]></title>
+        <id>https://extmovie.com/bestboard/91497573</id>
+        <link href="https://extmovie.com/bestboard/91497573"/>
+        <updated>2023-09-29T18:14:10.129Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:494885point (74%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
@@ -38,7 +52,7 @@
         <id>https://extmovie.com/bestboard/91497489</id>
         <link href="https://extmovie.com/bestboard/91497489"/>
         <updated>2023-09-29T12:20:47.618Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13587point (27%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13589point (27%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<더 마블스> 중국 포스터에 박서준 등장]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91495399"/>
         <updated>2023-09-29T00:49:00.103Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223501point (56%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">stanly]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쏘우 X] 로튼 토마토 신선도 86% 출발]]></title>
-        <id>https://extmovie.com/bestboard/91495318</id>
-        <link href="https://extmovie.com/bestboard/91495318"/>
-        <updated>2023-09-29T00:49:00.105Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:494885point (74%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡틴 마블의 나이는 60세 이상?]]></title>
-        <id>https://extmovie.com/bestboard/91495173</id>
-        <link href="https://extmovie.com/bestboard/91495173"/>
-        <updated>2023-09-28T17:10:40.734Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1315770point (15%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

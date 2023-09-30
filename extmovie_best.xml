@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-09-30T17:09:20.113Z</updated>
+    <updated>2023-09-30T18:13:42.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:495360point (76%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[38년전 게리 올드만과 안소니 홉킨스]]></title>
+        <id>https://extmovie.com/bestboard/91500844</id>
+        <link href="https://extmovie.com/bestboard/91500844"/>
+        <updated>2023-09-30T18:13:22.118Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:495360point (76%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[크리스토퍼 놀란 패키지 (시리즈온)]]></title>
         <id>https://extmovie.com/bestboard/91500768</id>
         <link href="https://extmovie.com/bestboard/91500768"/>
         <updated>2023-09-30T16:12:40.513Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2864point (62%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI가 만든 평행세계의 유역비들]]></title>
+        <id>https://extmovie.com/bestboard/91500616</id>
+        <link href="https://extmovie.com/bestboard/91500616"/>
+        <updated>2023-09-30T18:13:22.118Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:159624point (98%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리에이터 IMAX 화면 체감]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91498063"/>
         <updated>2023-09-29T23:11:27.759Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1078point (62%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">베인가드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 호평 기사 번역(더 보이즈와 비교)]]></title>
-        <id>https://extmovie.com/bestboard/91497995</id>
-        <link href="https://extmovie.com/bestboard/91497995"/>
-        <updated>2023-09-29T19:09:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3983739point (94%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스측, 보행자 불법촬영후 시리즈 B롤 제작하려다 적발]]></title>
-        <id>https://extmovie.com/bestboard/91497848</id>
-        <link href="https://extmovie.com/bestboard/91497848"/>
-        <updated>2023-09-30T13:11:33.827Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4158303point (31%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

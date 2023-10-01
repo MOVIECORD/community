@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-01T18:13:06.088Z</updated>
+    <updated>2023-10-01T19:08:50.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11074point (8%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시얼샤 로넌, 폴 메스칼 '포' 메타크리틱 초기 평가]]></title>
+        <id>https://extmovie.com/bestboard/91502799</id>
+        <link href="https://extmovie.com/bestboard/91502799"/>
+        <updated>2023-10-01T19:08:30.050Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3984102point (94%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['거미집' 마지막 하이라이트에 나오는 노래]]></title>
         <id>https://extmovie.com/bestboard/91502739</id>
         <link href="https://extmovie.com/bestboard/91502739"/>
@@ -158,6 +165,13 @@
         <link href="https://extmovie.com/bestboard/91501938"/>
         <updated>2023-10-01T06:14:14.785Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:105012point (0%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어벤져스 60주년 마블 팝업스토어 이벤트 김포공항 롯데몰 10월1일 오...]]></title>
+        <id>https://extmovie.com/bestboard/91501728</id>
+        <link href="https://extmovie.com/bestboard/91501728"/>
+        <updated>2023-10-01T19:08:30.078Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33514point (29%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV 천박사 피규어 출시]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91500844"/>
         <updated>2023-09-30T18:13:22.118Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:495486point (77%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스토퍼 놀란 패키지 (시리즈온)]]></title>
-        <id>https://extmovie.com/bestboard/91500768</id>
-        <link href="https://extmovie.com/bestboard/91500768"/>
-        <updated>2023-09-30T16:12:40.513Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2930point (68%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장백지 최신 근황(파리 패션위크)]]></title>
-        <id>https://extmovie.com/bestboard/91500671</id>
-        <link href="https://extmovie.com/bestboard/91500671"/>
-        <updated>2023-10-01T00:57:04.662Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:159626point (98%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
 </feed>

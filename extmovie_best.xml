@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-01T19:08:50.995Z</updated>
+    <updated>2023-10-01T20:10:54.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3984102point (94%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[워너, 작가파업 종료후 ‘배트맨 2’ 각본작업 우선순위]]></title>
+        <id>https://extmovie.com/bestboard/91502545</id>
+        <link href="https://extmovie.com/bestboard/91502545"/>
+        <updated>2023-10-01T20:10:34.340Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4158876point (31%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[거미집 박정수 배우가 아쉽네요.]]></title>
         <id>https://extmovie.com/bestboard/91502439</id>
         <link href="https://extmovie.com/bestboard/91502439"/>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/91501469</id>
         <link href="https://extmovie.com/bestboard/91501469"/>
         <updated>2023-10-01T17:09:34.427Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16164point (39%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16166point (39%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고민시 블랙핑크 지수 Paris]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91501029"/>
         <updated>2023-10-01T00:57:04.661Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33572point (30%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[38년전 게리 올드만과 안소니 홉킨스]]></title>
-        <id>https://extmovie.com/bestboard/91500844</id>
-        <link href="https://extmovie.com/bestboard/91500844"/>
-        <updated>2023-09-30T18:13:22.118Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:495486point (77%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

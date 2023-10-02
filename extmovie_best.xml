@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-02T20:12:26.567Z</updated>
+    <updated>2023-10-02T21:10:32.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/91505757"/>
         <updated>2023-10-02T16:14:22.479Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:105407point (2%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쟈니즈 사무소, 사명 「SMILE-UP.」으로 변경 발표]]></title>
+        <id>https://extmovie.com/bestboard/91505564</id>
+        <link href="https://extmovie.com/bestboard/91505564"/>
+        <updated>2023-10-02T21:10:13.146Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1316692point (16%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실시간 예매율 [30일] 22.8%]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91503543"/>
         <updated>2023-10-02T03:12:09.472Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:105407point (2%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드웨인 존슨은 ‘단백질’을 이렇게 마신다! 근력 운동 후 특제 단백질 ...]]></title>
-        <id>https://extmovie.com/bestboard/91503537</id>
-        <link href="https://extmovie.com/bestboard/91503537"/>
-        <updated>2023-10-01T18:12:46.724Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1316692point (16%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

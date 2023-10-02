@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-02T17:11:20.349Z</updated>
+    <updated>2023-10-02T18:14:40.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-10-02T17:11:09.956Z</updated>
+        <updated>2023-10-02T18:14:31.451Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=662"><img src="https://img.extmovie.com/files/attach/images/49910895/696/486/091/5216765fd818aef8b685edd1cf46ffd3.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El vampiro (1957) 최고의 뱀파이어 영화들 중 하나. 스포일...]]></title>
+        <id>https://extmovie.com/movietalk/91507030?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91507030?category=61633579"/>
+        <updated>2023-10-02T18:14:31.766Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27791point (56%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블루 비틀 [왕 스포.230922]]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/91501701?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91501701?category=61633579"/>
         <updated>2023-09-30T17:09:10.792Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27731point (54%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27791point (56%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[귀공자 [왕 스포.230921]]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/91492982?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91492982?category=61633579"/>
         <updated>2023-09-28T05:11:20.719Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4159647point (31%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4159649point (31%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[천박사 별점입니다.]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91489552?category=61633579"/>
         <updated>2023-09-27T05:11:34.406Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27166point (36%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Newjean]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비닐하우스 [왕 스포.230919]]]></title>
-        <id>https://extmovie.com/movietalk/91487924?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91487924?category=61633579"/>
-        <updated>2023-09-26T15:12:06.597Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12342point (70%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

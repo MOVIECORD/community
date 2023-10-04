@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-04T19:10:03.750Z</updated>
+    <updated>2023-10-04T20:12:23.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거미집은 배급사가 할 수 있는 최악의 선택을 몰아서 했다고 생각해요.]]></title>
+        <id>https://extmovie.com/bestboard/91514297</id>
+        <link href="https://extmovie.com/bestboard/91514297"/>
+        <updated>2023-10-04T20:12:02.223Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6993point (80%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 10월 4일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/91514128</id>
@@ -25,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91513659"/>
         <updated>2023-10-04T15:12:06.649Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2819point (57%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">류경민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주윤발 판빙빙 부산국제영화제 레드카펫]]></title>
+        <id>https://extmovie.com/bestboard/91513624</id>
+        <link href="https://extmovie.com/bestboard/91513624"/>
+        <updated>2023-10-04T20:12:02.231Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:295055point (83%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전직 야쿠자가 평가한 <어벤져스: 엔드게임>, <데드풀 2>,...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91510340"/>
         <updated>2023-10-04T08:15:02.096Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31151point (59%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 10월 3일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/91510322</id>
-        <link href="https://extmovie.com/bestboard/91510322"/>
-        <updated>2023-10-03T18:14:58.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3985275point (95%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<로키> 시즌 2, 조나단 메이저스 영향은 없다]]></title>
-        <id>https://extmovie.com/bestboard/91510280</id>
-        <link href="https://extmovie.com/bestboard/91510280"/>
-        <updated>2023-10-04T00:49:28.904Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1317117point (17%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

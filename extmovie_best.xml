@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-05T18:15:20.248Z</updated>
+    <updated>2023-10-05T19:09:36.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 10월 5일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91518365</id>
+        <link href="https://extmovie.com/bestboard/91518365"/>
+        <updated>2023-10-05T19:09:16.686Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3985764point (95%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[간판 내릴 준비하는 쟈니스 소속사 건물]]></title>
         <id>https://extmovie.com/bestboard/91518086</id>
         <link href="https://extmovie.com/bestboard/91518086"/>
         <updated>2023-10-05T18:14:59.183Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1317399point (17%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1317401point (17%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스필버그의 새 2차대전 드라마 '마스터스 오브 디 에어' 스...]]></title>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/91517511</id>
         <link href="https://extmovie.com/bestboard/91517511"/>
         <updated>2023-10-05T18:14:59.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1317399point (17%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1317401point (17%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] <발레리나> 전종서VS김지훈, 목숨을 건 근접 액션]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/bestboard/91514800</id>
         <link href="https://extmovie.com/bestboard/91514800"/>
         <updated>2023-10-05T04:13:39.594Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1317399point (17%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1317401point (17%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘드류 베리모어 쇼'의 작가들 복귀 거부]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91513734"/>
         <updated>2023-10-05T00:49:22.755Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6068point (20%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화란 총 15번 더 볼 예정입니다 ㅋㅋㅋ]]></title>
-        <id>https://extmovie.com/bestboard/91513659</id>
-        <link href="https://extmovie.com/bestboard/91513659"/>
-        <updated>2023-10-04T15:12:06.649Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2847point (60%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">류경민]]></content>
     </entry>
 </feed>

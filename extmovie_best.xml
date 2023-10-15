@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-15T18:13:51.535Z</updated>
+    <updated>2023-10-15T19:09:09.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신세경 미모 근황]]></title>
+        <id>https://extmovie.com/bestboard/91551962</id>
+        <link href="https://extmovie.com/bestboard/91551962"/>
+        <updated>2023-10-15T19:08:48.179Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4175505point (35%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 최악의 영화 천박사..]]></title>
         <id>https://extmovie.com/bestboard/91551661</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/bestboard/91551626</id>
         <link href="https://extmovie.com/bestboard/91551626"/>
         <updated>2023-10-15T15:09:58.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20172point (97%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20174point (97%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이퀄라이저 3를 보고]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91548550"/>
         <updated>2023-10-14T14:09:18.395Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1320276point (20%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['랑종' 야다 나릴야 최근]]></title>
-        <id>https://extmovie.com/bestboard/91548534</id>
-        <link href="https://extmovie.com/bestboard/91548534"/>
-        <updated>2023-10-14T15:10:39.229Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4175505point (35%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

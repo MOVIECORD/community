@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-16T05:11:58.164Z</updated>
+    <updated>2023-10-16T06:16:36.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[화란] 구원 없는 세상]]></title>
+        <id>https://extmovie.com/movietalk/91554183?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91554183?category=61633579"/>
+        <updated>2023-10-16T06:16:24.407Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91504point (65%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시수 리뷰 스포x]]></title>
         <id>https://extmovie.com/movietalk/91553188?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/91544947?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91544947?category=61633579"/>
         <updated>2023-10-13T12:21:44.648Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91390point (64%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91504point (65%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[도른자픽] 2023년 2번째 만점 영화가 탄생했습니다.]]></title>
@@ -115,7 +122,7 @@
         <id>https://extmovie.com/movietalk/91543527?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91543527?category=61633579"/>
         <updated>2023-10-13T05:11:25.430Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4694point (21%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4698point (21%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<기억해, 우리가 사랑한 시간> 노 스포 만족 후기]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/91537121?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91537121?category=61633579"/>
         <updated>2023-10-11T09:11:52.570Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4176863point (35%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4176934point (35%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고급리뷰] 화란 (★★) "불행 포르노"]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91534395?category=61633579"/>
         <updated>2023-10-10T15:12:21.795Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:940point (22%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포) 화란 무대인사 및 개인적인 후기]]></title>
-        <id>https://extmovie.com/movietalk/91532854?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91532854?category=61633579"/>
-        <updated>2023-10-10T06:15:51.354Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:200point (50%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">qkrpxm]]></content>
     </entry>
 </feed>

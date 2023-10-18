@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-18T19:10:01.203Z</updated>
+    <updated>2023-10-18T20:14:08.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임수정 조승우 오페라의 유령]]></title>
+        <id>https://extmovie.com/bestboard/91563670</id>
+        <link href="https://extmovie.com/bestboard/91563670"/>
+        <updated>2023-10-18T20:13:49.550Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:298416point (94%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 마블스' 박서준 장면 움짤 모음]]></title>
         <id>https://extmovie.com/bestboard/91563410</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91560444"/>
         <updated>2023-10-18T03:12:05.958Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:298416point (94%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잭 스나이더 '레벨 문' 파이널 런타임 2시간 13분]]></title>
-        <id>https://extmovie.com/bestboard/91560319</id>
-        <link href="https://extmovie.com/bestboard/91560319"/>
-        <updated>2023-10-18T01:49:22.966Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4181120point (36%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

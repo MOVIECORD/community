@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-18T14:11:15.271Z</updated>
+    <updated>2023-10-18T15:12:22.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블루 자이언트 별점입니다.]]></title>
+        <id>https://extmovie.com/bestboard/91562893</id>
+        <link href="https://extmovie.com/bestboard/91562893"/>
+        <updated>2023-10-18T15:12:01.683Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8373point (63%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일드 노다메칸다빌레 배우 근황]]></title>
         <id>https://extmovie.com/bestboard/91562844</id>
         <link href="https://extmovie.com/bestboard/91562844"/>
         <updated>2023-10-18T13:14:32.344Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31986point (84%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32148point (89%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 플러스 월 13900원으로 가격인상]]></title>
         <id>https://extmovie.com/bestboard/91562842</id>
         <link href="https://extmovie.com/bestboard/91562842"/>
         <updated>2023-10-18T14:10:56.214Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31986point (84%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32148point (89%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토니 스타크 사망글에 격분]]></title>
+        <id>https://extmovie.com/bestboard/91562796</id>
+        <link href="https://extmovie.com/bestboard/91562796"/>
+        <updated>2023-10-18T15:12:01.693Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32148point (89%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고윤정 서울여대 시절]]></title>
@@ -45,7 +59,7 @@
         <id>https://extmovie.com/bestboard/91562055</id>
         <link href="https://extmovie.com/bestboard/91562055"/>
         <updated>2023-10-18T08:14:42.436Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3990894point (96%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3990926point (96%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포스터 진짜 예술이네요^^]]></title>
@@ -73,7 +87,7 @@
         <id>https://extmovie.com/bestboard/91561875</id>
         <link href="https://extmovie.com/bestboard/91561875"/>
         <updated>2023-10-18T08:14:42.440Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11095point (9%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌비광]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11098point (10%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌비광]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수돌비 사고]]></title>
@@ -81,6 +95,13 @@
         <link href="https://extmovie.com/bestboard/91561752"/>
         <updated>2023-10-18T08:14:42.440Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1355point (27%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">o1xis]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실시간 예매율 [그대들은 어떻게] 28.8%]]></title>
+        <id>https://extmovie.com/bestboard/91561689</id>
+        <link href="https://extmovie.com/bestboard/91561689"/>
+        <updated>2023-10-18T15:12:01.717Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:499170point (95%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 헌팅 (1963) 최고의 공포영화. 스포일러 있음.]]></title>
@@ -101,7 +122,7 @@
         <id>https://extmovie.com/bestboard/91561320</id>
         <link href="https://extmovie.com/bestboard/91561320"/>
         <updated>2023-10-18T06:15:31.500Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321007point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321048point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강호동 암살시도하는 윤은혜]]></title>
@@ -122,14 +143,14 @@
         <id>https://extmovie.com/bestboard/91561279</id>
         <link href="https://extmovie.com/bestboard/91561279"/>
         <updated>2023-10-18T08:14:42.443Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:499168point (95%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:499170point (95%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<킹스맨 3>에서 해리와 에그시가 ‘다시 한 번 서로를 필요로 한다’]]></title>
         <id>https://extmovie.com/bestboard/91561272</id>
         <link href="https://extmovie.com/bestboard/91561272"/>
         <updated>2023-10-18T08:14:42.444Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321007point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321048point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[잡설] 영화 플라워 킬링 문? 제목이 왜 이렇지?]]></title>
@@ -150,7 +171,7 @@
         <id>https://extmovie.com/bestboard/91561086</id>
         <link href="https://extmovie.com/bestboard/91561086"/>
         <updated>2023-10-18T04:14:08.414Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:499168point (95%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/51.gif" alt="[레벨:51]" title="포인트:499170point (95%), 레벨:51/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블루비틀 노스포 리뷰]]></title>
@@ -164,7 +185,7 @@
         <id>https://extmovie.com/bestboard/91560765</id>
         <link href="https://extmovie.com/bestboard/91560765"/>
         <updated>2023-10-18T04:14:08.414Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321007point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321048point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 "우리들은" 고마츠 나나, 마츠다 류헤이 주연]]></title>
@@ -185,7 +206,7 @@
         <id>https://extmovie.com/bestboard/91560444</id>
         <link href="https://extmovie.com/bestboard/91560444"/>
         <updated>2023-10-18T03:12:05.958Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:298412point (94%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:298416point (94%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잭 스나이더 '레벨 문' 파이널 런타임 2시간 13분]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/91560076"/>
         <updated>2023-10-18T00:49:27.706Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:855point (98%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 10월 17일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/91560014</id>
-        <link href="https://extmovie.com/bestboard/91560014"/>
-        <updated>2023-10-17T23:11:18.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3990894point (96%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[나폴레옹] 최대 14대의 카메라로 전투씬 촬영]]></title>
-        <id>https://extmovie.com/bestboard/91559989</id>
-        <link href="https://extmovie.com/bestboard/91559989"/>
-        <updated>2023-10-17T23:11:18.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26632point (19%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메 [탑건: 매버릭] 8번 관람]]></title>
-        <id>https://extmovie.com/bestboard/91559910</id>
-        <link href="https://extmovie.com/bestboard/91559910"/>
-        <updated>2023-10-18T00:49:27.735Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26632point (19%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
 </feed>

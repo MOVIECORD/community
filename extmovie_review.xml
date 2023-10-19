@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-19T17:10:55.633Z</updated>
+    <updated>2023-10-19T18:15:04.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(노스포) <플라워 킬링 문> 범죄극은 역시 스코세이지]]></title>
+        <id>https://extmovie.com/movietalk/91568472?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91568472?category=61633579"/>
+        <updated>2023-10-19T18:14:55.195Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1235point (4%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플라워 킬링 문(노스포) 네이버 평점 후기]]></title>
+        <id>https://extmovie.com/movietalk/91568475?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91568475?category=61633579"/>
+        <updated>2023-10-19T18:14:55.195Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1875point (26%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달짝지근해 7510 [왕 스포.231013]]]></title>
         <id>https://extmovie.com/movietalk/91568300?category=61633579</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/91547740?category=61633579"/>
         <updated>2023-10-14T08:13:34.234Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18801point (44%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">현71]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고급리뷰] 바빌론 (★★★★★) 2023년 개봉작 2번째 만점!!]]></title>
-        <id>https://extmovie.com/movietalk/91545843?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91545843?category=61633579"/>
-        <updated>2023-10-14T00:47:51.249Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8401point (64%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 블루 자이언트 메박 코돌비에서 시사회로 보고 온 ...]]></title>
-        <id>https://extmovie.com/movietalk/91545341?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91545341?category=61633579"/>
-        <updated>2023-10-13T20:12:22.410Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44396point (20%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

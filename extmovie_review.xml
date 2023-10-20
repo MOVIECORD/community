@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-20T07:11:25.688Z</updated>
+    <updated>2023-10-20T08:14:55.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<플라워 킬링 문> 봤어요]]></title>
+        <id>https://extmovie.com/movietalk/91570649?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91570649?category=61633579"/>
+        <updated>2023-10-20T08:14:46.191Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321223point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(노스포) <플라워 킬링 문> 범죄극은 역시 스코세이지]]></title>
         <id>https://extmovie.com/movietalk/91568472?category=61633579</id>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/91555322?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91555322?category=61633579"/>
         <updated>2023-10-16T11:10:08.563Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1195point (95%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">aham]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1197point (96%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">aham]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포][단평] 기억해, 우리가 사랑한 시간 - 마케팅 좀 그래...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91548066?category=61633579"/>
         <updated>2023-10-14T10:10:50.552Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124980point (99%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">목마른철새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒤늦게 <천박사 퇴마연구소 - 설경의 비밀> 본 후기]]></title>
-        <id>https://extmovie.com/movietalk/91547740?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91547740?category=61633579"/>
-        <updated>2023-10-14T08:13:34.234Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18801point (44%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">현71]]></content>
     </entry>
 </feed>

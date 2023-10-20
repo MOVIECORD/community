@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-20T15:11:11.945Z</updated>
+    <updated>2023-10-20T16:14:37.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시수] 람보이전에 코르피가 있었다]]></title>
+        <id>https://extmovie.com/movietalk/91572110?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91572110?category=61633579"/>
+        <updated>2023-10-20T16:14:27.975Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160034point (0%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아크맨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발레리나 [왕 스포.231016]]]></title>
         <id>https://extmovie.com/movietalk/91572094?category=61633579</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/91562893?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91562893?category=61633579"/>
         <updated>2023-10-18T11:10:01.766Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8413point (65%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8415point (65%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 헌팅 (1963) 최고의 공포영화. 스포일러 있음.]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/91555992?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91555992?category=61633579"/>
         <updated>2023-10-16T18:15:17.322Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44415point (21%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44420point (21%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왓 위민 원트 [왕 스포.231010]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91548695?category=61633579"/>
         <updated>2023-10-14T13:11:49.091Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:121point (30%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">상업영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시수] 핀란드에서 날아온 색다른 국뽕 영화]]></title>
-        <id>https://extmovie.com/movietalk/91548403?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91548403?category=61633579"/>
-        <updated>2023-10-14T11:09:23.183Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:45790point (55%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">FutureX]]></content>
     </entry>
 </feed>

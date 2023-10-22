@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-22T19:10:11.687Z</updated>
+    <updated>2023-10-22T20:11:33.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/91576667"/>
         <updated>2023-10-22T17:10:12.376Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:299671point (98%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플라워킬링문 취향을 확 빗나갈줄알고 피하려구 했더니 역시나..]]></title>
+        <id>https://extmovie.com/bestboard/91576586</id>
+        <link href="https://extmovie.com/bestboard/91576586"/>
+        <updated>2023-10-22T20:11:12.952Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:32779point (8%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포)그대들은 어떻게 살 것인가 애니메이터 이노우에 토시유키 인터뷰]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/91575058</id>
         <link href="https://extmovie.com/bestboard/91575058"/>
         <updated>2023-10-22T11:09:12.258Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4185458point (37%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4185460point (37%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 시장은 가을에 가장 재밌는 이유]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91574605"/>
         <updated>2023-10-22T04:13:21.320Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1321753point (21%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 끔찍한 잔혹한 마틴 스콜세지 영화 6편의 순간들]]></title>
-        <id>https://extmovie.com/bestboard/91574538</id>
-        <link href="https://extmovie.com/bestboard/91574538"/>
-        <updated>2023-10-22T04:13:21.320Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:189218point (97%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
 </feed>

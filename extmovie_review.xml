@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-22T13:11:45.003Z</updated>
+    <updated>2023-10-22T14:10:20.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천박사 퇴마 연구소: 설경의 비밀을 보고]]></title>
+        <id>https://extmovie.com/movietalk/91577039?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91577039?category=61633579"/>
+        <updated>2023-10-22T14:10:10.630Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14629point (74%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약스포) 플라워 킬링 문 N차 하고 온 장문 리뷰입니다]]></title>
         <id>https://extmovie.com/movietalk/91575885?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91554446?category=61633579"/>
         <updated>2023-10-16T08:15:35.570Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32419point (97%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멈출 수 없는 위험한 중독 <톡 투 미>]]></title>
-        <id>https://extmovie.com/movietalk/91554442?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91554442?category=61633579"/>
-        <updated>2023-10-16T08:15:35.570Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46390point (69%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
 </feed>

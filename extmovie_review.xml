@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-23T07:11:22.828Z</updated>
+    <updated>2023-10-23T08:15:57.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가슴 먹먹해지는 <소년들>]]></title>
+        <id>https://extmovie.com/movietalk/91579603?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91579603?category=61633579"/>
+        <updated>2023-10-23T08:15:48.497Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46412point (70%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<한 남자>를 보고 나서 (스포 O)]]></title>
         <id>https://extmovie.com/movietalk/91577875?category=61633579</id>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/91562893?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91562893?category=61633579"/>
         <updated>2023-10-18T11:10:01.766Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8563point (74%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8564point (74%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 헌팅 (1963) 최고의 공포영화. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91557200?category=61633579"/>
         <updated>2023-10-17T02:19:37.512Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:330point (82%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우르르차차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 익스펜더블 4 왕십리 CGV에서 보고 온 리뷰입니다.]]></title>
-        <id>https://extmovie.com/movietalk/91555992?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91555992?category=61633579"/>
-        <updated>2023-10-16T18:15:17.322Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44548point (24%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

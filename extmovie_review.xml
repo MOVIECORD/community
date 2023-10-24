@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-24T16:15:23.692Z</updated>
+    <updated>2023-10-24T17:10:44.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버텨내고 존재하기 보고왔어요]]></title>
+        <id>https://extmovie.com/movietalk/91584592?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91584592?category=61633579"/>
+        <updated>2023-10-24T17:10:35.546Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1474point (49%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보보보보봉]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈 더 도어 봤어요. (스포 무)]]></title>
         <id>https://extmovie.com/movietalk/91584532?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91584532?category=61633579"/>
         <updated>2023-10-24T16:15:14.788Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1464point (47%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보보보보봉]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1474point (49%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보보보보봉]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매직 아워 [왕 스포.231018]]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/91570649?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91570649?category=61633579"/>
         <updated>2023-10-20T08:14:46.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1322203point (22%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1322205point (22%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(노스포) <플라워 킬링 문> 범죄극은 역시 스코세이지]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91565380?category=61633579"/>
         <updated>2023-10-19T04:13:10.412Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:341point (85%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우르르차차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이 코드명 포춘 [왕 스포.231012]]]></title>
-        <id>https://extmovie.com/movietalk/91563972?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91563972?category=61633579"/>
-        <updated>2023-10-18T16:14:41.760Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12739point (89%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-25T13:13:55.864Z</updated>
+    <updated>2023-10-25T14:11:31.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그어살 용아맥 관람후기]]></title>
+        <id>https://extmovie.com/movietalk/91588044?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91588044?category=61633579"/>
+        <updated>2023-10-25T14:11:20.242Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:456point (12%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">칠리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약스포)용감한 시민과 그어살 봤습니다]]></title>
+        <id>https://extmovie.com/movietalk/91588156?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91588156?category=61633579"/>
+        <updated>2023-10-25T14:11:20.250Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24774point (58%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서래누나나도죽여줘요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그어살 별점입니다.]]></title>
         <id>https://extmovie.com/movietalk/91588061?category=61633579</id>
@@ -31,7 +45,7 @@
         <id>https://extmovie.com/movietalk/91587399?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91587399?category=61633579"/>
         <updated>2023-10-25T10:12:27.865Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:652point (54%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">정보통신맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:654point (55%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">정보통신맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[굿바이 미야자키 하야오 <그대들은 어떻게 살것인가> ...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/91573375?category=61633579"/>
         <updated>2023-10-21T06:14:35.423Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4460point (3%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30일 Love Reset]]></title>
-        <id>https://extmovie.com/movietalk/91572961?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91572961?category=61633579"/>
-        <updated>2023-10-21T04:13:07.878Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:32526point (1%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시수] 람보이전에 코르피가 있었다]]></title>
-        <id>https://extmovie.com/movietalk/91572110?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91572110?category=61633579"/>
-        <updated>2023-10-20T16:14:27.975Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160044point (0%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아크맨]]></content>
     </entry>
 </feed>

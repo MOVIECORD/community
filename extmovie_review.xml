@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-26T18:15:04.767Z</updated>
+    <updated>2023-10-26T19:10:01.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포) 영화 괴인 보고 온 리뷰입니다.]]></title>
+        <id>https://extmovie.com/movietalk/91593182?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91593182?category=61633579"/>
+        <updated>2023-10-26T19:09:51.324Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44962point (34%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페이블 죽이지 않는 킬러 [왕 스포.231020]]]></title>
         <id>https://extmovie.com/movietalk/91593061?category=61633579</id>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/91581043?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91581043?category=61633579"/>
         <updated>2023-10-23T17:10:18.203Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44936point (33%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44962point (34%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소년들 최초시사 무대인사 배우들 총출동한 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91581196?category=61633579"/>
         <updated>2023-10-23T15:12:24.289Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12839point (94%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디테일이 풍부한 <더 킬러>]]></title>
-        <id>https://extmovie.com/movietalk/91580462?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91580462?category=61633579"/>
-        <updated>2023-10-23T11:10:21.493Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46535point (73%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
 </feed>

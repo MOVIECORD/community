@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-26T18:15:04.764Z</updated>
+    <updated>2023-10-26T19:10:01.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://extmovie.com/bestboard/91592906"/>
         <updated>2023-10-26T17:10:28.343Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2300point (5%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">베인가드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그어살 개인적인 후기]]></title>
+        <id>https://extmovie.com/bestboard/91592862</id>
+        <link href="https://extmovie.com/bestboard/91592862"/>
+        <updated>2023-10-26T19:09:38.157Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1455point (46%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">o1xis]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[괴인.... 정말 이상한 영화였어요]]></title>
+        <id>https://extmovie.com/bestboard/91592578</id>
+        <link href="https://extmovie.com/bestboard/91592578"/>
+        <updated>2023-10-26T19:09:38.160Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18001point (13%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">즐거운인생]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹 이후 흥행에 크게 실패한 천만 영화 감독들...]]></title>
@@ -60,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/91591824"/>
         <updated>2023-10-26T15:11:38.406Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18287point (24%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(루머, 잠재스포) '더 마블스' 포스트 크레딧에 메이저 카메...]]></title>
+        <id>https://extmovie.com/bestboard/91591815</id>
+        <link href="https://extmovie.com/bestboard/91591815"/>
+        <updated>2023-10-26T19:09:38.220Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4191818point (38%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 애니 '플루토' 해외 리뷰 2개]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/91588726"/>
         <updated>2023-10-26T01:44:12.985Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:118point (29%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아수람부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대들은 어떻게 살 것인가 후기(불호)]]></title>
-        <id>https://extmovie.com/bestboard/91588854</id>
-        <link href="https://extmovie.com/bestboard/91588854"/>
-        <updated>2023-10-26T01:44:12.989Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10828point (96%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <오픈 더 도어> GV 직찍...]]></title>
-        <id>https://extmovie.com/bestboard/91588832</id>
-        <link href="https://extmovie.com/bestboard/91588832"/>
-        <updated>2023-10-26T05:10:36.587Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16378point (48%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kairosfoto]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대들은 어떻게 살 것인가(약스포후기)]]></title>
-        <id>https://extmovie.com/bestboard/91588729</id>
-        <link href="https://extmovie.com/bestboard/91588729"/>
-        <updated>2023-10-26T05:10:36.603Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1929point (37%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
 </feed>

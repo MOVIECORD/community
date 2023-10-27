@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-27T21:09:48.001Z</updated>
+    <updated>2023-10-27T22:10:44.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 10월 27일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91596906</id>
+        <link href="https://extmovie.com/bestboard/91596906"/>
+        <updated>2023-10-27T22:10:24.446Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3994334point (98%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕웨이 & 주윤발]]></title>
         <id>https://extmovie.com/bestboard/91596700</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/bestboard/91595815</id>
         <link href="https://extmovie.com/bestboard/91595815"/>
         <updated>2023-10-27T21:09:29.471Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1326536point (26%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1326541point (26%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[그대들은 어떻게 살 것인가] 주요 평점 사이트별 평점]]></title>
@@ -223,6 +230,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:501280point (6%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(루머, 약스포) '더 마블스' 엔드 크레딧 카메오 주인공 밝혀져]]></title>
+        <id>https://extmovie.com/bestboard/91593619</id>
+        <link href="https://extmovie.com/bestboard/91593619"/>
+        <updated>2023-10-27T22:10:24.530Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4193982point (38%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[넷플릭스 '플루토' 로튼토마토 리뷰 하나]]></title>
         <id>https://extmovie.com/bestboard/91593627</id>
         <link href="https://extmovie.com/bestboard/91593627"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91593079"/>
         <updated>2023-10-26T20:13:00.277Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:82point (20%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">avisxxrh]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽부성 최신 근황(오늘)]]></title>
-        <id>https://extmovie.com/bestboard/91593040</id>
-        <link href="https://extmovie.com/bestboard/91593040"/>
-        <updated>2023-10-27T00:48:29.094Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160479point (1%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 10월 26일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/91592988</id>
-        <link href="https://extmovie.com/bestboard/91592988"/>
-        <updated>2023-10-26T22:11:29.983Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3994334point (98%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

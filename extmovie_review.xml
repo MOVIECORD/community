@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-28T10:11:34.858Z</updated>
+    <updated>2023-10-28T11:09:31.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그대들은 어떻게 살 것인가]는 불친절하지만 별로인 작품은...]]></title>
+        <id>https://extmovie.com/movietalk/91598821?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91598821?category=61633579"/>
+        <updated>2023-10-28T11:09:21.959Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1148point (82%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쉘 위 댄스' 주관적 끄적임 (스포o)]]></title>
         <id>https://extmovie.com/movietalk/91598536?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/91593182?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91593182?category=61633579"/>
         <updated>2023-10-26T19:09:51.324Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:45075point (37%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:45079point (37%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이블 죽이지 않는 킬러 [왕 스포.231020]]]></title>
@@ -234,20 +241,13 @@
         <id>https://extmovie.com/movietalk/91584592?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91584592?category=61633579"/>
         <updated>2023-10-24T17:10:35.546Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1533point (60%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보보보보봉]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1636point (80%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보보보보봉]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈 더 도어 봤어요. (스포 무)]]></title>
         <id>https://extmovie.com/movietalk/91584532?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91584532?category=61633579"/>
         <updated>2023-10-24T16:15:14.788Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1533point (60%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보보보보봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직 아워 [왕 스포.231018]]]></title>
-        <id>https://extmovie.com/movietalk/91584516?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91584516?category=61633579"/>
-        <updated>2023-10-24T16:15:14.800Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12839point (94%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1636point (80%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">보보보보봉]]></content>
     </entry>
 </feed>

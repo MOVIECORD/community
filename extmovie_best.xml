@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-28T20:10:46.931Z</updated>
+    <updated>2023-10-28T21:09:31.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 10월 28일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91599470</id>
+        <link href="https://extmovie.com/bestboard/91599470"/>
+        <updated>2023-10-28T21:09:11.835Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3994643point (98%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[롯데시네마 기생충 상영취소]]></title>
         <id>https://extmovie.com/bestboard/91599406</id>
         <link href="https://extmovie.com/bestboard/91599406"/>
         <updated>2023-10-28T16:12:55.131Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:49504point (13%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박은빈 ‘무인도의 디바’ 첫방 보는중]]></title>
+        <id>https://extmovie.com/bestboard/91599365</id>
+        <link href="https://extmovie.com/bestboard/91599365"/>
+        <updated>2023-10-28T21:09:11.836Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4195047point (39%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[더 킬러] 소신 후기]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91596372"/>
         <updated>2023-10-28T17:09:14.806Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18173point (20%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">못난이써니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대들은 어떻게 살것인가 CGV 2주차 현장 증정 이벤트]]></title>
-        <id>https://extmovie.com/bestboard/91596329</id>
-        <link href="https://extmovie.com/bestboard/91596329"/>
-        <updated>2023-10-27T16:14:04.514Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5295point (65%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">rose3730]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M. 나이트 샤말란 신작 <트랩> 이번달 크랭크 인]]></title>
-        <id>https://extmovie.com/bestboard/91596208</id>
-        <link href="https://extmovie.com/bestboard/91596208"/>
-        <updated>2023-10-27T19:08:16.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1323253point (23%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

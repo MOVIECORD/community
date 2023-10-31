@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-10-31T16:15:06.892Z</updated>
+    <updated>2023-10-31T17:10:48.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/91608537</id>
         <link href="https://extmovie.com/bestboard/91608537"/>
         <updated>2023-10-31T16:14:45.365Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34256point (50%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34258point (50%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<서울의 봄> 황정민, 정우성 눈빛싸움 장면]]></title>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/91607726"/>
         <updated>2023-10-31T12:20:39.169Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3995705point (98%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스파이 패밀리 아나 포져 코스프레 (야마네 안)]]></title>
+        <id>https://extmovie.com/bestboard/91607235</id>
+        <link href="https://extmovie.com/bestboard/91607235"/>
+        <updated>2023-10-31T17:10:29.681Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6728point (63%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 강력한 액션영화들이 개봉되엇던 5년 (1987~1992  )]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/91588919</id>
         <link href="https://extmovie.com/bestboard/91588919"/>
         <updated>2023-10-31T12:20:39.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:45447point (46%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:45531point (48%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포X] 넷플릭스 플루토 간단 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91605257"/>
         <updated>2023-10-31T01:48:15.628Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3995705point (98%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어벤저스 엔드게임' 조 루소 감독과 마틴 스콜세지 감독 틱톡]]></title>
-        <id>https://extmovie.com/bestboard/91605145</id>
-        <link href="https://extmovie.com/bestboard/91605145"/>
-        <updated>2023-10-31T04:13:24.715Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4198338point (39%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

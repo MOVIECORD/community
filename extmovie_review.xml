@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-10-31T15:12:45.405Z</updated>
+    <updated>2023-10-31T16:15:06.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위대한 소원 [왕 스포.231024]]]></title>
+        <id>https://extmovie.com/movietalk/91608691?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91608691?category=61633579"/>
+        <updated>2023-10-31T16:14:57.139Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12929point (98%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[믿을 수 있는 사람] 닻을 내리지 못하는 배 (스포 O)]]></title>
         <id>https://extmovie.com/movietalk/91606770?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/91604856?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91604856?category=61633579"/>
         <updated>2023-10-30T16:14:42.834Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12849point (94%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12929point (98%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<열두 달, 흙을 먹다>를 보고 나서 (스포 O)]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/91595544?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91595544?category=61633579"/>
         <updated>2023-10-27T08:14:29.774Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112377951point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112377957point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <그대들은 어떻게 살 것인가> 리뷰 : 그럼에도 ...]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/91593061?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91593061?category=61633579"/>
         <updated>2023-10-26T16:14:45.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12849point (94%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12929point (98%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(*스포) <괴인> 봤어요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91588854?category=61633579"/>
         <updated>2023-10-25T16:14:58.667Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10874point (99%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대들은 어떻게 살 것인가(약스포후기)]]></title>
-        <id>https://extmovie.com/movietalk/91588729?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91588729?category=61633579"/>
-        <updated>2023-10-25T16:14:58.669Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1929point (37%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
 </feed>

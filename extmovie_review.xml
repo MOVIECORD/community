@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-01T16:15:14.967Z</updated>
+    <updated>2023-11-01T17:11:00.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소년들 GV메가토크 후기(정리)]]></title>
+        <id>https://extmovie.com/movietalk/91612245?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91612245?category=61633579"/>
+        <updated>2023-11-01T17:10:50.812Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:940point (22%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기방도령 [왕 스포.231025]]]></title>
         <id>https://extmovie.com/movietalk/91612133?category=61633579</id>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/91599507?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91599507?category=61633579"/>
         <updated>2023-10-28T16:13:06.172Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:925point (18%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:940point (22%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[더 킬러] 소신 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91591893?category=61633579"/>
         <updated>2023-10-26T10:12:34.422Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1324203point (24%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[horrible dr. Hitchcock (1962) 이런 영화가 나와도 되나? ...]]></title>
-        <id>https://extmovie.com/movietalk/91590581?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91590581?category=61633579"/>
-        <updated>2023-10-26T06:15:14.253Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29336point (5%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-04T21:09:12.715Z</updated>
+    <updated>2023-11-04T22:11:12.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[나폴레옹] 국내 개봉일]]></title>
+        <id>https://extmovie.com/bestboard/91623035</id>
+        <link href="https://extmovie.com/bestboard/91623035"/>
+        <updated>2023-11-04T22:10:50.476Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27315point (41%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<조커> 굉장합니다.]]></title>
         <id>https://extmovie.com/bestboard/91622860</id>
@@ -178,14 +185,21 @@
         <id>https://extmovie.com/bestboard/91620064</id>
         <link href="https://extmovie.com/bestboard/91620064"/>
         <updated>2023-11-04T06:13:09.580Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4203555point (40%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4203658point (40%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘에코‘ MCU 시리즈중 최초 TV-MA등급(R등급) 받아 / 찰리콕스 데어데블...]]></title>
+        <id>https://extmovie.com/bestboard/91620052</id>
+        <link href="https://extmovie.com/bestboard/91620052"/>
+        <updated>2023-11-04T22:10:50.584Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4203658point (40%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마블 ‘에코’ 시리즈 첫 포스터, 트레일러]]></title>
         <id>https://extmovie.com/bestboard/91620013</id>
         <link href="https://extmovie.com/bestboard/91620013"/>
         <updated>2023-11-04T02:17:53.862Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4203555point (40%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4203658point (40%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 11월 3일 국내 박스오피스]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/91619318</id>
         <link href="https://extmovie.com/bestboard/91619318"/>
         <updated>2023-11-03T23:12:16.926Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4203555point (40%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고질라 1.0 관객 반응]]></title>
-        <id>https://extmovie.com/bestboard/91619317</id>
-        <link href="https://extmovie.com/bestboard/91619317"/>
-        <updated>2023-11-03T17:10:10.640Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6934point (76%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고질라 마이너스 원] 올해 일본 실사영화 1위 스타트]]></title>
-        <id>https://extmovie.com/bestboard/91619278</id>
-        <link href="https://extmovie.com/bestboard/91619278"/>
-        <updated>2023-11-04T02:17:53.863Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8045point (44%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4203658point (40%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

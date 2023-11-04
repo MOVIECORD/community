@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-04T17:09:40.615Z</updated>
+    <updated>2023-11-04T18:13:28.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-04T17:09:31.305Z</updated>
+        <updated>2023-11-04T18:13:19.020Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년들]]></title>
+        <id>https://extmovie.com/movietalk/91623168?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91623168?category=61633579"/>
+        <updated>2023-11-04T18:13:19.308Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1595point (72%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">valuev]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국인들은 잘 모르는 가라테 키드 코브라 카이로 보는 한국...]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91602136?category=61633579"/>
         <updated>2023-10-30T00:50:14.885Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1672point (87%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 플라워 킬링 문 보고왔어요]]></title>
-        <id>https://extmovie.com/movietalk/91601502?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91601502?category=61633579"/>
-        <updated>2023-10-29T13:12:01.453Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:779point (82%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MAUS]]></content>
     </entry>
 </feed>

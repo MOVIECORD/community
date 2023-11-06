@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-06T18:14:55.854Z</updated>
+    <updated>2023-11-06T19:09:03.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91628473"/>
         <updated>2023-11-06T18:14:33.050Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2610point (36%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">80&amp;#039;s]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<독전2>극장개봉 안하는게 조금 아쉽긴 하네요]]></title>
+        <id>https://extmovie.com/bestboard/91628437</id>
+        <link href="https://extmovie.com/bestboard/91628437"/>
+        <updated>2023-11-06T19:08:47.726Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3938point (59%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">널볼때마치꿈꾸는듯해]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘서울의 봄’ 황정민, 충격 대머리 비주얼]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91625902"/>
         <updated>2023-11-06T12:22:07.588Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7029point (82%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톡 투 미 후기!! 노스포!!]]></title>
-        <id>https://extmovie.com/bestboard/91625876</id>
-        <link href="https://extmovie.com/bestboard/91625876"/>
-        <updated>2023-11-06T12:22:07.590Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4121point (75%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이구칠]]></content>
     </entry>
 </feed>

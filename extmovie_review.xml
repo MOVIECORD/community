@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-08T09:11:24.838Z</updated>
+    <updated>2023-11-08T10:12:27.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-08T09:11:16.843Z</updated>
+        <updated>2023-11-08T10:12:17.571Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(노스포) <더 마블스> 귀여운 재미는 있으나...]]></title>
+        <id>https://extmovie.com/movietalk/91634944?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91634944?category=61633579"/>
+        <updated>2023-11-08T10:12:17.946Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1443point (43%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 마블즈 후기 정리]]></title>
         <id>https://extmovie.com/movietalk/91634869?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91634869?category=61633579"/>
         <updated>2023-11-08T09:11:17.047Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:895point (10%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">정보통신맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:909point (14%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">정보통신맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도쿄영화제 <쿠비>, <타츠미> 보았습니다]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/91615924?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91615924?category=61633579"/>
         <updated>2023-11-02T15:12:10.663Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1325653point (25%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1325655point (25%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포리뷰) 시뮬런트 인공지능AI와 인간의 갈등을 담은 SF영화]]></title>
@@ -248,13 +255,6 @@
         <id>https://extmovie.com/movietalk/91612275?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91612275?category=61633579"/>
         <updated>2023-11-01T18:14:23.502Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7149point (90%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년들 GV메가토크 후기(정리)]]></title>
-        <id>https://extmovie.com/movietalk/91612245?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91612245?category=61633579"/>
-        <updated>2023-11-01T17:10:50.812Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:976point (33%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7151point (90%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

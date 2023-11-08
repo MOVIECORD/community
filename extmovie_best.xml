@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-08T19:09:26.585Z</updated>
+    <updated>2023-11-08T20:12:19.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91635706"/>
         <updated>2023-11-08T16:15:06.143Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:127202point (14%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['GTA 6' 첫 예고편 12월에 정식 공개]]></title>
+        <id>https://extmovie.com/bestboard/91636034</id>
+        <link href="https://extmovie.com/bestboard/91636034"/>
+        <updated>2023-11-08T20:11:57.099Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3998723point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MCU를 그냥 죽게 놔둘 때가 됐나?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91633822"/>
         <updated>2023-11-08T08:14:03.278Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3998723point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 마블스 리뷰(스포○)]]></title>
-        <id>https://extmovie.com/bestboard/91633831</id>
-        <link href="https://extmovie.com/bestboard/91633831"/>
-        <updated>2023-11-08T08:14:03.282Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12813point (92%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">납득이안가요]]></content>
     </entry>
 </feed>

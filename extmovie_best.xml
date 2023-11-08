@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-08T20:12:19.795Z</updated>
+    <updated>2023-11-08T21:12:23.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 11월 8일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91636308</id>
+        <link href="https://extmovie.com/bestboard/91636308"/>
+        <updated>2023-11-08T21:12:00.099Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3998723point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 <아바타: 아앙의 전설> 포스터 공개]]></title>
         <id>https://extmovie.com/bestboard/91636161</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91633828"/>
         <updated>2023-11-08T10:12:06.514Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12447point (75%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 마블스' 미국쪽 첫 반응]]></title>
-        <id>https://extmovie.com/bestboard/91633822</id>
-        <link href="https://extmovie.com/bestboard/91633822"/>
-        <updated>2023-11-08T08:14:03.278Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3998723point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

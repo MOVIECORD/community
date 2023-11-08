@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-08T02:21:21.936Z</updated>
+    <updated>2023-11-08T03:12:36.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-08T02:21:12.333Z</updated>
+        <updated>2023-11-08T03:12:26.821Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노스포 단평]  더 마블스 - 의외로 나쁘지 않은]]></title>
+        <id>https://extmovie.com/movietalk/91633167?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91633167?category=61633579"/>
+        <updated>2023-11-08T03:12:27.274Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:32558point (1%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딱 예상한 정도의 <더 마블스>]]></title>
         <id>https://extmovie.com/movietalk/91632564?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91632564?category=61633579"/>
         <updated>2023-11-08T01:50:11.462Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47327point (93%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47338point (93%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[속 터지는 영화 두편 봤습니다(톡투미와 소년들 스포)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91611561?category=61633579"/>
         <updated>2023-11-01T14:11:13.172Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:39894point (5%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">처니리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(톡투미) 볼만하네요~!]]></title>
-        <id>https://extmovie.com/movietalk/91611553?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91611553?category=61633579"/>
-        <updated>2023-11-01T13:14:23.143Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41970point (58%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">커피맛나]]></content>
     </entry>
 </feed>

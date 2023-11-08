@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-08T17:10:25.389Z</updated>
+    <updated>2023-11-08T18:14:11.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 <아바타: 아앙의 전설> 포스터 공개]]></title>
+        <id>https://extmovie.com/bestboard/91636161</id>
+        <link href="https://extmovie.com/bestboard/91636161"/>
+        <updated>2023-11-08T18:13:50.798Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:115045point (50%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 마블스] 흥행 예측]]></title>
         <id>https://extmovie.com/bestboard/91635706</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91633831"/>
         <updated>2023-11-08T08:14:03.282Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12813point (92%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">납득이안가요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ott로 넘어오는 작품들..,]]></title>
-        <id>https://extmovie.com/bestboard/91633446</id>
-        <link href="https://extmovie.com/bestboard/91633446"/>
-        <updated>2023-11-08T12:20:41.778Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:171point (42%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚜바뚜바띠]]></content>
     </entry>
 </feed>

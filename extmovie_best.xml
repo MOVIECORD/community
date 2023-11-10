@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-10T21:09:51.333Z</updated>
+    <updated>2023-11-10T22:10:22.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91642681"/>
         <updated>2023-11-10T18:13:32.998Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1326000point (26%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동장군 왔을 때 보기 좋은 호러영화 [괴물]]]></title>
+        <id>https://extmovie.com/bestboard/91642423</id>
+        <link href="https://extmovie.com/bestboard/91642423"/>
+        <updated>2023-11-10T22:10:07.054Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31281point (63%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Robo_cop]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3분기 일본 여배우 인지도 u-25(세 미만) 랭킹]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91641174"/>
         <updated>2023-11-10T08:14:58.726Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62395point (19%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">킹치만귀여운걸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[캡틴 아메리카 4] 테스트 시사 반응 안좋아서 재촬영한다는 소문]]></title>
-        <id>https://extmovie.com/bestboard/91641146</id>
-        <link href="https://extmovie.com/bestboard/91641146"/>
-        <updated>2023-11-10T05:10:58.281Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:505242point (26%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

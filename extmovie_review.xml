@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-10T05:11:20.042Z</updated>
+    <updated>2023-11-10T06:14:54.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-10T05:11:10.045Z</updated>
+        <updated>2023-11-10T06:14:46.745Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 마블즈 감상 등 마블 관련 하고싶은 이야기 (스포)]]></title>
+        <id>https://extmovie.com/movietalk/91641598?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91641598?category=61633579"/>
+        <updated>2023-11-10T06:14:46.941Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:36point (9%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[서울의 봄 시사회] 영화를 봐야할 3가지 이유]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91622485?category=61633579"/>
         <updated>2023-11-04T11:08:38.993Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:191point (47%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">발바로사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조커,소년들,톡투미] 초간단 후기]]></title>
-        <id>https://extmovie.com/movietalk/91621837?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91621837?category=61633579"/>
-        <updated>2023-11-04T07:10:50.981Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4755point (25%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

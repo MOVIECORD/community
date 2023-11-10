@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-10T22:10:22.894Z</updated>
+    <updated>2023-11-10T23:10:44.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모두가 마블에 관심이 없어져도 전 마블에 계속 존재하는 자가 될 것 ...]]></title>
+        <id>https://extmovie.com/bestboard/91643104</id>
+        <link href="https://extmovie.com/bestboard/91643104"/>
+        <updated>2023-11-10T23:10:28.298Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12956point (99%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">납득이안가요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[로키] 시즌 3 계획은 없음]]></title>
         <id>https://extmovie.com/bestboard/91642994</id>
         <link href="https://extmovie.com/bestboard/91642994"/>
         <updated>2023-11-10T19:08:58.933Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:505242point (26%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:505244point (26%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잔혹 호러 '테리파이어 2' 로튼토마토 리뷰]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/bestboard/91642359</id>
         <link href="https://extmovie.com/bestboard/91642359"/>
         <updated>2023-11-10T15:11:26.959Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62395point (19%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">킹치만귀여운걸]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62436point (21%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">킹치만귀여운걸]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<서울의 봄> 호평 폭발 언론 리뷰들]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/bestboard/91641310</id>
         <link href="https://extmovie.com/bestboard/91641310"/>
         <updated>2023-11-10T06:14:38.631Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:505242point (26%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:505244point (26%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['더 마블스' 시사회장 깜짝 등장해서 팬들 놀래켜 주는 이만...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91641235"/>
         <updated>2023-11-10T08:14:58.724Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:115582point (52%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[으악...서울의 봄 스쿠 까먹었네요ㅠ]]></title>
-        <id>https://extmovie.com/bestboard/91641174</id>
-        <link href="https://extmovie.com/bestboard/91641174"/>
-        <updated>2023-11-10T08:14:58.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62395point (19%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">킹치만귀여운걸]]></content>
     </entry>
 </feed>

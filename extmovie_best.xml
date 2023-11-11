@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-11T16:13:33.970Z</updated>
+    <updated>2023-11-11T17:10:27.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/91645354</id>
         <link href="https://extmovie.com/bestboard/91645354"/>
         <updated>2023-11-11T16:13:13.274Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999804point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999806point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 큰 슬래셔 영화 규칙을 어긴 슬래셔 영화 10편]]></title>
+        <id>https://extmovie.com/bestboard/91645255</id>
+        <link href="https://extmovie.com/bestboard/91645255"/>
+        <updated>2023-11-11T17:10:06.584Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:193596point (35%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오펜하이머]의 아름다운 샷들 (스포일러O)]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/bestboard/91644776</id>
         <link href="https://extmovie.com/bestboard/91644776"/>
         <updated>2023-11-11T10:11:20.338Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999804point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999806point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 <더 냥블스> 포스터]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/bestboard/91642914</id>
         <link href="https://extmovie.com/bestboard/91642914"/>
         <updated>2023-11-10T21:09:35.493Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999804point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999806point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추천하긴 힘들지만..인상 깊게 본 <인피니티 풀> (feat. 브랜든 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91642809"/>
         <updated>2023-11-11T00:48:59.520Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:10point (2%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마라탕소고기추가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헝거게임: 노래하는 새와 뱀의 발라드' 로튼토마토 리뷰]]></title>
-        <id>https://extmovie.com/bestboard/91642679</id>
-        <link href="https://extmovie.com/bestboard/91642679"/>
-        <updated>2023-11-10T15:11:26.958Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999804point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

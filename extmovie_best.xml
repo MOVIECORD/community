@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-11T19:08:34.548Z</updated>
+    <updated>2023-11-11T20:10:47.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 11월 11일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91645612</id>
+        <link href="https://extmovie.com/bestboard/91645612"/>
+        <updated>2023-11-11T20:10:31.138Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999811point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 마블스' 미국 일본 관객들의 점수]]></title>
         <id>https://extmovie.com/bestboard/91645354</id>
         <link href="https://extmovie.com/bestboard/91645354"/>
         <updated>2023-11-11T16:13:13.274Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999808point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999811point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 큰 슬래셔 영화 규칙을 어긴 슬래셔 영화 10편]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/bestboard/91644776</id>
         <link href="https://extmovie.com/bestboard/91644776"/>
         <updated>2023-11-11T10:11:20.338Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999808point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999811point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 <더 냥블스> 포스터]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/bestboard/91642914</id>
         <link href="https://extmovie.com/bestboard/91642914"/>
         <updated>2023-11-10T21:09:35.493Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999808point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/89.gif" alt="[레벨:89]" title="포인트:3999811point (99%), 레벨:89/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추천하긴 힘들지만..인상 깊게 본 <인피니티 풀> (feat. 브랜든 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91642843"/>
         <updated>2023-11-11T07:09:25.310Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1326289point (26%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울의 봄] 국내 언론 매체 리뷰 모음 - 2]]></title>
-        <id>https://extmovie.com/bestboard/91642814</id>
-        <link href="https://extmovie.com/bestboard/91642814"/>
-        <updated>2023-11-11T11:08:45.983Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:505417point (27%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

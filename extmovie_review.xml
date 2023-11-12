@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-12T15:10:18.629Z</updated>
+    <updated>2023-11-12T16:13:08.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-12T15:10:10.966Z</updated>
+        <updated>2023-11-12T16:12:58.919Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후룩후룩 쓰는 최근 본 불호 영화들 한줄평]]></title>
+        <id>https://extmovie.com/movietalk/91647854?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91647854?category=61633579"/>
+        <updated>2023-11-12T16:12:59.224Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:45773point (54%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[괴인] 삶을 살면서 누구나 겪을법한 사건을 꽤나 현실적으...]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91631747?category=61633579"/>
         <updated>2023-11-07T16:14:34.355Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13082point (5%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐정이야기 (1983) 4월이야기 + 야쿠자물 + 탐정물.  스포일...]]></title>
-        <id>https://extmovie.com/movietalk/91630299?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91630299?category=61633579"/>
-        <updated>2023-11-07T07:10:38.291Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30006point (25%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

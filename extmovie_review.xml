@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-16T12:21:57.127Z</updated>
+    <updated>2023-11-16T13:15:25.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-16T12:21:49.203Z</updated>
+        <updated>2023-11-16T13:15:14.989Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수능 끝난 기념 '다크 나이트' 첫 극장 관람]]></title>
+        <id>https://extmovie.com/movietalk/91661080?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91661080?category=61633579"/>
+        <updated>2023-11-16T13:15:15.159Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9489point (25%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[*더마블스* +*뉴노멀*  봤어요!]]></title>
         <id>https://extmovie.com/movietalk/91654395?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91654395?category=61633579"/>
         <updated>2023-11-16T12:21:49.351Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1371point (30%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온니뮤]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1372point (30%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온니뮤]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인의 없는 전쟁 히로시마 사투편 (1973) 실록 야쿠자. 스포...]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91636330?category=61633579"/>
         <updated>2023-11-08T15:12:36.092Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13112point (6%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 마블스 극호 리뷰 약스포]]></title>
-        <id>https://extmovie.com/movietalk/91636265?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91636265?category=61633579"/>
-        <updated>2023-11-08T15:12:36.092Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:859point (99%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
     </entry>
 </feed>

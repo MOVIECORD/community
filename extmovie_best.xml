@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-16T17:10:48.519Z</updated>
+    <updated>2023-11-16T18:14:24.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수능 끝난 기념 '다크 나이트' 첫 극장 관람]]></title>
+        <id>https://extmovie.com/bestboard/91661080</id>
+        <link href="https://extmovie.com/bestboard/91661080"/>
+        <updated>2023-11-16T18:14:09.224Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9497point (26%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주급 이벤트 맞네요]]></title>
         <id>https://extmovie.com/bestboard/91660863</id>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/bestboard/91658865</id>
         <link href="https://extmovie.com/bestboard/91658865"/>
         <updated>2023-11-16T06:15:06.876Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18454point (31%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18456point (31%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스위트 홈 시즌 2 예고편]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91657856"/>
         <updated>2023-11-15T16:14:52.781Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:506900point (34%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헝거게임' 프리퀄 미리 알면 좋은 10가지 포인트]]></title>
-        <id>https://extmovie.com/bestboard/91657768</id>
-        <link href="https://extmovie.com/bestboard/91657768"/>
-        <updated>2023-11-15T23:11:16.750Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4001670point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

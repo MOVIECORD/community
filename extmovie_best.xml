@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-17T19:09:29.646Z</updated>
+    <updated>2023-11-17T20:12:25.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['독전 2' 굳이 나올 필요가 있었나 싶은 미드퀄]]></title>
+        <id>https://extmovie.com/bestboard/91664625</id>
+        <link href="https://extmovie.com/bestboard/91664625"/>
+        <updated>2023-11-17T20:12:09.840Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4001960point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cgv 영등포와 용산은 아주 작정한것 같네요]]></title>
+        <id>https://extmovie.com/bestboard/91664380</id>
+        <link href="https://extmovie.com/bestboard/91664380"/>
+        <updated>2023-11-17T20:12:09.840Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15745point (22%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 마블스’ 수요일 북미 흥행성적 ‘블루 비틀’ 과 유사]]></title>
         <id>https://extmovie.com/bestboard/91664145</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91661313"/>
         <updated>2023-11-17T00:51:53.747Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:166point (41%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">길연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 11월 16일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/91661302</id>
-        <link href="https://extmovie.com/bestboard/91661302"/>
-        <updated>2023-11-16T23:11:36.002Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4001960point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밥 아이거, ‘겨울왕국 4 제작 진행중이다‘ 언급]]></title>
-        <id>https://extmovie.com/bestboard/91661254</id>
-        <link href="https://extmovie.com/bestboard/91661254"/>
-        <updated>2023-11-16T23:11:36.008Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4219765point (43%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

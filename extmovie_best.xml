@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-18T19:09:02.579Z</updated>
+    <updated>2023-11-18T20:11:19.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91666749"/>
         <updated>2023-11-18T15:10:09.716Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4821point (30%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타이카 와이티티 신작 코미디 시네마스코어 점수]]></title>
+        <id>https://extmovie.com/bestboard/91666481</id>
+        <link href="https://extmovie.com/bestboard/91666481"/>
+        <updated>2023-11-18T20:11:03.562Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4002227point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 ‘위시’ 로튼 하락중, 메타크리틱 지난 10년간 애니중 최저]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91664694"/>
         <updated>2023-11-18T05:10:29.002Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16932point (70%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kairosfoto]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['독전 2' 굳이 나올 필요가 있었나 싶은 미드퀄]]></title>
-        <id>https://extmovie.com/bestboard/91664625</id>
-        <link href="https://extmovie.com/bestboard/91664625"/>
-        <updated>2023-11-17T20:12:09.840Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4002227point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

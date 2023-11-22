@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-22T20:12:03.810Z</updated>
+    <updated>2023-11-22T21:10:06.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1328973point (28%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[#서울의봄 호 후기..먹먹한 가슴을 안고 쓰는 글]]></title>
+        <id>https://extmovie.com/bestboard/91679225</id>
+        <link href="https://extmovie.com/bestboard/91679225"/>
+        <updated>2023-11-22T21:09:51.592Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16797point (65%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[두 명의 주인공이 가능할 줄이야.. 서울의 봄 리뷰(스포O)]]></title>
         <id>https://extmovie.com/bestboard/91679088</id>
         <link href="https://extmovie.com/bestboard/91679088"/>
@@ -53,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/91678711"/>
         <updated>2023-11-22T19:09:20.360Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4003603point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울의 봄 보고 왔습니다.]]></title>
+        <id>https://extmovie.com/bestboard/91678714</id>
+        <link href="https://extmovie.com/bestboard/91678714"/>
+        <updated>2023-11-22T21:09:51.601Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4502point (6%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엠마 스톤 [가여운 것들] 새 예고편 공개]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91676898"/>
         <updated>2023-11-22T10:13:09.978Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4421point (0%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">회계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울의 봄 후기]]></title>
-        <id>https://extmovie.com/bestboard/91676692</id>
-        <link href="https://extmovie.com/bestboard/91676692"/>
-        <updated>2023-11-22T06:15:24.203Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9951point (50%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오오옹이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고준희 '싱글 인 서울' VIP 시사회 샷들]]></title>
-        <id>https://extmovie.com/bestboard/91676217</id>
-        <link href="https://extmovie.com/bestboard/91676217"/>
-        <updated>2023-11-22T17:11:00.084Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4226238point (45%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

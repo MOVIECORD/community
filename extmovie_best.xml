@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-23T16:14:34.689Z</updated>
+    <updated>2023-11-23T17:10:37.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://extmovie.com/bestboard/91682291</id>
         <link href="https://extmovie.com/bestboard/91682291"/>
         <updated>2023-11-23T16:14:18.904Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62672point (33%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62684point (34%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국인들이 싫어하는 TV 시리즈 캐릭터들]]></title>
@@ -38,7 +38,7 @@
         <id>https://extmovie.com/bestboard/91682165</id>
         <link href="https://extmovie.com/bestboard/91682165"/>
         <updated>2023-11-23T13:14:28.761Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62672point (33%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62684point (34%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임 더 챌린지 썩토에 팝콘도 엎어짐]]></title>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/91681567"/>
         <updated>2023-11-23T11:09:37.503Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4004016point (0%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시보는, '듄'을 IMAX로 봐야 하는 이유]]></title>
+        <id>https://extmovie.com/bestboard/91681447</id>
+        <link href="https://extmovie.com/bestboard/91681447"/>
+        <updated>2023-11-23T17:10:22.804Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4227713point (45%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['나폴레옹' 로튼 첫 관객스코어]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91679408"/>
         <updated>2023-11-23T01:53:22.859Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23369point (11%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년에 공개되는 히어로물 리스트]]></title>
-        <id>https://extmovie.com/bestboard/91679321</id>
-        <link href="https://extmovie.com/bestboard/91679321"/>
-        <updated>2023-11-22T20:11:48.067Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:42point (10%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드래곤]]></content>
     </entry>
 </feed>

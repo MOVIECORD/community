@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-24T17:10:15.270Z</updated>
+    <updated>2023-11-24T18:13:45.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-24T17:10:07.537Z</updated>
+        <updated>2023-11-24T18:13:37.884Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신울트라맨] 반가운 특촬물 (스포 X)]]></title>
+        <id>https://extmovie.com/movietalk/91688061?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91688061?category=61633579"/>
+        <updated>2023-11-24T18:13:38.053Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7456point (9%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<엘 마리아치>를 보고 나서 (스포 O)]]></title>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/91683736?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91683736?category=61633579"/>
         <updated>2023-11-23T16:14:27.023Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15512point (12%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15514point (12%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조디악 [왕 스포.231116]]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91665506?category=61633579"/>
         <updated>2023-11-18T03:11:53.114Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:655point (55%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우르르차차]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오펜하이머 [왕 스포.231110]]]></title>
-        <id>https://extmovie.com/movietalk/91664649?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91664649?category=61633579"/>
-        <updated>2023-11-17T16:15:54.205Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13300point (15%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

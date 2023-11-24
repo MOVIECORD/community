@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-24T17:10:15.273Z</updated>
+    <updated>2023-11-24T18:13:45.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1329425point (29%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CGV 필름마크 No.152 겨울왕국1,2]]></title>
+        <id>https://extmovie.com/bestboard/91685835</id>
+        <link href="https://extmovie.com/bestboard/91685835"/>
+        <updated>2023-11-24T18:13:29.822Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:115420point (52%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<괴물> CGV TTT 실물 사진 공개]]></title>
         <id>https://extmovie.com/bestboard/91685749</id>
         <link href="https://extmovie.com/bestboard/91685749"/>
@@ -158,6 +165,13 @@
         <link href="https://extmovie.com/bestboard/91685320"/>
         <updated>2023-11-24T07:11:00.940Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1329425point (29%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고윤정 최근 렌즈 광고]]></title>
+        <id>https://extmovie.com/bestboard/91685293</id>
+        <link href="https://extmovie.com/bestboard/91685293"/>
+        <updated>2023-11-24T18:13:29.839Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4228981point (45%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<다크 나이트 라이즈> 배트맨의 마지막 행동은 폭탄 처리반의 귀감?]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91684632"/>
         <updated>2023-11-24T16:14:34.950Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62871point (43%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승완 감독 "'베테랑2', 내년 겨울 개봉…정해인 멋있...]]></title>
-        <id>https://extmovie.com/bestboard/91684512</id>
-        <link href="https://extmovie.com/bestboard/91684512"/>
-        <updated>2023-11-24T01:51:19.021Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:508795point (43%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벼랑 끝 롯데시네마 영화관 확 줄인다]]></title>
-        <id>https://extmovie.com/bestboard/91684501</id>
-        <link href="https://extmovie.com/bestboard/91684501"/>
-        <updated>2023-11-24T08:14:17.144Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1334110point (34%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

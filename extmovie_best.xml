@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-25T17:09:51.792Z</updated>
+    <updated>2023-11-25T18:13:34.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91690511"/>
         <updated>2023-11-25T17:09:36.019Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:509246point (46%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나혼자 산다는 사실상 기안84가 살리고 있다고 해도 과언이 아니에요]]></title>
+        <id>https://extmovie.com/bestboard/91690456</id>
+        <link href="https://extmovie.com/bestboard/91690456"/>
+        <updated>2023-11-25T18:13:19.610Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15814point (24%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">토루크막토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<서울의 봄> 오늘 무대인사 사진 공개]]></title>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/bestboard/91689536</id>
         <link href="https://extmovie.com/bestboard/91689536"/>
         <updated>2023-11-25T11:08:55.608Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95218point (80%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95221point (80%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해리포터 팬이라는 중딩 조카에게 실망]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91688072"/>
         <updated>2023-11-25T01:47:49.314Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4625point (15%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pissx]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울의봄 역사속에 아수라장]]></title>
-        <id>https://extmovie.com/bestboard/91688050</id>
-        <link href="https://extmovie.com/bestboard/91688050"/>
-        <updated>2023-11-25T08:12:48.996Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35032point (72%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
 </feed>

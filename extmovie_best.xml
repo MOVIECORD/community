@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-11-26T18:13:19.306Z</updated>
+    <updated>2023-11-26T19:08:59.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올빼미와 비교해 보는 서울의 봄 관객수(5일차)]]></title>
+        <id>https://extmovie.com/bestboard/91693639</id>
+        <link href="https://extmovie.com/bestboard/91693639"/>
+        <updated>2023-11-26T19:08:43.971Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4715point (22%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 11월 26일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/91693627</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91690918"/>
         <updated>2023-11-26T13:12:28.273Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2911point (66%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 인기글 추천들 대부분 '서울의 봄']]></title>
-        <id>https://extmovie.com/bestboard/91690794</id>
-        <link href="https://extmovie.com/bestboard/91690794"/>
-        <updated>2023-11-26T00:54:43.972Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4005196point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-26T19:08:59.108Z</updated>
+    <updated>2023-11-26T20:11:31.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[올빼미와 비교해 보는 서울의 봄 관객수(5일차) (익스트림무비 ─ 익무힛갤)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://extmovie.com/bestboard/91693319"/>
         <updated>2023-11-26T14:09:38.436Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:509975point (49%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미즈마블, 문나이트 , 쉬헐크 시즌2 제작예정이네요 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91693288</id>
+        <link href="https://extmovie.com/bestboard/91693288"/>
+        <updated>2023-11-26T20:11:15.192Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7142point (90%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돈~데크만]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“이선균은 자작극, 지디는 자랑질”…경찰, 女실장의 말만 믿었나 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -243,17 +250,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55595point (55%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영화 '서울의 봄' 리뷰-1979년 12월 12일, 그날의 9시간을 쫓다 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91690918</id>
-        <link href="https://extmovie.com/bestboard/91690918"/>
-        <updated>2023-11-26T13:12:28.273Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2911point (66%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-11-26T19:08:47.504Z</updated>
+        <updated>2023-11-26T20:11:19.995Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -505,7 +505,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-11-26T19:08:51.158Z</updated>
+        <updated>2023-11-26T20:11:24.170Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-11-26T19:08:54.433Z</updated>
+        <updated>2023-11-26T20:11:27.951Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

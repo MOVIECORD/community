@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-27T18:14:36.811Z</updated>
+    <updated>2023-11-27T19:09:31.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023년 11월 27일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91697297</id>
+        <link href="https://extmovie.com/bestboard/91697297"/>
+        <updated>2023-11-27T19:09:16.081Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4005594point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국 스크린데일리 "서울의 봄 덕분에 한국 극장가 호조" (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/91696958</id>
@@ -243,18 +250,39 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:119999point (74%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영화 서울의봄 주인공 수경사 장태완장군의 굴곡진 가족사. (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91693971</id>
-        <link href="https://extmovie.com/bestboard/91693971"/>
-        <updated>2023-11-27T13:15:13.146Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34950point (70%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-11-27T18:14:22.894Z</updated>
+        <updated>2023-11-27T19:09:20.046Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아쿠아맨과 로스트킹덤‘ 국내 개봉일 확정 (익스트림무비 ─ 영화정보)]]></title>
+        <id>https://extmovie.com/movietalk/91697453?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91697453?category=21915420"/>
+        <updated>2023-11-27T19:09:20.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33939point (41%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요르고스 란티모스 ‘가여운 것들‘ 국내 등급 심의 접수 (익스트림무비 ─ 영화정보)]]></title>
+        <id>https://extmovie.com/movietalk/91697451?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91697451?category=21915420"/>
+        <updated>2023-11-27T19:09:20.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33939point (41%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 스크린데일리 "[서울의 봄] 덕분에 한국 극장가 ... (익스트림무비 ─ 영화정보)]]></title>
+        <id>https://extmovie.com/movietalk/91697449?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91697449?category=21915420"/>
+        <updated>2023-11-27T19:09:20.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33939point (41%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 영화 '안데스 설원의 생존자들' 국내 극... (익스트림무비 ─ 영화정보)]]></title>
+        <id>https://extmovie.com/movietalk/91697447?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91697447?category=21915420"/>
+        <updated>2023-11-27T19:09:20.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33939point (41%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">지빠겐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<안데스 설원의 생존자들> 공식 예고편 | 넷플릭스 (익스트림무비 ─ 영화정보)]]></title>
@@ -474,38 +502,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4230785point (46%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[존 윅과 윈스턴은 장인-사위 관계? 채드 스타헬스키 감독, ... (익스트림무비 ─ 영화정보)]]></title>
-        <id>https://extmovie.com/movietalk/91694666?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91694666?category=21915420"/>
-        <updated>2023-11-27T01:54:16.396Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1330369point (30%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월요일 아자아자 화이팅!! 오늘의 쿠폰소식은 셋!! (익스트림무비 ─ 영화정보)]]></title>
-        <id>https://extmovie.com/movietalk/91694642?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91694642?category=21915420"/>
-        <updated>2023-11-27T01:54:16.397Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6623point (56%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<트롤 밴드 투게더> 스틸 공개 (익스트림무비 ─ 영화정보)]]></title>
-        <id>https://extmovie.com/movietalk/91694510?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91694510?category=21915420"/>
-        <updated>2023-11-27T00:52:23.672Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:119999point (74%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔트번' 비하인드 신들 - 제이콥 엘로디, 배리 ... (익스트림무비 ─ 영화정보)]]></title>
-        <id>https://extmovie.com/movietalk/91694457?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91694457?category=21915420"/>
-        <updated>2023-11-27T00:52:23.673Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4230785point (46%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-11-27T18:14:26.526Z</updated>
+        <updated>2023-11-27T19:09:24.216Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2023-11-27T18:14:29.819Z</updated>
+        <updated>2023-11-27T19:09:27.808Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

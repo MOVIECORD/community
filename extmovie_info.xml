@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2023-11-29T19:09:45.084Z</updated>
+    <updated>2023-11-29T20:12:13.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/21915420</id>
         <link href="https://extmovie.com/movietalk/category/21915420"/>
-        <updated>2023-11-29T19:09:33.289Z</updated>
+        <updated>2023-11-29T20:12:01.403Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퀸 몬트리올 공연 아이맥스]]></title>
+        <id>https://extmovie.com/movietalk/91705419?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91705419?category=21915420"/>
+        <updated>2023-11-29T20:12:01.608Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:674point (59%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">크리스찬베일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[나이트 스윔] 공식 예고편 2]]></title>
@@ -248,13 +255,6 @@
         <id>https://extmovie.com/movietalk/91702872?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91702872?category=21915420"/>
         <updated>2023-11-29T04:13:56.545Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:510856point (54%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울의 봄] 예매 관객수 30만 또 돌파]]></title>
-        <id>https://extmovie.com/movietalk/91702818?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91702818?category=21915420"/>
-        <updated>2023-11-29T04:13:56.546Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:510856point (54%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

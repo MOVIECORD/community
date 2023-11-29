@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-11-29T13:15:23.764Z</updated>
+    <updated>2023-11-29T14:11:05.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2023-11-29T13:15:15.790Z</updated>
+        <updated>2023-11-29T14:10:57.707Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=679"><img src="https://img.extmovie.com/files/attach/images/49910895/660/618/091/a332069944107ed8a9ecb047a64cb03f.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[괴물 메박 포스터 인증 노스포 후기]]></title>
+        <id>https://extmovie.com/movietalk/91704951?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91704951?category=61633579"/>
+        <updated>2023-11-29T14:10:57.864Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:184point (46%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">상업영화]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[서울의 봄] 두려움은 무지함에 어떻게 굴복하게 되었는가 (...]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/91699005?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91699005?category=61633579"/>
         <updated>2023-11-28T07:10:51.805Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1330931point (30%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1330933point (30%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<사채소년> 후기]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/91687219?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91687219?category=61633579"/>
         <updated>2023-11-24T13:13:46.527Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1330931point (30%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1330933point (30%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고급리뷰] 강스포) 헝거게임 (★★★) "공허한 노랫소리...]]></title>
@@ -248,13 +255,6 @@
         <id>https://extmovie.com/movietalk/91682538?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91682538?category=61633579"/>
         <updated>2023-11-23T14:10:53.071Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1429point (41%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알로이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<서울의 봄> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/91682442?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91682442?category=61633579"/>
-        <updated>2023-11-23T14:10:53.071Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1330931point (30%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1430point (41%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알로이]]></content>
     </entry>
 </feed>

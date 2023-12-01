@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-01T19:09:41.061Z</updated>
+    <updated>2023-12-01T20:12:28.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 12월 1일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://extmovie.com/bestboard/91712253"/>
         <updated>2023-12-01T14:11:07.477Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9156point (8%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">IMAX익무]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 1주보다 강한 2주차, 주말 성적이 기대되는 이유 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91712255</id>
+        <link href="https://extmovie.com/bestboard/91712255"/>
+        <updated>2023-12-01T20:12:12.424Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:511568point (57%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유아인 ‘승부’, 갈 곳 잃나…넷플릭스·배급사 “잠정 보류” (익스트림무비 ─ 익무힛갤)]]></title>
@@ -240,13 +247,6 @@
         <id>https://extmovie.com/bestboard/91708865</id>
         <link href="https://extmovie.com/bestboard/91708865"/>
         <updated>2023-12-01T12:21:11.863Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007472point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 11월 30일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91708841</id>
-        <link href="https://extmovie.com/bestboard/91708841"/>
-        <updated>2023-11-30T19:08:20.665Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4007472point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>

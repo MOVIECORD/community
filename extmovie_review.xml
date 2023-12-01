@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-01T13:15:12.980Z</updated>
+    <updated>2023-12-01T14:11:23.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포 유) <괴물> 봤어요]]></title>
+        <id>https://extmovie.com/movietalk/91712402?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91712402?category=61633579"/>
+        <updated>2023-12-01T14:11:15.919Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1331363point (31%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하트 오브 스톤 [왕 스포.231123]]]></title>
         <id>https://extmovie.com/movietalk/91708887?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/91699005?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91699005?category=61633579"/>
         <updated>2023-11-28T07:10:51.805Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1331327point (31%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1331363point (31%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<사채소년> 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91687490?category=61633579"/>
         <updated>2023-11-24T14:10:43.519Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1196point (96%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인도 판타지 호러 <불불>]]></title>
-        <id>https://extmovie.com/movietalk/91687219?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91687219?category=61633579"/>
-        <updated>2023-11-24T13:13:46.527Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1331327point (31%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-02T21:09:43.475Z</updated>
+    <updated>2023-12-02T22:10:26.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[서울의 봄 오늘 최고 스코어 기록 찍었네요 ㄷㄷㄷ (익스트림무비 ─ 익무힛갤)]]></title>
@@ -166,6 +166,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4181point (80%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로디]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[서울의 봄 오늘 관객 얼마나 예상하시나요 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91713495</id>
+        <link href="https://extmovie.com/bestboard/91713495"/>
+        <updated>2023-12-02T22:10:09.457Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1370point (30%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">편의점박사]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[탐 크루즈 ‘미션 임파서블 8’ 촬영현장 최근 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/91713464</id>
         <link href="https://extmovie.com/bestboard/91713464"/>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/91712474"/>
         <updated>2023-12-01T17:11:01.866Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13653point (30%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">납득이안가요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 영화 괴물 vs 일본 영화 괴물 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91712456</id>
-        <link href="https://extmovie.com/bestboard/91712456"/>
-        <updated>2023-12-02T20:11:07.087Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:718point (69%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Gansunghun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비욘세 ‘르네상스’ 시네마스코어 A+ / 오프닝 2천만달러로 ... (익스트림무비 ─ 영화정보)]]></title>

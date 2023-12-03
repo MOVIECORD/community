@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-03T19:10:14.762Z</updated>
+    <updated>2023-12-03T20:18:13.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 12월 3일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -94,6 +94,13 @@
         <link href="https://extmovie.com/bestboard/91717321"/>
         <updated>2023-12-03T11:08:55.028Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1331997point (31%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LA 코믹콘 스칼렛위치 코스플레이 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91717297</id>
+        <link href="https://extmovie.com/bestboard/91717297"/>
+        <updated>2023-12-03T20:17:57.903Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4237868point (47%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<인터스텔라> 놀란이 영화 규칙을 어기면서까지 완성하고 싶었던... (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/91715783"/>
         <updated>2023-12-02T17:10:02.607Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63561point (78%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 12월 2일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91715697</id>
-        <link href="https://extmovie.com/bestboard/91715697"/>
-        <updated>2023-12-02T16:14:34.641Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4008050point (1%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 12월 3일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

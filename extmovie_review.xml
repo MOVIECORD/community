@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-05T11:10:15.248Z</updated>
+    <updated>2023-12-05T12:21:24.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[치즈 생각 밖에 안 나는 B급 복수극 <매드 하이디>]]></title>
+        <id>https://extmovie.com/movietalk/91724874?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91724874?category=61633579"/>
+        <updated>2023-12-05T12:21:16.424Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48559point (6%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방랑기 (1962) 한 여류작가의 기나긴 고행의 삶. 스포일러 ...]]></title>
         <id>https://extmovie.com/movietalk/91722744?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/91712402?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91712402?category=61633579"/>
         <updated>2023-12-01T14:11:15.919Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332593point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332609point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하트 오브 스톤 [왕 스포.231123]]]></title>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/91707502?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91707502?category=61633579"/>
         <updated>2023-11-30T09:11:27.970Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48539point (6%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48559point (6%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고레에다 감독 영화 괴물 후기(노스포)]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/91699005?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91699005?category=61633579"/>
         <updated>2023-11-28T07:10:51.805Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332593point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332609point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<사채소년> 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91697341?category=61633579"/>
         <updated>2023-11-27T16:14:49.204Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13362point (17%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울의 봄을 보고]]></title>
-        <id>https://extmovie.com/movietalk/91697286?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91697286?category=61633579"/>
-        <updated>2023-11-27T15:12:17.465Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14731point (78%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
     </entry>
 </feed>

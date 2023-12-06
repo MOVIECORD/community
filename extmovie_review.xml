@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-06T04:14:14.787Z</updated>
+    <updated>2023-12-06T05:11:39.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나폴레옹 후기]]></title>
+        <id>https://extmovie.com/movietalk/91727133?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91727133?category=61633579"/>
+        <updated>2023-12-06T05:11:31.393Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28893point (91%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <신울트라맨> 스포있는 후기]]></title>
         <id>https://extmovie.com/movietalk/91726715?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/91712402?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91712402?category=61633579"/>
         <updated>2023-12-01T14:11:15.919Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332667point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332680point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하트 오브 스톤 [왕 스포.231123]]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/91699005?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91699005?category=61633579"/>
         <updated>2023-11-28T07:10:51.805Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332667point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사채소년> 후기]]></title>
-        <id>https://extmovie.com/movietalk/91698984?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91698984?category=61633579"/>
-        <updated>2023-11-28T06:15:05.230Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:848point (97%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1332680point (32%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-06T17:11:05.203Z</updated>
+    <updated>2023-12-06T18:15:27.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[3일의 휴가 리뷰] '기억'의 의미를 되새긴 영화]]></title>
+        <id>https://extmovie.com/movietalk/91729262?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91729262?category=61633579"/>
+        <updated>2023-12-06T18:15:19.716Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1045point (52%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고급리뷰] 나폴레옹 (★★★☆) "길 잃은 서사시를 쫓아가...]]></title>
         <id>https://extmovie.com/movietalk/91729210?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/91727133?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91727133?category=61633579"/>
         <updated>2023-12-06T05:11:31.393Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28961point (93%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28963point (93%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <신울트라맨> 스포있는 후기]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/91705254?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91705254?category=61633579"/>
         <updated>2023-11-29T15:12:13.150Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1033point (49%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1045point (52%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[괴물 메박 포스터 인증 노스포 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91700211?category=61633579"/>
         <updated>2023-11-28T13:14:05.992Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40112point (10%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">처니리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마에스트로 번스타인 시사후기-]]></title>
-        <id>https://extmovie.com/movietalk/91699644?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91699644?category=61633579"/>
-        <updated>2023-11-28T09:12:00.294Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1291point (15%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">칠리]]></content>
     </entry>
 </feed>

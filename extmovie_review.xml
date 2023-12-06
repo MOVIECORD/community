@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-06T00:52:58.316Z</updated>
+    <updated>2023-12-06T01:54:56.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <신울트라맨> 스포있는 후기]]></title>
+        <id>https://extmovie.com/movietalk/91726715?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91726715?category=61633579"/>
+        <updated>2023-12-06T01:54:48.711Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1133point (78%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파동작가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리가 샐리를 만났을 때 (1989) 로맨틱코메디는 여기서 시...]]></title>
         <id>https://extmovie.com/movietalk/91700987?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91698984?category=61633579"/>
         <updated>2023-11-28T06:15:05.230Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:846point (96%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀수 (2023) 재기가 사라진 자리...... 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/91502902?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91502902?category=61633579"/>
-        <updated>2023-11-28T04:13:56.716Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30871point (51%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

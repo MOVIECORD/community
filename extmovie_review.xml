@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-08T11:10:19.769Z</updated>
+    <updated>2023-12-08T12:21:33.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(※사진 혐주의) 스웨덴 넷플릭스 호러 <더 컨퍼런스>]]></title>
+        <id>https://extmovie.com/movietalk/91735259?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91735259?category=61633579"/>
+        <updated>2023-12-08T12:21:25.968Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1333351point (33%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포O <괴물> 후기]]></title>
         <id>https://extmovie.com/movietalk/91734879?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/91727133?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91727133?category=61633579"/>
         <updated>2023-12-06T05:11:31.393Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29161point (0%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29185point (0%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <신울트라맨> 스포있는 후기]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/91712402?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91712402?category=61633579"/>
         <updated>2023-12-01T14:11:15.919Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1333294point (33%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1333351point (33%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하트 오브 스톤 [왕 스포.231123]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91704120?category=61633579"/>
         <updated>2023-11-29T09:11:46.295Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3913point (57%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">범블러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사형에 이르는 병] 소름끼침이 유지되는 영화 (스포 X)]]></title>
-        <id>https://extmovie.com/movietalk/91700855?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91700855?category=61633579"/>
-        <updated>2023-11-28T18:15:01.747Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7988point (40%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

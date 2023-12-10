@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-10T17:09:53.589Z</updated>
+    <updated>2023-12-10T18:14:01.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[괴물: 넘어선 안될 선을 넘은 소아성애 BL물]]></title>
+        <id>https://extmovie.com/movietalk/91741714?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91741714?category=61633579"/>
+        <updated>2023-12-10T18:13:53.416Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2304point (5%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Blackiceberg]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 영화관에서 본 영화 주관적 top 10 (짧은 감상평)]]></title>
         <id>https://extmovie.com/movietalk/91739326?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91707502?category=61633579"/>
         <updated>2023-11-30T09:11:27.970Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48671point (7%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고레에다 감독 영화 괴물 후기(노스포)]]></title>
-        <id>https://extmovie.com/movietalk/91706408?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91706408?category=61633579"/>
-        <updated>2023-11-30T03:11:59.923Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:897point (10%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Glasto1723]]></content>
     </entry>
 </feed>

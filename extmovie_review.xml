@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-11T21:10:58.503Z</updated>
+    <updated>2023-12-11T22:11:10.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[1. <북촌방향> - 홍상수(1) : 북촌 골목길을 헤매는 롤라]]></title>
-        <id>https://extmovie.com/movietalk/91745096?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91745096?category=61633579"/>
-        <updated>2023-12-11T19:09:54.483Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:12point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJD]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[강자아 [2020.왕 스포.231204]]]></title>
         <id>https://extmovie.com/movietalk/91744948?category=61633579</id>
@@ -249,5 +242,12 @@
         <link href="https://extmovie.com/movietalk/91712877?category=61633579"/>
         <updated>2023-12-01T17:11:09.670Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117564point (62%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비팬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼펙트 케어 [왕 스포.231124]]]></title>
+        <id>https://extmovie.com/movietalk/91712800?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91712800?category=61633579"/>
+        <updated>2023-12-11T22:11:02.589Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13592point (28%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

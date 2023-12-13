@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-13T19:09:58.178Z</updated>
+    <updated>2023-12-13T20:12:16.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -52,6 +52,13 @@
         <id>https://extmovie.com/bestboard/91750760</id>
         <link href="https://extmovie.com/bestboard/91750760"/>
         <updated>2023-12-13T12:21:17.630Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4012524point (2%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['브룩클린 9-9' 배우 앤드리 브라우어 부고 기사 번역]]></title>
+        <id>https://extmovie.com/bestboard/91750465</id>
+        <link href="https://extmovie.com/bestboard/91750465"/>
+        <updated>2023-12-13T20:12:00.941Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4012524point (2%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/91749673</id>
         <link href="https://extmovie.com/bestboard/91749673"/>
         <updated>2023-12-13T07:10:42.541Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5894point (8%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">80&amp;#039;s]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5896point (8%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">80&amp;#039;s]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딸이 사라졌다...이시하라 사토미, 절망의 늪에 빠진 <미씽> 티...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91748635"/>
         <updated>2023-12-13T05:11:27.587Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/41.gif" alt="[레벨:41]" title="포인트:313936point (26%), 레벨:41/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] 미스 홍콩 출신 중국배우 주해미, 지병으로 12월 11일 별세]]></title>
-        <id>https://extmovie.com/bestboard/91748463</id>
-        <link href="https://extmovie.com/bestboard/91748463"/>
-        <updated>2023-12-13T01:55:06.899Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:161060point (3%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
 </feed>

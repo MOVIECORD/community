@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-14T21:10:29.854Z</updated>
+    <updated>2023-12-14T22:11:22.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/91755484"/>
         <updated>2023-12-14T18:14:54.247Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10106point (58%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오오옹이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['콘크리트 유토피아' 일본 홍보사의 귀여운 실수]]></title>
+        <id>https://extmovie.com/bestboard/91755424</id>
+        <link href="https://extmovie.com/bestboard/91755424"/>
+        <updated>2023-12-14T22:11:06.346Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4013070point (2%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노량 시사회 후기]]></title>
@@ -81,6 +88,13 @@
         <link href="https://extmovie.com/bestboard/91754280"/>
         <updated>2023-12-14T12:20:41.709Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4013070point (2%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGV 아쿠아맨 ㅡ 로스트 킹덤 IMAX 한정판 포스터증정  이벤트]]></title>
+        <id>https://extmovie.com/bestboard/91754118</id>
+        <link href="https://extmovie.com/bestboard/91754118"/>
+        <updated>2023-12-14T22:11:06.354Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:116779point (58%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['Wonka'에 대한 단상]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91752562"/>
         <updated>2023-12-14T03:12:46.354Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:515801point (79%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이시영 "나 남자였네.."]]></title>
-        <id>https://extmovie.com/bestboard/91752544</id>
-        <link href="https://extmovie.com/bestboard/91752544"/>
-        <updated>2023-12-14T06:15:29.337Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4253402point (50%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '경성크리처' 캐릭터 포스터]]></title>
-        <id>https://extmovie.com/bestboard/91752428</id>
-        <link href="https://extmovie.com/bestboard/91752428"/>
-        <updated>2023-12-14T16:13:02.426Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4253402point (50%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

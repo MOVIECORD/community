@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-14T02:24:44.083Z</updated>
+    <updated>2023-12-14T03:13:01.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<더 커버넌트>를 보고 나서 (스포 O) - 기내에서]]></title>
+        <id>https://extmovie.com/movietalk/91753222?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91753222?category=61633579"/>
+        <updated>2023-12-14T03:12:53.749Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2573point (32%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <밀수> 리뷰]]></title>
         <id>https://extmovie.com/movietalk/91753079?category=61633579</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/91741714?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91741714?category=61633579"/>
         <updated>2023-12-10T18:13:53.416Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2315point (6%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Blackiceberg]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2317point (6%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Blackiceberg]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 영화관에서 본 영화 주관적 top 10 (짧은 감상평)]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/91731822?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91731822?category=61633579"/>
         <updated>2023-12-07T12:21:43.817Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124581point (97%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:124599point (97%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베라 크루즈 (1954) 후대에 엄청난 영향을 끼친 서부영화의 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91726715?category=61633579"/>
         <updated>2023-12-06T01:54:48.711Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1148point (82%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">파동작가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해리가 샐리를 만났을 때 (1989) 로맨틱코메디는 여기서 시...]]></title>
-        <id>https://extmovie.com/movietalk/91700987?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91700987?category=61633579"/>
-        <updated>2023-12-05T16:15:21.513Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31220point (61%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-15T20:12:27.165Z</updated>
+    <updated>2023-12-15T21:10:22.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/91759239"/>
         <updated>2023-12-15T15:11:35.253Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64220point (3%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">킹치만귀여운걸]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천만 앞둔 '서울의 봄'이 보여준 극장 부활 방법...해답은 결국]]></title>
+        <id>https://extmovie.com/bestboard/91759234</id>
+        <link href="https://extmovie.com/bestboard/91759234"/>
+        <updated>2023-12-15T21:10:07.635Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:515929point (79%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 대만 영화 블로거 리뷰 - 올해 최고의 한국영화]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91756590"/>
         <updated>2023-12-15T11:09:53.559Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4254711point (50%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 영화 관객들이 뽑은 내년 기대작 TOP 10]]></title>
-        <id>https://extmovie.com/bestboard/91756584</id>
-        <link href="https://extmovie.com/bestboard/91756584"/>
-        <updated>2023-12-15T02:26:28.885Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:515929point (79%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

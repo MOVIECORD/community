@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-19T16:13:30.444Z</updated>
+    <updated>2023-12-19T17:09:14.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 19일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91772392</id>
+        <link href="https://extmovie.com/bestboard/91772392"/>
+        <updated>2023-12-19T17:08:56.366Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4015060point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아쿠아맨 2 봤다 요 요 요]]></title>
         <id>https://extmovie.com/bestboard/91772083</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91769624"/>
         <updated>2023-12-19T06:14:56.716Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1336509point (36%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[900만이 본 서울의 봄, 범죄도시3 깨고 올해 최장기간 1위 신기록]]></title>
-        <id>https://extmovie.com/bestboard/91769610</id>
-        <link href="https://extmovie.com/bestboard/91769610"/>
-        <updated>2023-12-19T12:20:55.853Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:517370point (86%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

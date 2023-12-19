@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-19T09:11:50.113Z</updated>
+    <updated>2023-12-19T10:12:26.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노량 아이맥스 상영회 보고왔습니다]]></title>
+        <id>https://extmovie.com/movietalk/91771456?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91771456?category=61633579"/>
+        <updated>2023-12-19T10:12:19.154Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:40point (10%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화10도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<씬 레드 라인>을 보고 나서 (스포 X)]]></title>
         <id>https://extmovie.com/movietalk/91771117?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/91768446?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91768446?category=61633579"/>
         <updated>2023-12-18T11:10:52.530Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:27point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화10도]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:40point (10%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화10도]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<굿모닝 베트남>을 보고 나서 (스포 O)]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/91759823?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91759823?category=61633579"/>
         <updated>2023-12-15T15:11:43.562Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1336432point (36%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1336448point (36%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<씨 하우 데이 런>을 보고 나서 (스포 X)]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/91758366?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91758366?category=61633579"/>
         <updated>2023-12-15T08:15:29.105Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4259092point (51%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4259110point (51%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[약스포][노 엑시트] 컨셉만으로 밀고 나가긴 민망했던 걸까?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91753222?category=61633579"/>
         <updated>2023-12-14T03:12:53.749Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3301point (5%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <밀수> 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91753079?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91753079?category=61633579"/>
-        <updated>2023-12-14T02:24:33.999Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:770point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우르르차차]]></content>
     </entry>
 </feed>

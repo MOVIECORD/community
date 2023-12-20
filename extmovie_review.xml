@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-20T10:10:34.185Z</updated>
+    <updated>2023-12-20T11:08:29.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고급리뷰] 노스포) 노량: 죽음의 바다 (★★★)]]></title>
+        <id>https://extmovie.com/movietalk/91775407?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91775407?category=61633579"/>
+        <updated>2023-12-20T11:08:21.386Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9795point (42%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(약스포?) <노량: 죽음의 바다>, 명량과 한산 그 사이...]]></title>
         <id>https://extmovie.com/movietalk/91774918?category=61633579</id>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/91767855?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91767855?category=61633579"/>
         <updated>2023-12-18T07:11:06.162Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:46point (11%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네멋대로해라]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:58point (14%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네멋대로해라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<파퍼씨네 펭귄들>을 보고 나서 (스포 O)]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/91758956?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91758956?category=61633579"/>
         <updated>2023-12-15T10:13:01.014Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11731point (40%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11733point (40%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울의봄 뒤늦게 봤습니다]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/91758366?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91758366?category=61633579"/>
         <updated>2023-12-15T08:15:29.105Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4260374point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4260380point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[약스포][노 엑시트] 컨셉만으로 밀고 나가긴 민망했던 걸까?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91756023?category=61633579"/>
         <updated>2023-12-14T15:12:36.616Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13659point (31%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏘우X 간단 후기]]></title>
-        <id>https://extmovie.com/movietalk/91754901?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91754901?category=61633579"/>
-        <updated>2023-12-14T11:10:40.779Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5824point (4%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

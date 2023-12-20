@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-20T19:08:11.948Z</updated>
+    <updated>2023-12-20T20:12:15.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노량 해상 전투씬 좋네요 스포있음]]></title>
+        <id>https://extmovie.com/movietalk/91776766?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91776766?category=61633579"/>
+        <updated>2023-12-20T20:12:08.354Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:425292point (26%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<아쿠아맨과 로스트 킹덤>, 제임스 완에게 무슨 일이]]></title>
         <id>https://extmovie.com/movietalk/91776649?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/91776701?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91776701?category=61633579"/>
         <updated>2023-12-20T17:10:25.887Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1202point (97%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1204point (98%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백사2 - 청사의 시련 [2021.왕 스포.231214]]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/91775732?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91775732?category=61633579"/>
         <updated>2023-12-20T13:11:01.560Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:330point (82%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포실]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:332point (83%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고급리뷰] 노스포) 노량: 죽음의 바다 (★★★)]]></title>
@@ -115,7 +122,7 @@
         <id>https://extmovie.com/movietalk/91769129?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91769129?category=61633579"/>
         <updated>2023-12-18T16:14:44.992Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1202point (97%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1204point (98%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당인가탐안 3 밀실 살인사건 [2020.왕 스포.231212]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91759149?category=61633579"/>
         <updated>2023-12-15T11:10:01.564Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:630point (50%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">코막혀요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위시 일본 관객 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91758956?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91758956?category=61633579"/>
-        <updated>2023-12-15T10:13:01.014Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11747point (41%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
 </feed>

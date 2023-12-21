@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-21T06:14:59.366Z</updated>
+    <updated>2023-12-21T07:11:20.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주제는 좋으나…<위시>]]></title>
+        <id>https://extmovie.com/movietalk/91778810?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91778810?category=61633579"/>
+        <updated>2023-12-21T07:11:12.840Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:49500point (13%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bulitt (1968) 스티브 맥퀸 - king of cool 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/91102157?category=61633579</id>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/91772709?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91772709?category=61633579"/>
         <updated>2023-12-20T00:41:52.628Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:49484point (13%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:49500point (13%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백사 인연의 시작 [2019.왕 스포.231213]]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/91763340?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91763340?category=61633579"/>
         <updated>2023-12-16T19:08:59.376Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9005point (0%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9017point (0%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<거미집>을 보고 나서 (스포 X)]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/91762436?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91762436?category=61633579"/>
         <updated>2023-12-16T13:12:03.560Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5833point (4%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5836point (4%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듄 용아맥 간단후기, 질문]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91761612?category=61633579"/>
         <updated>2023-12-16T06:14:44.080Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:455point (11%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">josu0923]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당인가탐안 2 [2018.왕 스포.231208]]]></title>
-        <id>https://extmovie.com/movietalk/91759977?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91759977?category=61633579"/>
-        <updated>2023-12-15T15:11:43.562Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13669point (31%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-21T12:20:22.995Z</updated>
+    <updated>2023-12-21T13:14:16.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 아쿠아맨 봤어요]]></title>
+        <id>https://extmovie.com/movietalk/91779968?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91779968?category=61633579"/>
+        <updated>2023-12-21T13:14:09.233Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1337097point (37%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<그리스>를 보고 나서 (스포 X)]]></title>
         <id>https://extmovie.com/movietalk/91779715?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/91776149?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91776149?category=61633579"/>
         <updated>2023-12-20T15:10:30.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1337027point (37%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1337097point (37%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<폭풍의 질주>를 보고 나서 (스포 O) - 2100편째 영화]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91762743?category=61633579"/>
         <updated>2023-12-16T14:10:32.180Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3755point (44%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄 용아맥 간단 후기]]></title>
-        <id>https://extmovie.com/movietalk/91762436?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91762436?category=61633579"/>
-        <updated>2023-12-16T13:12:03.560Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5836point (4%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

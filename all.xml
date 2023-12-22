@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-22T18:14:25.198Z</updated>
+    <updated>2023-12-22T19:09:55.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 12월 22일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://extmovie.com/bestboard/91783897"/>
         <updated>2023-12-22T16:13:37.146Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4016578point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<원피스> 리메이크 애니메이션 결정의 배경, “성공하면 다음엔 &... (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91783867</id>
+        <link href="https://extmovie.com/bestboard/91783867"/>
+        <updated>2023-12-22T19:09:40.205Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1337535point (37%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠키 있다는거 모르고 나가는 분들이 많네요… (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/91781636"/>
         <updated>2023-12-22T15:11:06.262Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1226point (3%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아쿠아맨 2' 가디언지 혹평 살벌하네요. (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91781613</id>
-        <link href="https://extmovie.com/bestboard/91781613"/>
-        <updated>2023-12-22T04:13:36.028Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4016578point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘고질라 마이너스 원’ 뉴 어워드 포스터 (익스트림무비 ─ 영화정보)]]></title>
@@ -569,7 +569,7 @@
         <id>https://extmovie.com/movietalk/91102157?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91102157?category=61633579"/>
         <updated>2023-12-21T04:13:53.330Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31868point (81%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31892point (82%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<슬리피 할로우>를 보고 나서 (스포 X) (익스트림무비 ─ 영화리뷰)]]></title>

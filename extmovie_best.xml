@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-22T19:09:55.475Z</updated>
+    <updated>2023-12-22T20:12:22.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/91783811"/>
         <updated>2023-12-22T17:10:12.894Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34979point (70%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">HarrySon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스칼렛 요한슨,채닝 테이텀 [프로젝트 아르테미스] 내년 7월 개봉]]></title>
+        <id>https://extmovie.com/bestboard/91783752</id>
+        <link href="https://extmovie.com/bestboard/91783752"/>
+        <updated>2023-12-22T20:12:07.294Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:518721point (93%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[레벨 문: 파트 2 스카기버] 예고편 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91781637"/>
         <updated>2023-12-22T15:11:06.261Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27656point (52%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아쿠아맨과 로스트 킹덤 용아맥 후기]]></title>
-        <id>https://extmovie.com/bestboard/91781636</id>
-        <link href="https://extmovie.com/bestboard/91781636"/>
-        <updated>2023-12-22T15:11:06.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1226point (3%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
 </feed>

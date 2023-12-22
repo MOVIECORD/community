@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-22T19:09:55.461Z</updated>
+    <updated>2023-12-22T20:12:22.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대장부일기 (1988) 주윤발 두집살림 코메디. 스포일러 있음.]]></title>
+        <id>https://extmovie.com/movietalk/91784110?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91784110?category=61633579"/>
+        <updated>2023-12-22T20:12:15.146Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31928point (83%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<쥬랜더>를 보고 나서 (스포 O)]]></title>
         <id>https://extmovie.com/movietalk/91783799?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/91102157?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91102157?category=61633579"/>
         <updated>2023-12-21T04:13:53.330Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31892point (82%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31928point (83%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<슬리피 할로우>를 보고 나서 (스포 X)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91768426?category=61633579"/>
         <updated>2023-12-18T11:10:52.530Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3920point (58%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<노량> 솔직한 후기]]></title>
-        <id>https://extmovie.com/movietalk/91767855?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91767855?category=61633579"/>
-        <updated>2023-12-18T07:11:06.162Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:76point (19%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네멋대로해라]]></content>
     </entry>
 </feed>

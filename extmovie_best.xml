@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-25T05:12:31.166Z</updated>
+    <updated>2023-12-25T06:15:23.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,21 +10,42 @@
         <id>https://extmovie.com/bestboard/91790823</id>
         <link href="https://extmovie.com/bestboard/91790823"/>
         <updated>2023-12-25T05:12:15.620Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6489point (47%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6493point (47%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노량] [서울의 봄] 예매율 격차 4%]]></title>
+        <id>https://extmovie.com/bestboard/91790806</id>
+        <link href="https://extmovie.com/bestboard/91790806"/>
+        <updated>2023-12-25T06:15:08.345Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:519632point (98%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월드타워 롯시 미어티지네요]]></title>
+        <id>https://extmovie.com/bestboard/91790726</id>
+        <link href="https://extmovie.com/bestboard/91790726"/>
+        <updated>2023-12-25T06:15:08.345Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13477point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">돌비광]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남산의 부장들 극장에서 상영하는군요]]></title>
+        <id>https://extmovie.com/bestboard/91790562</id>
+        <link href="https://extmovie.com/bestboard/91790562"/>
+        <updated>2023-12-25T06:15:08.347Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2892point (64%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선댄스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해의 쌍천만 배우 두명]]></title>
         <id>https://extmovie.com/bestboard/91790523</id>
         <link href="https://extmovie.com/bestboard/91790523"/>
         <updated>2023-12-25T04:14:07.558Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66682point (45%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66695point (46%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['경성크리처' 해외 평가 근황]]></title>
         <id>https://extmovie.com/bestboard/91790451</id>
         <link href="https://extmovie.com/bestboard/91790451"/>
         <updated>2023-12-25T03:12:24.588Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017407point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017409point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘노량 : 죽음의 바다‘ 200만 돌파]]></title>
@@ -38,14 +59,14 @@
         <id>https://extmovie.com/bestboard/91790408</id>
         <link href="https://extmovie.com/bestboard/91790408"/>
         <updated>2023-12-25T03:12:24.589Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:128091point (20%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:128093point (20%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노량 그리고 서울의 봄 오늘도 이 둘이 100만 찍을 각이네요]]></title>
         <id>https://extmovie.com/bestboard/91790294</id>
         <link href="https://extmovie.com/bestboard/91790294"/>
         <updated>2023-12-25T05:12:15.629Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66682point (45%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66695point (46%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포없음]레벨 문 리뷰]]></title>
@@ -53,6 +74,20 @@
         <link href="https://extmovie.com/bestboard/91790127"/>
         <updated>2023-12-25T05:12:15.632Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1272point (11%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아쿠아맨 2] DCEU 사상 두번째로 낮은 북미 오프닝 기록]]></title>
+        <id>https://extmovie.com/bestboard/91790140</id>
+        <link href="https://extmovie.com/bestboard/91790140"/>
+        <updated>2023-12-25T06:15:08.354Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/52.gif" alt="[레벨:52]" title="포인트:519632point (98%), 레벨:52/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아쿠아맨과로스트킹덤 2주차 포스터증정 이벤트(롯데시네마)]]></title>
+        <id>https://extmovie.com/bestboard/91789889</id>
+        <link href="https://extmovie.com/bestboard/91789889"/>
+        <updated>2023-12-25T06:15:08.355Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36788point (21%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12/24 [주별흥행] 서울의 봄 vs. 23년 1위 vs. 역대 매출액 2위]]></title>
@@ -66,28 +101,28 @@
         <id>https://extmovie.com/bestboard/91789682</id>
         <link href="https://extmovie.com/bestboard/91789682"/>
         <updated>2023-12-24T16:13:11.169Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017407point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017409point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안지호 배우 인스타에 한소희]]></title>
         <id>https://extmovie.com/bestboard/91789528</id>
         <link href="https://extmovie.com/bestboard/91789528"/>
         <updated>2023-12-25T03:12:24.589Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4263388point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4263531point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 어제 좌석판매율이 노량을 능가]]></title>
         <id>https://extmovie.com/bestboard/91789500</id>
         <link href="https://extmovie.com/bestboard/91789500"/>
         <updated>2023-12-24T16:13:11.170Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017407point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017409point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이브에 방문한 신카이 마코토 감독님]]></title>
         <id>https://extmovie.com/bestboard/91789497</id>
         <link href="https://extmovie.com/bestboard/91789497"/>
         <updated>2023-12-25T00:52:53.019Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338320point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338363point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[와 극장에 사람 엄청나더라고요 ..]]></title>
@@ -122,7 +157,7 @@
         <id>https://extmovie.com/bestboard/91788933</id>
         <link href="https://extmovie.com/bestboard/91788933"/>
         <updated>2023-12-24T14:09:40.283Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017407point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017409point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄', 33일 만에 천만 달성…의미는]]></title>
@@ -143,14 +178,14 @@
         <id>https://extmovie.com/bestboard/91788721</id>
         <link href="https://extmovie.com/bestboard/91788721"/>
         <updated>2023-12-24T18:13:30.769Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017407point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017409point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울의 봄이 범죄도시3 기록 내일 넘을 수 있을까요?]]></title>
         <id>https://extmovie.com/bestboard/91788658</id>
         <link href="https://extmovie.com/bestboard/91788658"/>
         <updated>2023-12-24T15:10:02.518Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66682point (45%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66695point (46%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노량, 서울의봄 오늘내일 관객수가 엄청날듯 하네요]]></title>
@@ -164,21 +199,21 @@
         <id>https://extmovie.com/bestboard/91788537</id>
         <link href="https://extmovie.com/bestboard/91788537"/>
         <updated>2023-12-24T13:11:54.399Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338320point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338363point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본인들에겐 크리스마스 영화 '극한직업']]></title>
         <id>https://extmovie.com/bestboard/91788529</id>
         <link href="https://extmovie.com/bestboard/91788529"/>
         <updated>2023-12-24T11:08:53.234Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017407point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4017409point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘듄 파트2’ 24년 개봉 1주전 ‘듄’ 전세계 재개봉 예정]]></title>
         <id>https://extmovie.com/bestboard/91788482</id>
         <link href="https://extmovie.com/bestboard/91788482"/>
         <updated>2023-12-24T16:13:11.175Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4263388point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4263531point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화관에 사람들이 많은 건 좋은데]]></title>
@@ -192,14 +227,14 @@
         <id>https://extmovie.com/bestboard/91788418</id>
         <link href="https://extmovie.com/bestboard/91788418"/>
         <updated>2023-12-24T16:13:11.178Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4263388point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4263531point (52%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정우성 배우 천만배우 된 소감]]></title>
         <id>https://extmovie.com/bestboard/91788386</id>
         <link href="https://extmovie.com/bestboard/91788386"/>
         <updated>2023-12-24T11:08:53.235Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:128091point (20%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:128093point (20%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[서울의 봄] 예매율 30%, 25만명 다시 돌파]]></title>
@@ -213,41 +248,6 @@
         <id>https://extmovie.com/bestboard/91788300</id>
         <link href="https://extmovie.com/bestboard/91788300"/>
         <updated>2023-12-25T03:12:24.608Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338320point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조커의 패러디? 퀴어 영화 <더 피플스 조커> 미국 개봉 결정, 주...]]></title>
-        <id>https://extmovie.com/bestboard/91788292</id>
-        <link href="https://extmovie.com/bestboard/91788292"/>
-        <updated>2023-12-24T12:20:49.056Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338320point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군인이어도 열심히 하다보면!!!]]></title>
-        <id>https://extmovie.com/bestboard/91788050</id>
-        <link href="https://extmovie.com/bestboard/91788050"/>
-        <updated>2023-12-24T15:10:02.521Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2393point (14%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너구릐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<노량> 김한민 감독에게 초등학생이 전달한 손편지]]></title>
-        <id>https://extmovie.com/bestboard/91788012</id>
-        <link href="https://extmovie.com/bestboard/91788012"/>
-        <updated>2023-12-24T10:10:53.459Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:128091point (20%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<서울의 봄> 배우들 천만 돌파 배우들 인증샷]]></title>
-        <id>https://extmovie.com/bestboard/91787863</id>
-        <link href="https://extmovie.com/bestboard/91787863"/>
-        <updated>2023-12-24T07:09:54.638Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:128091point (20%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글렌 파월, <탑건: 매버릭 2>가 있다면 행맨 역으로 복귀하고 싶다]]></title>
-        <id>https://extmovie.com/bestboard/91787817</id>
-        <link href="https://extmovie.com/bestboard/91787817"/>
-        <updated>2023-12-24T10:10:53.459Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338320point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338363point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

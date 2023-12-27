@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-27T05:11:33.001Z</updated>
+    <updated>2023-12-27T06:15:05.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['괴물' 35만 관객 돌파, 4주 연속 아트 영화 흥행...]]></title>
+        <id>https://extmovie.com/movietalk/91797952?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91797952?category=61633579"/>
+        <updated>2023-12-27T06:14:57.401Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018016point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신신방 나타중생 [2020.왕 스포.231218]]]></title>
         <id>https://extmovie.com/movietalk/91796104?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/91784345?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91784345?category=61633579"/>
         <updated>2023-12-23T00:49:15.218Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9908point (48%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9910point (48%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대장부일기 (1988) 주윤발 두집살림 코메디. 스포일러 있음.]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/91783079?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91783079?category=61633579"/>
         <updated>2023-12-22T11:09:52.232Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338875point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338890point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아쿠아맨과 로스트 킹덤 용아맥 후기]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/91779968?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91779968?category=61633579"/>
         <updated>2023-12-21T13:14:09.233Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338875point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1338890point (38%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<그리스>를 보고 나서 (스포 X)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91776766?category=61633579"/>
         <updated>2023-12-20T20:12:08.354Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:425299point (26%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<아쿠아맨과 로스트 킹덤>, 제임스 완에게 무슨 일이]]></title>
-        <id>https://extmovie.com/movietalk/91776649?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91776649?category=61633579"/>
-        <updated>2023-12-20T17:10:25.887Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1670point (86%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
     </entry>
 </feed>

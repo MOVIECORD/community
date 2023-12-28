@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-28T17:10:40.993Z</updated>
+    <updated>2023-12-28T18:14:32.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/91805157</id>
         <link href="https://extmovie.com/bestboard/91805157"/>
         <updated>2023-12-28T17:10:23.396Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018642point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018644point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 할리우드 영화사들의 성적표]]></title>
+        <id>https://extmovie.com/bestboard/91804449</id>
+        <link href="https://extmovie.com/bestboard/91804449"/>
+        <updated>2023-12-28T18:14:16.946Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018644point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MBC 29년만 한석규 복귀작 ‘이토록 친밀한 배신자’]]></title>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/91803610</id>
         <link href="https://extmovie.com/bestboard/91803610"/>
         <updated>2023-12-28T16:14:01.869Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2620point (37%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기묭]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2622point (37%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기묭]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화인이 뽑은 2023년 최고의 영화 (일본 매체)]]></title>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/bestboard/91802613</id>
         <link href="https://extmovie.com/bestboard/91802613"/>
         <updated>2023-12-28T10:12:36.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018642point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018644point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황정민·염정아 '크로스' 개봉 연기한다…시기 재조율]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91800264"/>
         <updated>2023-12-28T01:50:05.834Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4876point (34%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">디스테파노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이선균 마약수사 담당 형사과장 경무관으로 승진한다네요..]]></title>
-        <id>https://extmovie.com/bestboard/91799850</id>
-        <link href="https://extmovie.com/bestboard/91799850"/>
-        <updated>2023-12-28T00:49:41.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5245point (61%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호박]]></content>
     </entry>
 </feed>

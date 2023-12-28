@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-28T16:14:17.071Z</updated>
+    <updated>2023-12-28T17:10:40.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 28일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91805157</id>
+        <link href="https://extmovie.com/bestboard/91805157"/>
+        <updated>2023-12-28T17:10:23.396Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018642point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBC 29년만 한석규 복귀작 ‘이토록 친밀한 배신자’]]></title>
         <id>https://extmovie.com/bestboard/91803989</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/91802613</id>
         <link href="https://extmovie.com/bestboard/91802613"/>
         <updated>2023-12-28T10:12:36.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018640point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018642point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황정민·염정아 '크로스' 개봉 연기한다…시기 재조율]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91799850"/>
         <updated>2023-12-28T00:49:41.045Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5245point (61%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화보다 졸음올 때 직빵…그리고 두 예술인…]]></title>
-        <id>https://extmovie.com/bestboard/91799599</id>
-        <link href="https://extmovie.com/bestboard/91799599"/>
-        <updated>2023-12-28T00:49:41.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35094point (74%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">HarrySon]]></content>
     </entry>
 </feed>

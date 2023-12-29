@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-29T16:15:32.818Z</updated>
+    <updated>2023-12-29T17:11:43.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/91807499"/>
         <updated>2023-12-29T13:13:09.141Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:520653point (3%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잭 블랙, <슈퍼 마리오 브라더스> 속편은 ‘완전한 뮤지컬’을 원해]]></title>
+        <id>https://extmovie.com/bestboard/91807496</id>
+        <link href="https://extmovie.com/bestboard/91807496"/>
+        <updated>2023-12-29T17:11:28.472Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1339511point (39%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[줄리아 로버츠, 대작 로코 영화 출연을 거절했다!?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91804870"/>
         <updated>2023-12-28T19:09:10.854Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:582point (39%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기쁨의섬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 가디언 "A리스트 배우 이선균의 죽음, 한국 영화계의 오싹한 ...]]></title>
-        <id>https://extmovie.com/bestboard/91804751</id>
-        <link href="https://extmovie.com/bestboard/91804751"/>
-        <updated>2023-12-29T00:41:54.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:520653point (3%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2023-12-29T22:10:40.343Z</updated>
+    <updated>2023-12-29T23:11:15.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://extmovie.com/bestboard/91807228"/>
         <updated>2023-12-29T11:10:40.681Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20464point (7%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 최고기대작 60편 - 월드 오브 릴스]]></title>
+        <id>https://extmovie.com/bestboard/91807134</id>
+        <link href="https://extmovie.com/bestboard/91807134"/>
+        <updated>2023-12-29T23:11:00.840Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4268764point (53%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cgv 대전터미널 imax 탑건 매버릭 후기..]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91805245"/>
         <updated>2023-12-28T23:12:17.136Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67697point (63%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웡카 골든티켓 초콜릿이 왜 인기인가요?]]></title>
-        <id>https://extmovie.com/bestboard/91805165</id>
-        <link href="https://extmovie.com/bestboard/91805165"/>
-        <updated>2023-12-29T15:10:50.805Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5373point (71%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호박]]></content>
     </entry>
 </feed>

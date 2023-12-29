@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2023-12-29T11:10:56.039Z</updated>
+    <updated>2023-12-29T12:17:45.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공포 영화 <마루이 비디오> 감상했습니다.]]></title>
+        <id>https://extmovie.com/movietalk/91807729?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91807729?category=61633579"/>
+        <updated>2023-12-29T12:17:35.317Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:49618point (13%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023결산 올해본 420여편의 작품중 인상적인 작품들(아시아)]]></title>
         <id>https://extmovie.com/movietalk/91807507?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91807507?category=61633579"/>
         <updated>2023-12-29T11:10:48.667Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31366point (66%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31374point (66%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고급리뷰] 인투 더 월드 (★★☆) "다른 회사 작품들을 ...]]></title>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/91797952?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91797952?category=61633579"/>
         <updated>2023-12-27T06:14:57.401Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018787point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4018799point (3%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신신방 나타중생 [2020.왕 스포.231218]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91783127?category=61633579"/>
         <updated>2023-12-22T12:19:59.067Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:968point (30%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페인 호러 <틴과 티나>]]></title>
-        <id>https://extmovie.com/movietalk/91783079?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91783079?category=61633579"/>
-        <updated>2023-12-22T11:09:52.232Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1339469point (39%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

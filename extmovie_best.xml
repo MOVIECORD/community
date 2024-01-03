@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-03T20:13:36.664Z</updated>
+    <updated>2024-01-03T21:10:35.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91821877"/>
         <updated>2024-01-03T17:10:45.310Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4020282point (4%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울의봄 소품이라는데 멋진데요.]]></title>
+        <id>https://extmovie.com/bestboard/91821848</id>
+        <link href="https://extmovie.com/bestboard/91821848"/>
+        <updated>2024-01-03T21:10:19.962Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35960point (98%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 제일짜증나는 극장 광고]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/91819921</id>
         <link href="https://extmovie.com/bestboard/91819921"/>
         <updated>2024-01-03T09:13:23.666Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35958point (98%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35960point (98%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[위시] CGV 에그 점수 90%]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91819616"/>
         <updated>2024-01-03T17:10:45.340Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4273061point (54%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페미니스트 스타워즈에 대한 스타워즈 팬들의 분노가 커져]]></title>
-        <id>https://extmovie.com/bestboard/91819619</id>
-        <link href="https://extmovie.com/bestboard/91819619"/>
-        <updated>2024-01-03T05:11:33.832Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35541point (86%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
     </entry>
 </feed>

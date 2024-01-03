@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-03T18:14:39.153Z</updated>
+    <updated>2024-01-03T19:09:39.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://extmovie.com/bestboard/91821419</id>
         <link href="https://extmovie.com/bestboard/91821419"/>
         <updated>2024-01-03T16:14:09.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33245point (21%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33247point (21%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<나홀로 집에> 케빈의 어머니를 집에 데려다 준 ‘밴드 리더 역’...]]></title>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/91820969"/>
         <updated>2024-01-03T14:10:49.769Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4273061point (54%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매튜 본 감독 '아가일' 관련 이상한 행사]]></title>
+        <id>https://extmovie.com/bestboard/91820916</id>
+        <link href="https://extmovie.com/bestboard/91820916"/>
+        <updated>2024-01-03T19:09:24.089Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4020282point (4%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위시 에그지수 87]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91819526"/>
         <updated>2024-01-03T03:12:13.345Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4273061point (54%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위시] 역시 일본은 디즈니빠..]]></title>
-        <id>https://extmovie.com/bestboard/91819530</id>
-        <link href="https://extmovie.com/bestboard/91819530"/>
-        <updated>2024-01-03T08:14:28.352Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4769point (26%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ivuque]]></content>
     </entry>
 </feed>

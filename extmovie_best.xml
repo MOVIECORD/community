@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-04T19:09:25.346Z</updated>
+    <updated>2024-01-04T20:13:04.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:522443point (12%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[실현되지 못한 팀 버튼의 실사 <피노키오> 이미지]]></title>
+        <id>https://extmovie.com/bestboard/91822775</id>
+        <link href="https://extmovie.com/bestboard/91822775"/>
+        <updated>2024-01-04T20:12:47.526Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1340924point (40%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CGV 마라 핫도그 사진]]></title>
         <id>https://extmovie.com/bestboard/91822742</id>
         <link href="https://extmovie.com/bestboard/91822742"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91822265"/>
         <updated>2024-01-04T03:13:01.524Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4274135point (54%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외계인 2부 감독 GV 내용]]></title>
-        <id>https://extmovie.com/bestboard/91822268</id>
-        <link href="https://extmovie.com/bestboard/91822268"/>
-        <updated>2024-01-04T02:23:46.409Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7424point (7%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
     </entry>
 </feed>

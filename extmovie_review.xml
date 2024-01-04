@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-01-04T08:14:37.617Z</updated>
+    <updated>2024-01-04T09:12:04.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위시 그냥 볼만은 하네요]]></title>
+        <id>https://extmovie.com/movietalk/91823842?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91823842?category=61633579"/>
+        <updated>2024-01-04T09:11:56.456Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14124point (51%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[룩앳미 터치미 키스미 시사회 간단 리뷰]]></title>
         <id>https://extmovie.com/movietalk/91823147?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/91821396?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91821396?category=61633579"/>
         <updated>2024-01-03T13:13:59.896Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:353point (88%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤일리이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:355point (88%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤일리이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외계+인2 극호 후기 (스포 없음)]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/91821179?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91821179?category=61633579"/>
         <updated>2024-01-03T12:20:32.337Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1340732point (40%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1340751point (40%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고급리뷰] 위시 (★★★☆) "그래도 디즈니만이 만들 수 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91799696?category=61633579"/>
         <updated>2023-12-27T16:13:49.217Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4899point (36%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신신방 양전 [2022.왕 스포.231219]]]></title>
-        <id>https://extmovie.com/movietalk/91799589?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91799589?category=61633579"/>
-        <updated>2023-12-27T15:11:21.429Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13794point (37%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
     </entry>
 </feed>

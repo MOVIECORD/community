@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-01-06T17:09:41.474Z</updated>
+    <updated>2024-01-06T18:13:18.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김대중 100주년 영화를 보고]]></title>
+        <id>https://extmovie.com/movietalk/91831062?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91831062?category=61633579"/>
+        <updated>2024-01-06T18:13:11.132Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9937point (49%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<씨 오브 트리스>를 보고 나서 (스포 O) - 구스 반 산...]]></title>
         <id>https://extmovie.com/movietalk/91830748?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91815773?category=61633579"/>
         <updated>2024-01-01T15:12:10.385Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13823point (38%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포O) 영화 노량 왕십리 아맥으로 보고 온 후기입니다]]></title>
-        <id>https://extmovie.com/movietalk/91815566?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91815566?category=61633579"/>
-        <updated>2024-01-01T15:12:10.385Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47473point (96%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

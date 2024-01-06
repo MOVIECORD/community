@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-06T17:09:41.475Z</updated>
+    <updated>2024-01-06T18:13:18.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://extmovie.com/bestboard/91830880</id>
         <link href="https://extmovie.com/bestboard/91830880"/>
         <updated>2024-01-06T17:09:25.479Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21883point (58%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중간보스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21885point (58%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중간보스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금까지의 임시완 최고작, 같이 이야기 나누고 싶습니다!]]></title>
         <id>https://extmovie.com/bestboard/91830627</id>
         <link href="https://extmovie.com/bestboard/91830627"/>
         <updated>2024-01-06T16:13:48.100Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9751point (39%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9937point (49%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경성크리처 2부는 실망스럽네요.]]></title>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/91830462"/>
         <updated>2024-01-06T14:10:02.152Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2119point (74%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일 외계인 개봉전 특별 무대인사 취소표 계속 나오네요.]]></title>
+        <id>https://extmovie.com/bestboard/91830447</id>
+        <link href="https://extmovie.com/bestboard/91830447"/>
+        <updated>2024-01-06T18:13:02.969Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5481point (79%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호박]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<레디 플레이어 원> 메타버스화]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91827663"/>
         <updated>2024-01-06T04:13:48.152Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1341436point (41%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PS5소프트] 라스트 오브 어스 2 노 리턴 모드, 심장이 약한 분들께는 ...]]></title>
-        <id>https://extmovie.com/bestboard/91827682</id>
-        <link href="https://extmovie.com/bestboard/91827682"/>
-        <updated>2024-01-06T02:22:24.080Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345454point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

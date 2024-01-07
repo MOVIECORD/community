@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-07T20:11:33.973Z</updated>
+    <updated>2024-01-07T21:10:06.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/91832395"/>
         <updated>2024-01-07T15:11:09.159Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:15147point (97%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신작 호러 'Baghead' 트레일러]]></title>
+        <id>https://extmovie.com/bestboard/91832390</id>
+        <link href="https://extmovie.com/bestboard/91832390"/>
+        <updated>2024-01-07T21:09:51.643Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25622point (86%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[임시완 뉴스룸]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91830797"/>
         <updated>2024-01-07T01:59:36.949Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:15147point (97%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열녀박씨..꽉 닫혔어요]]></title>
-        <id>https://extmovie.com/bestboard/91830780</id>
-        <link href="https://extmovie.com/bestboard/91830780"/>
-        <updated>2024-01-06T19:08:44.313Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17717point (2%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
 </feed>

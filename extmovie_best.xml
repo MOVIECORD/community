@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-10T19:10:01.612Z</updated>
+    <updated>2024-01-10T20:13:16.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91842920"/>
         <updated>2024-01-10T16:15:15.808Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4022606point (4%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이고 힘들다 힘들어]]></title>
+        <id>https://extmovie.com/bestboard/91842776</id>
+        <link href="https://extmovie.com/bestboard/91842776"/>
+        <updated>2024-01-10T20:13:01.445Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15265point (2%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[외계+인2] 보자마자 초단평]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/bestboard/91840664</id>
         <link href="https://extmovie.com/bestboard/91840664"/>
         <updated>2024-01-10T05:11:23.295Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/85.gif" alt="[레벨:85]" title="포인트:3046815point (82%), 레벨:85/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익스트림무비]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/85.gif" alt="[레벨:85]" title="포인트:3046817point (82%), 레벨:85/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익스트림무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cgv고객 우롱도 정도껏 하자.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91840566"/>
         <updated>2024-01-10T04:14:12.401Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2310point (6%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<스파이더맨: 비욘드 더 유니버스> 결말은 “팬들을 만족시킬 것”]]></title>
-        <id>https://extmovie.com/bestboard/91840524</id>
-        <link href="https://extmovie.com/bestboard/91840524"/>
-        <updated>2024-01-10T06:15:36.468Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1342558point (42%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

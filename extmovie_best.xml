@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-11T18:14:28.138Z</updated>
+    <updated>2024-01-11T19:10:11.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/91846438"/>
         <updated>2024-01-11T13:14:37.781Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4023094point (4%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외계+인? 외계인? 2부 감상기 (노스포)]]></title>
+        <id>https://extmovie.com/bestboard/91846230</id>
+        <link href="https://extmovie.com/bestboard/91846230"/>
+        <updated>2024-01-11T19:09:56.526Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48538point (6%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Batmania]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['고(故)이선균 배우의 죽음을 마주하는  문화예술인들의 요구&#03...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91843043"/>
         <updated>2024-01-11T08:14:46.985Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34308point (51%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우조합상 장편 영화 부문 후보]]></title>
-        <id>https://extmovie.com/bestboard/91842986</id>
-        <link href="https://extmovie.com/bestboard/91842986"/>
-        <updated>2024-01-11T00:53:13.368Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31633point (74%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
 </feed>

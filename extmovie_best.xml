@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-12T19:09:55.520Z</updated>
+    <updated>2024-01-12T20:12:33.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4023580point (4%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<시민덕희> 호평 가득 언론 리뷰]]></title>
+        <id>https://extmovie.com/bestboard/91848731</id>
+        <link href="https://extmovie.com/bestboard/91848731"/>
+        <updated>2024-01-12T20:12:15.851Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:133066point (53%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[update4] 역대급 손실을 기록한 영화들]]></title>
         <id>https://extmovie.com/bestboard/91848613</id>
         <link href="https://extmovie.com/bestboard/91848613"/>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/bestboard/91848305</id>
         <link href="https://extmovie.com/bestboard/91848305"/>
         <updated>2024-01-12T06:15:10.653Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:118727point (68%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:118866point (69%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김태리 tvn 드라마 [정년이] 스틸]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91846954"/>
         <updated>2024-01-12T08:14:47.774Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38148point (58%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시민덕희  끝 스포 x]]></title>
-        <id>https://extmovie.com/bestboard/91846925</id>
-        <link href="https://extmovie.com/bestboard/91846925"/>
-        <updated>2024-01-11T23:11:43.815Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:304118point (41%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
     </entry>
 </feed>

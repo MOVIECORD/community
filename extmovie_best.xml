@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-12T18:14:44.194Z</updated>
+    <updated>2024-01-12T19:09:55.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91850439"/>
         <updated>2024-01-12T16:15:08.731Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42450point (71%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장은하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이토 준지와 만난 아리 애스터 감독]]></title>
+        <id>https://extmovie.com/bestboard/91850357</id>
+        <link href="https://extmovie.com/bestboard/91850357"/>
+        <updated>2024-01-12T19:09:39.733Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1343087point (43%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가장 기대되는 공포영화 21편]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91846925"/>
         <updated>2024-01-11T23:11:43.815Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:304118point (41%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<아쿠아맨> 제이슨 모모아, “집이 없다”고 밝혀]]></title>
-        <id>https://extmovie.com/bestboard/91846646</id>
-        <link href="https://extmovie.com/bestboard/91846646"/>
-        <updated>2024-01-12T00:53:09.595Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1343087point (43%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

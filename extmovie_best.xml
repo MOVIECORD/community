@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-13T17:10:15.637Z</updated>
+    <updated>2024-01-13T18:13:58.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91850714"/>
         <updated>2024-01-13T16:13:24.293Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3026point (78%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[놀란 감독과 킬리언 머피 18년 전후]]></title>
+        <id>https://extmovie.com/bestboard/91852378</id>
+        <link href="https://extmovie.com/bestboard/91852378"/>
+        <updated>2024-01-13T18:13:42.834Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:525003point (25%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코지마 히데오 '패스트 라이브즈' 극찬]]></title>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/bestboard/91851548</id>
         <link href="https://extmovie.com/bestboard/91851548"/>
         <updated>2024-01-13T10:11:23.675Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:341point (85%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:343point (85%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미야자키 하야오  뇌구조 일러스트]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91850302"/>
         <updated>2024-01-12T18:14:28.216Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4023824point (4%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[범죄도시 4] 스틸 공개]]></title>
-        <id>https://extmovie.com/bestboard/91850180</id>
-        <link href="https://extmovie.com/bestboard/91850180"/>
-        <updated>2024-01-12T13:14:08.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:525003point (25%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

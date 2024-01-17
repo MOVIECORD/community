@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-17T19:10:01.989Z</updated>
+    <updated>2024-01-17T20:12:47.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[파묘] 베를린 영화제 줄거리 소개]]></title>
+        <id>https://extmovie.com/bestboard/91863897</id>
+        <link href="https://extmovie.com/bestboard/91863897"/>
+        <updated>2024-01-17T20:12:32.214Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:525837point (29%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파묘 제발...]]></title>
         <id>https://extmovie.com/bestboard/91863803</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91860828"/>
         <updated>2024-01-17T06:15:49.317Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5598point (88%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ivuque]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 1월 16일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/91860821</id>
-        <link href="https://extmovie.com/bestboard/91860821"/>
-        <updated>2024-01-16T21:10:55.449Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4024878point (4%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

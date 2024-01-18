@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-18T18:14:50.538Z</updated>
+    <updated>2024-01-18T19:10:23.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[서울에 온 <웬즈데이> 엠마 마이어스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -108,6 +108,13 @@
         <link href="https://extmovie.com/bestboard/91865306"/>
         <updated>2024-01-18T16:14:26.527Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:276069point (20%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 프로비전 후기 근황 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91864961</id>
+        <link href="https://extmovie.com/bestboard/91864961"/>
+        <updated>2024-01-18T19:10:07.510Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4290491point (58%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '선산' 선공개 - 부부싸움 장르는 스릴러 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -243,17 +250,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4290491point (58%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과거사진 배우 이병헌 쿠리야마 치아키  심야 데이트 사진이 있길래 가... (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91864151</id>
-        <link href="https://extmovie.com/bestboard/91864151"/>
-        <updated>2024-01-17T23:12:20.595Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38365point (64%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-18T18:14:38.452Z</updated>
+        <updated>2024-01-18T19:10:11.349Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -505,7 +505,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-18T18:14:42.559Z</updated>
+        <updated>2024-01-18T19:10:15.447Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-18T18:14:46.301Z</updated>
+        <updated>2024-01-18T19:10:19.182Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-19T22:11:16.466Z</updated>
+    <updated>2024-01-19T23:10:24.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024년 1월 19일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://extmovie.com/bestboard/91869808"/>
         <updated>2024-01-19T17:10:34.034Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:68591point (78%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(※사진 주의) 드뎌 본 호러 <이블데드 라이즈> (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91869509</id>
+        <link href="https://extmovie.com/bestboard/91869509"/>
+        <updated>2024-01-19T23:10:08.604Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345113point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['선산' 1화 봤는데... (익스트림무비 ─ 익무힛갤)]]></title>
@@ -243,17 +250,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345113point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나탈리 포트만, 남편을 떠나 새로운 생활 시작 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91866774</id>
-        <link href="https://extmovie.com/bestboard/91866774"/>
-        <updated>2024-01-18T23:11:46.805Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345113point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-19T22:11:05.122Z</updated>
+        <updated>2024-01-19T23:10:12.447Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -505,7 +505,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-19T22:11:08.694Z</updated>
+        <updated>2024-01-19T23:10:16.487Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-19T22:11:11.931Z</updated>
+        <updated>2024-01-19T23:10:20.065Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

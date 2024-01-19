@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-19T22:11:16.459Z</updated>
+    <updated>2024-01-19T23:10:24.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/91869808"/>
         <updated>2024-01-19T17:10:34.034Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:68591point (78%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(※사진 주의) 드뎌 본 호러 <이블데드 라이즈>]]></title>
+        <id>https://extmovie.com/bestboard/91869509</id>
+        <link href="https://extmovie.com/bestboard/91869509"/>
+        <updated>2024-01-19T23:10:08.604Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345113point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['선산' 1화 봤는데...]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91866777</id>
         <link href="https://extmovie.com/bestboard/91866777"/>
         <updated>2024-01-18T20:12:48.109Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345113point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나탈리 포트만, 남편을 떠나 새로운 생활 시작]]></title>
-        <id>https://extmovie.com/bestboard/91866774</id>
-        <link href="https://extmovie.com/bestboard/91866774"/>
-        <updated>2024-01-18T23:11:46.805Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345113point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

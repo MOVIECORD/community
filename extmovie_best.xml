@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-20T19:09:20.011Z</updated>
+    <updated>2024-01-20T20:11:36.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91872198"/>
         <updated>2024-01-20T19:09:04.172Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4025861point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(약스포) 인투 더 월드를 보고]]></title>
+        <id>https://extmovie.com/bestboard/91872183</id>
+        <link href="https://extmovie.com/bestboard/91872183"/>
+        <updated>2024-01-20T20:11:20.329Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:79411point (15%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스콜세지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스)선산. 보면 볼수록...]]></title>
@@ -132,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4291902point (58%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[데드풀3 촬영장 사진 (스포) 새로운 캐릭터 등장]]></title>
+        <id>https://extmovie.com/bestboard/91870601</id>
+        <link href="https://extmovie.com/bestboard/91870601"/>
+        <updated>2024-01-20T20:11:20.356Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1417point (39%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RandyCunningham]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마이클 잭슨 전기영화 <마이클>에서 유소년기를 연기하는 아역 배우]]></title>
         <id>https://extmovie.com/bestboard/91870575</id>
         <link href="https://extmovie.com/bestboard/91870575"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91869509"/>
         <updated>2024-01-19T23:10:08.604Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345253point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외계인 1 2부 통합상영회 보는중...]]></title>
-        <id>https://extmovie.com/bestboard/91869564</id>
-        <link href="https://extmovie.com/bestboard/91869564"/>
-        <updated>2024-01-20T03:12:40.461Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10723point (91%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선산' 1화 봤는데...]]></title>
-        <id>https://extmovie.com/bestboard/91869508</id>
-        <link href="https://extmovie.com/bestboard/91869508"/>
-        <updated>2024-01-19T12:21:01.385Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4025861point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

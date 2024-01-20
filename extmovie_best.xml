@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-20T18:14:18.195Z</updated>
+    <updated>2024-01-20T19:09:20.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 20일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91872198</id>
+        <link href="https://extmovie.com/bestboard/91872198"/>
+        <updated>2024-01-20T19:09:04.172Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4025861point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스)선산. 보면 볼수록...]]></title>
         <id>https://extmovie.com/bestboard/91872182</id>
@@ -18,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/91871798"/>
         <updated>2024-01-20T17:10:08.887Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53488point (40%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프라임 비디오)리처 시즌2 - 간단 후기]]></title>
+        <id>https://extmovie.com/bestboard/91871700</id>
+        <link href="https://extmovie.com/bestboard/91871700"/>
+        <updated>2024-01-20T19:09:04.187Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:276279point (20%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월드 와이드 순위]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91869508"/>
         <updated>2024-01-19T12:21:01.385Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4025861point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 정년이 첫 스틸 고화질]]></title>
-        <id>https://extmovie.com/bestboard/91869430</id>
-        <link href="https://extmovie.com/bestboard/91869430"/>
-        <updated>2024-01-19T13:14:10.063Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4291902point (58%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 [선산] 공개]]></title>
-        <id>https://extmovie.com/bestboard/91869293</id>
-        <link href="https://extmovie.com/bestboard/91869293"/>
-        <updated>2024-01-19T11:10:39.517Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:526240point (31%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

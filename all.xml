@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-21T18:14:56.123Z</updated>
+    <updated>2024-01-21T19:09:32.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 21일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91874284</id>
+        <link href="https://extmovie.com/bestboard/91874284"/>
+        <updated>2024-01-21T19:09:14.747Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4026090point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<분노의 질주> 완결편, 예산 대폭 삭감으로 원점으로 회귀? (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/91873855</id>
         <link href="https://extmovie.com/bestboard/91873855"/>
         <updated>2024-01-21T14:10:03.343Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1345600point (45%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[웡카]리뷰 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91873812</id>
+        <link href="https://extmovie.com/bestboard/91873812"/>
+        <updated>2024-01-21T19:09:14.747Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117710point (63%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한소희 파리도착 / 사인 필체 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -65,7 +79,7 @@
         <id>https://extmovie.com/bestboard/91873167</id>
         <link href="https://extmovie.com/bestboard/91873167"/>
         <updated>2024-01-21T12:19:46.611Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12041point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12043point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포) '선산'하고 사실 비슷한 장르물은... (익스트림무비 ─ 익무힛갤)]]></title>
@@ -236,24 +250,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:134470point (63%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외계+인 2부 부평 롯데시네마 무대인사 직찍 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91871798</id>
-        <link href="https://extmovie.com/bestboard/91871798"/>
-        <updated>2024-01-20T17:10:08.887Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53490point (40%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데시네마 신대방! (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91871766</id>
-        <link href="https://extmovie.com/bestboard/91871766"/>
-        <updated>2024-01-21T02:01:07.548Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29224point (1%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화정보)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-21T18:14:44.542Z</updated>
+        <updated>2024-01-21T19:09:18.356Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -505,7 +505,7 @@
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-21T18:14:48.604Z</updated>
+        <updated>2024-01-21T19:09:22.165Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
     <entry>
@@ -597,7 +597,7 @@
         <id>https://extmovie.com/movietalk/91867297?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91867297?category=61633579"/>
         <updated>2024-01-18T18:14:42.751Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12041point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12043point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나폴레옹 [2023.왕 스포.240111] (익스트림무비 ─ 영화리뷰)]]></title>
@@ -660,7 +660,7 @@
         <id>https://extmovie.com/movietalk/91863818?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91863818?category=61633579"/>
         <updated>2024-01-17T14:11:52.949Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12041point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12043point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<디제스터>를 보고 나서 (스포 X) - 데이비드 O. 러셀... (익스트림무비 ─ 영화리뷰)]]></title>
@@ -681,7 +681,7 @@
         <id>https://extmovie.com/movietalk/91860911?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91860911?category=61633579"/>
         <updated>2024-01-16T17:10:43.556Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12041point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12043point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<위 오운 더 나잇>을 보고 나서 (스포 O) - 제임스 그... (익스트림무비 ─ 영화리뷰)]]></title>
@@ -751,13 +751,13 @@
         <id>https://extmovie.com/movietalk/91855997?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91855997?category=61633579"/>
         <updated>2024-01-15T03:13:18.298Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12041point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12043point (55%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (익스트림무비 ─ 블루레이)]]></title>
         <id>https://MOVIECORD.github.io/community/all.xml</id>
         <link href="https://MOVIECORD.github.io/community/all.xml"/>
-        <updated>2024-01-21T18:14:52.189Z</updated>
+        <updated>2024-01-21T19:09:25.557Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
     </entry>
 </feed>

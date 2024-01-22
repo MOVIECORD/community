@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-01-22T15:12:52.953Z</updated>
+    <updated>2024-01-22T16:15:18.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://extmovie.com/movietalk/category/61633579</id>
         <link href="https://extmovie.com/movietalk/category/61633579"/>
-        <updated>2024-01-22T15:12:45.327Z</updated>
+        <updated>2024-01-22T16:15:10.732Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><div><a href="http://www.eland.co.kr/mgzn/viewMgzn?mgznIdx=713"><img src="https://img.extmovie.com/files/attach/images/49910895/960/841/091/edbb2115ee9b5826d48b03b9b1cfc5ce.jpg" width="100%"> </a></div></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 첫 만점 영화가 탄생했습니다.]]></title>
+        <id>https://extmovie.com/movietalk/91877153?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91877153?category=61633579"/>
+        <updated>2024-01-22T16:15:10.894Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10743point (92%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[킹덤3 운명의 불꽃 [2023.왕 스포.240115]]]></title>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/91875290?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91875290?category=61633579"/>
         <updated>2024-01-22T03:13:06.970Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32322point (94%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:32324point (95%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<의뢰인>을 보고 나서 (스포 O) - 수잔 서랜든, 토미 ...]]></title>
@@ -249,12 +256,5 @@
         <link href="https://extmovie.com/movietalk/91856549?category=61633579"/>
         <updated>2024-01-15T13:15:00.064Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33047point (15%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<코치 카터>를 보고 나서 (스포 O)]]></title>
-        <id>https://extmovie.com/movietalk/91857009?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91857009?category=61633579"/>
-        <updated>2024-01-15T08:15:58.774Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5952point (12%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

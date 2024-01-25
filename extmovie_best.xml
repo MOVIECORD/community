@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-25T17:11:14.825Z</updated>
+    <updated>2024-01-25T18:14:58.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/91885011"/>
         <updated>2024-01-25T12:21:10.788Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:135597point (70%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 '황야' 선공개]]></title>
+        <id>https://extmovie.com/bestboard/91884977</id>
+        <link href="https://extmovie.com/bestboard/91884977"/>
+        <updated>2024-01-25T18:14:41.756Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4296263point (59%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전쟁 드라마 '마스터스 오브 디 에어' 로튼 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91883220"/>
         <updated>2024-01-25T01:57:47.953Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12245point (65%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제46회 일본 아카데미상 각 부문 우수상 발표]]></title>
-        <id>https://extmovie.com/bestboard/91883171</id>
-        <link href="https://extmovie.com/bestboard/91883171"/>
-        <updated>2024-01-25T07:10:57.007Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1346781point (46%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

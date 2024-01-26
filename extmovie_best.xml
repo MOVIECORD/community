@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-26T18:13:47.797Z</updated>
+    <updated>2024-01-26T19:08:48.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://extmovie.com/bestboard/91888814</id>
         <link href="https://extmovie.com/bestboard/91888814"/>
         <updated>2024-01-26T17:09:46.452Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1347153point (47%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<해리 포터와 아즈카반의 죄수> 감독, “원작도 읽지 않았고 내키...]]></title>
+        <id>https://extmovie.com/bestboard/91888738</id>
+        <link href="https://extmovie.com/bestboard/91888738"/>
+        <updated>2024-01-26T19:08:32.403Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1347153point (47%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/bestboard/91888492</id>
         <link href="https://extmovie.com/bestboard/91888492"/>
         <updated>2024-01-26T14:10:21.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:276955point (23%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:276958point (23%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마동석 오컬트 액션 '거룩한 밤' 스틸과 작품 소개]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/91885797</id>
         <link href="https://extmovie.com/bestboard/91885797"/>
         <updated>2024-01-26T01:46:30.256Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1572point (68%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오이건귀하군요]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1574point (68%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오이건귀하군요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아시안컵 봐도 럭키굿즈 주네요.]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91885503</id>
         <link href="https://extmovie.com/bestboard/91885503"/>
         <updated>2024-01-25T21:09:36.919Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:135868point (72%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<아가일> 전세계 최초 시사 언론 호평]]></title>
-        <id>https://extmovie.com/bestboard/91885493</id>
-        <link href="https://extmovie.com/bestboard/91885493"/>
-        <updated>2024-01-26T01:46:30.261Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:135868point (72%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

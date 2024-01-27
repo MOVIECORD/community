@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-01-27T10:11:12.567Z</updated>
+    <updated>2024-01-27T11:08:38.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외계+인 2부를 보고]]></title>
+        <id>https://extmovie.com/movietalk/91890707?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91890707?category=61633579"/>
+        <updated>2024-01-27T11:08:31.075Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14766point (80%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<도그맨> 후기 (스포O)]]></title>
         <id>https://extmovie.com/movietalk/91889857?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91870120?category=61633579"/>
         <updated>2024-01-19T16:14:49.670Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14055point (48%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<슬리버>를 보고 나서 (스포 O) - 샤론 스톤 주연 작품]]></title>
-        <id>https://extmovie.com/movietalk/91869831?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91869831?category=61633579"/>
-        <updated>2024-01-19T14:11:31.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6326point (36%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

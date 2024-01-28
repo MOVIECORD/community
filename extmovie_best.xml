@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-28T20:10:47.240Z</updated>
+    <updated>2024-01-28T21:11:49.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -48,11 +48,25 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70395point (31%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">박감독]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[질문] 서울의 봄의 역사적 사실 관계에 대해]]></title>
+        <id>https://extmovie.com/bestboard/91892505</id>
+        <link href="https://extmovie.com/bestboard/91892505"/>
+        <updated>2024-01-28T21:11:34.181Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28943point (93%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마동석 액션 통했다…'황야', 글로벌 2위 출발·31개국 1위]]></title>
         <id>https://extmovie.com/bestboard/91892480</id>
         <link href="https://extmovie.com/bestboard/91892480"/>
         <updated>2024-01-28T14:08:52.403Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:527135point (35%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저만의 아카데미 오스카 수상자 픽!]]></title>
+        <id>https://extmovie.com/bestboard/91892403</id>
+        <link href="https://extmovie.com/bestboard/91892403"/>
+        <updated>2024-01-28T21:11:34.186Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29345point (5%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황야 버거형(박효준) 휴먼스토리]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91890955"/>
         <updated>2024-01-27T17:11:30.874Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5219point (59%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데어데블 본 어게인] 촬영장 영상, 포기 넬슨, 캐런 페이지 모습]]></title>
-        <id>https://extmovie.com/bestboard/91890930</id>
-        <link href="https://extmovie.com/bestboard/91890930"/>
-        <updated>2024-01-28T04:13:31.427Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:527135point (35%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팰월드 vs 포켓몬 캐릭터 디자인 비교]]></title>
-        <id>https://extmovie.com/bestboard/91890927</id>
-        <link href="https://extmovie.com/bestboard/91890927"/>
-        <updated>2024-01-28T12:17:14.251Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4028002point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

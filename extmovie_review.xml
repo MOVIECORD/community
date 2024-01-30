@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-01-30T03:12:17.565Z</updated>
+    <updated>2024-01-30T04:14:08.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[도그맨]후기]]></title>
+        <id>https://extmovie.com/movietalk/91897211?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91897211?category=61633579"/>
+        <updated>2024-01-30T04:14:01.320Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117830point (64%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<비상 계엄>을 보고 나서 (스포 O) - 덴젤 워싱턴, 아...]]></title>
         <id>https://extmovie.com/movietalk/91896235?category=61633579</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/91888201?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91888201?category=61633579"/>
         <updated>2024-01-26T11:09:54.875Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1347949point (47%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1347968point (47%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥스트 골 윈즈(2023) 단평 후기]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/91883023?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91883023?category=61633579"/>
         <updated>2024-01-24T15:12:47.745Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1347949point (47%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1347968point (47%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데자뷰>를 보고 나서 (스포 O) - 토니 스콧 감독 작품]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91877167?category=61633579"/>
         <updated>2024-01-22T17:10:53.593Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6471point (46%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 첫 만점 영화가 탄생했습니다.]]></title>
-        <id>https://extmovie.com/movietalk/91877153?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91877153?category=61633579"/>
-        <updated>2024-01-22T16:15:10.894Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10761point (93%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

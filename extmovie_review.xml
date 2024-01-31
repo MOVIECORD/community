@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-01-31T10:11:41.274Z</updated>
+    <updated>2024-01-31T11:09:41.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[웡카] 간단 후기 -생각보단...]]></title>
+        <id>https://extmovie.com/movietalk/91901941?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91901941?category=61633579"/>
+        <updated>2024-01-31T11:09:33.408Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7640point (20%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데드맨] 시사 관람 후기]]></title>
         <id>https://extmovie.com/movietalk/91900578?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91881547?category=61633579"/>
         <updated>2024-01-24T05:12:27.208Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6489point (47%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 소풍 후기 (스포 X)]]></title>
-        <id>https://extmovie.com/movietalk/91880277?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91880277?category=61633579"/>
-        <updated>2024-01-23T18:15:16.102Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12881point (96%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

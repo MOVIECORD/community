@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-31T20:11:23.355Z</updated>
+    <updated>2024-01-31T21:11:32.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/91902552</id>
         <link href="https://extmovie.com/bestboard/91902552"/>
         <updated>2024-01-31T20:11:08.484Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4029002point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4029004point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<웡카> 봤어요]]></title>
+        <id>https://extmovie.com/bestboard/91902360</id>
+        <link href="https://extmovie.com/bestboard/91902360"/>
+        <updated>2024-01-31T21:11:16.821Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1348613point (48%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[킬러들의 쇼핑몰 5-6화 소감/아..대박!/유스포]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/bestboard/91901600</id>
         <link href="https://extmovie.com/bestboard/91901600"/>
         <updated>2024-01-31T13:11:37.346Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4029002point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4029004point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성추행 당할 뻔한 S급 미소녀를 구해주고 보니 옆자리 소꿉친구였다 7]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91899834"/>
         <updated>2024-01-31T03:12:02.935Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2910point (66%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MaxVonSydow]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파묘 캐릭터 포스터 공개]]></title>
-        <id>https://extmovie.com/bestboard/91899775</id>
-        <link href="https://extmovie.com/bestboard/91899775"/>
-        <updated>2024-01-31T04:13:33.218Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18743point (42%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
     </entry>
 </feed>

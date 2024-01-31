@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-31T01:44:24.544Z</updated>
+    <updated>2024-01-31T02:17:49.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91899911"/>
         <updated>2024-01-31T01:44:09.481Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:136809point (78%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정호연 황정민 뉴진스 커피차 인증]]></title>
+        <id>https://extmovie.com/bestboard/91899671</id>
+        <link href="https://extmovie.com/bestboard/91899671"/>
+        <updated>2024-01-31T02:17:33.827Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/41.gif" alt="[레벨:41]" title="포인트:324730point (98%), 레벨:41/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아시안컵 사우디전, CGV에서는 문제없이 보고 있나요??]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/bestboard/91898877</id>
         <link href="https://extmovie.com/bestboard/91898877"/>
         <updated>2024-01-30T16:13:45.534Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4301095point (60%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4301113point (60%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['건담 SEED FREEDOM' 일본 관객들 반응]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/91896915</id>
         <link href="https://extmovie.com/bestboard/91896915"/>
         <updated>2024-01-30T05:10:47.161Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1348345point (48%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<존 윅> 윈스턴 역의 이안 맥쉐인, “키아누 리브스는 쉬었으면 ...]]></title>
-        <id>https://extmovie.com/bestboard/91896877</id>
-        <link href="https://extmovie.com/bestboard/91896877"/>
-        <updated>2024-01-30T08:13:44.935Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1348345point (48%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

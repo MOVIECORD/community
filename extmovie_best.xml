@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-01-31T19:09:28.752Z</updated>
+    <updated>2024-01-31T20:11:23.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 31일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/91902552</id>
+        <link href="https://extmovie.com/bestboard/91902552"/>
+        <updated>2024-01-31T20:11:08.484Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4029002point (5%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킬러들의 쇼핑몰 5-6화 소감/아..대박!/유스포]]></title>
         <id>https://extmovie.com/bestboard/91902272</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/bestboard/91901941</id>
         <link href="https://extmovie.com/bestboard/91901941"/>
         <updated>2024-01-31T14:10:18.549Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7804point (30%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7807point (30%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV '아가일' IMAX 한정판 포스터 증정이벤트]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91899775"/>
         <updated>2024-01-31T04:13:33.218Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18743point (42%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매튜 본 감독, '데드풀 3 가 MCU를 살릴 것' 언급]]></title>
-        <id>https://extmovie.com/bestboard/91899770</id>
-        <link href="https://extmovie.com/bestboard/91899770"/>
-        <updated>2024-01-31T03:12:02.935Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4301549point (60%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

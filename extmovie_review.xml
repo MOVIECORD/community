@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-01T07:11:20.735Z</updated>
+    <updated>2024-02-01T08:14:11.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<사운드 오브 프리덤> 제 2의 가버나움]]></title>
+        <id>https://extmovie.com/movietalk/91904478?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91904478?category=61633579"/>
+        <updated>2024-02-01T08:14:03.908Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4128point (75%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jjinnynim]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일 부코]]></title>
         <id>https://extmovie.com/movietalk/91903902?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/91902360?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91902360?category=61633579"/>
         <updated>2024-01-31T14:10:26.088Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1348751point (48%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1348801point (48%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<추락의 해부>를 보고 나서 (스포 O) - 산드라 휠러 ...]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/91888201?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91888201?category=61633579"/>
         <updated>2024-01-26T11:09:54.875Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1348751point (48%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1348801point (48%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥스트 골 윈즈(2023) 단평 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91886591?category=61633579"/>
         <updated>2024-01-26T02:19:48.333Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12906point (97%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<언스토퍼블>을 보고 나서 (스포 O) - 토니 스콧 감독...]]></title>
-        <id>https://extmovie.com/movietalk/91885832?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91885832?category=61633579"/>
-        <updated>2024-01-25T16:15:32.485Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6514point (49%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

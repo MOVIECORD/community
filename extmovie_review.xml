@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-03T16:14:09.506Z</updated>
+    <updated>2024-02-03T17:10:54.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시민덕희를 보고]]></title>
+        <id>https://extmovie.com/movietalk/91910967?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91910967?category=61633579"/>
+        <updated>2024-02-03T17:10:46.354Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14794point (81%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화리뷰]<웡카(Wonka,2023)> : 모두가 함께 나눠먹...]]></title>
         <id>https://extmovie.com/movietalk/91910934?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91910934?category=61633579"/>
         <updated>2024-02-03T16:14:01.938Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:297point (74%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:306point (76%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사운드 오브 프리덤]후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91897211?category=61633579"/>
         <updated>2024-01-30T04:14:01.320Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117852point (64%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<비상 계엄>을 보고 나서 (스포 O) - 덴젤 워싱턴, 아...]]></title>
-        <id>https://extmovie.com/movietalk/91896235?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91896235?category=61633579"/>
-        <updated>2024-01-29T16:13:13.723Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6651point (58%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

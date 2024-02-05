@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-05T00:51:03.232Z</updated>
+    <updated>2024-02-05T01:50:20.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[늑대아이] 존중하고 지지하는 것만큼 위대한 게 있을까? (...]]></title>
+        <id>https://extmovie.com/movietalk/91913202?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91913202?category=61633579"/>
+        <updated>2024-02-05T01:50:12.593Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13319point (15%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류이치사카모토 오퍼스]]></title>
         <id>https://extmovie.com/movietalk/91912166?category=61633579</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/91908545?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91908545?category=61633579"/>
         <updated>2024-02-02T13:11:30.672Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1349772point (49%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1349793point (49%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<시민덕희>를 보고 나서 (스포 O)]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/91905935?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91905935?category=61633579"/>
         <updated>2024-02-01T15:10:43.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1349772point (49%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1349793point (49%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사운드 오브 프리덤] 시사회 후기]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/91902360?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91902360?category=61633579"/>
         <updated>2024-01-31T14:10:26.088Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1349772point (49%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1349793point (49%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<추락의 해부>를 보고 나서 (스포 O) - 산드라 휠러 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91900578?category=61633579"/>
         <updated>2024-01-31T05:11:42.354Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:141point (35%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">제너럴무비스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[웡카] 티모시 샬라메와 함께 떠나는 동심의 세계]]></title>
-        <id>https://extmovie.com/movietalk/91900124?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91900124?category=61633579"/>
-        <updated>2024-01-31T01:44:16.906Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13214point (11%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

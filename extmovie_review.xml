@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-07T12:19:07.538Z</updated>
+    <updated>2024-02-07T13:11:52.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<아가일>, 감탄사가 계속 바뀌는 영화]]></title>
+        <id>https://extmovie.com/movietalk/91920834?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91920834?category=61633579"/>
+        <updated>2024-02-07T13:11:45.320Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1850point (21%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<아가일> 전 나름 괜찮게 봤어요 노스포 간단리뷰]]></title>
         <id>https://extmovie.com/movietalk/91919395?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/91919026?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91919026?category=61633579"/>
         <updated>2024-02-07T01:42:08.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13448point (21%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13450point (21%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 게임 [1997.왕 스포.240130]]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/91913202?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91913202?category=61633579"/>
         <updated>2024-02-05T01:50:12.593Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13448point (21%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13450point (21%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[류이치사카모토 오퍼스]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/91905462?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91905462?category=61633579"/>
         <updated>2024-02-01T12:19:27.837Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1835point (18%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1850point (21%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웡카 아이맥스 차이 클까요?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91904957?category=61633579"/>
         <updated>2024-02-01T09:12:14.904Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:120point (30%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익김무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사운드 오브 프리덤> 제 2의 가버나움]]></title>
-        <id>https://extmovie.com/movietalk/91904478?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91904478?category=61633579"/>
-        <updated>2024-02-01T08:14:03.908Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4138point (76%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jjinnynim]]></content>
     </entry>
 </feed>

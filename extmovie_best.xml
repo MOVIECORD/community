@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-07T18:13:50.880Z</updated>
+    <updated>2024-02-07T19:09:00.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/91920275"/>
         <updated>2024-02-07T16:15:05.504Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5142point (54%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">during]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 텐트폴 영화 라인업 공개, [파묘] 4DX, 스크린엑스 예정]]></title>
+        <id>https://extmovie.com/bestboard/91920223</id>
+        <link href="https://extmovie.com/bestboard/91920223"/>
+        <updated>2024-02-07T19:08:44.618Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:529080point (45%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플러스엠 엔터테인먼트 2024 라인업]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91918116"/>
         <updated>2024-02-07T09:11:51.520Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4308968point (61%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<데어데블 본 어게인> 불스아이 코스튬 촬영장 사진 + 데어데블]]></title>
-        <id>https://extmovie.com/bestboard/91918108</id>
-        <link href="https://extmovie.com/bestboard/91918108"/>
-        <updated>2024-02-06T22:10:05.991Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3644point (34%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
     </entry>
 </feed>

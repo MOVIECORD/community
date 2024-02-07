@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-07T20:11:04.134Z</updated>
+    <updated>2024-02-07T21:10:04.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -132,6 +132,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:138636point (90%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[파묘는 잘됐으면..]]></title>
+        <id>https://extmovie.com/bestboard/91919585</id>
+        <link href="https://extmovie.com/bestboard/91919585"/>
+        <updated>2024-02-07T21:09:48.814Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39079point (83%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아가일] CGV 골든 에그 점수 88%]]></title>
         <id>https://extmovie.com/bestboard/91919442</id>
         <link href="https://extmovie.com/bestboard/91919442"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91918265"/>
         <updated>2024-02-06T20:12:10.808Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1350482point (50%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 얼굴이면 이런 멘트로도 여자 작업걸기 가능]]></title>
-        <id>https://extmovie.com/bestboard/91918205</id>
-        <link href="https://extmovie.com/bestboard/91918205"/>
-        <updated>2024-02-06T23:10:50.094Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4308970point (61%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

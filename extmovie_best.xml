@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-08T18:13:45.027Z</updated>
+    <updated>2024-02-08T19:10:17.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/91924016"/>
         <updated>2024-02-08T15:11:55.917Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1350810point (50%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파묘 일 반시사 하나바요]]></title>
+        <id>https://extmovie.com/bestboard/91923939</id>
+        <link href="https://extmovie.com/bestboard/91923939"/>
+        <updated>2024-02-08T19:10:02.372Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:305361point (53%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<비틀쥬스 2> 테스트 시사 후 나온 정보]]></title>
@@ -74,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/91923293"/>
         <updated>2024-02-08T10:11:28.069Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2012point (53%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킬리언 머피 아들, 타이카 와이티티 영화 출연]]></title>
+        <id>https://extmovie.com/bestboard/91923047</id>
+        <link href="https://extmovie.com/bestboard/91923047"/>
+        <updated>2024-02-08T19:10:02.383Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:529455point (47%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['듄' 팝콘통에 대한 조쉬 브롤린 반응]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91921180"/>
         <updated>2024-02-07T18:13:35.565Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1350810point (50%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[콰이어트 플레이스: 데이 원] 첫 스틸]]></title>
-        <id>https://extmovie.com/bestboard/91921110</id>
-        <link href="https://extmovie.com/bestboard/91921110"/>
-        <updated>2024-02-07T18:13:35.569Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:32649point (4%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<아가일>, 감탄사가 계속 바뀌는 영화]]></title>
-        <id>https://extmovie.com/bestboard/91920834</id>
-        <link href="https://extmovie.com/bestboard/91920834"/>
-        <updated>2024-02-07T15:11:15.034Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1858point (23%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">SOON_CINE]]></content>
     </entry>
 </feed>

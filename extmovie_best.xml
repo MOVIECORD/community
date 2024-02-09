@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-09T18:14:25.404Z</updated>
+    <updated>2024-02-09T19:10:19.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/91926713"/>
         <updated>2024-02-09T18:14:10.298Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4031970point (6%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI가 그린 ‘센과 치히로의 행방불명’]]></title>
+        <id>https://extmovie.com/bestboard/91926606</id>
+        <link href="https://extmovie.com/bestboard/91926606"/>
+        <updated>2024-02-09T19:10:04.566Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4310677point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[살인자ㅇ난감] 4화까지 봤는데 상당히 재밌네요.]]></title>
@@ -132,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4310677point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[듄2 돌비 아맥 다 보실분은]]></title>
+        <id>https://extmovie.com/bestboard/91925482</id>
+        <link href="https://extmovie.com/bestboard/91925482"/>
+        <updated>2024-02-09T19:10:04.592Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:114point (28%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그당]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MCU [판타스틱 포] 감독, 페드로 파스칼 캐스팅 밝혔다가 계정삭제]]></title>
         <id>https://extmovie.com/bestboard/91925358</id>
         <link href="https://extmovie.com/bestboard/91925358"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91924597"/>
         <updated>2024-02-08T20:11:16.221Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4031970point (6%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) 외계인2부를 보고]]></title>
-        <id>https://extmovie.com/bestboard/91924549</id>
-        <link href="https://extmovie.com/bestboard/91924549"/>
-        <updated>2024-02-09T02:16:22.049Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:79695point (16%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스콜세지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용한점집 선물이 물컵이 나왔습니다.]]></title>
-        <id>https://extmovie.com/bestboard/91924516</id>
-        <link href="https://extmovie.com/bestboard/91924516"/>
-        <updated>2024-02-09T07:10:03.761Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36792point (21%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
 </feed>

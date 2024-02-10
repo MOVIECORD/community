@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-10T18:13:32.686Z</updated>
+    <updated>2024-02-10T19:08:41.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국인이면 놓칠 수 없는 넷플 다큐]]></title>
+        <id>https://extmovie.com/bestboard/91928560</id>
+        <link href="https://extmovie.com/bestboard/91928560"/>
+        <updated>2024-02-10T19:08:25.943Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4032283point (6%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘데드풀 3’ 잠재적 타이틀명 4개]]></title>
         <id>https://extmovie.com/bestboard/91928495</id>
         <link href="https://extmovie.com/bestboard/91928495"/>
         <updated>2024-02-10T16:13:15.469Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4311378point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4311380point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사와지리 에리카 약 4년 만에 배우 복귀, 무대 첫 출연&주연]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/91927321</id>
         <link href="https://extmovie.com/bestboard/91927321"/>
         <updated>2024-02-10T13:12:30.583Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4311378point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4311380point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['살인자ㅇ난감' 로튼토마토 리뷰 번역]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/bestboard/91926606</id>
         <link href="https://extmovie.com/bestboard/91926606"/>
         <updated>2024-02-09T19:10:04.566Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4311378point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4311380point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[살인자ㅇ난감] 4화까지 봤는데 상당히 재밌네요.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91926215"/>
         <updated>2024-02-09T20:11:06.605Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4032283point (6%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[살인자ㅇ난감] 국내 언론사 리뷰 모음]]></title>
-        <id>https://extmovie.com/bestboard/91926134</id>
-        <link href="https://extmovie.com/bestboard/91926134"/>
-        <updated>2024-02-09T11:09:51.657Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:529894point (49%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

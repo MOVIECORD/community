@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-11T17:10:21.398Z</updated>
+    <updated>2024-02-11T18:14:18.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<소풍> 생각과는 달랐던 이야기, 그리고...]]></title>
+        <id>https://extmovie.com/movietalk/91930569?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91930569?category=61633579"/>
+        <updated>2024-02-11T18:14:10.863Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:10983point (4%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<하이 크라임>을 보고 나서 (스포 O) - 애슐리 쥬드, ...]]></title>
         <id>https://extmovie.com/movietalk/91930522?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/91924016?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91924016?category=61633579"/>
         <updated>2024-02-08T12:19:42.047Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1351684point (51%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1351686point (51%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아가일 미쳤네요 (스포있음)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91910386?category=61633579"/>
         <updated>2024-02-03T10:10:43.055Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6987point (80%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<도그데이즈> 유료시사회 + 무대인사 후기]]></title>
-        <id>https://extmovie.com/movietalk/91910378?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91910378?category=61633579"/>
-        <updated>2024-02-03T10:10:43.056Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:10969point (3%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

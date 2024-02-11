@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-11T05:11:05.483Z</updated>
+    <updated>2024-02-11T06:14:28.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[메이 디셈버] 사랑, 진실에 대한 통찰을 그린 영화 (스포 X)]]></title>
+        <id>https://extmovie.com/movietalk/91929515?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91929515?category=61633579"/>
+        <updated>2024-02-11T06:14:20.988Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13865point (40%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<굿바이 러버>를 보고 나서 (스포 O) - 패트리샤 아퀘...]]></title>
         <id>https://extmovie.com/movietalk/91929184?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/91924016?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91924016?category=61633579"/>
         <updated>2024-02-08T12:19:42.047Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1351505point (51%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1351507point (51%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아가일 미쳤네요 (스포있음)]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/91919026?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91919026?category=61633579"/>
         <updated>2024-02-07T01:42:08.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13661point (31%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13865point (40%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 게임 [1997.왕 스포.240130]]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/91913202?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91913202?category=61633579"/>
         <updated>2024-02-05T01:50:12.593Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13661point (31%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13865point (40%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[류이치사카모토 오퍼스]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91909026?category=61633579"/>
         <updated>2024-02-02T17:11:37.652Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14208point (55%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">himurock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사운드 오브 프리덤 시사로 보고]]></title>
-        <id>https://extmovie.com/movietalk/91908803?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91908803?category=61633579"/>
-        <updated>2024-02-02T14:10:47.285Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:296818point (89%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">인생은아름다워]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-12T16:13:58.235Z</updated>
+    <updated>2024-02-12T17:10:38.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://extmovie.com/bestboard/91931847</id>
         <link href="https://extmovie.com/bestboard/91931847"/>
         <updated>2024-02-12T12:19:50.580Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3884point (55%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3886point (55%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전혜진 출연 ‘크로스’ 9월 개봉… 추석 극장가 찾는다]]></title>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/91931570"/>
         <updated>2024-02-12T16:13:42.449Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4032700point (6%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헨리 카빌 오늘자]]></title>
+        <id>https://extmovie.com/bestboard/91931484</id>
+        <link href="https://extmovie.com/bestboard/91931484"/>
+        <updated>2024-02-12T17:10:22.945Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4312785point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블라인드 처리된 게시물입니다.]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/91930482</id>
         <link href="https://extmovie.com/bestboard/91930482"/>
         <updated>2024-02-12T05:11:51.117Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2039point (58%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2043point (59%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 2월 11일 국내 박스오피스]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91929823"/>
         <updated>2024-02-11T14:10:44.905Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4312785point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<슈퍼맨 레거시> 다음 주 대본 리딩 시작]]></title>
-        <id>https://extmovie.com/bestboard/91929772</id>
-        <link href="https://extmovie.com/bestboard/91929772"/>
-        <updated>2024-02-11T23:10:50.546Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8116point (48%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
 </feed>

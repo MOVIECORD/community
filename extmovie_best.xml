@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-12T19:11:02.603Z</updated>
+    <updated>2024-02-12T20:11:49.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/91931799"/>
         <updated>2024-02-12T11:09:20.479Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:530806point (54%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(약스포, 약혐) ‘듄’ 하코넨의 (약스포)에 대한 소름끼치는 이론]]></title>
+        <id>https://extmovie.com/bestboard/91931711</id>
+        <link href="https://extmovie.com/bestboard/91931711"/>
+        <updated>2024-02-12T20:11:33.450Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4312787point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데드풀과 울버린> 예고편에서 발견된 떡밥]]></title>
@@ -95,6 +102,13 @@
         <link href="https://extmovie.com/bestboard/91931417"/>
         <updated>2024-02-12T11:09:20.490Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28982point (94%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">차단]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[듄 2 용아맥]]></title>
+        <id>https://extmovie.com/bestboard/91931325</id>
+        <link href="https://extmovie.com/bestboard/91931325"/>
+        <updated>2024-02-12T20:11:33.453Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:538point (30%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단쟁이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라이언 레이놀즈, ‘듄 파트2’ 팝콘버킷에 대한 농담]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91929962"/>
         <updated>2024-02-11T15:12:21.046Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1354860point (54%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘듄 파트 2’ 주인공들이 만드는 ASMR 영상]]></title>
-        <id>https://extmovie.com/bestboard/91929941</id>
-        <link href="https://extmovie.com/bestboard/91929941"/>
-        <updated>2024-02-12T00:49:42.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4312787point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공명 김민하 내가 죽기 일주일 전 대본 리딩]]></title>
-        <id>https://extmovie.com/bestboard/91929902</id>
-        <link href="https://extmovie.com/bestboard/91929902"/>
-        <updated>2024-02-11T20:11:18.915Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/42.gif" alt="[레벨:42]" title="포인트:327654point (17%), 레벨:42/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
 </feed>

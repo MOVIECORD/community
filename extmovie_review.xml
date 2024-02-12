@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-12T07:10:59.501Z</updated>
+    <updated>2024-02-12T08:14:42.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jk필름 도그데이즈 리뷰 (스포있음)]]></title>
+        <id>https://extmovie.com/movietalk/91932017?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91932017?category=61633579"/>
+        <updated>2024-02-12T08:14:35.022Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1752point (2%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너의시간속으로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀멸의 칼날: 인연의 기적, 그리고 합동강화 훈련편으로 보...]]></title>
+        <id>https://extmovie.com/movietalk/91931911?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91931911?category=61633579"/>
+        <updated>2024-02-12T08:14:35.024Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1752point (2%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너의시간속으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<소풍> 생각과는 달랐던 이야기, 그리고...]]></title>
         <id>https://extmovie.com/movietalk/91930569?category=61633579</id>
@@ -80,7 +94,7 @@
         <id>https://extmovie.com/movietalk/91924016?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91924016?category=61633579"/>
         <updated>2024-02-08T12:19:42.047Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1351859point (51%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1351898point (51%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아가일 미쳤네요 (스포있음)]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/91910934?category=61633579"/>
         <updated>2024-02-03T16:14:01.938Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:334point (83%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사운드 오브 프리덤]후기]]></title>
-        <id>https://extmovie.com/movietalk/91910795?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91910795?category=61633579"/>
-        <updated>2024-02-03T15:10:52.401Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:117858point (64%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데니스 로드맨 다큐멘터리, <로드먼: 포 베터 오어 워스&...]]></title>
-        <id>https://extmovie.com/movietalk/91910386?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91910386?category=61633579"/>
-        <updated>2024-02-03T10:10:43.055Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6989point (80%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

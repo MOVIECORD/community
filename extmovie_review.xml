@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-12T17:10:38.411Z</updated>
+    <updated>2024-02-12T18:13:25.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<그란 투리스모> 하지만 낭만 있죠?]]></title>
+        <id>https://extmovie.com/movietalk/91933025?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91933025?category=61633579"/>
+        <updated>2024-02-12T18:13:17.656Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11001point (5%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<싸인>을 보고 나서 (스포 O) - M. 나이트 샤말란 감...]]></title>
         <id>https://extmovie.com/movietalk/91932918?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/91930569?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91930569?category=61633579"/>
         <updated>2024-02-11T18:14:10.863Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:10989point (4%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11001point (5%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<하이 크라임>을 보고 나서 (스포 O) - 애슐리 쥬드, ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91913202?category=61633579"/>
         <updated>2024-02-05T01:50:12.593Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13981point (45%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류이치사카모토 오퍼스]]></title>
-        <id>https://extmovie.com/movietalk/91912166?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91912166?category=61633579"/>
-        <updated>2024-02-04T10:11:29.442Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:353point (88%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아리엘라]]></content>
     </entry>
 </feed>

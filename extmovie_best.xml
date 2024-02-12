@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-12T20:11:49.119Z</updated>
+    <updated>2024-02-12T21:10:02.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(약스포) ‘살인자ㅇ난감’ 이 누나의 정체 (정이서)]]></title>
+        <id>https://extmovie.com/bestboard/91932622</id>
+        <link href="https://extmovie.com/bestboard/91932622"/>
+        <updated>2024-02-12T21:09:47.579Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4312787point (62%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[괴물] 고레에다 히로카즈가 경험한 韓 영화와 日 영화]]></title>
         <id>https://extmovie.com/bestboard/91932151</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91930075"/>
         <updated>2024-02-11T15:12:21.045Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1351993point (51%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로리타.  쇼걸.  업데이트 (넷플릭스)]]></title>
-        <id>https://extmovie.com/bestboard/91929962</id>
-        <link href="https://extmovie.com/bestboard/91929962"/>
-        <updated>2024-02-11T15:12:21.046Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1354860point (54%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

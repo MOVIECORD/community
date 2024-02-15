@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-15T18:16:02.713Z</updated>
+    <updated>2024-02-15T19:10:26.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[‘마담 웹’ 팝콘 엎어짐 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -58,6 +58,13 @@
         <id>https://extmovie.com/bestboard/91940968</id>
         <link href="https://extmovie.com/bestboard/91940968"/>
         <updated>2024-02-15T12:19:38.229Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4317117point (63%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['판타스틱 포' 발렌타인데이 포스터에서 밝혀진 10가지 사실 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91940916</id>
+        <link href="https://extmovie.com/bestboard/91940916"/>
+        <updated>2024-02-15T19:10:11.066Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4317117point (63%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/91938618"/>
         <updated>2024-02-15T00:49:29.388Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1444point (44%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추자현, 우효광 <파워서클즈>잡지 발렌타인데이 화보 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91938541</id>
-        <link href="https://extmovie.com/bestboard/91938541"/>
-        <updated>2024-02-15T02:17:47.575Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162013point (6%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱 ‘동조자’ 스틸들 (익스트림무비 ─ 영화정보)]]></title>

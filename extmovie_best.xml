@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-16T20:11:36.395Z</updated>
+    <updated>2024-02-16T21:09:59.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4034207point (6%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[패스트라이브즈 에 쓰인 노래   김광석 ' 너무 아픈 사랑은 사랑...]]></title>
+        <id>https://extmovie.com/bestboard/91943222</id>
+        <link href="https://extmovie.com/bestboard/91943222"/>
+        <updated>2024-02-16T21:09:43.883Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:121044point (80%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[메가박스 MX4D 2월 상영작 소개]]></title>
         <id>https://extmovie.com/bestboard/91943215</id>
         <link href="https://extmovie.com/bestboard/91943215"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91942346"/>
         <updated>2024-02-16T01:43:09.909Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:140427point (2%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘듄 파트 2’ 스크린 X 포스터]]></title>
-        <id>https://extmovie.com/bestboard/91942338</id>
-        <link href="https://extmovie.com/bestboard/91942338"/>
-        <updated>2024-02-16T11:08:41.922Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4317770point (63%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

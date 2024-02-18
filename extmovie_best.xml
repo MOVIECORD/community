@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-18T21:09:37.453Z</updated>
+    <updated>2024-02-18T22:12:01.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예매권 긇다 사고닜네요....]]></title>
+        <id>https://extmovie.com/bestboard/91949264</id>
+        <link href="https://extmovie.com/bestboard/91949264"/>
+        <updated>2024-02-18T22:11:46.155Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:39824point (3%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월요일 듄2 언론시사 한다던대요 ~]]></title>
+        <id>https://extmovie.com/bestboard/91949256</id>
+        <link href="https://extmovie.com/bestboard/91949256"/>
+        <updated>2024-02-18T22:11:46.164Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:305588point (55%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[파묘] 예매율 1위 달성]]></title>
         <id>https://extmovie.com/bestboard/91949128</id>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/91947079</id>
         <link href="https://extmovie.com/bestboard/91947079"/>
         <updated>2024-02-18T00:52:42.801Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4318783point (63%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '살인자O난감' N가지 비하인드]]></title>
-        <id>https://extmovie.com/bestboard/91946981</id>
-        <link href="https://extmovie.com/bestboard/91946981"/>
-        <updated>2024-02-18T00:52:42.801Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4318783point (63%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유 인스타 업뎃]]></title>
-        <id>https://extmovie.com/bestboard/91946965</id>
-        <link href="https://extmovie.com/bestboard/91946965"/>
-        <updated>2024-02-17T15:11:08.929Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4318783point (63%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

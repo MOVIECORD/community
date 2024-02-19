@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-19T10:13:05.076Z</updated>
+    <updated>2024-02-19T11:09:47.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가여운것들 노스포 후기]]></title>
+        <id>https://extmovie.com/movietalk/91951957?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91951957?category=61633579"/>
+        <updated>2024-02-19T11:09:39.282Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1026point (47%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<듄: 파트 2> 간단 평]]></title>
         <id>https://extmovie.com/movietalk/91951125?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91926231?category=61633579"/>
         <updated>2024-02-09T10:13:12.137Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7481point (11%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알로하 (2015) 괜찮은 로맨스무비. 과잉이라서 관객들이 생...]]></title>
-        <id>https://extmovie.com/movietalk/91911054?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91911054?category=61633579"/>
-        <updated>2024-02-09T02:16:30.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33570point (30%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

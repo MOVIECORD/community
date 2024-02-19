@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-19T19:09:36.347Z</updated>
+    <updated>2024-02-19T20:11:34.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1353286point (53%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[케이트 블란쳇, 6년 전 드레스를 리폼해서 입고 등장]]></title>
+        <id>https://extmovie.com/bestboard/91952399</id>
+        <link href="https://extmovie.com/bestboard/91952399"/>
+        <updated>2024-02-19T20:11:19.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1353286point (53%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[루니 마라, 호아킨 피닉스와의 둘째 아이 임신]]></title>
         <id>https://extmovie.com/bestboard/91952293</id>
         <link href="https://extmovie.com/bestboard/91952293"/>
         <updated>2024-02-19T16:15:40.320Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1353286point (53%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니플러스 코리아 , 킹덤&무빙 스타  차기 프로젝트 합류]]></title>
+        <id>https://extmovie.com/bestboard/91952264</id>
+        <link href="https://extmovie.com/bestboard/91952264"/>
+        <updated>2024-02-19T20:11:19.244Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/30.gif" alt="[레벨:30]" title="포인트:121472point (82%), 레벨:30/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아메리카 페레라, 레오나르도 디카프리오를 만나 울음을 터뜨린 이유는?]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91950416"/>
         <updated>2024-02-19T09:11:56.609Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:140954point (4%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄: 파트 2' 시사 보러 왔습니다.]]></title>
-        <id>https://extmovie.com/bestboard/91950401</id>
-        <link href="https://extmovie.com/bestboard/91950401"/>
-        <updated>2024-02-19T06:15:17.620Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4035143point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 또 추가된 베를린영화제 시사 반응]]></title>
-        <id>https://extmovie.com/bestboard/91950276</id>
-        <link href="https://extmovie.com/bestboard/91950276"/>
-        <updated>2024-02-19T04:13:34.984Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4035143point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

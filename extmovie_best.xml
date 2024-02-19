@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-19T18:14:48.560Z</updated>
+    <updated>2024-02-19T19:09:36.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14090point (50%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[일본 야쿠자 전문 배우와 마동석 기념 사진]]></title>
+        <id>https://extmovie.com/bestboard/91952194</id>
+        <link href="https://extmovie.com/bestboard/91952194"/>
+        <updated>2024-02-19T19:09:20.993Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4035143point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[워너 영화 IMAX 예고편으로 좋았던 거, 별로였던 거]]></title>
         <id>https://extmovie.com/bestboard/91952158</id>
         <link href="https://extmovie.com/bestboard/91952158"/>
@@ -46,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/91952128"/>
         <updated>2024-02-19T18:14:33.193Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4035143point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마블&DC 은퇴,희생 장면 top 7]]></title>
+        <id>https://extmovie.com/bestboard/91952013</id>
+        <link href="https://extmovie.com/bestboard/91952013"/>
+        <updated>2024-02-19T19:09:20.999Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1542point (62%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['지구를 지켜라' 리메이크 여름 촬영 소식 상세]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91950276"/>
         <updated>2024-02-19T04:13:34.984Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4035143point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[릴레이 티켓으로 공짜 영화 보세요]]></title>
-        <id>https://extmovie.com/bestboard/91950220</id>
-        <link href="https://extmovie.com/bestboard/91950220"/>
-        <updated>2024-02-19T10:12:49.339Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:363point (90%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">minnie200]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외에서 경쟁 붙은 '마담 웹' VS '모비우스']]></title>
-        <id>https://extmovie.com/bestboard/91950167</id>
-        <link href="https://extmovie.com/bestboard/91950167"/>
-        <updated>2024-02-19T06:15:17.620Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4319911point (63%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

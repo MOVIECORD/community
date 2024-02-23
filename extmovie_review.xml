@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-23T16:13:27.830Z</updated>
+    <updated>2024-02-23T17:10:43.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 파묘 '호'후기]]></title>
+        <id>https://extmovie.com/movietalk/91967532?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91967532?category=61633579"/>
+        <updated>2024-02-23T17:10:35.784Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13339point (16%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<킹 아서: 제왕의 검>을 보고 나서 (스포 X) - 클라이...]]></title>
         <id>https://extmovie.com/movietalk/91967336?category=61633579</id>
@@ -31,14 +38,14 @@
         <id>https://extmovie.com/movietalk/91965926?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91965926?category=61633579"/>
         <updated>2024-02-23T06:15:34.912Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15675point (19%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15677point (19%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포)후반부가 많이 아쉬웠던 작품 '파묘' 후기]]></title>
         <id>https://extmovie.com/movietalk/91965732?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91965732?category=61633579"/>
         <updated>2024-02-23T05:11:51.613Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2435point (18%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2439point (19%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[丑三つの村 (1983) - 일본 최악 엽기살인의 영화화. 스포일...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91944413?category=61633579"/>
         <updated>2024-02-16T12:19:06.769Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1354278point (54%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<23 아이덴티티>를 보고 나서 (스포 O) - M. 나이트 ...]]></title>
-        <id>https://extmovie.com/movietalk/91943342?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91943342?category=61633579"/>
-        <updated>2024-02-16T05:11:31.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7747point (26%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

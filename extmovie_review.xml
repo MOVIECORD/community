@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-24T12:17:36.488Z</updated>
+    <updated>2024-02-24T13:12:14.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파묘 4Dx 후기.. (스포있음)]]></title>
+        <id>https://extmovie.com/movietalk/91970324?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91970324?category=61633579"/>
+        <updated>2024-02-24T13:12:04.924Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2533point (28%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<에비타>를 보고 나서 (스포 X) - 마돈나 주연 작품]]></title>
         <id>https://extmovie.com/movietalk/91970172?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91944960?category=61633579"/>
         <updated>2024-02-16T16:13:48.162Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7766point (27%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건국전쟁(2024) 아쉬움 반 흥미 반. 영화로 치면 국제시장급.]]></title>
-        <id>https://extmovie.com/movietalk/91944549?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91944549?category=61633579"/>
-        <updated>2024-02-16T13:12:01.964Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34079point (45%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

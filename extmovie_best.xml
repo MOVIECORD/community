@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-25T20:10:51.879Z</updated>
+    <updated>2024-02-25T21:11:16.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/91973171"/>
         <updated>2024-02-25T16:13:17.160Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4326595point (65%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파묘 사람 많네요.]]></title>
+        <id>https://extmovie.com/bestboard/91973170</id>
+        <link href="https://extmovie.com/bestboard/91973170"/>
+        <updated>2024-02-25T21:11:00.662Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:469point (15%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DKNY]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최민식 배우가 파묘 무대인사에서 입은 옷]]></title>
@@ -115,14 +122,14 @@
         <id>https://extmovie.com/bestboard/91972433</id>
         <link href="https://extmovie.com/bestboard/91972433"/>
         <updated>2024-02-25T12:18:05.787Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3637point (33%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">꿈꾸는하늘]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3640point (34%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">꿈꾸는하늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포] 파묘 감상기]]></title>
         <id>https://extmovie.com/bestboard/91972424</id>
         <link href="https://extmovie.com/bestboard/91972424"/>
         <updated>2024-02-25T14:09:36.771Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:502point (22%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행인09]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:504point (22%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행인09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파묘 200만 돌파!!!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91971621"/>
         <updated>2024-02-25T08:12:49.037Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5531point (83%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pissx]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAG 시상식에서 나온 이선균 배우 추모 ㅠㅠ]]></title>
-        <id>https://extmovie.com/bestboard/91971562</id>
-        <link href="https://extmovie.com/bestboard/91971562"/>
-        <updated>2024-02-25T04:13:26.498Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5018point (45%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-25T19:10:38.203Z</updated>
+    <updated>2024-02-25T20:10:51.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024년 2월 25일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://extmovie.com/bestboard/91973041"/>
         <updated>2024-02-25T19:10:22.448Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:685point (61%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">므어엉]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블레이드 러너 2049 후기 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/91972998</id>
+        <link href="https://extmovie.com/bestboard/91972998"/>
+        <updated>2024-02-25T20:10:36.853Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1005point (41%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라이언고슬밥]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마동석 인스타 - 베를린 영화제 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/91971562"/>
         <updated>2024-02-25T04:13:26.498Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5018point (45%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영 밀란 패션위크 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/91971480</id>
-        <link href="https://extmovie.com/bestboard/91971480"/>
-        <updated>2024-02-25T14:09:36.783Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4326595point (65%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파묘 4일차 누적 관객 230만명쯤이네요 (익스트림무비 ─ 영화정보)]]></title>

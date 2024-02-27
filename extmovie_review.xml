@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-27T06:14:18.434Z</updated>
+    <updated>2024-02-27T07:12:36.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재밌었던 파묘 노스포 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/91979252?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91979252?category=61633579"/>
+        <updated>2024-02-27T07:12:28.909Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1794point (10%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너의시간속으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여기는 아미코 간단리뷰] 순수한 어린아이의 관점에서 바라...]]></title>
         <id>https://extmovie.com/movietalk/91978053?category=61633579</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/91973151?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91973151?category=61633579"/>
         <updated>2024-02-25T14:09:44.454Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54952point (51%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54954point (51%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포] 파묘 감상기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91960012?category=61633579"/>
         <updated>2024-02-21T19:09:27.471Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:24point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">정수호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(*약스포) <바튼 아카데미> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/91959584?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91959584?category=61633579"/>
-        <updated>2024-02-21T15:11:23.126Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1355327point (55%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

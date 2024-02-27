@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-02-27T22:12:06.332Z</updated>
+    <updated>2024-02-27T23:10:35.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’ 300만 돌파]]></title>
+        <id>https://extmovie.com/movietalk/91981202?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91981202?category=21915420"/>
+        <updated>2024-02-27T23:10:23.754Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3183point (94%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">crazylove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아마존, 파업전 ‘로드하우스’ 배우들 목소리 AI 복제 혐의로...]]></title>
         <id>https://extmovie.com/movietalk/91981001?category=21915420</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/91979017?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91979017?category=21915420"/>
         <updated>2024-02-27T06:14:06.812Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4329150point (65%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레베카 퍼거슨이 올린 '듄 파트 2' 뉴욕 프리미어...]]></title>
-        <id>https://extmovie.com/movietalk/91979000?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91979000?category=21915420"/>
-        <updated>2024-02-27T06:14:06.815Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4329150point (65%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

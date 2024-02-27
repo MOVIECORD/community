@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-27T20:11:58.680Z</updated>
+    <updated>2024-02-27T21:09:59.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -143,7 +143,7 @@
         <id>https://extmovie.com/bestboard/91979641</id>
         <link href="https://extmovie.com/bestboard/91979641"/>
         <updated>2024-02-27T14:10:48.708Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:967point (30%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">므어엉]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:969point (31%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">므어엉]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혹시 김명민 배우 근황 아시는 분 계신가요?]]></title>
@@ -223,6 +223,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4328976point (65%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[롯데시네마는 듄 관련 이벤트가 없나보네여]]></title>
+        <id>https://extmovie.com/bestboard/91979032</id>
+        <link href="https://extmovie.com/bestboard/91979032"/>
+        <updated>2024-02-27T21:09:44.104Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10462point (77%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오오옹이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['듄 파트 2' 70미리 IMAX 릴의 무게는?]]></title>
         <id>https://extmovie.com/bestboard/91979017</id>
         <link href="https://extmovie.com/bestboard/91979017"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91978884"/>
         <updated>2024-02-27T07:12:21.419Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4038421point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<성난 사람들> 시즌 2, 제이크 질렌할 & 앤 해서웨이 출연 ...]]></title>
-        <id>https://extmovie.com/bestboard/91978764</id>
-        <link href="https://extmovie.com/bestboard/91978764"/>
-        <updated>2024-02-27T07:12:21.420Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1355343point (55%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

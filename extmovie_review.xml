@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-28T06:14:46.745Z</updated>
+    <updated>2024-02-28T07:10:42.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[듄2 스포일러 후기]]></title>
+        <id>https://extmovie.com/movietalk/91983319?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91983319?category=61633579"/>
+        <updated>2024-02-28T07:10:34.662Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2653point (40%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[듄 2 불호 후기(스포)-욕 먹을 각오로 썼습니다ㅠㅠ]]></title>
         <id>https://extmovie.com/movietalk/91982818?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91982818?category=61633579"/>
-        <updated>2024-02-28T06:14:39.166Z</updated>
+        <updated>2024-02-28T07:10:34.663Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5553point (84%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
     </entry>
     <entry>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/91970324?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91970324?category=61633579"/>
         <updated>2024-02-24T13:12:04.924Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2539point (29%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2653point (40%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<에비타>를 보고 나서 (스포 X) - 마돈나 주연 작품]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91965732?category=61633579"/>
         <updated>2024-02-23T05:11:51.613Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2461point (21%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丑三つの村 (1983) - 일본 최악 엽기살인의 영화화. 스포일...]]></title>
-        <id>https://extmovie.com/movietalk/91964916?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91964916?category=61633579"/>
-        <updated>2024-02-23T02:17:04.226Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34079point (45%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

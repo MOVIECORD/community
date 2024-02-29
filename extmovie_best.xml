@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-29T21:12:54.355Z</updated>
+    <updated>2024-02-29T22:10:20.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/91988494"/>
         <updated>2024-02-29T13:12:02.270Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4039389point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호주 영화관 <듄: 파트2> 이벤트]]></title>
+        <id>https://extmovie.com/bestboard/91988473</id>
+        <link href="https://extmovie.com/bestboard/91988473"/>
+        <updated>2024-02-29T22:10:05.560Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1341point (24%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">므어엉]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드류 베리모어, ‘크롭탑을 입고 싶다’는 딸에게 “안 된다”고 했더니]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/91987004</id>
         <link href="https://extmovie.com/bestboard/91987004"/>
         <updated>2024-02-29T13:12:02.284Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1360120point (60%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1360122point (60%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파묘-듄 예매량이 약 20만장 차이나네요]]></title>
@@ -237,17 +244,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1809point (13%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">병타]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[듄 오리지널 V 리메이크 작 비교 일러스트]]></title>
-        <id>https://extmovie.com/bestboard/91985968</id>
-        <link href="https://extmovie.com/bestboard/91985968"/>
-        <updated>2024-02-29T06:14:40.979Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1360120point (60%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[파묘] 결국은 헛발 찬 감독(부제: 외국 개봉은 하지 말길) (스포)]]></title>
-        <id>https://extmovie.com/bestboard/91985872</id>
-        <link href="https://extmovie.com/bestboard/91985872"/>
-        <updated>2024-02-29T08:13:33.095Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2724point (47%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">rnehwk]]></content>
+        <title type="html"><![CDATA[데이브 바티스타, “이번에는 섬뜩한 악당을 연기하고 싶다”]]></title>
+        <id>https://extmovie.com/bestboard/91986056</id>
+        <link href="https://extmovie.com/bestboard/91986056"/>
+        <updated>2024-02-29T22:10:05.592Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1355903point (55%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

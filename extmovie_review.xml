@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-02-29T03:13:02.102Z</updated>
+    <updated>2024-02-29T04:13:47.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(약스포) <듄 2>: 아쉬움이 있지만 걸작임에는 분명하다]]></title>
+        <id>https://extmovie.com/movietalk/91986666?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91986666?category=61633579"/>
+        <updated>2024-02-29T04:13:39.599Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1436point (42%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[듄 파트2,  전편보다 못한 속편의 아쉬움(스포)]]></title>
+        <id>https://extmovie.com/movietalk/91986749?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91986749?category=61633579"/>
+        <updated>2024-02-29T04:13:39.603Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1010point (42%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">좋은바람]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[듄: 파트 2 저는 너무 아쉬웠습니다(스포)]]></title>
         <id>https://extmovie.com/movietalk/91986234?category=61633579</id>
@@ -157,7 +171,7 @@
         <id>https://extmovie.com/movietalk/91976583?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91976583?category=61633579"/>
         <updated>2024-02-26T11:08:43.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15948point (30%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15950point (30%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이프 온리(2004) 후기]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/91971740?category=61633579"/>
         <updated>2024-02-25T05:11:20.884Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92961point (71%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 파묘 봤어요 ㅎㅎ]]></title>
-        <id>https://extmovie.com/movietalk/91970820?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91970820?category=61633579"/>
-        <updated>2024-02-24T17:11:45.274Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:917point (16%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화는혼자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파묘 4Dx 후기.. (스포있음)]]></title>
-        <id>https://extmovie.com/movietalk/91970324?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91970324?category=61633579"/>
-        <updated>2024-02-24T13:12:04.924Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2662point (41%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
     </entry>
 </feed>

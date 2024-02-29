@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-02-29T18:14:55.997Z</updated>
+    <updated>2024-02-29T19:08:58.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -122,7 +122,7 @@
         <id>https://extmovie.com/bestboard/91987680</id>
         <link href="https://extmovie.com/bestboard/91987680"/>
         <updated>2024-02-29T10:12:48.384Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3627point (33%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3639point (34%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['도쿄 괴담' 감독 신작 호러 <FPS>]]></title>
@@ -164,7 +164,7 @@
         <id>https://extmovie.com/bestboard/91987011</id>
         <link href="https://extmovie.com/bestboard/91987011"/>
         <updated>2024-02-29T08:13:33.085Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3627point (33%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3639point (34%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실사드라마 "장난을 잘치는 타카기양" 사진]]></title>
@@ -216,6 +216,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4039387point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[듄 2   대  파묘]]></title>
+        <id>https://extmovie.com/bestboard/91986484</id>
+        <link href="https://extmovie.com/bestboard/91986484"/>
+        <updated>2024-02-29T19:08:42.520Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1553point (64%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚜바뚜바띠]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[듄: 파트 2 저는 너무 아쉬웠습니다(스포)]]></title>
         <id>https://extmovie.com/bestboard/91986234</id>
         <link href="https://extmovie.com/bestboard/91986234"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91985872"/>
         <updated>2024-02-29T08:13:33.095Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2724point (47%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">rnehwk]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄2 MEGA MX4D 관람후기 (스포X)]]></title>
-        <id>https://extmovie.com/bestboard/91985842</id>
-        <link href="https://extmovie.com/bestboard/91985842"/>
-        <updated>2024-02-29T11:10:22.580Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1389point (33%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
     </entry>
 </feed>

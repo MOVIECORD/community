@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-02-29T17:10:19.593Z</updated>
+    <updated>2024-02-29T18:14:56.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프랜시스 포드 코폴라 ‘메갈로폴리스’ 가을 IMAX 개봉예정]]></title>
+        <id>https://extmovie.com/movietalk/91989940?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91989940?category=21915420"/>
+        <updated>2024-02-29T18:14:44.226Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4331795point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스트레인저스 챕터 1‘  넷플릭스 ‘울트라맨 라이징‘ 첫포스터]]></title>
+        <id>https://extmovie.com/movietalk/91989932?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/91989932?category=21915420"/>
+        <updated>2024-02-29T18:14:44.226Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4331795point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<패스트 라이브즈>, <가여운 것들> 씨네21 별점]]></title>
         <id>https://extmovie.com/movietalk/91989876?category=21915420</id>
@@ -73,7 +87,7 @@
         <id>https://extmovie.com/movietalk/91989238?category=21915420</id>
         <link href="https://extmovie.com/movietalk/91989238?category=21915420"/>
         <updated>2024-02-29T14:13:29.600Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4331772point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4331795point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알렉스 갈랜드 감독, 커스틴 던스트 [시빌 워] 새 스틸 공개]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/91987813?category=21915420"/>
         <updated>2024-02-29T08:13:37.070Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4039387point (7%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도쿄 괴담' 감독 신작 호러 <FPS>]]></title>
-        <id>https://extmovie.com/movietalk/91987622?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91987622?category=21915420"/>
-        <updated>2024-02-29T07:11:58.747Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1355901point (55%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<슈퍼맨 레거시> 내일 촬영 시작]]></title>
-        <id>https://extmovie.com/movietalk/91987609?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/91987609?category=21915420"/>
-        <updated>2024-02-29T07:11:58.751Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8860point (91%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
 </feed>

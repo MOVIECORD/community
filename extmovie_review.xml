@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-01T19:10:20.214Z</updated>
+    <updated>2024-03-01T20:12:32.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[듄2 미쳤네요. (약스포?)]]></title>
+        <id>https://extmovie.com/movietalk/91992984?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91992984?category=61633579"/>
+        <updated>2024-03-01T20:12:25.407Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1483point (51%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조사자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<가여운 것들>을 보고 나서 (스포 X) - 요르고스 란티...]]></title>
         <id>https://extmovie.com/movietalk/91992916?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91976099?category=61633579"/>
         <updated>2024-02-26T10:12:55.624Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1921point (35%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파묘 후기]]></title>
-        <id>https://extmovie.com/movietalk/91976010?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91976010?category=61633579"/>
-        <updated>2024-02-26T10:12:55.628Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16412point (49%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
 </feed>

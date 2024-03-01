@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-01T14:10:38.216Z</updated>
+    <updated>2024-03-01T15:11:55.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[듄: 파트2 일산 IMAX 간략 후기 노스포]]></title>
+        <id>https://extmovie.com/movietalk/91992655?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91992655?category=61633579"/>
+        <updated>2024-03-01T15:11:48.023Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:529point (28%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노스포] 듄:파트2 - 예술점수10, 재미점수는 글쎄..]]></title>
         <id>https://extmovie.com/movietalk/91992550?category=61633579</id>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/91976583?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91976583?category=61633579"/>
         <updated>2024-02-26T11:08:43.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15963point (30%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15964point (31%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이프 온리(2004) 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91975840?category=61633579"/>
         <updated>2024-02-26T09:12:20.348Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2008point (52%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓랜드 익무 시사로 보고 (약스포)]]></title>
-        <id>https://extmovie.com/movietalk/91973497?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91973497?category=61633579"/>
-        <updated>2024-02-25T17:10:21.791Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:296969point (89%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">인생은아름다워]]></content>
     </entry>
 </feed>

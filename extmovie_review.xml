@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-02T02:15:29.985Z</updated>
+    <updated>2024-03-02T03:11:39.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<파묘> 최악이었습니다.<스포 있음>]]></title>
+        <id>https://extmovie.com/movietalk/91993722?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91993722?category=61633579"/>
+        <updated>2024-03-02T03:11:31.587Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11263point (18%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[듄2 미쳤네요. (약스포?)]]></title>
         <id>https://extmovie.com/movietalk/91992984?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/91987526?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91987526?category=61633579"/>
         <updated>2024-02-29T07:12:02.325Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356176point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356201point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개봉하자마자 듄 파트2 관람하고 왔습니다. (노스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91976583?category=61633579"/>
         <updated>2024-02-26T11:08:43.794Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15965point (31%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이프 온리(2004) 후기]]></title>
-        <id>https://extmovie.com/movietalk/91976099?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91976099?category=61633579"/>
-        <updated>2024-02-26T10:12:55.624Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1921point (35%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
     </entry>
 </feed>

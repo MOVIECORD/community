@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-03T21:10:36.496Z</updated>
+    <updated>2024-03-03T22:09:57.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://extmovie.com/bestboard/91998454"/>
         <updated>2024-03-03T18:13:15.176Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5045point (47%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['티모시 샬라메'에게 출연을 권하는 디즈니 실사영화 캐릭터!!!]]></title>
+        <id>https://extmovie.com/bestboard/91998387</id>
+        <link href="https://extmovie.com/bestboard/91998387"/>
+        <updated>2024-03-03T22:09:42.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:97340point (89%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모 감독이 이승만의 반대편에 강제로 파묘를 배치하는 바람에...]]></title>
+        <id>https://extmovie.com/bestboard/91998373</id>
+        <link href="https://extmovie.com/bestboard/91998373"/>
+        <updated>2024-03-03T22:09:42.241Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:97340point (89%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘  파묘 9 : 1 듄2 이정도로 본듯...........]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/91996150"/>
         <updated>2024-03-03T01:45:48.325Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:97340point (89%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크런치롤 어워드' 2024 올해의 애니 '주술회전' ...]]></title>
-        <id>https://extmovie.com/bestboard/91996120</id>
-        <link href="https://extmovie.com/bestboard/91996120"/>
-        <updated>2024-03-03T07:09:43.792Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4348point (94%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<파묘> 삼일절 무대인사 후기]]></title>
-        <id>https://extmovie.com/bestboard/91996088</id>
-        <link href="https://extmovie.com/bestboard/91996088"/>
-        <updated>2024-03-03T03:11:57.798Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1525point (59%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">므어엉]]></content>
     </entry>
 </feed>

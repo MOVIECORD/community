@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-03T08:14:49.920Z</updated>
+    <updated>2024-03-03T09:11:29.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[듄 파트2 후기, 불호 후기에 대한 개인적인 생각 (스포)]]></title>
+        <id>https://extmovie.com/movietalk/91997775?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91997775?category=61633579"/>
+        <updated>2024-03-03T09:11:21.534Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:140point (35%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바둥이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파묘 영화 후기 (스포)]]></title>
         <id>https://extmovie.com/movietalk/91997739?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91997739?category=61633579"/>
         <updated>2024-03-03T08:14:42.177Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:28point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바둥이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:140point (35%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바둥이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[듄2] 용아맥 C열 관람 후기]]></title>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/91989518?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91989518?category=61633579"/>
         <updated>2024-02-29T15:11:57.635Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13494point (23%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13499point (23%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<엔트랩먼트>를 보고 나서 (스포 X) - 캐서린 제타-존...]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/91987526?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91987526?category=61633579"/>
         <updated>2024-02-29T07:12:02.325Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356692point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356694point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개봉하자마자 듄 파트2 관람하고 왔습니다. (노스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91980428?category=61633579"/>
         <updated>2024-02-27T14:10:56.676Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8202point (53%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포)듄2 3년을 기다렸다.. 짤막한 감상후기]]></title>
-        <id>https://extmovie.com/movietalk/91980386?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91980386?category=61633579"/>
-        <updated>2024-02-27T14:10:56.679Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:167point (41%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로이쭌]]></content>
     </entry>
 </feed>

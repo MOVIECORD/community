@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-03T17:09:23.032Z</updated>
+    <updated>2024-03-03T18:13:33.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2178point (85%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">moviealone]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['듄 2': 장인들이 적외선 기술로 아레나 전투 장면을 촬영한...]]></title>
+        <id>https://extmovie.com/bestboard/91998454</id>
+        <link href="https://extmovie.com/bestboard/91998454"/>
+        <updated>2024-03-03T18:13:15.176Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5045point (47%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오늘  파묘 9 : 1 듄2 이정도로 본듯...........]]></title>
         <id>https://extmovie.com/bestboard/91998336</id>
         <link href="https://extmovie.com/bestboard/91998336"/>
         <updated>2024-03-03T16:12:32.686Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4865point (33%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우울]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4867point (33%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우울]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익명의 2024 아카데미상 투표자들이 선택한 작품들]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/bestboard/91997807</id>
         <link href="https://extmovie.com/bestboard/91997807"/>
         <updated>2024-03-03T17:09:07.653Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4865point (33%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우울]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4867point (33%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우울]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듄 파트2 후기, 불호 후기에 대한 개인적인 생각 (스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/91995925"/>
         <updated>2024-03-02T16:13:24.530Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4040502point (8%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) <파묘> 영화 끝나고 가장 걱정되던 부분.]]></title>
-        <id>https://extmovie.com/bestboard/91995889</id>
-        <link href="https://extmovie.com/bestboard/91995889"/>
-        <updated>2024-03-03T00:51:47.696Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:97340point (89%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
 </feed>

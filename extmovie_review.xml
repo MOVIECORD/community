@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-03T01:46:04.242Z</updated>
+    <updated>2024-03-03T02:19:36.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Le Samourai (1967) 프랑스 갱영화란 이런 것이다. 단연 걸...]]></title>
+        <id>https://extmovie.com/movietalk/91967585?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91967585?category=61633579"/>
+        <updated>2024-03-03T02:19:28.915Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34226point (49%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로스트 인 더스트 후기 스포o]]></title>
         <id>https://extmovie.com/movietalk/91996044?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/91996040?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91996040?category=61633579"/>
         <updated>2024-03-02T16:13:31.694Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4333462point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4333465point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스토커>를 보고 나서 (스포 X) - 박찬욱 감독 작품]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/91987526?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91987526?category=61633579"/>
         <updated>2024-02-29T07:12:02.325Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356510point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356512point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개봉하자마자 듄 파트2 관람하고 왔습니다. (노스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91979564?category=61633579"/>
         <updated>2024-02-27T09:11:11.123Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:830point (93%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">더운크리스마스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재밌었던 파묘 노스포 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/91979252?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91979252?category=61633579"/>
-        <updated>2024-02-27T07:12:28.909Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1841point (19%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너의시간속으로]]></content>
     </entry>
 </feed>

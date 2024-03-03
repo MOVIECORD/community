@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-03T00:52:03.284Z</updated>
+    <updated>2024-03-03T01:46:04.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://extmovie.com/movietalk/91996040?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91996040?category=61633579"/>
         <updated>2024-03-02T16:13:31.694Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4333455point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4333462point (66%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스토커>를 보고 나서 (스포 X) - 박찬욱 감독 작품]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:561point (35%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<바튼 아카데미>를 보고 (스포O)]]></title>
+        <id>https://extmovie.com/movietalk/91992600?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/91992600?category=61633579"/>
+        <updated>2024-03-03T01:45:56.603Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10871point (98%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">폴아트레이드]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[노스포] 듄:파트2 - 예술점수10, 재미점수는 글쎄..]]></title>
         <id>https://extmovie.com/movietalk/91992550?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91992550?category=61633579"/>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/91987526?category=61633579</id>
         <link href="https://extmovie.com/movietalk/91987526?category=61633579"/>
         <updated>2024-02-29T07:12:02.325Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356477point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1356510point (56%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개봉하자마자 듄 파트2 관람하고 왔습니다. (노스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91979252?category=61633579"/>
         <updated>2024-02-27T07:12:28.909Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1841point (19%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너의시간속으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여기는 아미코 간단리뷰] 순수한 어린아이의 관점에서 바라...]]></title>
-        <id>https://extmovie.com/movietalk/91978053?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91978053?category=61633579"/>
-        <updated>2024-02-27T01:41:40.187Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6592point (54%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
     </entry>
 </feed>

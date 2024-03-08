@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-08T15:11:56.416Z</updated>
+    <updated>2024-03-08T16:12:30.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<막걸리가 알려줄거야> 극찬 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/92014862?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92014862?category=61633579"/>
+        <updated>2024-03-08T16:12:22.870Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11335point (21%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<지구가 멈추는 날>을 보고 나서 (스포 X) - 키아누 ...]]></title>
         <id>https://extmovie.com/movietalk/92012719?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/92008358?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92008358?category=61633579"/>
         <updated>2024-03-06T15:13:04.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1357794point (57%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1357816point (57%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대결 애니메이션 후기]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92006956?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92006956?category=61633579"/>
         <updated>2024-03-06T07:11:51.162Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2217point (93%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2220point (94%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[듄2 용포디 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91992550?category=61633579"/>
         <updated>2024-03-01T14:10:30.187Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46063point (61%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄 파트2 후기...굉장한 영화네요(노스포)]]></title>
-        <id>https://extmovie.com/movietalk/91989518?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91989518?category=61633579"/>
-        <updated>2024-02-29T15:11:57.635Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13534point (25%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해질녘]]></content>
     </entry>
 </feed>

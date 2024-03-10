@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-10T01:50:55.173Z</updated>
+    <updated>2024-03-10T02:21:54.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서준 근황이랄까]]></title>
+        <id>https://extmovie.com/bestboard/92017683</id>
+        <link href="https://extmovie.com/bestboard/92017683"/>
+        <updated>2024-03-10T02:21:39.623Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/42.gif" alt="[레벨:42]" title="포인트:334692point (64%), 레벨:42/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 3월 9일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92017459</id>
         <link href="https://extmovie.com/bestboard/92017459"/>
         <updated>2024-03-09T16:12:40.581Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4043107point (8%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4043111point (8%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박력 넘치는 <고질라 X 콩: 뉴 엠파이어> 광고]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/bestboard/92017128</id>
         <link href="https://extmovie.com/bestboard/92017128"/>
         <updated>2024-03-09T21:11:22.671Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4043107point (8%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4043111point (8%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방금 <파묘> 포스터 앞에서 들은 봉길이 연기에 대한 이상한 칭찬.]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/92016714</id>
         <link href="https://extmovie.com/bestboard/92016714"/>
         <updated>2024-03-09T13:10:58.537Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4043107point (8%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4043111point (8%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bruce Willis...식사도 잘 못하는 상태]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92015253"/>
         <updated>2024-03-09T12:17:31.101Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1358257point (58%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파묘, 700만 돌파..천만 서울의 봄보다 4일 빠르다]]></title>
-        <id>https://extmovie.com/bestboard/92015245</id>
-        <link href="https://extmovie.com/bestboard/92015245"/>
-        <updated>2024-03-09T12:17:31.101Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/53.gif" alt="[레벨:53]" title="포인트:538516point (92%), 레벨:53/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

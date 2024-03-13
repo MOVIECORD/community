@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-13T15:12:12.764Z</updated>
+    <updated>2024-03-13T16:13:26.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파묘 불호 후기-서울의 봄과 비교해서는 좀..]]></title>
+        <id>https://extmovie.com/movietalk/92030525?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92030525?category=61633579"/>
+        <updated>2024-03-13T16:13:18.702Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:542point (30%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤일리이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<마담 웹> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/92030179?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92030179?category=61633579"/>
         <updated>2024-03-13T13:12:02.754Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359255point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359259point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부담없이 즐길 수 있는 <극장판 스파이 패밀리 코드 : 화...]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/92008358?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92008358?category=61633579"/>
         <updated>2024-03-06T15:13:04.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359255point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359259point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대결 애니메이션 후기]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92006657?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92006657?category=61633579"/>
         <updated>2024-03-06T06:15:46.070Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39429point (92%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오래구워]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39431point (92%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오래구워]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<마타도르>를 보고 나서 (스포 X) - 페드로 알모도바...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92001458?category=61633579"/>
         <updated>2024-03-04T14:11:19.805Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8863point (91%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄: 파트2. 영화관에 가서 볼 만한 거대 SF 서사(노스포일러)]]></title>
-        <id>https://extmovie.com/movietalk/91998557?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91998557?category=61633579"/>
-        <updated>2024-03-03T15:09:59.152Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1437point (42%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
     </entry>
 </feed>

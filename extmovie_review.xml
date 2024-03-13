@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-13T12:20:25.576Z</updated>
+    <updated>2024-03-13T13:12:09.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<마담 웹> 봤어요]]></title>
+        <id>https://extmovie.com/movietalk/92030179?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92030179?category=61633579"/>
+        <updated>2024-03-13T13:12:02.754Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359191point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부담없이 즐길 수 있는 <극장판 스파이 패밀리 코드 : 화...]]></title>
         <id>https://extmovie.com/movietalk/92025863?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/92022542?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92022542?category=61633579"/>
         <updated>2024-03-11T06:14:27.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8505point (71%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8508point (71%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파묘 봤습니다]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92008358?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92008358?category=61633579"/>
         <updated>2024-03-06T15:13:04.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359172point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359191point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대결 애니메이션 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/91998557?category=61633579"/>
         <updated>2024-03-03T15:09:59.152Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1437point (42%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<플라이트 플랜>을 보고 나서 (스포 O) - 조디 포스터...]]></title>
-        <id>https://extmovie.com/movietalk/91998389?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91998389?category=61633579"/>
-        <updated>2024-03-03T14:10:32.793Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8863point (91%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

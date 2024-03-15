@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-15T13:13:05.888Z</updated>
+    <updated>2024-03-15T14:11:30.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화<화녀> 재미없다고 나갈수는 있지만 잘수는 없는 ...]]></title>
+        <id>https://extmovie.com/movietalk/92036880?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92036880?category=61633579"/>
+        <updated>2024-03-15T14:11:22.761Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1186point (93%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">동선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씁쓸함이 남는 <댓글부대>]]></title>
         <id>https://extmovie.com/movietalk/92035898?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92008358?category=61633579"/>
         <updated>2024-03-06T15:13:04.191Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359597point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대결 애니메이션 후기]]></title>
-        <id>https://extmovie.com/movietalk/92008072?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92008072?category=61633579"/>
-        <updated>2024-03-06T14:10:13.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1106point (70%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">우르르차차]]></content>
     </entry>
 </feed>

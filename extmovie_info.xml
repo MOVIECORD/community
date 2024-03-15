@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-03-15T21:09:53.286Z</updated>
+    <updated>2024-03-15T22:11:41.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<슈퍼맨> 촬영장에서 엔지니어 배우의 모습]]></title>
+        <id>https://extmovie.com/movietalk/92037251?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92037251?category=21915420"/>
+        <updated>2024-03-15T22:11:30.037Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9392point (20%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 3월 15일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/92037099?category=21915420</id>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/92034957?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92034957?category=21915420"/>
         <updated>2024-03-15T01:44:47.434Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9377point (19%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9392point (20%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['하우스 오브 기네스' 시리즈 제작 진행중 - &#03...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92034651?category=21915420"/>
         <updated>2024-03-15T00:49:40.243Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1359597point (59%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<파묘> 막강 조연 군단 스틸 공개]]></title>
-        <id>https://extmovie.com/movietalk/92034654?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92034654?category=21915420"/>
-        <updated>2024-03-15T00:49:40.244Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:146361point (31%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

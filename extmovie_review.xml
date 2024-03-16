@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-16T20:12:01.663Z</updated>
+    <updated>2024-03-16T21:10:28.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<마담 웹>의 거미줄에 걸리다!!]]></title>
+        <id>https://extmovie.com/movietalk/92039629?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92039629?category=61633579"/>
+        <updated>2024-03-16T21:10:20.780Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:30point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화오타쿠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<극장판 스파이 패밀리> 간단 후기]]></title>
         <id>https://extmovie.com/movietalk/92038993?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/92033823?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92033823?category=61633579"/>
         <updated>2024-03-14T14:11:23.406Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:20point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화오타쿠]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:30point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화오타쿠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<화녀> 좀 심각합니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92009169?category=61633579"/>
         <updated>2024-03-07T02:10:45.250Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:236point (59%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BlueMing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파묘... 최민식 배우 대단하네요]]></title>
-        <id>https://extmovie.com/movietalk/92008880?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92008880?category=61633579"/>
-        <updated>2024-03-07T00:40:55.430Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8479point (69%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포행]]></content>
     </entry>
 </feed>

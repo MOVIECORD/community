@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-18T20:13:11.083Z</updated>
+    <updated>2024-03-18T21:13:06.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마담 웹 - 초간단 후기]]></title>
+        <id>https://extmovie.com/movietalk/92045127?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92045127?category=61633579"/>
+        <updated>2024-03-18T21:12:58.519Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:278342point (27%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<식스티 세컨즈>를 보고 나서 (스포 O) - 니콜라스 케...]]></title>
         <id>https://extmovie.com/movietalk/92044842?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92014943?category=61633579"/>
         <updated>2024-03-08T18:13:57.635Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35147point (75%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<막걸리가 알려줄거야> 극찬 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92014862?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92014862?category=61633579"/>
-        <updated>2024-03-08T16:12:22.870Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11677point (38%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

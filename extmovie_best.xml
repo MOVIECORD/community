@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-21T17:10:45.494Z</updated>
+    <updated>2024-03-21T18:14:08.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92052977"/>
         <updated>2024-03-21T12:20:07.623Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1361026point (61%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수사반장 1958 캐릭터 포스터]]></title>
+        <id>https://extmovie.com/bestboard/92052923</id>
+        <link href="https://extmovie.com/bestboard/92052923"/>
+        <updated>2024-03-21T18:13:53.564Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/42.gif" alt="[레벨:42]" title="포인트:336970point (79%), 레벨:42/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[듄: 파트 2] 전편 관객수 돌파]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92050559"/>
         <updated>2024-03-21T00:50:55.265Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:541146point (5%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 3월 20일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/92050505</id>
-        <link href="https://extmovie.com/bestboard/92050505"/>
-        <updated>2024-03-20T22:09:51.719Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4048095point (9%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

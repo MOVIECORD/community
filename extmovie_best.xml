@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-21T19:10:34.571Z</updated>
+    <updated>2024-03-21T20:12:25.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 3월 21일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92053767</id>
+        <link href="https://extmovie.com/bestboard/92053767"/>
+        <updated>2024-03-21T20:12:08.725Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4048095point (9%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼체' 1화 재밌는데요.]]></title>
         <id>https://extmovie.com/bestboard/92053372</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92050712"/>
         <updated>2024-03-20T23:12:36.099Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22060point (64%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">nion]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1980 익무 시사회 후기]]></title>
-        <id>https://extmovie.com/bestboard/92050657</id>
-        <link href="https://extmovie.com/bestboard/92050657"/>
-        <updated>2024-03-21T15:12:13.772Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1125point (75%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
 </feed>

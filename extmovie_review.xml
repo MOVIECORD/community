@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-21T14:11:44.022Z</updated>
+    <updated>2024-03-21T15:12:31.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 극장판 <스파패> 봤어요]]></title>
+        <id>https://extmovie.com/movietalk/92053646?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92053646?category=61633579"/>
+        <updated>2024-03-21T15:12:22.702Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1361020point (61%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<스타워즈 에피소드 1: 보이지 않는 위험>을 보고 나...]]></title>
         <id>https://extmovie.com/movietalk/92053039?category=61633579</id>
@@ -220,14 +227,14 @@
         <id>https://extmovie.com/movietalk/92030525?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92030525?category=61633579"/>
         <updated>2024-03-13T16:13:18.702Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:556point (33%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤일리이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:558point (34%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤일리이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<마담 웹> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/92030179?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92030179?category=61633579"/>
         <updated>2024-03-13T13:12:02.754Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1360980point (60%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1361020point (61%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부담없이 즐길 수 있는 <극장판 스파이 패밀리 코드 : 화...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92025338?category=61633579"/>
         <updated>2024-03-12T04:15:43.403Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2552point (30%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만영화 도장깨기 네 번째 타자 <도둑들> 후기]]></title>
-        <id>https://extmovie.com/movietalk/92024111?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92024111?category=61633579"/>
-        <updated>2024-03-11T16:13:31.814Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11681point (38%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

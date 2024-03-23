@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-23T21:09:41.624Z</updated>
+    <updated>2024-03-23T22:11:02.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://extmovie.com/bestboard/92058899</id>
         <link href="https://extmovie.com/bestboard/92058899"/>
         <updated>2024-03-23T17:09:59.448Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:98852point (95%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:98854point (95%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[약스포] 삼체(3 body ploblem), 잘 만든 하드SF 드라마네요.]]></title>
@@ -52,7 +52,7 @@
         <id>https://extmovie.com/bestboard/92058878</id>
         <link href="https://extmovie.com/bestboard/92058878"/>
         <updated>2024-03-23T16:12:52.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:98852point (95%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:98854point (95%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<악은 존재하지 않는다> 노스포 간단후기]]></title>
@@ -74,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/92058733"/>
         <updated>2024-03-23T15:12:58.117Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1361516point (61%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<쿵푸팬더4> 중국 개봉 첫날 박스오피스 1위, 1억 위안 돌파]]></title>
+        <id>https://extmovie.com/bestboard/92058710</id>
+        <link href="https://extmovie.com/bestboard/92058710"/>
+        <updated>2024-03-23T22:10:44.691Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:162849point (9%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김고은 배우님 싸인 받았어요..!  (파묘 무대인사 후기)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92057187"/>
         <updated>2024-03-23T07:11:32.574Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8102point (47%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 올타임 베스트 만점 영화 리스트]]></title>
-        <id>https://extmovie.com/bestboard/92057065</id>
-        <link href="https://extmovie.com/bestboard/92057065"/>
-        <updated>2024-03-23T02:17:14.399Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11936point (50%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

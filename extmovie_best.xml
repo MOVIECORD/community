@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-23T19:09:18.595Z</updated>
+    <updated>2024-03-23T20:12:23.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92059112"/>
         <updated>2024-03-23T17:09:59.446Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4356945point (71%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<파묘> 천만 고고씽 무대인사 현장 공개]]></title>
+        <id>https://extmovie.com/bestboard/92059080</id>
+        <link href="https://extmovie.com/bestboard/92059080"/>
+        <updated>2024-03-23T20:12:08.436Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:148833point (44%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[곧 다가올 2024 백상예술대상!!후보 예측(영화부문)^^]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92057065"/>
         <updated>2024-03-23T02:17:14.399Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11936point (50%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 배트맨 스핀오프 <팽귄> 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/92056933</id>
-        <link href="https://extmovie.com/bestboard/92056933"/>
-        <updated>2024-03-22T18:14:20.972Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1941point (39%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RandyCunningham]]></content>
     </entry>
 </feed>

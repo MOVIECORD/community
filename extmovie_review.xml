@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-24T18:16:00.647Z</updated>
+    <updated>2024-03-24T19:10:34.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰][넷플릭스] 약사의 혼잣말 - 독특한 배경의 잔잔하지...]]></title>
+        <id>https://extmovie.com/movietalk/92061712?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92061712?category=61633579"/>
+        <updated>2024-03-24T19:10:25.006Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35214point (77%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드니 빌뇌브 감독 초기작 <그을린 사랑> 리뷰]]></title>
         <id>https://extmovie.com/movietalk/92061579?category=61633579</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92038889?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92038889?category=61633579"/>
         <updated>2024-03-16T11:08:55.650Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35201point (77%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화<화녀> 재미없다고 나갈수는 있지만 잘수는 없는 ...]]></title>
-        <id>https://extmovie.com/movietalk/92036880?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92036880?category=61633579"/>
-        <updated>2024-03-15T14:11:22.761Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1313point (19%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">동선]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35214point (77%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

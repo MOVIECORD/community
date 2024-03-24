@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-24T20:10:58.537Z</updated>
+    <updated>2024-03-24T21:09:53.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1361758point (61%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘파묘’ 천만 돌파 기념 비하인드샷들]]></title>
+        <id>https://extmovie.com/bestboard/92060182</id>
+        <link href="https://extmovie.com/bestboard/92060182"/>
+        <updated>2024-03-24T21:09:38.388Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4357239point (71%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[프란시스 포드 코폴라 ‘메갈로폴리스’ 차주 비공개 시사회 예정]]></title>
         <id>https://extmovie.com/bestboard/92060059</id>
         <link href="https://extmovie.com/bestboard/92060059"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92059744"/>
         <updated>2024-03-24T01:53:03.334Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:542108point (10%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<파묘> 천만 관객 돌파]]></title>
-        <id>https://extmovie.com/bestboard/92059700</id>
-        <link href="https://extmovie.com/bestboard/92059700"/>
-        <updated>2024-03-24T01:53:03.335Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:148983point (44%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

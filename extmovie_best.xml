@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-25T20:12:58.275Z</updated>
+    <updated>2024-03-25T21:11:23.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/92063972"/>
         <updated>2024-03-25T14:10:39.247Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:542413point (12%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에밀리 블런트, 신작 <스턴트맨>에서 그레타 거윅을 참고해 역할...]]></title>
+        <id>https://extmovie.com/bestboard/92063911</id>
+        <link href="https://extmovie.com/bestboard/92063911"/>
+        <updated>2024-03-25T21:11:07.885Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362088point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전종서 어제 인스타스토리 무물 짤들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92062269"/>
         <updated>2024-03-25T05:12:25.505Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:542413point (12%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오우삼 감독 ‘사일런트 나잇’ 4월 개봉 포스터]]></title>
-        <id>https://extmovie.com/bestboard/92062229</id>
-        <link href="https://extmovie.com/bestboard/92062229"/>
-        <updated>2024-03-25T07:11:10.705Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3562point (27%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">crazylove]]></content>
     </entry>
 </feed>

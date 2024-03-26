@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-26T16:14:35.468Z</updated>
+    <updated>2024-03-26T17:10:28.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[악마는 존재하지 않는다] 짧은 솔직 후기 (No 스포)]]></title>
+        <id>https://extmovie.com/movietalk/92067896?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92067896?category=61633579"/>
+        <updated>2024-03-26T17:10:21.274Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:15009point (91%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올타임 베스트 만점영화 리스트 갱신 (너와나 추가)]]></title>
         <id>https://extmovie.com/movietalk/92067805?category=61633579</id>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/92053646?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92053646?category=61633579"/>
         <updated>2024-03-21T15:12:22.702Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362291point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362295point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스타워즈 에피소드 1: 보이지 않는 위험>을 보고 나...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92044842?category=61633579"/>
         <updated>2024-03-18T14:11:41.110Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9549point (29%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마담 웹 일산 4DX 후기 노스포]]></title>
-        <id>https://extmovie.com/movietalk/92044313?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92044313?category=61633579"/>
-        <updated>2024-03-18T11:10:44.514Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:614point (46%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
     </entry>
 </feed>

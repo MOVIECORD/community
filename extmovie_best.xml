@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-26T18:14:23.359Z</updated>
+    <updated>2024-03-26T19:10:04.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/92067594</id>
         <link href="https://extmovie.com/bestboard/92067594"/>
         <updated>2024-03-26T18:14:08.495Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:445point (9%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단쟁이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:447point (10%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단쟁이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앤 해서웨이, "놀란 감독은 나의 천사였다"]]></title>
@@ -38,6 +38,13 @@
         <id>https://extmovie.com/bestboard/92067074</id>
         <link href="https://extmovie.com/bestboard/92067074"/>
         <updated>2024-03-26T14:11:11.105Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4049929point (9%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['녹차의 맛' 4월 11일 재개봉]]></title>
+        <id>https://extmovie.com/bestboard/92067063</id>
+        <link href="https://extmovie.com/bestboard/92067063"/>
+        <updated>2024-03-26T19:09:49.942Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4049929point (9%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92065226"/>
         <updated>2024-03-26T03:11:37.133Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362295point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고질라 X 콩' 괴수들과 IMAX 스크린 비교]]></title>
-        <id>https://extmovie.com/bestboard/92065173</id>
-        <link href="https://extmovie.com/bestboard/92065173"/>
-        <updated>2024-03-26T03:11:37.133Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4049929point (9%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

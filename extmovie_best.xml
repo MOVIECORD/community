@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-26T20:12:33.234Z</updated>
+    <updated>2024-03-26T21:11:43.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼체' 드라마, 원작 소설과 큰 차이점]]></title>
+        <id>https://extmovie.com/bestboard/92067665</id>
+        <link href="https://extmovie.com/bestboard/92067665"/>
+        <updated>2024-03-26T21:11:28.380Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4049929point (9%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 - 8월 개봉예정 영화!]]></title>
         <id>https://extmovie.com/bestboard/92067594</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92065327"/>
         <updated>2024-03-26T05:10:44.487Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:542680point (13%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘007’ 새 본드 유력 후보 에런 테일러존슨, 제2대 본드 배우도 지지]]></title>
-        <id>https://extmovie.com/bestboard/92065226</id>
-        <link href="https://extmovie.com/bestboard/92065226"/>
-        <updated>2024-03-26T03:11:37.133Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362295point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

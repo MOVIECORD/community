@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-27T18:15:15.693Z</updated>
+    <updated>2024-03-27T19:09:44.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://extmovie.com/bestboard/92071031</id>
         <link href="https://extmovie.com/bestboard/92071031"/>
         <updated>2024-03-27T18:15:01.064Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:543009point (15%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요르고스 란티모스 새영화 [KINDS OF KINDNESS] 티저 예고편]]></title>
+        <id>https://extmovie.com/bestboard/92070968</id>
+        <link href="https://extmovie.com/bestboard/92070968"/>
+        <updated>2024-03-27T19:09:29.734Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:543009point (15%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92068725"/>
         <updated>2024-03-27T05:12:53.863Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362510point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파묘가 역대 한국영화 수익 1위가 될 가능성]]></title>
-        <id>https://extmovie.com/bestboard/92068675</id>
-        <link href="https://extmovie.com/bestboard/92068675"/>
-        <updated>2024-03-27T03:13:12.287Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223693point (57%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화그리고]]></content>
     </entry>
 </feed>

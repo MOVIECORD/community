@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-03-28T19:08:54.935Z</updated>
+    <updated>2024-03-28T20:13:03.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92075318"/>
         <updated>2024-03-28T18:14:29.185Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4362654point (72%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 3월 28일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92075289</id>
+        <link href="https://extmovie.com/bestboard/92075289"/>
+        <updated>2024-03-28T20:12:48.875Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4050848point (10%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<비키퍼> 시사회 노스포 후기]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92071441</id>
         <link href="https://extmovie.com/bestboard/92071441"/>
         <updated>2024-03-27T20:12:08.073Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4050848point (10%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스필버그가 '듄: 파트 2'에 보낸 찬사, 자세히]]></title>
-        <id>https://extmovie.com/bestboard/92071229</id>
-        <link href="https://extmovie.com/bestboard/92071229"/>
-        <updated>2024-03-28T12:20:59.672Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4050848point (10%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

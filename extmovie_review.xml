@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-29T14:11:01.782Z</updated>
+    <updated>2024-03-29T15:11:06.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[되게 늦게 본 '파묘' (약스포)]]></title>
+        <id>https://extmovie.com/movietalk/92078087?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92078087?category=61633579"/>
+        <updated>2024-03-29T15:10:58.545Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1455point (46%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<나의 올드 오크>를 보고 나서 (스포 O) - 켄 로치 감...]]></title>
         <id>https://extmovie.com/movietalk/92077366?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92061310?category=61633579"/>
         <updated>2024-03-24T13:12:39.179Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:147point (36%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화오타쿠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이 패밀리 극장판 - 처음봤는데도 너무 매력적]]></title>
-        <id>https://extmovie.com/movietalk/92061285?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92061285?category=61633579"/>
-        <updated>2024-03-24T13:12:39.179Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56629point (62%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-30T01:40:42.634Z</updated>
+    <updated>2024-03-30T02:15:07.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고질라X콩: 뉴 엠파이어 용산 4DX 후기 노스포]]></title>
+        <id>https://extmovie.com/movietalk/92078967?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92078967?category=61633579"/>
+        <updated>2024-03-30T02:14:59.993Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:625point (48%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약스포) <댓글부대> 밀착형 사회고발의 전복적 메타포]]></title>
         <id>https://extmovie.com/movietalk/92078256?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/92071008?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92071008?category=61633579"/>
         <updated>2024-03-27T14:11:28.736Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362955point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1362966point (62%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<악은 존재하지 않는다> 별점입니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92061712?category=61633579"/>
         <updated>2024-03-24T19:10:25.006Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35445point (84%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드니 빌뇌브 감독 초기작 <그을린 사랑> 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92061579?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92061579?category=61633579"/>
-        <updated>2024-03-24T16:12:54.395Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12298point (68%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

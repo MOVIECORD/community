@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-03-31T03:13:05.679Z</updated>
+    <updated>2024-03-31T04:14:49.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[라스트 썸머] 나는 내가 지난 여름에 한 일을 알고 있다]]></title>
+        <id>https://extmovie.com/movietalk/92081211?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92081211?category=61633579"/>
+        <updated>2024-03-31T04:14:41.644Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93378point (72%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<루팡 3세: 칼리오스트로의 성>을 보고 나서 (스포 X)...]]></title>
         <id>https://extmovie.com/movietalk/92080503?category=61633579</id>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92071008?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92071008?category=61633579"/>
         <updated>2024-03-27T14:11:28.736Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1363155point (63%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1363168point (63%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<악은 존재하지 않는다> 별점입니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92067573?category=61633579"/>
         <updated>2024-03-26T15:12:05.973Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6181point (27%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<메이 디셈버>를 보고 나서 (스포 O) - 토드 헤인즈 ...]]></title>
-        <id>https://extmovie.com/movietalk/92067488?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92067488?category=61633579"/>
-        <updated>2024-03-26T14:11:19.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9850point (44%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

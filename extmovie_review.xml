@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-02T02:21:16.407Z</updated>
+    <updated>2024-04-02T03:14:49.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소설가 님께서 나눔해주신 <쿵푸팬더 4> 후기]]></title>
+        <id>https://extmovie.com/movietalk/92086389?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92086389?category=61633579"/>
+        <updated>2024-04-02T03:14:41.421Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22996point (98%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">귀장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 드디어 댓글부대 입성]]></title>
         <id>https://extmovie.com/movietalk/92085287?category=61633579</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92071008?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92071008?category=61633579"/>
         <updated>2024-03-27T14:11:28.736Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1363563point (63%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<악은 존재하지 않는다> 별점입니다.]]></title>
-        <id>https://extmovie.com/movietalk/92070592?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92070592?category=61633579"/>
-        <updated>2024-03-27T11:09:56.750Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12342point (70%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1363565point (63%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

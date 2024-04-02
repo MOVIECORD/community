@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-02T05:11:06.514Z</updated>
+    <updated>2024-04-02T06:15:36.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유미의 세포들 더 무비 시사회 보고왔어요]]></title>
+        <id>https://extmovie.com/movietalk/92086840?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92086840?category=61633579"/>
+        <updated>2024-04-02T06:15:29.062Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:475point (16%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오스틴무비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소설가 님께서 나눔해주신 <쿵푸팬더 4> 후기]]></title>
         <id>https://extmovie.com/movietalk/92086389?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92086389?category=61633579"/>
         <updated>2024-04-02T03:14:41.421Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22998point (98%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">귀장]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:23000point (98%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">귀장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 드디어 댓글부대 입성]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/92076296?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92076296?category=61633579"/>
         <updated>2024-03-29T04:14:42.058Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34606point (60%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34608point (60%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강스포) <악존않> 결말에 대한 흥미로운 해석이 있는...]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/92072417?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92072417?category=61633579"/>
         <updated>2024-03-28T00:50:09.579Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34687point (62%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34689point (62%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은후기] <오키쿠와 세계> : 세계는, 저쪽을 향해 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92071319?category=61633579"/>
         <updated>2024-03-27T15:12:54.406Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12342point (70%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포) <고 X 콩: 뉴 엠파이어> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/92071008?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92071008?category=61633579"/>
-        <updated>2024-03-27T14:11:28.736Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1363591point (63%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

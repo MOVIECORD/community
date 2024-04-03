@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-03T17:10:29.673Z</updated>
+    <updated>2024-04-03T18:14:29.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스포] 씬 간단평]]></title>
+        <id>https://extmovie.com/movietalk/92091820?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92091820?category=61633579"/>
+        <updated>2024-04-03T18:14:21.712Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:79point (19%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서탈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 '모르는 이야기'를 보고]]></title>
+        <id>https://extmovie.com/movietalk/92091768?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92091768?category=61633579"/>
+        <updated>2024-04-03T18:14:21.713Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15625point (17%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<비키퍼>를 보고 나서 (스포 X) - 제이슨 스타뎀 주연...]]></title>
         <id>https://extmovie.com/movietalk/92091595?category=61633579</id>
@@ -143,7 +157,7 @@
         <id>https://extmovie.com/movietalk/92081526?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92081526?category=61633579"/>
         <updated>2024-03-31T08:14:05.406Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15612point (16%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15625point (17%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포일러포함)댓글부대 영화 보고왔습니다]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92076674?category=61633579"/>
         <updated>2024-03-29T06:15:01.877Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1111point (71%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에에올]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무 생각없이 머리비우고 보는 팝콘무비 "비키퍼"]]></title>
-        <id>https://extmovie.com/movietalk/92076296?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92076296?category=61633579"/>
-        <updated>2024-03-29T04:14:42.058Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34610point (60%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강스포) <악존않> 결말에 대한 흥미로운 해석이 있는...]]></title>
-        <id>https://extmovie.com/movietalk/92075245?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92075245?category=61633579"/>
-        <updated>2024-03-28T15:13:21.733Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12458point (75%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

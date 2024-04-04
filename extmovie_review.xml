@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-04T06:16:06.849Z</updated>
+    <updated>2024-04-04T07:11:34.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<모르는 이야기> 시사회 후기]]></title>
+        <id>https://extmovie.com/movietalk/92093537?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92093537?category=61633579"/>
+        <updated>2024-04-04T07:11:26.485Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:24point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MSN00100]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '모르는 이야기'를 보고]]></title>
         <id>https://extmovie.com/movietalk/92091768?category=61633579</id>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92081211?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92081211?category=61633579"/>
         <updated>2024-03-31T04:14:41.644Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93382point (72%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93421point (73%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<루팡 3세: 칼리오스트로의 성>을 보고 나서 (스포 X)...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92076674?category=61633579"/>
         <updated>2024-03-29T06:15:01.877Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1114point (72%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에에올]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무 생각없이 머리비우고 보는 팝콘무비 "비키퍼"]]></title>
-        <id>https://extmovie.com/movietalk/92076296?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92076296?category=61633579"/>
-        <updated>2024-04-04T04:15:16.006Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34715point (63%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
 </feed>

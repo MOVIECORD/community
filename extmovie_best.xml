@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-05T18:14:14.994Z</updated>
+    <updated>2024-04-05T19:11:15.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/92097427"/>
         <updated>2024-04-05T14:12:37.171Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:278920point (29%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스의 '골드핑거' 응원 영상]]></title>
+        <id>https://extmovie.com/bestboard/92097385</id>
+        <link href="https://extmovie.com/bestboard/92097385"/>
+        <updated>2024-04-05T19:11:00.483Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4053883point (10%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓드라마 폄하할 땐 언제고…스다 마사키 [기생수: 더 그레이] 깜짝 등장]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92094885"/>
         <updated>2024-04-04T22:10:11.248Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4053883point (10%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['늑대인간' 리부트 버전, 2025년 1월 미국 개봉 예정]]></title>
-        <id>https://extmovie.com/bestboard/92094767</id>
-        <link href="https://extmovie.com/bestboard/92094767"/>
-        <updated>2024-04-05T01:45:08.096Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1364201point (64%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

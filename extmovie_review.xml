@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-05T00:50:43.515Z</updated>
+    <updated>2024-04-05T01:45:23.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[비키퍼] 황당하지만 통쾌한, 통쾌하지만 황당한]]></title>
+        <id>https://extmovie.com/movietalk/92095831?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92095831?category=61633579"/>
+        <updated>2024-04-05T01:45:15.342Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93433point (73%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<마더스>를 보고 나서 (스포 O) - 앤 해서웨이, 제시...]]></title>
         <id>https://extmovie.com/movietalk/92094739?category=61633579</id>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/92081211?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92081211?category=61633579"/>
         <updated>2024-03-31T04:14:41.644Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93421point (73%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93433point (73%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<루팡 3세: 칼리오스트로의 성>을 보고 나서 (스포 X)...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92078087?category=61633579"/>
         <updated>2024-03-29T15:10:58.545Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1459point (46%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<나의 올드 오크>를 보고 나서 (스포 O) - 켄 로치 감...]]></title>
-        <id>https://extmovie.com/movietalk/92077366?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92077366?category=61633579"/>
-        <updated>2024-03-29T11:11:17.278Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10156point (61%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-06T21:10:46.658Z</updated>
+    <updated>2024-04-06T22:09:57.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92099488"/>
         <updated>2024-04-06T17:11:22.198Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31027point (56%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<인피니티 풀>의 기괴한 가면 디자인한 리차드 라포스트]]></title>
+        <id>https://extmovie.com/bestboard/92099329</id>
+        <link href="https://extmovie.com/bestboard/92099329"/>
+        <updated>2024-04-06T22:09:42.303Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1364519point (64%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['간츠' 작가의 기생수 더 그레이 소감]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92097536"/>
         <updated>2024-04-05T18:13:59.958Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4054190point (10%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리 앤 모스 ‘애콜라이트’ 뉴 스틸]]></title>
-        <id>https://extmovie.com/bestboard/92097510</id>
-        <link href="https://extmovie.com/bestboard/92097510"/>
-        <updated>2024-04-06T00:48:27.527Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4371354point (74%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

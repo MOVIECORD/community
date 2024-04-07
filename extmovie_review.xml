@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-07T16:12:44.693Z</updated>
+    <updated>2024-04-07T17:11:46.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nazareno Cruz and the Wolf (1975) 괴작. 스포일러 있음.]]></title>
+        <id>https://extmovie.com/movietalk/92102066?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92102066?category=61633579"/>
+        <updated>2024-04-07T17:11:39.115Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34769point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<쿠 드 샹스>를 보고 나서 (스포 O) - 우디 앨런 감독...]]></title>
         <id>https://extmovie.com/movietalk/92101824?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92100795?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92100795?category=61633579"/>
         <updated>2024-04-07T05:12:46.525Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34755point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34769point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[댓글부대] 솔직 후기 (스포 X)]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92098283?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92098283?category=61633579"/>
         <updated>2024-04-06T03:13:04.292Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34755point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34769point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<씬>을 보고 난 후...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92081666?category=61633579"/>
         <updated>2024-03-31T09:11:22.596Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10274point (67%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연결점] 악은 존재하지 않는다, 기생충, 도그빌 (스포 O)]]></title>
-        <id>https://extmovie.com/movietalk/92081526?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92081526?category=61633579"/>
-        <updated>2024-03-31T08:14:05.406Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15829point (25%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

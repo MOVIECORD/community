@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-07T20:12:59.905Z</updated>
+    <updated>2024-04-07T21:10:57.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -101,7 +101,7 @@
         <id>https://extmovie.com/bestboard/92100795</id>
         <link href="https://extmovie.com/bestboard/92100795"/>
         <updated>2024-04-07T10:10:43.014Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34769point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34770point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시4 예매 오픈.이번에도 천만영화일까요?]]></title>
@@ -123,6 +123,13 @@
         <link href="https://extmovie.com/bestboard/92100743"/>
         <updated>2024-04-07T06:14:04.826Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1364674point (64%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기생수 후기]]></title>
+        <id>https://extmovie.com/bestboard/92100690</id>
+        <link href="https://extmovie.com/bestboard/92100690"/>
+        <updated>2024-04-07T21:10:41.097Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1844point (20%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미래영화감독]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포) ‘듄 파트 2’ 멋졌던 오프닝신중 하나]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92100008"/>
         <updated>2024-04-07T19:08:49.183Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1364674point (64%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포) ‘기생수 더 그레이’ 정주행 단평 - CG는 발군이나 전투는 실...]]></title>
-        <id>https://extmovie.com/bestboard/92099876</id>
-        <link href="https://extmovie.com/bestboard/92099876"/>
-        <updated>2024-04-06T18:13:29.470Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4372002point (74%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

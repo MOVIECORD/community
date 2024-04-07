@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-04-07T01:53:22.124Z</updated>
+    <updated>2024-04-07T02:22:19.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘트론 아레스’ 개봉일 티저 포스터]]></title>
+        <id>https://extmovie.com/movietalk/92100637?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92100637?category=21915420"/>
+        <updated>2024-04-07T02:22:08.467Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4371553point (74%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스포) ‘듄 파트 2’ 멋졌던 오프닝신중 하나]]></title>
+        <id>https://extmovie.com/movietalk/92100628?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92100628?category=21915420"/>
+        <updated>2024-04-07T02:22:08.467Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4371553point (74%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양자경 & 사나다 히로유키 <예스 마담 2> 액션 씬]]></title>
         <id>https://extmovie.com/movietalk/92100589?category=21915420</id>
@@ -24,7 +38,7 @@
         <id>https://extmovie.com/movietalk/92100529?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92100529?category=21915420"/>
         <updated>2024-04-07T01:53:10.694Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4371412point (74%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4371553point (74%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<기생수 파트1> 10주년 기념 재개봉 포스터]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92098328?category=21915420"/>
         <updated>2024-04-06T00:48:31.405Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:545439point (27%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오멘: 저주의 시작] 로튼 토마토 프레시 마크 획득]]></title>
-        <id>https://extmovie.com/movietalk/92098306?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92098306?category=21915420"/>
-        <updated>2024-04-06T00:48:31.407Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:545439point (27%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 카메론의 ‘듄’ 작품들 단평 - ‘순수한 영화’]]></title>
-        <id>https://extmovie.com/movietalk/92098259?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92098259?category=21915420"/>
-        <updated>2024-04-06T00:48:31.408Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4371412point (74%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

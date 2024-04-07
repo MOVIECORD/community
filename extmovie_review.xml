@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-07T04:15:57.026Z</updated>
+    <updated>2024-04-07T05:12:54.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기생수: 더 그레이 (2024) 실망. 스포일러 아주 약간.]]></title>
+        <id>https://extmovie.com/movietalk/92100795?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92100795?category=61633579"/>
+        <updated>2024-04-07T05:12:46.525Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34749point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[댓글부대] 솔직 후기 (스포 X)]]></title>
         <id>https://extmovie.com/movietalk/92099582?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92098283?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92098283?category=61633579"/>
         <updated>2024-04-06T03:13:04.292Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34713point (63%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34749point (64%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<씬>을 보고 난 후...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92081317?category=61633579"/>
         <updated>2024-03-31T05:11:31.125Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1187point (93%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">용산여의도영등포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라스트 썸머] 나는 내가 지난 여름에 한 일을 알고 있다]]></title>
-        <id>https://extmovie.com/movietalk/92081211?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92081211?category=61633579"/>
-        <updated>2024-03-31T04:14:41.644Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93565point (73%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
 </feed>

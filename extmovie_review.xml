@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-10T21:11:09.508Z</updated>
+    <updated>2024-04-10T22:13:02.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[키메라를 보고 짧은 느낌, 별점 (스포있음)]]></title>
-        <id>https://extmovie.com/movietalk/92109783?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92109783?category=61633579"/>
-        <updated>2024-04-10T18:15:46.815Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1039point (51%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MAUS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[쿵푸팬더 4 더빙 후기 노스포]]></title>
         <id>https://extmovie.com/movietalk/92109756?category=61633579</id>
@@ -115,7 +108,7 @@
         <id>https://extmovie.com/movietalk/92101514?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92101514?category=61633579"/>
         <updated>2024-04-07T11:10:37.875Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4375107point (75%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4375346point (75%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기생수: 더 그레이 (2024) 실망. 스포일러 아주 약간.]]></title>
@@ -249,5 +242,12 @@
         <link href="https://extmovie.com/movietalk/92090857?category=61633579"/>
         <updated>2024-04-03T11:10:07.017Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10604point (84%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비키퍼] 오 역시 빡빡이형~~ 👍]]></title>
+        <id>https://extmovie.com/movietalk/92090422?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92090422?category=61633579"/>
+        <updated>2024-04-10T22:12:55.389Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9066point (3%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-11T17:12:11.026Z</updated>
+    <updated>2024-04-11T18:14:07.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92112440"/>
         <updated>2024-04-11T17:11:55.865Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547166point (35%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코폴라 감독 '메갈로폴리스' 관객이 식겁한 장면들]]></title>
+        <id>https://extmovie.com/bestboard/92112225</id>
+        <link href="https://extmovie.com/bestboard/92112225"/>
+        <updated>2024-04-11T18:13:53.230Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4055861point (11%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['베테랑 2' 칸 영화제 초청 소식 상세...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92109485"/>
         <updated>2024-04-11T00:51:31.371Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1739point (99%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샘 레이미 제작 공포영화 ‘Don’t Move'가 넷플릭스에서 스트리밍 ...]]></title>
-        <id>https://extmovie.com/bestboard/92109360</id>
-        <link href="https://extmovie.com/bestboard/92109360"/>
-        <updated>2024-04-11T02:21:17.586Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:213042point (86%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
 </feed>

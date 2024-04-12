@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-12T15:11:30.965Z</updated>
+    <updated>2024-04-12T16:13:53.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<명탐정 코난: 100만 달러의 오릉성> 불호]]></title>
+        <id>https://extmovie.com/movietalk/92115172?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92115172?category=61633579"/>
+        <updated>2024-04-12T16:13:46.489Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44287point (17%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<이상한 나라의 앨리스>를 보고 나서 (스포 X) - 디즈...]]></title>
         <id>https://extmovie.com/movietalk/92114336?category=61633579</id>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/92101514?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92101514?category=61633579"/>
         <updated>2024-04-07T11:10:37.875Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4377557point (75%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4377598point (75%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기생수: 더 그레이 (2024) 실망. 스포일러 아주 약간.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92091595?category=61633579"/>
         <updated>2024-04-03T16:13:45.244Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10792point (94%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<신 가면라이더> 오마주하는 것과 그것만 있는 것의 차이]]></title>
-        <id>https://extmovie.com/movietalk/92091559?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92091559?category=61633579"/>
-        <updated>2024-04-03T16:13:45.247Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12510point (78%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-13T18:11:56.003Z</updated>
+    <updated>2024-04-13T19:08:48.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:547922point (39%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[탕웨이 알리 모델 합류]]></title>
+        <id>https://extmovie.com/bestboard/92117000</id>
+        <link href="https://extmovie.com/bestboard/92117000"/>
+        <updated>2024-04-13T19:08:33.136Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4378021point (75%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김지원 누나 인스타 오늘자]]></title>
         <id>https://extmovie.com/bestboard/92116941</id>
         <link href="https://extmovie.com/bestboard/92116941"/>
         <updated>2024-04-13T15:08:31.562Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4378021point (75%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쿵푸팬더 4] 후기]]></title>
+        <id>https://extmovie.com/bestboard/92116813</id>
+        <link href="https://extmovie.com/bestboard/92116813"/>
+        <updated>2024-04-13T19:08:33.139Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17181point (81%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메의 밥 딜런 영화 촬영장 사진]]></title>
@@ -31,7 +45,7 @@
         <id>https://extmovie.com/bestboard/92116755</id>
         <link href="https://extmovie.com/bestboard/92116755"/>
         <updated>2024-04-13T14:10:51.968Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4376point (97%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4378point (97%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<혹성탈출: 새로운 시대> 새 스틸 공개]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92115225"/>
         <updated>2024-04-13T01:31:01.553Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:163249point (10%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<명탐정 코난: 100만 달러의 오릉성> 불호]]></title>
-        <id>https://extmovie.com/bestboard/92115172</id>
-        <link href="https://extmovie.com/bestboard/92115172"/>
-        <updated>2024-04-13T07:11:22.911Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44289point (18%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 4월 12일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/92115162</id>
-        <link href="https://extmovie.com/bestboard/92115162"/>
-        <updated>2024-04-12T23:10:08.312Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4056562point (11%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

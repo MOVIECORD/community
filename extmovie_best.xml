@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-18T20:13:35.592Z</updated>
+    <updated>2024-04-18T21:10:39.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트랜스포머: 원 티저 예고편 공개]]></title>
+        <id>https://extmovie.com/bestboard/92130184</id>
+        <link href="https://extmovie.com/bestboard/92130184"/>
+        <updated>2024-04-18T21:10:24.487Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2587point (34%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RandyCunningham]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사상 최초 우주에서 공개되는 영화 예고편]]></title>
         <id>https://extmovie.com/bestboard/92130056</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92126903"/>
         <updated>2024-04-18T12:19:45.805Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4058105point (11%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데인 드한, MCU 그린 고블린 복귀여부 대해 언급]]></title>
-        <id>https://extmovie.com/bestboard/92126898</id>
-        <link href="https://extmovie.com/bestboard/92126898"/>
-        <updated>2024-04-17T20:11:56.254Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4383411point (76%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

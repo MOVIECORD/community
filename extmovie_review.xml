@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-18T18:15:12.959Z</updated>
+    <updated>2024-04-18T19:10:10.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스턴트맨 후기-추천!!   (노스포)]]></title>
+        <id>https://extmovie.com/movietalk/92130338?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92130338?category=61633579"/>
+        <updated>2024-04-18T19:10:02.488Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:666point (57%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤일리이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴아웃 (2024) 오랜만에 보는 걸작 SF. 스포일러 아주 약간.]]></title>
         <id>https://extmovie.com/movietalk/92129019?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92101514?category=61633579"/>
         <updated>2024-04-07T11:10:37.875Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4383411point (76%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기생수: 더 그레이 (2024) 실망. 스포일러 아주 약간.]]></title>
-        <id>https://extmovie.com/movietalk/92100795?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92100795?category=61633579"/>
-        <updated>2024-04-07T05:12:46.525Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35684point (90%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

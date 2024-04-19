@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-19T10:14:14.882Z</updated>
+    <updated>2024-04-19T11:11:12.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[약스포] 레벨 문 파트2 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/92132457?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92132457?category=61633579"/>
+        <updated>2024-04-19T11:11:05.287Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1711point (94%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<아리스토캣>을 보고 나서 (스포 X) - 디즈니 애니메...]]></title>
         <id>https://extmovie.com/movietalk/92130961?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92103286?category=61633579"/>
         <updated>2024-04-08T05:12:09.317Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16088point (36%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">슈하님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<쿠 드 샹스>를 보고 나서 (스포 O) - 우디 앨런 감독...]]></title>
-        <id>https://extmovie.com/movietalk/92101824?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92101824?category=61633579"/>
-        <updated>2024-04-07T14:10:32.851Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10879point (99%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

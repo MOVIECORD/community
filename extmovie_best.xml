@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-20T20:11:33.177Z</updated>
+    <updated>2024-04-20T21:10:14.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/92133585"/>
         <updated>2024-04-20T11:08:39.932Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4385855point (77%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴아웃4, 드라마 공개 후 유럽 전역에서 판매량 1위로 도약]]></title>
+        <id>https://extmovie.com/bestboard/92133567</id>
+        <link href="https://extmovie.com/bestboard/92133567"/>
+        <updated>2024-04-20T21:09:59.690Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1369781point (69%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[변요한, 신혜선 주연 <그녀가 죽었다> 5월 15일 개봉확정]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92131643"/>
         <updated>2024-04-19T10:13:59.730Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35264point (79%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<미션 임파서블> 8편으로 톰 크루즈가 졸업? ─ “무시하고 웃어 ...]]></title>
-        <id>https://extmovie.com/bestboard/92131652</id>
-        <link href="https://extmovie.com/bestboard/92131652"/>
-        <updated>2024-04-19T10:13:59.730Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1365916point (65%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

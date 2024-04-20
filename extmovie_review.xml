@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-20T07:10:09.244Z</updated>
+    <updated>2024-04-20T08:13:33.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<기생수> 실사영화 시리즈 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/92133723?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92133723?category=61633579"/>
+        <updated>2024-04-20T08:13:25.859Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1063point (57%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<밤비>를 보고 나서 (스포 X) - 디즈니 애니메이션 작품]]></title>
         <id>https://extmovie.com/movietalk/92133644?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92104709?category=61633579"/>
         <updated>2024-04-08T15:11:18.957Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35825point (95%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<벅스 라이프>를 보고 나서 (스포 O) - 픽사 애니메이...]]></title>
-        <id>https://extmovie.com/movietalk/92104658?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92104658?category=61633579"/>
-        <updated>2024-04-08T14:12:10.128Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:10893point (0%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

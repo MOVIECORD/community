@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-21T18:15:16.229Z</updated>
+    <updated>2024-04-21T19:10:51.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/92135760"/>
         <updated>2024-04-21T14:10:23.652Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/43.gif" alt="[레벨:43]" title="포인트:343457point (23%), 레벨:43/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챌린저스 포스터 문구 빼고싶은데 😭]]></title>
+        <id>https://extmovie.com/bestboard/92135693</id>
+        <link href="https://extmovie.com/bestboard/92135693"/>
+        <updated>2024-04-21T19:10:35.364Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19159point (58%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스]  미성년 5/7 공개 예정]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92133985"/>
         <updated>2024-04-21T13:12:23.106Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:155142point (75%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<기생수> 실사영화 시리즈 리뷰]]></title>
-        <id>https://extmovie.com/bestboard/92133723</id>
-        <link href="https://extmovie.com/bestboard/92133723"/>
-        <updated>2024-04-20T20:11:18.444Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1108point (70%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
 </feed>

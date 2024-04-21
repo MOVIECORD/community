@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-21T17:11:21.921Z</updated>
+    <updated>2024-04-21T18:15:16.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[범죄도시4도 인기가 높군요.]]></title>
+        <id>https://extmovie.com/bestboard/92136237</id>
+        <link href="https://extmovie.com/bestboard/92136237"/>
+        <updated>2024-04-21T18:15:01.227Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5865point (6%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 감독 직접 추천 최애 영화들 - ‘퓨리로드 20번 감상 등’]]></title>
         <id>https://extmovie.com/bestboard/92136123</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92133723"/>
         <updated>2024-04-20T20:11:18.444Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1108point (70%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄2 아맥에선 완전 다른영화네요]]></title>
-        <id>https://extmovie.com/bestboard/92133859</id>
-        <link href="https://extmovie.com/bestboard/92133859"/>
-        <updated>2024-04-20T12:19:27.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4069point (70%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">대전imax]]></content>
     </entry>
 </feed>

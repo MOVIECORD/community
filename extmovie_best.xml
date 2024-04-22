@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-22T18:15:02.246Z</updated>
+    <updated>2024-04-22T19:10:40.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -87,6 +87,13 @@
         <id>https://extmovie.com/bestboard/92138794</id>
         <link href="https://extmovie.com/bestboard/92138794"/>
         <updated>2024-04-22T15:12:25.236Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:155812point (79%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGV [범죄도시4] 굿즈 실물 사진 공개]]></title>
+        <id>https://extmovie.com/bestboard/92138433</id>
+        <link href="https://extmovie.com/bestboard/92138433"/>
+        <updated>2024-04-22T19:10:26.080Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:155812point (79%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92136237"/>
         <updated>2024-04-21T18:15:01.227Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5867point (6%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야쿠쇼 코지 주연 신작 <팔견전>(八犬伝) 예고편]]></title>
-        <id>https://extmovie.com/bestboard/92136140</id>
-        <link href="https://extmovie.com/bestboard/92136140"/>
-        <updated>2024-04-21T22:11:16.243Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:731point (71%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">또또비됴]]></content>
     </entry>
 </feed>

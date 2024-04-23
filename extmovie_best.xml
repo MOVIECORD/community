@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-23T18:14:15.519Z</updated>
+    <updated>2024-04-23T19:09:24.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92142709"/>
         <updated>2024-04-23T18:14:00.409Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:550545point (52%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대만 호러 [주장(呪葬)] 일본 예고편]]></title>
+        <id>https://extmovie.com/bestboard/92142636</id>
+        <link href="https://extmovie.com/bestboard/92142636"/>
+        <updated>2024-04-23T19:09:09.418Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48001point (2%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">FutureX]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화에서 배경음악이 중요한 이유]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92139905"/>
         <updated>2024-04-22T22:12:12.319Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:156315point (81%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기존의 청불영화의 이상한 기준]]></title>
-        <id>https://extmovie.com/bestboard/92139900</id>
-        <link href="https://extmovie.com/bestboard/92139900"/>
-        <updated>2024-04-23T10:12:14.051Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3083point (84%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">집에갈래]]></content>
     </entry>
 </feed>

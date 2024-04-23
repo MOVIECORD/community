@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-23T20:12:05.115Z</updated>
+    <updated>2024-04-23T21:11:08.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[리볼버 릴리 (2024) 지루하고 또 느슨한. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/92143187?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92143187?category=61633579"/>
-        <updated>2024-04-23T18:14:08.286Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35978point (99%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[모르는이야기] 고달픈 현실을 잊기 위한 그들의 환상적인 ...]]></title>
         <id>https://extmovie.com/movietalk/92142784?category=61633579</id>
@@ -249,5 +242,12 @@
         <link href="https://extmovie.com/movietalk/92117193?category=61633579"/>
         <updated>2024-04-13T15:08:39.498Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11127point (11%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<명탐정 코난: 100만 달러의 오릉성> 불호]]></title>
+        <id>https://extmovie.com/movietalk/92115172?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92115172?category=61633579"/>
+        <updated>2024-04-23T21:10:59.247Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44289point (18%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
     </entry>
 </feed>

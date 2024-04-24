@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-23T23:11:43.841Z</updated>
+    <updated>2024-04-24T00:51:50.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[강스포] 익무시사/차이콥스키의 아내]]></title>
+        <id>https://extmovie.com/movietalk/92143583?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92143583?category=61633579"/>
+        <updated>2024-04-24T00:51:43.439Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26830point (26%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[모르는이야기] 고달픈 현실을 잊기 위한 그들의 환상적인 ...]]></title>
         <id>https://extmovie.com/movietalk/92142784?category=61633579</id>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/92134297?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92134297?category=61633579"/>
         <updated>2024-04-20T14:09:26.310Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4389152point (77%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4389232point (77%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<기생수> 실사영화 시리즈 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92117193?category=61633579"/>
         <updated>2024-04-13T15:08:39.498Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11127point (11%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<명탐정 코난: 100만 달러의 오릉성> 불호]]></title>
-        <id>https://extmovie.com/movietalk/92115172?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92115172?category=61633579"/>
-        <updated>2024-04-23T21:10:59.247Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44289point (18%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카마도탄지로]]></content>
     </entry>
 </feed>

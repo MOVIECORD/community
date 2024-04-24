@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-24T13:18:32.633Z</updated>
+    <updated>2024-04-24T14:12:33.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰][약스포][범죄도시4] 이번에도 흥행은 잘 되겠지만, ...]]></title>
+        <id>https://extmovie.com/movietalk/92145952?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92145952?category=61633579"/>
+        <updated>2024-04-24T14:12:23.018Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35725point (92%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰][챌린저스] 야한 장면 없이 야한 영화? 나 이 감독 좋...]]></title>
         <id>https://extmovie.com/movietalk/92145840?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92145840?category=61633579"/>
         <updated>2024-04-24T13:18:24.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35711point (91%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35725point (92%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<챌린저스>를 보고 나서 (스포 O) - 루카 구아다니노 ...]]></title>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92145548?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92145548?category=61633579"/>
         <updated>2024-04-24T11:10:45.906Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43629point (1%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모피어스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43631point (1%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모피어스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<여행자의 필요>를 보고 나서 (스포 O) - 홍상수 감독...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92124476?category=61633579"/>
         <updated>2024-04-16T16:14:43.025Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:239point (59%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화오타쿠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첸저링 (1980) - 유령 들린 대저택 영화의 수작. 스포일러 ...]]></title>
-        <id>https://extmovie.com/movietalk/91346464?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/91346464?category=61633579"/>
-        <updated>2024-04-16T05:12:15.989Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36133point (3%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-25T13:10:56.368Z</updated>
+    <updated>2024-04-25T14:09:10.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시티헌터 노스포 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/92132808?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92132808?category=61633579"/>
+        <updated>2024-04-25T14:09:03.559Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1747point (1%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시4: 상업성 10점 작품성0.5점(노스포)]]></title>
         <id>https://extmovie.com/movietalk/92148924?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92148924?category=61633579"/>
         <updated>2024-04-25T12:17:25.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46390point (69%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46392point (69%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시4 (2024) 한 획을 그은 액션영화. 스포일러 약간.]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/92134297?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92134297?category=61633579"/>
         <updated>2024-04-20T14:09:26.310Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4391400point (78%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4391456point (78%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<기생수> 실사영화 시리즈 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/90751515?category=61633579"/>
         <updated>2024-04-20T00:51:12.266Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36440point (11%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[약스포] 레벨 문 파트2 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92132457?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92132457?category=61633579"/>
-        <updated>2024-04-19T11:11:05.287Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1732point (98%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
     </entry>
 </feed>

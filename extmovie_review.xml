@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-26T03:13:58.818Z</updated>
+    <updated>2024-04-26T04:13:46.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<오펜하이머>를 보고]]></title>
+        <id>https://extmovie.com/movietalk/92147671?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92147671?category=61633579"/>
+        <updated>2024-04-26T04:13:39.465Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1153point (83%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시티헌터 노스포 리뷰]]></title>
         <id>https://extmovie.com/movietalk/92132808?category=61633579</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92135175?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92135175?category=61633579"/>
         <updated>2024-04-21T12:20:40.880Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1138point (79%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1153point (83%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<밤비 2>를 보고 나서 (스포 O) - 디즈니 애니메이션 ...]]></title>
@@ -227,14 +234,14 @@
         <id>https://extmovie.com/movietalk/92134297?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92134297?category=61633579"/>
         <updated>2024-04-20T14:09:26.310Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4392123point (78%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4392125point (78%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<기생수> 실사영화 시리즈 리뷰]]></title>
         <id>https://extmovie.com/movietalk/92133723?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92133723?category=61633579"/>
         <updated>2024-04-20T08:13:25.859Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1138point (79%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1153point (83%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<밤비>를 보고 나서 (스포 X) - 디즈니 애니메이션 작품]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92133644?category=61633579"/>
         <updated>2024-04-20T06:13:42.528Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11348point (22%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야차연못 (1979) 일상이 되어 버린 신화. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/90751515?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/90751515?category=61633579"/>
-        <updated>2024-04-20T00:51:12.266Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36442point (11%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

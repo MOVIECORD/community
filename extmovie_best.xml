@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-04-26T19:10:04.395Z</updated>
+    <updated>2024-04-26T20:12:57.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92152030"/>
         <updated>2024-04-26T19:09:48.754Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5997point (15%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">초우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 4월 26일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92152008</id>
+        <link href="https://extmovie.com/bestboard/92152008"/>
+        <updated>2024-04-26T20:12:42.251Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4060682point (12%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글렌 파월, 시드니 스위니와의 ‘열애설’에 편승했다]]></title>
@@ -32,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/92151597"/>
         <updated>2024-04-26T13:11:50.840Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1366615point (66%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악마와의 토크쇼' 기이한 트리비아 정보]]></title>
+        <id>https://extmovie.com/bestboard/92151546</id>
+        <link href="https://extmovie.com/bestboard/92151546"/>
+        <updated>2024-04-26T20:12:42.253Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4060682point (12%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시 시리즈의 치명적인 문제점과 비판점]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92149378"/>
         <updated>2024-04-26T15:12:40.005Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1366615point (66%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시티헌터' 재밌게 감상했습니다.]]></title>
-        <id>https://extmovie.com/bestboard/92149203</id>
-        <link href="https://extmovie.com/bestboard/92149203"/>
-        <updated>2024-04-25T17:12:49.487Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4651point (17%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시티헌터 노스포 리뷰]]></title>
-        <id>https://extmovie.com/bestboard/92132808</id>
-        <link href="https://extmovie.com/bestboard/92132808"/>
-        <updated>2024-04-25T20:11:59.002Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1756point (3%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
     </entry>
 </feed>

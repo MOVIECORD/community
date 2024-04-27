@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-27T03:13:35.408Z</updated>
+    <updated>2024-04-27T04:13:42.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(리퓨/약스포) <악은 존재하지 않는다> : 솔직히, 이 ...]]></title>
+        <id>https://extmovie.com/movietalk/92152780?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92152780?category=61633579"/>
+        <updated>2024-04-27T04:13:34.678Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2280point (3%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[White heat (1949) 후대에 엄청난 영향을 끼친 필름 느와르...]]></title>
         <id>https://extmovie.com/movietalk/92151825?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/92147671?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92147671?category=61633579"/>
         <updated>2024-04-26T04:13:39.465Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1163point (86%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1165point (87%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시티헌터 노스포 리뷰]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92136670?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92136670?category=61633579"/>
         <updated>2024-04-21T19:10:44.089Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36474point (12%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singing in the rain (1952) What a glorious feeling! 스포...]]></title>
-        <id>https://extmovie.com/movietalk/92018049?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92018049?category=61633579"/>
-        <updated>2024-04-21T17:11:14.484Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36474point (12%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-04-27T04:13:42.234Z</updated>
+    <updated>2024-04-27T05:11:31.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[범죄도시4 2회차부터 몰입이되는]]></title>
+        <id>https://extmovie.com/movietalk/92152828?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92152828?category=61633579"/>
+        <updated>2024-04-27T05:11:24.140Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4102point (73%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Startstudying]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(리퓨/약스포) <악은 존재하지 않는다> : 솔직히, 이 ...]]></title>
         <id>https://extmovie.com/movietalk/92152780?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92138464?category=61633579"/>
         <updated>2024-04-22T07:11:35.374Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27112point (34%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">서래누나나도죽여줘요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용감한 시민 (2024) 드라마만도 못한 영화. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/92136670?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92136670?category=61633579"/>
-        <updated>2024-04-21T19:10:44.089Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36474point (12%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-28T20:12:29.050Z</updated>
+    <updated>2024-04-28T21:11:15.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024년 4월 28일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://extmovie.com/bestboard/92155917"/>
         <updated>2024-04-28T13:12:05.862Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112380101point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로보트태권브이 실사화영화 무산된거 아니라네요.. (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92155892</id>
+        <link href="https://extmovie.com/bestboard/92155892"/>
+        <updated>2024-04-28T21:11:00.596Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:163176point (10%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이안커티스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[범죄도시4] 손익분기점 가뿐히 돌파…5일만 400만 흥행 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/92153653"/>
         <updated>2024-04-27T14:09:45.297Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62133point (6%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 영화 시티헌터 넷플 순위 1위 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92153577</id>
-        <link href="https://extmovie.com/bestboard/92153577"/>
-        <updated>2024-04-28T16:13:03.800Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1371712point (71%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프레야 앨런 ‘킹덤 오브더 플래닛 오브더 에입‘ 런던 프리미어 (익스트림무비 ─ 영화정보)]]></title>

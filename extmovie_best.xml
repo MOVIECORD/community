@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-01T17:11:30.831Z</updated>
+    <updated>2024-05-01T18:14:58.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 5월 1일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92165843</id>
+        <link href="https://extmovie.com/bestboard/92165843"/>
+        <updated>2024-05-01T18:14:43.560Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4062212point (12%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 최근작들 시청률(종말의 바보, 시티헌터 등)]]></title>
         <id>https://extmovie.com/bestboard/92165442</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92162505"/>
         <updated>2024-05-01T02:27:11.908Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4062212point (12%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 40대 아저씨(!)가 찍었다는 새로운 CF]]></title>
-        <id>https://extmovie.com/bestboard/92162323</id>
-        <link href="https://extmovie.com/bestboard/92162323"/>
-        <updated>2024-04-30T14:11:44.476Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48205point (4%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">FutureX]]></content>
     </entry>
 </feed>

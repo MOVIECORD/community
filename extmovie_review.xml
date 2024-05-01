@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-01T08:17:40.326Z</updated>
+    <updated>2024-05-01T09:14:27.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스턴트맨] MX4D 후기]]></title>
+        <id>https://extmovie.com/movietalk/92164900?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92164900?category=61633579"/>
+        <updated>2024-05-01T09:14:19.803Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9758point (40%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 베일]]></title>
         <id>https://extmovie.com/movietalk/92164518?category=61633579</id>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/92155004?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92155004?category=61633579"/>
         <updated>2024-04-28T05:12:10.614Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9748point (39%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9758point (40%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구로사와 기요시의 큐어) 재밌지만 뭔가 갑작스러운 엔딩]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92153514?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92153514?category=61633579"/>
         <updated>2024-04-27T11:09:14.681Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1367613point (67%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1367626point (67%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시4 간략 극불호 후기 [2.2/5.0]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92147710?category=61633579"/>
         <updated>2024-04-25T05:11:58.564Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37075point (29%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시4 불호 리뷰 - 돈에 미친 시리즈]]></title>
-        <id>https://extmovie.com/movietalk/92147674?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92147674?category=61633579"/>
-        <updated>2024-04-25T05:11:58.564Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1373point (30%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
 </feed>

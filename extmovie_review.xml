@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-01T06:16:35.926Z</updated>
+    <updated>2024-05-01T07:14:17.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 베일]]></title>
+        <id>https://extmovie.com/movietalk/92164518?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92164518?category=61633579"/>
+        <updated>2024-05-01T07:14:09.915Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5201point (58%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지지 (1958) 매혹적인 뮤지칼. 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92056641?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/92153514?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92153514?category=61633579"/>
         <updated>2024-04-27T11:09:14.681Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1367577point (67%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1367599point (67%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[범죄도시4 간략 극불호 후기 [2.2/5.0]]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92147674?category=61633579"/>
         <updated>2024-04-25T05:11:58.564Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1373point (30%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet smell of success (1957) 가장 느와르적인 걸작. 스포...]]></title>
-        <id>https://extmovie.com/movietalk/92147085?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92147085?category=61633579"/>
-        <updated>2024-04-25T03:12:46.670Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37075point (29%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

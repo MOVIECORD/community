@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-02T06:15:53.747Z</updated>
+    <updated>2024-05-02T07:12:19.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스턴트맨 - 21세기 영화에 부치는 러브레터 (스포일러 O)]]></title>
+        <id>https://extmovie.com/movietalk/92167284?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92167284?category=61633579"/>
+        <updated>2024-05-02T07:12:09.316Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5321point (67%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kill, baby, kiii (1966) 이탈리아 마을을 휩쓴 미소녀 유령...]]></title>
         <id>https://extmovie.com/movietalk/92166358?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92164518?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92164518?category=61633579"/>
         <updated>2024-05-01T07:14:09.915Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5208point (59%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5321point (67%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지지 (1958) 매혹적인 뮤지칼. 스포일러 있음.]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92155625?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92155625?category=61633579"/>
         <updated>2024-04-28T09:11:05.240Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11389point (24%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11401point (24%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[범죄도시4] 딱 기대했던 만큼의 재미 ★★★]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92151146?category=61633579"/>
         <updated>2024-04-26T07:12:05.396Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51440point (26%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본영화 "작은사랑의 노래" 재미있네요!!]]></title>
-        <id>https://extmovie.com/movietalk/92150830?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92150830?category=61633579"/>
-        <updated>2024-04-26T05:11:19.331Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58618point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

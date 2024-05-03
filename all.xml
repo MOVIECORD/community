@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-03T18:15:40.314Z</updated>
+    <updated>2024-05-03T19:10:06.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[마블 '로키' 동물 배우가 납치 실종된 사건 벌어져.... (익스트림무비 ─ 익무힛갤)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:552412point (62%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[15세 관람가에 관대한 영등위 (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/92171781?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92171781?category=61633579"/>
+        <updated>2024-05-03T19:09:59.017Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:196point (49%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양곤]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<카3: 새로운 도전>을 보고 나서 (스포 O) - 디즈니, ... (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://extmovie.com/movietalk/92171671?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92171671?category=61633579"/>
@@ -506,7 +513,7 @@
         <id>https://extmovie.com/movietalk/92171650?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92171650?category=61633579"/>
         <updated>2024-05-03T16:14:52.017Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:154point (38%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양곤]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:196point (49%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">양곤]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 티비 플러스 | 슈거 ep.6 리뷰 번역 (스포일러 O) (익스트림무비 ─ 영화리뷰)]]></title>
@@ -731,12 +738,5 @@
         <link href="https://extmovie.com/movietalk/92153085?category=61633579"/>
         <updated>2024-04-27T08:14:33.481Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11770point (42%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시4 2회차부터 몰입이되는 (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/92152828?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92152828?category=61633579"/>
-        <updated>2024-04-27T05:11:24.140Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4106point (74%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Startstudying]]></content>
     </entry>
 </feed>

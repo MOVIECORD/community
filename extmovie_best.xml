@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-04T18:14:13.114Z</updated>
+    <updated>2024-05-04T19:10:40.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92172866"/>
         <updated>2024-05-04T17:09:41.570Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20278point (1%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 영화포스터 베스트 25]]></title>
+        <id>https://extmovie.com/bestboard/92172829</id>
+        <link href="https://extmovie.com/bestboard/92172829"/>
+        <updated>2024-05-04T19:10:25.196Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2853point (60%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonachine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흥행 불패 '범죄도시4', 천만 시간 문제]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92168637"/>
         <updated>2024-05-03T18:15:25.576Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4657point (18%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원더랜드' 메인 포스터]]></title>
-        <id>https://extmovie.com/bestboard/92170201</id>
-        <link href="https://extmovie.com/bestboard/92170201"/>
-        <updated>2024-05-03T11:10:02.869Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4401291point (80%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-05T21:10:19.890Z</updated>
+    <updated>2024-05-05T22:12:20.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -59,6 +59,13 @@
         <id>https://extmovie.com/bestboard/92175176</id>
         <link href="https://extmovie.com/bestboard/92175176"/>
         <updated>2024-05-05T13:11:41.252Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4401894point (80%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희 인스타 업뎃]]></title>
+        <id>https://extmovie.com/bestboard/92175136</id>
+        <link href="https://extmovie.com/bestboard/92175136"/>
+        <updated>2024-05-05T22:12:04.622Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4401894point (80%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -160,6 +167,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4063297point (12%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<스턴트맨>, <타로> 시네마 스코어]]></title>
+        <id>https://extmovie.com/bestboard/92173854</id>
+        <link href="https://extmovie.com/bestboard/92173854"/>
+        <updated>2024-05-05T22:12:04.641Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1368597point (68%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[타이리스 깁슨, <모비우스>에서 대폭 편집된 것에 아쉬움 토로]]></title>
         <id>https://extmovie.com/bestboard/92173784</id>
         <link href="https://extmovie.com/bestboard/92173784"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92172826"/>
         <updated>2024-05-05T02:24:59.408Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4678point (19%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴물 나무꾼 넷플공개라네요 6월 1일예정이라네요]]></title>
-        <id>https://extmovie.com/bestboard/92172866</id>
-        <link href="https://extmovie.com/bestboard/92172866"/>
-        <updated>2024-05-04T17:09:41.570Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20298point (1%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고의 영화포스터 베스트 25]]></title>
-        <id>https://extmovie.com/bestboard/92172829</id>
-        <link href="https://extmovie.com/bestboard/92172829"/>
-        <updated>2024-05-04T19:10:25.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2894point (65%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonachine]]></content>
     </entry>
 </feed>

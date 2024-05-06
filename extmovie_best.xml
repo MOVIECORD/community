@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-06T16:15:25.471Z</updated>
+    <updated>2024-05-06T17:13:04.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/92177665</id>
         <link href="https://extmovie.com/bestboard/92177665"/>
         <updated>2024-05-06T16:15:10.821Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1373151point (73%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1373153point (73%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정재 '애콜라이트' 메인 예고로 반응이 좀 좋아진 듯.]]></title>
@@ -38,6 +38,13 @@
         <id>https://extmovie.com/bestboard/92177308</id>
         <link href="https://extmovie.com/bestboard/92177308"/>
         <updated>2024-05-06T14:12:13.062Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/43.gif" alt="[레벨:43]" title="포인트:347111point (47%), 레벨:43/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변요한 드라마 삼식이 삼촌]]></title>
+        <id>https://extmovie.com/bestboard/92177302</id>
+        <link href="https://extmovie.com/bestboard/92177302"/>
+        <updated>2024-05-06T17:12:48.827Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/43.gif" alt="[레벨:43]" title="포인트:347111point (47%), 레벨:43/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92175454"/>
         <updated>2024-05-06T03:14:08.609Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:34point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크티100]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<무파사: 라이온 킹> 홍보하는 매즈 미켈슨]]></title>
-        <id>https://extmovie.com/bestboard/92175435</id>
-        <link href="https://extmovie.com/bestboard/92175435"/>
-        <updated>2024-05-06T00:52:39.650Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1368765point (68%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

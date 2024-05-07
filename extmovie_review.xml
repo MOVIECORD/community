@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-07T13:13:04.254Z</updated>
+    <updated>2024-05-07T14:12:09.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애비게일-예상치 못한 수작이네요]]></title>
+        <id>https://extmovie.com/movietalk/92181345?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92181345?category=61633579"/>
+        <updated>2024-05-07T14:12:01.799Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6360point (39%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bay of blood (1971) 최초의 현대적 슬래셔무비. 스포일러 ...]]></title>
         <id>https://extmovie.com/movietalk/92167912?category=61633579</id>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/92170290?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92170290?category=61633579"/>
         <updated>2024-05-03T06:15:50.923Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4404115point (80%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4404204point (80%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<꿈의 공장>을 보고 나서 (스포 O)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92161239?category=61633579"/>
         <updated>2024-04-30T06:15:19.769Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11869point (47%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<감상평> 범죄도시4: 액션은 진화, 스토리는 퇴화]]></title>
-        <id>https://extmovie.com/movietalk/92159847?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92159847?category=61633579"/>
-        <updated>2024-04-29T15:12:17.287Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:16point (4%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">엣팊]]></content>
     </entry>
 </feed>

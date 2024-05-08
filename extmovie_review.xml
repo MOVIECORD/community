@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-08T08:13:18.585Z</updated>
+    <updated>2024-05-08T09:12:51.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혹성탈출:새로운시대 후기... 빌드업을 모르는 감독]]></title>
+        <id>https://extmovie.com/movietalk/92184112?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92184112?category=61633579"/>
+        <updated>2024-05-08T09:12:44.242Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1822point (16%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">떡빵]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혹성탈출 간단 후기]]></title>
+        <id>https://extmovie.com/movietalk/92183950?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92183950?category=61633579"/>
+        <updated>2024-05-08T09:12:44.244Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20712point (16%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호러+코믹 적절히 섞은 <애비게일>]]></title>
         <id>https://extmovie.com/movietalk/92183613?category=61633579</id>
@@ -192,7 +206,7 @@
         <id>https://extmovie.com/movietalk/92170290?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92170290?category=61633579"/>
         <updated>2024-05-03T06:15:50.923Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4405328point (81%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4405363point (81%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<꿈의 공장>을 보고 나서 (스포 O)]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92166358?category=61633579"/>
         <updated>2024-05-02T04:14:08.514Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38194point (59%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<싱글라이더>를 보고 나서 (스포 O) - 이병헌 주연 작품]]></title>
-        <id>https://extmovie.com/movietalk/92166843?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92166843?category=61633579"/>
-        <updated>2024-05-02T04:14:08.514Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11880point (47%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린저스] 감각적인 막장 영화]]></title>
-        <id>https://extmovie.com/movietalk/92165651?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92165651?category=61633579"/>
-        <updated>2024-05-01T15:11:31.246Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9787point (41%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

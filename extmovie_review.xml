@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-09T13:14:56.941Z</updated>
+    <updated>2024-05-09T14:12:07.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악마와의 토크쇼 노스포 후기]]></title>
+        <id>https://extmovie.com/movietalk/92187837?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92187837?category=61633579"/>
+        <updated>2024-05-09T14:11:59.223Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1818point (15%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혹성탈출: 새로운 시대]]></title>
         <id>https://extmovie.com/movietalk/92187059?category=61633579</id>
@@ -45,14 +52,14 @@
         <id>https://extmovie.com/movietalk/92184776?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92184776?category=61633579"/>
         <updated>2024-05-08T12:21:42.290Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12717point (88%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12719point (88%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<혹성탈출: 새로운 시대> 올해 할리우드 영화 중 최악]]></title>
         <id>https://extmovie.com/movietalk/92184765?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92184765?category=61633579"/>
         <updated>2024-05-08T12:21:42.290Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12717point (88%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12719point (88%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<블랙회사에 다니고 있는데, 지금 나는 한계에 도달했는...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92171362?category=61633579"/>
         <updated>2024-05-04T03:13:06.323Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38369point (64%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<카3: 새로운 도전>을 보고 나서 (스포 O) - 디즈니, ...]]></title>
-        <id>https://extmovie.com/movietalk/92171671?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92171671?category=61633579"/>
-        <updated>2024-05-03T16:14:52.017Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11985point (52%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

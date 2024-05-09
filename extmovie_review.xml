@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-09T15:13:54.879Z</updated>
+    <updated>2024-05-09T16:15:28.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포 그녀가 죽었다 후기]]></title>
+        <id>https://extmovie.com/movietalk/92188151?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92188151?category=61633579"/>
+        <updated>2024-05-09T16:15:20.747Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46462point (71%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악마와의 토크쇼 노스포 후기]]></title>
         <id>https://extmovie.com/movietalk/92187837?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92172435?category=61633579"/>
         <updated>2024-05-04T04:15:28.372Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11985point (52%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mothra (1961) 나방괴물이 일본과 미국을 초토화시키다. 스...]]></title>
-        <id>https://extmovie.com/movietalk/92171362?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92171362?category=61633579"/>
-        <updated>2024-05-04T03:13:06.323Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38369point (64%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

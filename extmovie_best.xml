@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-10T17:10:28.832Z</updated>
+    <updated>2024-05-10T18:15:22.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동진 평론가 혹성탈출 노스포 리뷰]]></title>
+        <id>https://extmovie.com/bestboard/92190288</id>
+        <link href="https://extmovie.com/bestboard/92190288"/>
+        <updated>2024-05-10T18:15:07.460Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20800point (19%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(DCU) DCU가 기대되는 4가지 이유]]></title>
         <id>https://extmovie.com/bestboard/92188159</id>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/bestboard/92188825</id>
         <link href="https://extmovie.com/bestboard/92188825"/>
         <updated>2024-05-10T06:15:23.125Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1369700point (69%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1369702point (69%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[故 이선균 배우의 '행복의 나라' 캐릭터 소개]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/bestboard/92188486</id>
         <link href="https://extmovie.com/bestboard/92188486"/>
         <updated>2024-05-10T05:12:09.646Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1369700point (69%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1369702point (69%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밝기 조절로 보이는 '슈퍼맨' 빨간 팬티]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/92188007</id>
         <link href="https://extmovie.com/bestboard/92188007"/>
         <updated>2024-05-09T22:10:51.326Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1369700point (69%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1369702point (69%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<콰이어트 플레이스 : 첫째 날> 2차 예고편]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92187674"/>
         <updated>2024-05-09T17:11:08.923Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:553739point (68%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘반지의 제왕’ 신작 제작 진행중 - 피터 잭슨 제작, 2026년 개봉 타겟 ...]]></title>
-        <id>https://extmovie.com/bestboard/92187663</id>
-        <link href="https://extmovie.com/bestboard/92187663"/>
-        <updated>2024-05-09T21:12:28.157Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4407685point (81%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

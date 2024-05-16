@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-16T05:12:38.640Z</updated>
+    <updated>2024-05-16T06:13:57.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이프 후기-복병같은 작품이었네요]]></title>
+        <id>https://extmovie.com/movietalk/92203545?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92203545?category=61633579"/>
+        <updated>2024-05-16T06:13:50.308Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6488point (47%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[순교자 (1965) 유현목감독의 걸작. 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92201866?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92198978?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92198978?category=61633579"/>
         <updated>2024-05-15T06:16:40.205Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6526point (50%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로다주]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6529point (50%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">로다주]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꽤 성의있게 만든 만화 원작 영화 시티헌터]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92186563?category=61633579"/>
         <updated>2024-05-09T05:12:49.442Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12202point (63%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애비게일 (2024) 엄청난 공포가 아닌 joy ride 같은 영화. ...]]></title>
-        <id>https://extmovie.com/movietalk/92186547?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92186547?category=61633579"/>
-        <updated>2024-05-09T05:12:49.442Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39073point (83%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

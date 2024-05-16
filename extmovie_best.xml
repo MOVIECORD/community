@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-16T19:10:03.800Z</updated>
+    <updated>2024-05-16T20:12:17.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92204875"/>
         <updated>2024-05-16T16:14:11.618Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51567point (27%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Robo_cop]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(MCU) 호크아이 시즌2 제작 소식]]></title>
+        <id>https://extmovie.com/bestboard/92204739</id>
+        <link href="https://extmovie.com/bestboard/92204739"/>
+        <updated>2024-05-16T20:12:02.476Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1330point (22%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하정우 감독 새 영화 [로비] 해외 포스터 공개]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/bestboard/92201660</id>
         <link href="https://extmovie.com/bestboard/92201660"/>
         <updated>2024-05-15T22:13:01.342Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1328point (22%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1330point (22%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 5월 15일 국내 박스오피스]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92201615"/>
         <updated>2024-05-15T22:13:01.345Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:537point (29%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">피에스타1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 애니 [터미네이터 제로] 스틸 공개]]></title>
-        <id>https://extmovie.com/bestboard/92201593</id>
-        <link href="https://extmovie.com/bestboard/92201593"/>
-        <updated>2024-05-15T21:11:26.958Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:555545point (77%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

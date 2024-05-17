@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-17T20:14:53.834Z</updated>
+    <updated>2024-05-17T21:11:08.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://extmovie.com/bestboard/92208337"/>
         <updated>2024-05-17T16:14:09.464Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4829point (31%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<쥬라기 월드> 감독, 제목 변경 설득하기 위해 스필버그 감독과 ...]]></title>
+        <id>https://extmovie.com/bestboard/92208246</id>
+        <link href="https://extmovie.com/bestboard/92208246"/>
+        <updated>2024-05-17T21:10:54.059Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1371203point (71%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코폴라 감독 '메갈로폴리스' 로튼토마토 전체 리뷰들]]></title>
+        <id>https://extmovie.com/bestboard/92208110</id>
+        <link href="https://extmovie.com/bestboard/92208110"/>
+        <updated>2024-05-17T21:10:54.059Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4067384point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[더 에이트 쇼] 해외 리뷰 : 오징어 게임, 이건 아닙니다.]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92205147"/>
         <updated>2024-05-16T21:11:54.474Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4067384point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석도형은 8편까지 생각하고 있구나..ㅎ]]></title>
-        <id>https://extmovie.com/bestboard/92204956</id>
-        <link href="https://extmovie.com/bestboard/92204956"/>
-        <updated>2024-05-16T23:11:43.991Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48992point (9%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퓨리오사 씨네21 별점평 나왔네요.]]></title>
-        <id>https://extmovie.com/bestboard/92204875</id>
-        <link href="https://extmovie.com/bestboard/92204875"/>
-        <updated>2024-05-16T16:14:11.618Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51671point (28%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Robo_cop]]></content>
     </entry>
 </feed>

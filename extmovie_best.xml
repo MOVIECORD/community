@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-17T21:11:08.688Z</updated>
+    <updated>2024-05-17T22:12:01.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<더 에이트 쇼> 로튼토마토 현재 평점]]></title>
+        <id>https://extmovie.com/bestboard/92208840</id>
+        <link href="https://extmovie.com/bestboard/92208840"/>
+        <updated>2024-05-17T22:11:47.012Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4829point (31%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 에이트 쇼 전체 후기]]></title>
         <id>https://extmovie.com/bestboard/92208740</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92205157"/>
         <updated>2024-05-17T00:53:00.307Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7072point (85%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pissx]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사일런트 힐' 신작, 삼각두 스틸 공개]]></title>
-        <id>https://extmovie.com/bestboard/92205147</id>
-        <link href="https://extmovie.com/bestboard/92205147"/>
-        <updated>2024-05-16T21:11:54.474Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4067384point (13%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

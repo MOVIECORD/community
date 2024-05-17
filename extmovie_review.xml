@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-17T04:15:31.037Z</updated>
+    <updated>2024-05-17T05:13:39.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아침이 오면 공허해진다] '괜찮아', 위로의 다독임]]></title>
+        <id>https://extmovie.com/movietalk/92206816?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92206816?category=61633579"/>
+        <updated>2024-05-17T05:13:31.845Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93728point (74%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<페르디난드>를 보고 나서 (스포 O) - 디즈니 애니메...]]></title>
         <id>https://extmovie.com/movietalk/92206712?category=61633579</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92193975?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92193975?category=61633579"/>
         <updated>2024-05-14T12:22:25.439Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1578point (69%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1579point (69%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<도뷔시> 봤어요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92191991?category=61633579"/>
         <updated>2024-05-11T12:20:26.926Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39247point (87%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<혹성탈출: 새로운 시대>를 보고 나서 (스포 O) - 웨...]]></title>
-        <id>https://extmovie.com/movietalk/92191412?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92191412?category=61633579"/>
-        <updated>2024-05-11T07:12:20.008Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12260point (66%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

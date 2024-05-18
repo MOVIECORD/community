@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-18T03:13:55.640Z</updated>
+    <updated>2024-05-18T04:13:59.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<더 8 쇼> 콜라이더 리뷰 번역]]></title>
+        <id>https://extmovie.com/movietalk/92209747?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92209747?category=61633579"/>
+        <updated>2024-05-18T04:13:52.155Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5447point (76%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toxic avenger (1985) 약 빨고 만든 영화.  스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92203930?category=61633579</id>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92198210?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92198210?category=61633579"/>
         <updated>2024-05-14T10:14:41.019Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1371255point (71%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1371269point (71%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우묵배미의 사랑 (1990) 박중훈, 최명길, 유해리 주연의 걸...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92193713?category=61633579"/>
         <updated>2024-05-12T12:22:19.647Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12310point (68%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침이 오면 공허해진다 시사회]]></title>
-        <id>https://extmovie.com/movietalk/92192611?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92192611?category=61633579"/>
-        <updated>2024-05-12T00:56:42.073Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:771point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">메테오짱]]></content>
     </entry>
 </feed>

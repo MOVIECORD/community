@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-19T18:15:10.062Z</updated>
+    <updated>2024-05-19T19:09:11.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['자자 빙크스' 역으로 25년 동안 고통 받은 배우]]></title>
+        <id>https://extmovie.com/bestboard/92213241</id>
+        <link href="https://extmovie.com/bestboard/92213241"/>
+        <updated>2024-05-19T19:08:55.669Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1371628point (71%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤아 인스타 - 칸영화제 ‘악마가 이사왔다’ 부스]]></title>
         <id>https://extmovie.com/bestboard/92213120</id>
@@ -132,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4416217point (83%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘배트맨 2’ 팬 포스터]]></title>
+        <id>https://extmovie.com/bestboard/92211904</id>
+        <link href="https://extmovie.com/bestboard/92211904"/>
+        <updated>2024-05-19T19:08:55.704Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4416217point (83%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<탑건: 매버릭> 존 햄, 복귀 환영하지만 “당장 진전되지는 않을 것”]]></title>
         <id>https://extmovie.com/bestboard/92211778</id>
         <link href="https://extmovie.com/bestboard/92211778"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92210484"/>
         <updated>2024-05-19T00:56:46.091Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18253point (23%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티브 부세미 폭행 가해자, 뉴욕에서 체포]]></title>
-        <id>https://extmovie.com/bestboard/92210466</id>
-        <link href="https://extmovie.com/bestboard/92210466"/>
-        <updated>2024-05-18T16:13:20.608Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1371628point (71%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<미스트>를 보고]]></title>
-        <id>https://extmovie.com/bestboard/92206473</id>
-        <link href="https://extmovie.com/bestboard/92206473"/>
-        <updated>2024-05-18T23:11:00.972Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1677point (88%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
 </feed>

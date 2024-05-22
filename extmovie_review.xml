@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-22T02:26:48.973Z</updated>
+    <updated>2024-05-22T03:15:00.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퓨리오사 리뷰 - 이토록 중독성 있는 세계관이라니]]></title>
+        <id>https://extmovie.com/movietalk/92220573?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92220573?category=61633579"/>
+        <updated>2024-05-22T03:14:52.523Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:70point (17%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그웨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<25시>를 보고 나서 (스포 O) - 스파이크 리 감독 작품]]></title>
         <id>https://extmovie.com/movietalk/92219153?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/92212443?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92212443?category=61633579"/>
         <updated>2024-05-19T08:13:40.570Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10004point (53%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10006point (53%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태양은 다시 뜬다 (1965) 유현목감독의 농촌드라마. 스포일...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92201035?category=61633579"/>
         <updated>2024-05-15T11:10:34.771Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12395point (72%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데어 윌 비 블러드, 개인적으로는 폴 앤더슨 최고의 작품]]></title>
-        <id>https://extmovie.com/movietalk/92200063?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92200063?category=61633579"/>
-        <updated>2024-05-15T05:12:54.753Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:607point (45%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-22T13:14:55.933Z</updated>
+    <updated>2024-05-22T14:11:49.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드림 시나리오 간단후기]]></title>
+        <id>https://extmovie.com/movietalk/92222135?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92222135?category=61633579"/>
+        <updated>2024-05-22T14:11:41.556Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20759point (18%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클로브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드림 시나리오 넘 재밌네요!]]></title>
         <id>https://extmovie.com/movietalk/92222128?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/92222087?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92222087?category=61633579"/>
         <updated>2024-05-22T13:14:48.390Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6734point (63%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6783point (66%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드림 시나리오 유니크하고 재밌네요 :)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92196387?category=61633579"/>
         <updated>2024-05-16T14:12:43.320Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8504point (70%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포) 와일드 씽: 와 반전!!을 대체 몇번 써먹는거야]]></title>
-        <id>https://extmovie.com/movietalk/92204999?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92204999?category=61633579"/>
-        <updated>2024-05-16T14:12:43.320Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:607point (45%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-23T17:12:59.845Z</updated>
+    <updated>2024-05-23T18:16:10.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<드림 시나리오> 독창적이고 즐겁지만 신기루]]></title>
+        <id>https://extmovie.com/movietalk/92225688?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92225688?category=61633579"/>
+        <updated>2024-05-23T18:16:03.234Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12859point (95%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<퓨리오사> 후기, 폭주기관차 대신 관람차]]></title>
+        <id>https://extmovie.com/movietalk/92225674?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92225674?category=61633579"/>
+        <updated>2024-05-23T18:16:03.234Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12859point (95%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본영화 먹방소재 "식운" OTT로 재관람 후기]]></title>
         <id>https://extmovie.com/movietalk/92225259?category=61633579</id>
@@ -94,7 +108,7 @@
         <id>https://extmovie.com/movietalk/92222087?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92222087?category=61633579"/>
         <updated>2024-05-22T13:14:48.390Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6890point (73%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6894point (74%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드림 시나리오 유니크하고 재밌네요 :)]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92210857?category=61633579"/>
         <updated>2024-05-18T14:10:33.923Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36519point (14%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<프랑켄위니>를 보고 나서 (스포 O) - 팀 버튼 감독 작품]]></title>
-        <id>https://extmovie.com/movietalk/92210771?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92210771?category=61633579"/>
-        <updated>2024-05-18T13:12:33.711Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12424point (74%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<미스트>를 보고]]></title>
-        <id>https://extmovie.com/movietalk/92206473?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92206473?category=61633579"/>
-        <updated>2024-05-18T09:12:39.059Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1802point (12%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
 </feed>

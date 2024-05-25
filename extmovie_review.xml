@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-25T07:10:56.968Z</updated>
+    <updated>2024-05-25T08:15:42.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전편보다 덜 깊으나 더 먼 퓨리오사: 매드맥스 사가 (약간 ...]]></title>
+        <id>https://extmovie.com/movietalk/92229470?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92229470?category=61633579"/>
+        <updated>2024-05-25T08:15:35.803Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1599point (73%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[드림 시나리오]후기]]></title>
         <id>https://extmovie.com/movietalk/92228963?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/92225119?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92225119?category=61633579"/>
         <updated>2024-05-23T14:11:41.546Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1497point (54%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1599point (73%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<헤라클레스>를 보고 나서 (스포 O) - 디즈니 애니메...]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/92222128?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92222128?category=61633579"/>
         <updated>2024-05-22T13:14:48.390Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1372721point (72%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1372725point (72%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<드림 시나리오> 시사회 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92217326?category=61633579"/>
         <updated>2024-05-21T03:13:41.787Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1091point (66%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[inferno (1980) 다리오 아르젠토의 마녀 3부작. 마리오 바바...]]></title>
-        <id>https://extmovie.com/movietalk/92215627?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92215627?category=61633579"/>
-        <updated>2024-05-20T15:14:18.485Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40372point (17%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

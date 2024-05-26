@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-26T05:11:31.130Z</updated>
+    <updated>2024-05-26T06:15:59.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<드림 시나리오>: 융을 선택한 과감함, 그래서 감내해...]]></title>
+        <id>https://extmovie.com/movietalk/92231564?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92231564?category=61633579"/>
+        <updated>2024-05-26T06:15:52.195Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1572point (68%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[퓨리오사: 매드맥스 사가] 동돌비]]></title>
         <id>https://extmovie.com/movietalk/92230517?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92230517?category=61633579"/>
         <updated>2024-05-25T16:13:12.115Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34681point (62%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34682point (62%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<쿠스코? 쿠스코!>를 보고 나서 (스포 O) - 디즈니 애...]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92222080?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92222080?category=61633579"/>
         <updated>2024-05-22T13:14:48.391Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1553point (64%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1572point (68%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청춘18x2 너에게로 이어지는 길 괜찮았습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92217973?category=61633579"/>
         <updated>2024-05-21T08:15:32.180Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12498point (77%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독특한 방식으로 들려주는 공포감 <존 오브 인터레스트>]]></title>
-        <id>https://extmovie.com/movietalk/92217898?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92217898?category=61633579"/>
-        <updated>2024-05-21T08:15:32.181Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51751point (28%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
 </feed>

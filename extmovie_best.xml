@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-05-27T17:10:32.236Z</updated>
+    <updated>2024-05-27T18:15:47.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:557216point (86%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이분이 떠난지 벌써 30년이 지났군요....]]></title>
+        <id>https://extmovie.com/bestboard/92235277</id>
+        <link href="https://extmovie.com/bestboard/92235277"/>
+        <updated>2024-05-27T18:15:30.056Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7982point (40%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonachine]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['퓨리오사'와 비슷한 영화 추천작 10편]]></title>
         <id>https://extmovie.com/bestboard/92234724</id>
         <link href="https://extmovie.com/bestboard/92234724"/>
         <updated>2024-05-27T13:14:12.565Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4070497point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4070499point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 팬이 만든 굉장한 '드래곤볼' 피규어 디스플레이]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/bestboard/92232914</id>
         <link href="https://extmovie.com/bestboard/92232914"/>
         <updated>2024-05-27T00:54:18.116Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16627point (58%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16629point (58%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘꿈속의 남자’가 겪는 캔슬컬처 지옥 <드림 시나리오>]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/92232802</id>
         <link href="https://extmovie.com/bestboard/92232802"/>
         <updated>2024-05-26T22:11:28.060Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4070497point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4070499point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딸 졸업식에 온 놀란 부부]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92231979"/>
         <updated>2024-05-26T14:10:07.270Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:425522point (27%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<퓨리오사> 등장 인물 보다가 알았네요 <스포>]]></title>
-        <id>https://extmovie.com/bestboard/92231889</id>
-        <link href="https://extmovie.com/bestboard/92231889"/>
-        <updated>2024-05-26T17:11:01.484Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15679point (19%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사보타주]]></content>
     </entry>
 </feed>

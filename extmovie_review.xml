@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-05-29T08:16:45.925Z</updated>
+    <updated>2024-05-29T09:14:15.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정욕 - 이 영화는 도대체 뭐지?]]></title>
+        <id>https://extmovie.com/movietalk/92239798?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92239798?category=61633579"/>
+        <updated>2024-05-29T09:14:07.710Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:60116point (86%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소재는 좋으나 <드라이브>]]></title>
         <id>https://extmovie.com/movietalk/92239357?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92232579?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92232579?category=61633579"/>
         <updated>2024-05-26T15:12:58.855Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4426974point (85%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4427099point (85%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<쿠스코? 쿠스코! 2>를 보고 나서 (스포 O) - 디즈니 ...]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/92225259?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92225259?category=61633579"/>
         <updated>2024-05-23T15:13:40.858Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:60073point (86%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:60116point (86%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OTT로 본 프레디의 피자가게]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92223352?category=61633579"/>
         <updated>2024-05-23T03:13:15.015Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:118point (29%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">윤땡땡이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림 시나리오 보고 왔습니다.]]></title>
-        <id>https://extmovie.com/movietalk/92222485?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92222485?category=61633579"/>
-        <updated>2024-05-22T18:15:58.779Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:307point (76%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">막베스]]></content>
     </entry>
 </feed>

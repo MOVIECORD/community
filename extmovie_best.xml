@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-01T20:11:56.788Z</updated>
+    <updated>2024-06-01T21:12:49.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼체' 시즌 2, 3 제작에 관한 구체적인 뉴스]]></title>
+        <id>https://extmovie.com/bestboard/92249260</id>
+        <link href="https://extmovie.com/bestboard/92249260"/>
+        <updated>2024-06-01T21:12:34.933Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4072114point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조지 루카스, 스타워즈가 백인남자 위주라는 비판에 반박]]></title>
+        <id>https://extmovie.com/bestboard/92249233</id>
+        <link href="https://extmovie.com/bestboard/92249233"/>
+        <updated>2024-06-01T21:12:34.933Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37488point (40%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[존 오브 인터레스트] 후기]]></title>
         <id>https://extmovie.com/bestboard/92249151</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92246898"/>
         <updated>2024-05-31T14:11:19.485Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1374475point (74%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+ 6월 주요 라인업]]></title>
-        <id>https://extmovie.com/bestboard/92246827</id>
-        <link href="https://extmovie.com/bestboard/92246827"/>
-        <updated>2024-06-01T07:10:32.656Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:166025point (20%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1917 메가박스 일부 지점 6월 6일 재개봉]]></title>
-        <id>https://extmovie.com/bestboard/92246549</id>
-        <link href="https://extmovie.com/bestboard/92246549"/>
-        <updated>2024-06-01T02:37:33.088Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21505point (44%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
 </feed>

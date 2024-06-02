@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-02T05:12:04.101Z</updated>
+    <updated>2024-06-02T06:17:57.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고질라 마이너스원 기대보단 별로군요]]></title>
+        <id>https://extmovie.com/movietalk/92250452?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92250452?category=61633579"/>
+        <updated>2024-06-02T06:17:49.786Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1555point (65%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<마을에 부는 산들바람>을 보고 나서 (스포 O) - 카호...]]></title>
         <id>https://extmovie.com/movietalk/92249572?category=61633579</id>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/92240590?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92240590?category=61633579"/>
         <updated>2024-05-29T13:14:19.115Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1374533point (74%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1374551point (74%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<드림 시나리오>를 보고 나서 (스포 O, 추천) - 니콜...]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/92233141?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92233141?category=61633579"/>
         <updated>2024-05-27T00:54:26.072Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:670point (58%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:674point (59%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘꿈속의 남자’가 겪는 캔슬컬처 지옥 <드림 시나리오>]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92232845?category=61633579"/>
         <updated>2024-05-26T16:14:43.670Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:803point (87%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">또또비됴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) 넷플 ‘아틀라스’ 단평 - 23,24 OTT SF 액션작들중 ...]]></title>
-        <id>https://extmovie.com/movietalk/92232579?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92232579?category=61633579"/>
-        <updated>2024-05-26T15:12:58.855Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4430502point (86%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

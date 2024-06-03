@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-03T18:16:46.099Z</updated>
+    <updated>2024-06-03T19:11:29.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<원더랜드> 마침내 한국 SF의 부활!!!]]></title>
+        <id>https://extmovie.com/movietalk/92253767?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92253767?category=61633579"/>
+        <updated>2024-06-03T19:11:19.660Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:12967point (0%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<우드잡>을 보고 나서 (스포 O) - 소메타니 쇼타 주연...]]></title>
         <id>https://extmovie.com/movietalk/92253566?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/65981539?category=61633579"/>
         <updated>2024-05-28T08:16:43.740Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40761point (27%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<퍼시픽 림>을 보고]]></title>
-        <id>https://extmovie.com/movietalk/92235693?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92235693?category=61633579"/>
-        <updated>2024-05-28T05:11:46.284Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2228point (95%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
 </feed>

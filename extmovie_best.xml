@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-03T18:16:46.097Z</updated>
+    <updated>2024-06-03T19:11:29.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://extmovie.com/bestboard/92253374"/>
         <updated>2024-06-03T16:16:08.556Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2845point (60%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RandyCunningham]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스) 괴물 나무꾼 - 초간단 후기]]></title>
+        <id>https://extmovie.com/bestboard/92253287</id>
+        <link href="https://extmovie.com/bestboard/92253287"/>
+        <updated>2024-06-03T19:11:11.749Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:280745point (35%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<퍼펙트 데이즈> 메인 포스터, 메인 예고편 공개]]></title>
+        <id>https://extmovie.com/bestboard/92253204</id>
+        <link href="https://extmovie.com/bestboard/92253204"/>
+        <updated>2024-06-03T19:11:11.750Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:166747point (22%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대놓고 광기의 마케팅을 보여주는 애니]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92250598"/>
         <updated>2024-06-02T12:20:48.333Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5750point (99%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주현 런닝맨]]></title>
-        <id>https://extmovie.com/bestboard/92250565</id>
-        <link href="https://extmovie.com/bestboard/92250565"/>
-        <updated>2024-06-02T12:20:48.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:355379point (1%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<퓨리오사> 안야 테일러조이의 역할 만들기]]></title>
-        <id>https://extmovie.com/bestboard/92250507</id>
-        <link href="https://extmovie.com/bestboard/92250507"/>
-        <updated>2024-06-02T13:11:41.326Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1374944point (74%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

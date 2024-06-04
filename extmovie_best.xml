@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-04T20:12:58.222Z</updated>
+    <updated>2024-06-04T21:11:48.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/92256345</id>
         <link href="https://extmovie.com/bestboard/92256345"/>
         <updated>2024-06-04T16:16:01.270Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:673point (59%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">movieda]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:675point (59%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">movieda]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<애콜라이트> 일본 팬들 SNS 반응]]></title>
+        <id>https://extmovie.com/bestboard/92256288</id>
+        <link href="https://extmovie.com/bestboard/92256288"/>
+        <updated>2024-06-04T21:11:33.301Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1375124point (75%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI가 그린 유명영화 포스터들]]></title>
@@ -116,6 +123,13 @@
         <link href="https://extmovie.com/bestboard/92254648"/>
         <updated>2024-06-04T12:22:07.870Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:12998point (1%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반지의 제왕을 넘어서는 판타지 영화는 아직 없는 것 같네요]]></title>
+        <id>https://extmovie.com/bestboard/92253687</id>
+        <link href="https://extmovie.com/bestboard/92253687"/>
+        <updated>2024-06-04T21:11:33.325Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70179point (19%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 플러스) 삼식이 삼촌 8~9화 - 초간단 후기]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92253375"/>
         <updated>2024-06-03T16:16:08.556Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4433409point (86%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베놈3 첫 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/92253374</id>
-        <link href="https://extmovie.com/bestboard/92253374"/>
-        <updated>2024-06-03T16:16:08.556Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2847point (60%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RandyCunningham]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원더랜드 슬퍼요 쿠키 o]]></title>
-        <id>https://extmovie.com/bestboard/92253372</id>
-        <link href="https://extmovie.com/bestboard/92253372"/>
-        <updated>2024-06-04T04:14:48.088Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:306519point (65%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
     </entry>
 </feed>

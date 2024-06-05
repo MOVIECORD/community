@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-05T13:14:56.353Z</updated>
+    <updated>2024-06-05T14:12:54.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화다운 영화 [원더랜드] 후기 (스포O)]]></title>
+        <id>https://extmovie.com/movietalk/92259006?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92259006?category=61633579"/>
+        <updated>2024-06-05T14:12:46.963Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:905point (12%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헤일리이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<원더랜드> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/92258995?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92258995?category=61633579"/>
         <updated>2024-06-05T13:14:48.594Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1375319point (75%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1375358point (75%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존 오브 인터레스트 짧은 후기.]]></title>
         <id>https://extmovie.com/movietalk/92259003?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92259003?category=61633579"/>
         <updated>2024-06-05T13:14:48.595Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2678point (43%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2684point (43%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<썸머워즈>를 보고 나서 (스포 X) - 호소다 마모루 감...]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92257892?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92257892?category=61633579"/>
         <updated>2024-06-05T06:17:08.057Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34831point (66%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34834point (66%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애콜라이트 감상평]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92243115?category=61633579"/>
         <updated>2024-05-30T07:12:32.496Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51977point (30%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퓨리오사' 돌비관 실관람 리뷰 모음 - 워너코리아]]></title>
-        <id>https://extmovie.com/movietalk/92242545?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92242545?category=61633579"/>
-        <updated>2024-05-30T03:13:33.158Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4434729point (86%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

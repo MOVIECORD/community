@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-05T17:11:20.474Z</updated>
+    <updated>2024-06-05T18:15:36.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/92258707"/>
         <updated>2024-06-05T13:14:40.748Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2549point (30%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">valuev]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나쁜 녀석들: 라이드 오어 다이' 로튼 리뷰 번역]]></title>
+        <id>https://extmovie.com/bestboard/92258712</id>
+        <link href="https://extmovie.com/bestboard/92258712"/>
+        <updated>2024-06-05T18:15:19.843Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4073267point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대만의 흉기난동 진압에 도움을 준 오타쿠가 화제네요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92256587"/>
         <updated>2024-06-05T04:17:26.163Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24714point (56%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">음악영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역사상 가장 이질적인 고질라 <고질라 싱귤러포인트> 후기]]></title>
-        <id>https://extmovie.com/bestboard/92249900</id>
-        <link href="https://extmovie.com/bestboard/92249900"/>
-        <updated>2024-06-05T04:17:26.164Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5307point (66%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
     </entry>
 </feed>

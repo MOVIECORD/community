@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-06T04:14:54.234Z</updated>
+    <updated>2024-06-06T05:13:59.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[난 엄청 창의적인 휴머니스트 뱀파이어가 될거야] 빌어먹을...]]></title>
+        <id>https://extmovie.com/movietalk/92260372?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92260372?category=61633579"/>
+        <updated>2024-06-06T05:13:50.120Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:93956point (75%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고스트 버스터즈_오싹한 뉴욕 단평]]></title>
         <id>https://extmovie.com/movietalk/92260100?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92257892?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92257892?category=61633579"/>
         <updated>2024-06-05T06:17:08.057Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34873point (67%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34976point (70%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애콜라이트 감상평]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92247293?category=61633579"/>
         <updated>2024-05-31T14:11:27.410Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2095point (69%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">제리d]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가슴찡한 위로 <원더랜드>]]></title>
-        <id>https://extmovie.com/movietalk/92246293?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92246293?category=61633579"/>
-        <updated>2024-05-31T08:15:38.614Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51977point (30%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
 </feed>

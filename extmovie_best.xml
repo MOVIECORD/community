@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-08T18:15:24.782Z</updated>
+    <updated>2024-06-08T19:10:33.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://extmovie.com/bestboard/92264992"/>
         <updated>2024-06-08T13:12:17.919Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2994point (75%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(수퍼)소닉 1편 - 간만에 본 한심이 몰려온 영화]]></title>
+        <id>https://extmovie.com/bestboard/92265003</id>
+        <link href="https://extmovie.com/bestboard/92265003"/>
+        <updated>2024-06-08T19:10:17.994Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11893point (48%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">80&amp;#039;s]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '하이라키' 일본 평이 넘 안 좋네요.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92263693"/>
         <updated>2024-06-07T23:13:21.491Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4074299point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지, 박보검 사귄다는 소문 (화보)]]></title>
-        <id>https://extmovie.com/bestboard/92263647</id>
-        <link href="https://extmovie.com/bestboard/92263647"/>
-        <updated>2024-06-07T15:12:53.316Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34446point (55%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
 </feed>

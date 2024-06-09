@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-09T21:12:12.101Z</updated>
+    <updated>2024-06-09T22:12:07.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 6월 9일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92268529</id>
+        <link href="https://extmovie.com/bestboard/92268529"/>
+        <updated>2024-06-09T22:11:52.712Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4074476point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박주현 롯데 자이언츠 시구]]></title>
         <id>https://extmovie.com/bestboard/92267845</id>
@@ -167,6 +174,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:50179point (17%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">허니]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[그것이 알고 싶다, 구하라 님 관련 사건 다루는군요.]]></title>
+        <id>https://extmovie.com/bestboard/92266458</id>
+        <link href="https://extmovie.com/bestboard/92266458"/>
+        <updated>2024-06-09T22:11:52.728Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:281017point (36%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024년 6월 8일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92266376</id>
         <link href="https://extmovie.com/bestboard/92266376"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92265991"/>
         <updated>2024-06-08T17:10:55.453Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19436point (68%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<인사이드 아웃 2> 전체 예매율 1위]]></title>
-        <id>https://extmovie.com/bestboard/92265820</id>
-        <link href="https://extmovie.com/bestboard/92265820"/>
-        <updated>2024-06-09T12:21:42.968Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:167594point (25%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유현목의 한(恨) (1967) 우리나라 영화사 최고의 공포영화는 이것? 스...]]></title>
-        <id>https://extmovie.com/bestboard/92265742</id>
-        <link href="https://extmovie.com/bestboard/92265742"/>
-        <updated>2024-06-09T00:59:35.689Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40787point (28%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-09T19:10:52.991Z</updated>
+    <updated>2024-06-09T20:14:20.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주현 롯데 자이언츠 시구]]></title>
+        <id>https://extmovie.com/bestboard/92267845</id>
+        <link href="https://extmovie.com/bestboard/92267845"/>
+        <updated>2024-06-09T20:14:05.838Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:357042point (10%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 감독, [미키 17] 워너 가위질은 사실무근이라고 밝혀]]></title>
         <id>https://extmovie.com/bestboard/92267756</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/92267106</id>
         <link href="https://extmovie.com/bestboard/92267106"/>
         <updated>2024-06-09T07:12:16.604Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:190point (47%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바둥이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:192point (48%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바둥이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그녀가 죽었다 손익분기점까지 40만명!!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92265742"/>
         <updated>2024-06-09T00:59:35.689Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40787point (28%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 최고 흥행작들 연출한 감독 Top 10]]></title>
-        <id>https://extmovie.com/bestboard/92265757</id>
-        <link href="https://extmovie.com/bestboard/92265757"/>
-        <updated>2024-06-08T15:12:26.412Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4074476point (14%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

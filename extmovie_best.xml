@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-10T20:13:21.588Z</updated>
+    <updated>2024-06-10T21:12:50.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대니얼 크레이그 ’나이브즈 아웃 3‘ 첫모습]]></title>
+        <id>https://extmovie.com/bestboard/92271765</id>
+        <link href="https://extmovie.com/bestboard/92271765"/>
+        <updated>2024-06-10T21:12:35.326Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4439639point (87%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존오브인터레스트를 수입한 소지섭의 PICK]]></title>
         <id>https://extmovie.com/bestboard/92271409</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92267975"/>
         <updated>2024-06-10T03:14:42.380Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:219709point (31%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몇번봐야 이해되는 영화들]]></title>
-        <id>https://extmovie.com/bestboard/92267884</id>
-        <link href="https://extmovie.com/bestboard/92267884"/>
-        <updated>2024-06-10T12:22:50.550Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3174point (93%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚜바뚜바띠]]></content>
     </entry>
 </feed>

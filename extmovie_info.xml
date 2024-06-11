@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-06-11T21:26:47.036Z</updated>
+    <updated>2024-06-11T22:12:14.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제나 미르자 매티슨,애니타 무르자니 회고록 '다잉 투 ...]]></title>
+        <id>https://extmovie.com/movietalk/92275141?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92275141?category=21915420"/>
+        <updated>2024-06-11T22:12:02.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20765point (18%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아케인’ 제작자들, 첫 장편 SF애니 ‘페넬로페 오브 스파르...]]></title>
         <id>https://extmovie.com/movietalk/92275038?category=21915420</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92273033?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92273033?category=21915420"/>
         <updated>2024-06-11T03:14:13.956Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:168266point (27%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<언럭키 로맨스> 메인 포스터 공개]]></title>
-        <id>https://extmovie.com/movietalk/92273025?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92273025?category=21915420"/>
-        <updated>2024-06-11T03:14:13.957Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:168266point (27%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

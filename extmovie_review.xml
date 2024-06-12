@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-12T02:34:39.434Z</updated>
+    <updated>2024-06-12T03:14:10.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포) 드라이브 간단 후기]]></title>
+        <id>https://extmovie.com/movietalk/92275721?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92275721?category=61633579"/>
+        <updated>2024-06-12T03:14:02.669Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1162point (86%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[늦게 본 아틀라스(노스포)]]></title>
         <id>https://extmovie.com/movietalk/92274791?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/92266220?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92266220?category=61633579"/>
         <updated>2024-06-08T14:11:40.245Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4441680point (88%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4441777point (88%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[도그빌] 순수는 쉽게 착취당한다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92259003?category=61633579"/>
         <updated>2024-06-05T13:14:48.595Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2684point (43%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<썸머워즈>를 보고 나서 (스포 X) - 호소다 마모루 감...]]></title>
-        <id>https://extmovie.com/movietalk/92258504?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92258504?category=61633579"/>
-        <updated>2024-06-05T10:13:29.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13241point (12%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

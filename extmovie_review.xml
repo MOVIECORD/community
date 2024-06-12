@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-12T18:16:58.296Z</updated>
+    <updated>2024-06-12T19:11:26.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포) <인사이드 아웃 2> 시대를 아는 모범적인 속편!!]]></title>
+        <id>https://extmovie.com/movietalk/92277908?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92277908?category=61633579"/>
+        <updated>2024-06-12T19:11:19.259Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13022point (2%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[프렌치 수프] 눈 뜨고 보기 힘들었던 이유]]></title>
         <id>https://extmovie.com/movietalk/92277786?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92276995?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92276995?category=61633579"/>
         <updated>2024-06-12T09:13:30.051Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13010point (2%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13022point (2%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슬럼버, 인랑, 천박사는 피했는데 설계자는 못 피했네요 ㅠ]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92260372?category=61633579"/>
         <updated>2024-06-06T05:13:50.120Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:94049point (75%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스트 버스터즈_오싹한 뉴욕 단평]]></title>
-        <id>https://extmovie.com/movietalk/92260100?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92260100?category=61633579"/>
-        <updated>2024-06-06T04:14:46.666Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37347point (36%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
     </entry>
 </feed>

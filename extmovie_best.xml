@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-12T16:15:54.558Z</updated>
+    <updated>2024-06-12T17:12:11.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -125,11 +125,25 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17851point (8%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[핸섬가이즈] 국내 언론사 리뷰 모음 - 2]]></title>
+        <id>https://extmovie.com/bestboard/92276056</id>
+        <link href="https://extmovie.com/bestboard/92276056"/>
+        <updated>2024-06-12T17:11:56.207Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:558858point (94%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[중국에서도 비참한 퓨리오사 매드맥스 사가 수익]]></title>
         <id>https://extmovie.com/bestboard/92275897</id>
         <link href="https://extmovie.com/bestboard/92275897"/>
         <updated>2024-06-12T10:13:34.360Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4176point (80%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Startstudying]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬럼버, 인랑, 천박사는 피했는데 설계자는 못 피했네요 ㅠ]]></title>
+        <id>https://extmovie.com/bestboard/92275892</id>
+        <link href="https://extmovie.com/bestboard/92275892"/>
+        <updated>2024-06-12T17:11:56.209Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:514point (24%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오스틴무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인사이드 아웃 2 CGV 골든에그 99% 시작]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92274589"/>
         <updated>2024-06-11T22:11:58.975Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4442806point (88%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김용 팬들에게 희소식-<김용무협세계(한국제목:2024 사조영웅전)&gt...]]></title>
-        <id>https://extmovie.com/bestboard/92274534</id>
-        <link href="https://extmovie.com/bestboard/92274534"/>
-        <updated>2024-06-12T00:55:41.337Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:164021point (13%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 인사이드 아웃 어린 아이들 케어좀 잘 했으면하네요]]></title>
-        <id>https://extmovie.com/bestboard/92274503</id>
-        <link href="https://extmovie.com/bestboard/92274503"/>
-        <updated>2024-06-12T14:12:59.258Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5816point (3%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비티켓]]></content>
     </entry>
 </feed>

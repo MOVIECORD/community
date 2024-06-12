@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-12T15:15:24.147Z</updated>
+    <updated>2024-06-12T16:15:54.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[프렌치 수프] 눈 뜨고 보기 힘들었던 이유]]></title>
+        <id>https://extmovie.com/movietalk/92277786?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92277786?category=61633579"/>
+        <updated>2024-06-12T16:15:47.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17851point (8%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<인사이드 아웃 2>를 보고 나서 (스포 O, 추천) - 디...]]></title>
         <id>https://extmovie.com/movietalk/92277412?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92275721?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92275721?category=61633579"/>
         <updated>2024-06-12T03:14:02.669Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1170point (88%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1172point (89%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[늦게 본 아틀라스(노스포)]]></title>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/92271965?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92271965?category=61633579"/>
         <updated>2024-06-10T15:14:25.345Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17834point (7%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17851point (8%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박평식 평론가가 선택한 영화들 -Wavve]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92266197?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92266197?category=61633579"/>
         <updated>2024-06-08T14:11:40.245Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17834point (7%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17851point (8%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<라스트 레터>(2018)를 보고 나서 (스포 X) - 이와이 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92260100?category=61633579"/>
         <updated>2024-06-06T04:14:46.666Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37347point (36%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에브리씽 에브리웨어 올앳원스+ 감상평]]></title>
-        <id>https://extmovie.com/movietalk/92259627?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92259627?category=61633579"/>
-        <updated>2024-06-05T23:13:08.088Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1619point (77%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시태라]]></content>
     </entry>
 </feed>

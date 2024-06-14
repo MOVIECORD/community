@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-14T14:13:12.980Z</updated>
+    <updated>2024-06-14T15:15:14.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<하이재킹> 영화 시사회 관람후기 (기대이상 호평)]]></title>
+        <id>https://extmovie.com/movietalk/92283508?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92283508?category=61633579"/>
+        <updated>2024-06-14T15:15:07.379Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1527point (59%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한겻]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핸섬가이즈 전 생각보다 아쉬웠네여]]></title>
+        <id>https://extmovie.com/movietalk/92283458?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92283458?category=61633579"/>
+        <updated>2024-06-14T15:15:07.379Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6703point (61%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이재킹 4DX로 보고 왔습니다]]></title>
         <id>https://extmovie.com/movietalk/92283183?category=61633579</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92267691?category=61633579"/>
         <updated>2024-06-09T11:10:26.299Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13387point (18%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[나쁜녀석들4] 그냥 그럭저럭~ 유치짬뽕(약스포)]]></title>
-        <id>https://extmovie.com/movietalk/92267276?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92267276?category=61633579"/>
-        <updated>2024-06-09T06:16:22.220Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11048point (7%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매드맥스 분노의도로] 이 영화는 정말 미쳤다!!]]></title>
-        <id>https://extmovie.com/movietalk/92266916?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92266916?category=61633579"/>
-        <updated>2024-06-09T02:06:26.514Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11048point (7%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

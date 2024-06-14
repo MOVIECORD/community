@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-14T17:13:08.621Z</updated>
+    <updated>2024-06-14T18:17:03.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/92282739"/>
         <updated>2024-06-14T13:15:18.751Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4076372point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여고생에게 살해당하고 싶어 후기]]></title>
+        <id>https://extmovie.com/bestboard/92282723</id>
+        <link href="https://extmovie.com/bestboard/92282723"/>
+        <updated>2024-06-14T18:16:48.168Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61302point (95%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인사이드아웃2 노스포 후기 (실망)]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/92280678</id>
         <link href="https://extmovie.com/bestboard/92280678"/>
         <updated>2024-06-13T20:13:13.642Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14961point (88%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14963point (89%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[픽사가 실사화를 꺼리는 이유는?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92280492"/>
         <updated>2024-06-13T16:16:42.486Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4445886point (89%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 스타워즈 최하 팝콘 점수 '애콜라이트' 반응들]]></title>
-        <id>https://extmovie.com/bestboard/92280387</id>
-        <link href="https://extmovie.com/bestboard/92280387"/>
-        <updated>2024-06-13T14:13:02.535Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4076372point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-15T16:15:25.693Z</updated>
+    <updated>2024-06-15T17:11:36.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92284838"/>
         <updated>2024-06-15T15:12:40.129Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:15182point (98%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11년전 오늘은 DC의 레전드가 시작된 날]]></title>
+        <id>https://extmovie.com/bestboard/92284652</id>
+        <link href="https://extmovie.com/bestboard/92284652"/>
+        <updated>2024-06-15T17:11:21.369Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4446559point (89%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원더랜드 이얼 배우님 (정유미 아버지역)22년5월26일 식도암으로 사망...]]></title>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/bestboard/92284047</id>
         <link href="https://extmovie.com/bestboard/92284047"/>
         <updated>2024-06-15T06:15:39.319Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4446522point (89%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4446559point (89%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호러 게임 <언틸 던> 실사화에 엘라 루빈, 마이클 시미노, 유지...]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/bestboard/92282273</id>
         <link href="https://extmovie.com/bestboard/92282273"/>
         <updated>2024-06-14T17:12:53.222Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4446522point (89%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4446559point (89%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쉰들러 리스트] 재개봉 포스터]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92282244"/>
         <updated>2024-06-14T08:15:08.807Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:559369point (96%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이드 아웃 2' 로튼토마토 리뷰 번역]]></title>
-        <id>https://extmovie.com/bestboard/92282225</id>
-        <link href="https://extmovie.com/bestboard/92282225"/>
-        <updated>2024-06-14T10:13:02.739Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4076505point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

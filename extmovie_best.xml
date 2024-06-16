@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-16T19:12:06.832Z</updated>
+    <updated>2024-06-16T20:12:56.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI로 영화를 만든다니...]]></title>
+        <id>https://extmovie.com/bestboard/92287079</id>
+        <link href="https://extmovie.com/bestboard/92287079"/>
+        <updated>2024-06-16T20:12:41.229Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2665point (41%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거칠고 강렬하며 폭발적인 영화 8편]]></title>
         <id>https://extmovie.com/bestboard/92286808</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92284511"/>
         <updated>2024-06-15T11:11:00.065Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:559492point (97%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고의 여성 킬러는...]]></title>
-        <id>https://extmovie.com/bestboard/92284485</id>
-        <link href="https://extmovie.com/bestboard/92284485"/>
-        <updated>2024-06-15T12:21:23.488Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3363point (10%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚜바뚜바띠]]></content>
     </entry>
 </feed>

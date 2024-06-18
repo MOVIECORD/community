@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-18T16:16:10.449Z</updated>
+    <updated>2024-06-18T17:12:46.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/92293304</id>
         <link href="https://extmovie.com/bestboard/92293304"/>
         <updated>2024-06-18T16:15:55.260Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112380604point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112380608point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<마담 웹> 다코타 존슨의 발언에 대한 러셀 크로우의 반응]]></title>
@@ -31,7 +31,7 @@
         <id>https://extmovie.com/bestboard/92292548</id>
         <link href="https://extmovie.com/bestboard/92292548"/>
         <updated>2024-06-18T12:23:29.839Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12170point (61%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12172point (61%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[샘 멘데스 감독 <비틀즈> 영화에 폴 메스칼, 배리 키오건, 해리...]]></title>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4450074point (90%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[호주당국, ‘퓨리오사’ 제작에 세금 1억달러 사용]]></title>
+        <id>https://extmovie.com/bestboard/92291122</id>
+        <link href="https://extmovie.com/bestboard/92291122"/>
+        <updated>2024-06-18T17:12:31.513Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4450074point (90%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[숀 레비, 데드풀 & 스파이더맨 무비 제작 원해]]></title>
         <id>https://extmovie.com/bestboard/92291112</id>
         <link href="https://extmovie.com/bestboard/92291112"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92290007"/>
         <updated>2024-06-17T13:15:32.839Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/54.gif" alt="[레벨:54]" title="포인트:559839point (99%), 레벨:54/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['X' 시리즈 3부작 팬포스터]]></title>
-        <id>https://extmovie.com/bestboard/92289922</id>
-        <link href="https://extmovie.com/bestboard/92289922"/>
-        <updated>2024-06-17T14:12:48.063Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4450074point (90%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

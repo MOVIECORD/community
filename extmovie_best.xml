@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-19T16:15:52.982Z</updated>
+    <updated>2024-06-19T17:12:45.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92295958"/>
         <updated>2024-06-19T15:13:33.664Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4077752point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한정적인 공간에서 벌어지는 스릴러 영화 4편 (21세기 영화들,서치,127...]]></title>
+        <id>https://extmovie.com/bestboard/92295747</id>
+        <link href="https://extmovie.com/bestboard/92295747"/>
+        <updated>2024-06-19T17:12:30.115Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16148point (38%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["리메이크는 이렇게 하는 것이다" … 단연코 올 여름을 제패...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92292791"/>
         <updated>2024-06-18T12:23:29.839Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1378213point (78%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민식, 韓 [인턴] 로버트 드 니로 역할? “개발 단계, 정해진 것 없다”]]></title>
-        <id>https://extmovie.com/bestboard/92292561</id>
-        <link href="https://extmovie.com/bestboard/92292561"/>
-        <updated>2024-06-19T01:59:43.279Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:560025point (0%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

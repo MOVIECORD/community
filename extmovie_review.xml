@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-19T15:13:49.076Z</updated>
+    <updated>2024-06-19T16:15:52.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 본 4편 <노 웨이 업> <캣퍼슨> <프리실...]]></title>
+        <id>https://extmovie.com/movietalk/92296546?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92296546?category=61633579"/>
+        <updated>2024-06-19T16:15:45.552Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13052point (4%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프렌치 수프 너무나 아름다운 영화네요]]></title>
         <id>https://extmovie.com/movietalk/92296285?category=61633579</id>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/92277908?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92277908?category=61633579"/>
         <updated>2024-06-12T19:11:19.259Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13032point (3%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13052point (4%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[프렌치 수프] 눈 뜨고 보기 힘들었던 이유]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92277786?category=61633579"/>
         <updated>2024-06-12T16:15:47.121Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17997point (13%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<인사이드 아웃 2>를 보고 나서 (스포 O, 추천) - 디...]]></title>
-        <id>https://extmovie.com/movietalk/92277412?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92277412?category=61633579"/>
-        <updated>2024-06-12T13:15:05.478Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13697point (32%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-20T12:22:52.751Z</updated>
+    <updated>2024-06-20T13:14:34.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탈주-코로나 시국 이후로 체감상 한국영화 최고의 상업영화...]]></title>
+        <id>https://extmovie.com/movietalk/92298754?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92298754?category=61633579"/>
+        <updated>2024-06-20T13:14:26.355Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6747point (64%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모랄레스부인의 해골 (1960) 멕시코 호러코메디. 간략하고 ...]]></title>
         <id>https://extmovie.com/movietalk/92297239?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92296285?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92296285?category=61633579"/>
         <updated>2024-06-19T14:11:51.724Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6735point (63%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6747point (64%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<히트맨>을 보고 나서 (스포 O) - 리처드 링클레이터 ...]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92283458?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92283458?category=61633579"/>
         <updated>2024-06-14T15:15:07.379Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6735point (63%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6747point (64%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이재킹 4DX로 보고 왔습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92279551?category=61633579"/>
         <updated>2024-06-13T08:15:51.495Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52210point (31%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<인사이드 아웃2> 버라이어티 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92279545?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92279545?category=61633579"/>
-        <updated>2024-06-13T08:15:51.495Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5984point (14%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-22T19:13:03.292Z</updated>
+    <updated>2024-06-22T20:12:16.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92303822"/>
         <updated>2024-06-22T18:15:00.609Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4078478point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<퓨리오사> 이스터 에그]]></title>
+        <id>https://extmovie.com/bestboard/92303696</id>
+        <link href="https://extmovie.com/bestboard/92303696"/>
+        <updated>2024-06-22T20:12:01.075Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1378871point (78%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이재킹 괜찮게 봤네요. 흥행은 개봉시기가..]]></title>
@@ -73,6 +80,13 @@
         <id>https://extmovie.com/bestboard/92302920</id>
         <link href="https://extmovie.com/bestboard/92302920"/>
         <updated>2024-06-22T11:09:38.472Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4455285point (91%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지 인스타에 송혜교 (추가)]]></title>
+        <id>https://extmovie.com/bestboard/92302888</id>
+        <link href="https://extmovie.com/bestboard/92302888"/>
+        <updated>2024-06-22T20:12:01.094Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4455285point (91%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92301094"/>
         <updated>2024-06-22T08:15:22.626Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4455285point (91%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이재킹 오늘개봉이네요? 원래 수요일 개봉이 관례라고 생각했는데]]></title>
-        <id>https://extmovie.com/bestboard/92301012</id>
-        <link href="https://extmovie.com/bestboard/92301012"/>
-        <updated>2024-06-22T07:12:45.601Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6769point (65%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<하이재킹> <캣퍼슨> 짧은 노스포 후기]]></title>
-        <id>https://extmovie.com/bestboard/92300950</id>
-        <link href="https://extmovie.com/bestboard/92300950"/>
-        <updated>2024-06-21T16:15:22.875Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15960point (30%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사보타주]]></content>
     </entry>
 </feed>

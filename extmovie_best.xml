@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-23T19:12:08.793Z</updated>
+    <updated>2024-06-23T20:12:51.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 6월 23일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92305783</id>
+        <link href="https://extmovie.com/bestboard/92305783"/>
+        <updated>2024-06-23T20:12:36.549Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4078674point (15%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태용 감독 생방송중 탕배우 문자 “여보. 머.리”]]></title>
         <id>https://extmovie.com/bestboard/92305667</id>
         <link href="https://extmovie.com/bestboard/92305667"/>
         <updated>2024-06-23T16:14:06.168Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4455922point (91%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타임즈 선정 20세기 가장 영향력 있는 영웅&아이콘들]]></title>
+        <id>https://extmovie.com/bestboard/92305595</id>
+        <link href="https://extmovie.com/bestboard/92305595"/>
+        <updated>2024-06-23T20:12:36.551Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17835point (7%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[곧 개봉할 영화 <트위스터스> 장르를 오해했었네요.]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/92303747</id>
         <link href="https://extmovie.com/bestboard/92303747"/>
         <updated>2024-06-23T00:58:49.821Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1379093point (79%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이 숙모 '마리사 토메이' 변천사]]></title>
-        <id>https://extmovie.com/bestboard/92303703</id>
-        <link href="https://extmovie.com/bestboard/92303703"/>
-        <updated>2024-06-22T23:11:23.914Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1379093point (79%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<퓨리오사> 이스터 에그]]></title>
-        <id>https://extmovie.com/bestboard/92303696</id>
-        <link href="https://extmovie.com/bestboard/92303696"/>
-        <updated>2024-06-22T20:12:01.075Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1379093point (79%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

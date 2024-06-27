@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-27T16:15:37.251Z</updated>
+    <updated>2024-06-27T17:13:41.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92317440"/>
         <updated>2024-06-27T16:15:23.695Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4080129point (16%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<해리 포터> 드라마 버전, 감독 & 각본가 공식 결정]]></title>
+        <id>https://extmovie.com/bestboard/92317341</id>
+        <link href="https://extmovie.com/bestboard/92317341"/>
+        <updated>2024-06-27T17:13:26.231Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380236point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(DCU) 영화 브레이브 앤 볼드에서 메인빌런으로 등장할 것 같은 단체]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92314491"/>
         <updated>2024-06-27T00:55:28.973Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380236point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 저메키스 감독 [히어] 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/92314443</id>
-        <link href="https://extmovie.com/bestboard/92314443"/>
-        <updated>2024-06-26T23:12:07.420Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:561154point (5%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

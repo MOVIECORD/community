@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-06-27T20:13:21.703Z</updated>
+    <updated>2024-06-27T21:11:43.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 6월 27일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92317819</id>
+        <link href="https://extmovie.com/bestboard/92317819"/>
+        <updated>2024-06-27T21:11:27.803Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4080129point (16%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<콰이어트 플레이스: 첫째 날> 라스트 제다이와 동일한 교훈을 ...]]></title>
         <id>https://extmovie.com/bestboard/92317640</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92314711"/>
         <updated>2024-06-26T22:11:43.960Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13288point (14%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(DCU) 슈퍼맨(2025) 검은슈트의 인물로 유력한 캐릭터]]></title>
-        <id>https://extmovie.com/bestboard/92314649</id>
-        <link href="https://extmovie.com/bestboard/92314649"/>
-        <updated>2024-06-26T21:12:51.514Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4373point (96%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
     </entry>
 </feed>

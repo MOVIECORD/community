@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-29T04:16:09.915Z</updated>
+    <updated>2024-06-29T05:13:47.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핸섬 가이즈. 저만 안 웃긴가요?]]></title>
+        <id>https://extmovie.com/movietalk/92321529?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92321529?category=61633579"/>
+        <updated>2024-06-29T05:13:40.201Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:530point (28%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오스틴무비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<주먹왕 랄프 2: 인터넷 속으로>를 보고 나서 (스포 O...]]></title>
         <id>https://extmovie.com/movietalk/92321497?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/92317261?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92317261?category=61633579"/>
         <updated>2024-06-27T12:23:08.424Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380722point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380732point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[1초앞,1초 뒤]간단 리뷰]]></title>
@@ -115,7 +122,7 @@
         <id>https://extmovie.com/movietalk/92314287?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92314287?category=61633579"/>
         <updated>2024-06-26T13:14:58.571Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380722point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380732point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[콰이어트플레이스] 굳이 극장에서 볼 필요는...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92303952?category=61633579"/>
         <updated>2024-06-22T16:15:04.350Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14912point (86%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<몽키맨>, <하이재킹> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/92303056?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92303056?category=61633579"/>
-        <updated>2024-06-22T08:15:30.701Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380722point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

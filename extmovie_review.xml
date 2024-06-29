@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-06-29T08:16:22.691Z</updated>
+    <updated>2024-06-29T09:18:02.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콰이어트플레이스3편 봤습니다.]]></title>
+        <id>https://extmovie.com/movietalk/92321975?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92321975?category=61633579"/>
+        <updated>2024-06-29T09:17:55.912Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1646point (82%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핸섬 가이즈. 저만 안 웃긴가요?]]></title>
         <id>https://extmovie.com/movietalk/92321529?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92317261?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92317261?category=61633579"/>
         <updated>2024-06-27T12:23:08.424Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380819point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380831point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[1초앞,1초 뒤]간단 리뷰]]></title>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/92314287?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92314287?category=61633579"/>
         <updated>2024-06-26T13:14:58.571Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380819point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1380831point (80%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[콰이어트플레이스] 굳이 극장에서 볼 필요는...]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/92313618?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92313618?category=61633579"/>
         <updated>2024-06-26T08:17:04.234Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62015point (0%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62026point (1%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콰이어트플레이스:첫째날 노스포 간략 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92304314?category=61633579"/>
         <updated>2024-06-23T04:15:02.252Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44063point (12%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이재킹을 보고 4DX로 봤습니다.]]></title>
-        <id>https://extmovie.com/movietalk/92303952?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92303952?category=61633579"/>
-        <updated>2024-06-22T16:15:04.350Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14912point (86%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
     </entry>
 </feed>

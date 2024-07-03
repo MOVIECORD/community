@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-03T20:13:17.802Z</updated>
+    <updated>2024-07-03T21:13:05.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(DCU) 슈퍼맨(2025) 호크걸, 가이 가드너, 메타모르포 모습 공개]]></title>
+        <id>https://extmovie.com/bestboard/92333620</id>
+        <link href="https://extmovie.com/bestboard/92333620"/>
+        <updated>2024-07-03T21:12:50.922Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4675point (19%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 7월 3일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92333603</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92330680"/>
         <updated>2024-07-03T00:56:10.375Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2917point (67%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잭 스나이더, 자신만의 ‘저스티스 리그’ 극장 개봉예정 암시]]></title>
-        <id>https://extmovie.com/bestboard/92330635</id>
-        <link href="https://extmovie.com/bestboard/92330635"/>
-        <updated>2024-07-03T04:14:48.759Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4467198point (93%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

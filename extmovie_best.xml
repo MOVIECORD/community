@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-06T18:15:19.575Z</updated>
+    <updated>2024-07-06T19:10:40.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -102,6 +102,13 @@
         <link href="https://extmovie.com/bestboard/92339031"/>
         <updated>2024-07-06T05:12:51.275Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:562557point (12%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘데드풀 & 울버린’ 뉴 인터내셔널 포스터 3종]]></title>
+        <id>https://extmovie.com/bestboard/92338966</id>
+        <link href="https://extmovie.com/bestboard/92338966"/>
+        <updated>2024-07-06T19:10:25.341Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4469191point (93%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라이언 레이놀즈 휴 잭맨 워터밤]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92337422"/>
         <updated>2024-07-05T10:13:35.884Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4082676point (16%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[염정아 X 황정민 <크로스> 넷플릭스 8월 공개]]></title>
-        <id>https://extmovie.com/bestboard/92337379</id>
-        <link href="https://extmovie.com/bestboard/92337379"/>
-        <updated>2024-07-05T07:11:56.308Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:174380point (47%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

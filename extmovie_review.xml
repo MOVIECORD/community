@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-07T05:14:28.850Z</updated>
+    <updated>2024-07-07T06:17:23.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[탈주] 재밌었지만 매우 아쉽다 (스포)]]></title>
+        <id>https://extmovie.com/movietalk/92341089?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92341089?category=61633579"/>
+        <updated>2024-07-07T06:17:16.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11590point (33%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[듄2 용아맥 재개봉 N차 후기]]></title>
         <id>https://extmovie.com/movietalk/92341046?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92341046?category=61633579"/>
         <updated>2024-07-07T05:14:22.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11570point (32%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11590point (33%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스팅>을 보고 나서 (스포 O, 추천) - 로버트 레드포...]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92322163?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92322163?category=61633579"/>
         <updated>2024-06-29T12:22:12.259Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11570point (32%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11590point (33%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<버드맨> 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92321497?category=61633579"/>
         <updated>2024-06-29T04:16:02.773Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14492point (68%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜만에 남겨보는 영화 후기 Zone of interst (약스포)]]></title>
-        <id>https://extmovie.com/movietalk/92321207?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92321207?category=61633579"/>
-        <updated>2024-06-29T02:30:19.222Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1894point (30%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너의시간속으로]]></content>
     </entry>
 </feed>

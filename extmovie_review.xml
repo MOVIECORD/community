@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-09T09:14:05.783Z</updated>
+    <updated>2024-07-09T10:13:48.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심리 스릴러를 이용한 민감한 주제를 다룬 <이매큘레이트...]]></title>
+        <id>https://extmovie.com/movietalk/92347139?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92347139?category=61633579"/>
+        <updated>2024-07-09T10:13:41.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52304point (32%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오페라 (1987) 다리오 아르젠토 감독의 평작. 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92340702?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/92343967?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92343967?category=61633579"/>
         <updated>2024-07-08T08:16:36.360Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52282point (32%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52304point (32%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데이비드 게일>을 보고 나서 (스포 O, 추천) - 케이...]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/92333131?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92333131?category=61633579"/>
         <updated>2024-07-03T14:13:51.258Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1383051point (83%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1383057point (83%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The savage innocents (1961) 에스키모들의 생태에 대한 영...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92331873?category=61633579"/>
         <updated>2024-07-03T05:13:39.823Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1005point (41%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화는혼자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<그녀가 죽었다>를 보고 나서 (스포 O) - 신혜선, 변...]]></title>
-        <id>https://extmovie.com/movietalk/92330355?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92330355?category=61633579"/>
-        <updated>2024-07-02T14:12:12.368Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14598point (72%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-10T16:16:18.967Z</updated>
+    <updated>2024-07-10T17:11:24.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<탈출: 프로젝트 사일런스> 총체적 난국입니다.]]></title>
+        <id>https://extmovie.com/movietalk/92350475?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92350475?category=61633579"/>
+        <updated>2024-07-10T17:11:17.220Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13353point (17%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<하복>을 보고 나서 (스포 O, 비추천) - 앤 해서웨이 ...]]></title>
         <id>https://extmovie.com/movietalk/92349566?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92336399?category=61633579"/>
         <updated>2024-07-04T15:12:54.800Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14680point (76%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mad max 2 the road warrior (1981) 참 안 좋게 늙은 영화. ...]]></title>
-        <id>https://extmovie.com/movietalk/92334513?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92334513?category=61633579"/>
-        <updated>2024-07-04T04:14:51.269Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46180point (64%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

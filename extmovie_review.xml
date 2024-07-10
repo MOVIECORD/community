@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-10T04:16:51.723Z</updated>
+    <updated>2024-07-10T05:13:16.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['데드풀 & 울버린' 국내 푸티지 시사 단평들]]></title>
+        <id>https://extmovie.com/movietalk/92348954?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92348954?category=61633579"/>
+        <updated>2024-07-10T05:13:09.288Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4472379point (94%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이매큘레이트 익무시사 불호 후기]]></title>
         <id>https://extmovie.com/movietalk/92348550?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92348550?category=61633579"/>
         <updated>2024-07-10T03:14:39.774Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223661point (57%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">stanly]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:223663point (57%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">stanly]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<터스크> 리뷰]]></title>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/92345123?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92345123?category=61633579"/>
         <updated>2024-07-08T17:11:35.732Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18157point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18171point (20%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<리오>를 보고 나서 (스포 O) - 디즈니 애니메이션 작품]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92333552?category=61633579"/>
         <updated>2024-07-03T15:13:21.658Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13337point (16%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<탈주>를 보고 나서 (스포 O) - 이제훈, 구교환 주연 ...]]></title>
-        <id>https://extmovie.com/movietalk/92333244?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92333244?category=61633579"/>
-        <updated>2024-07-03T14:13:51.258Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14668point (75%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

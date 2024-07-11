@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-11T17:12:11.991Z</updated>
+    <updated>2024-07-11T18:17:00.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<샤이닝> 셜리 듀발 별세]]></title>
+        <id>https://extmovie.com/bestboard/92353127</id>
+        <link href="https://extmovie.com/bestboard/92353127"/>
+        <updated>2024-07-11T18:16:44.706Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1383533point (83%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 ‘더 플랫폼 2’ 첫 포스터, 트레일러]]></title>
+        <id>https://extmovie.com/bestboard/92352736</id>
+        <link href="https://extmovie.com/bestboard/92352736"/>
+        <updated>2024-07-11T18:16:44.707Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4473873point (94%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파묘' 일본 개봉 커밍순 이미지]]></title>
         <id>https://extmovie.com/bestboard/92352458</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92350259"/>
         <updated>2024-07-11T08:17:24.982Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:175797point (52%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[롱레그스] 새 포스터 공개]]></title>
-        <id>https://extmovie.com/bestboard/92350200</id>
-        <link href="https://extmovie.com/bestboard/92350200"/>
-        <updated>2024-07-11T05:12:54.393Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:563666point (18%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퍼펙트 데이즈' 주인공에게 빔 벤더스 감독이 보낸 편지]]></title>
-        <id>https://extmovie.com/bestboard/92350166</id>
-        <link href="https://extmovie.com/bestboard/92350166"/>
-        <updated>2024-07-11T06:17:19.912Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4084448point (16%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-14T17:17:56.906Z</updated>
+    <updated>2024-07-14T18:24:18.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 7월 14일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92360062</id>
+        <link href="https://extmovie.com/bestboard/92360062"/>
+        <updated>2024-07-14T18:24:04.208Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4085188point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비벌리 힐즈 아이들’ 섀넌 도허티 53세로 별세]]></title>
         <id>https://extmovie.com/bestboard/92359817</id>
@@ -53,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92358556"/>
         <updated>2024-07-14T11:11:39.432Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4085188point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사다코DX 봤는데 이거는 진짜... (약간스포)]]></title>
+        <id>https://extmovie.com/bestboard/92358536</id>
+        <link href="https://extmovie.com/bestboard/92358536"/>
+        <updated>2024-07-14T18:24:04.218Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62755point (37%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데드풀과 울버린> 이게 바로 마블 시네마야😎⚔️]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92357432"/>
         <updated>2024-07-13T15:12:11.419Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6088point (21%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈출 현재 에그지수]]></title>
-        <id>https://extmovie.com/bestboard/92357406</id>
-        <link href="https://extmovie.com/bestboard/92357406"/>
-        <updated>2024-07-13T13:13:36.593Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6088point (21%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 탈출 엔딩 올라갈때 배우 박호산이름이 있던데 언제 나왔죠?]]></title>
-        <id>https://extmovie.com/bestboard/92357398</id>
-        <link href="https://extmovie.com/bestboard/92357398"/>
-        <updated>2024-07-14T03:15:30.235Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40677point (25%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
     </entry>
 </feed>

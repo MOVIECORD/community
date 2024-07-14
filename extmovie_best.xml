@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-14T02:38:01.691Z</updated>
+    <updated>2024-07-14T03:15:46.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박보영 이태원에서 만난 맥심]]></title>
+        <id>https://extmovie.com/bestboard/92358100</id>
+        <link href="https://extmovie.com/bestboard/92358100"/>
+        <updated>2024-07-14T03:15:30.230Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:366993point (59%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탈출… 하 ㅜ 진짜 엉망이네요. (강스포)]]></title>
         <id>https://extmovie.com/bestboard/92358051</id>
@@ -83,6 +90,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6084point (21%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[영화 탈출 엔딩 올라갈때 배우 박호산이름이 있던데 언제 나왔죠?]]></title>
+        <id>https://extmovie.com/bestboard/92357398</id>
+        <link href="https://extmovie.com/bestboard/92357398"/>
+        <updated>2024-07-14T03:15:30.235Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:40628point (24%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[탈출] 주지훈 "흥행 부진? 가슴 찢어져"]]></title>
         <id>https://extmovie.com/bestboard/92357318</id>
         <link href="https://extmovie.com/bestboard/92357318"/>
@@ -136,7 +150,7 @@
         <id>https://extmovie.com/bestboard/92357110</id>
         <link href="https://extmovie.com/bestboard/92357110"/>
         <updated>2024-07-13T23:11:39.254Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4475694point (95%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4475707point (95%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[롱레그스] 시네마스코어 점수 C+]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92355733"/>
         <updated>2024-07-12T20:13:19.478Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4084980point (16%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘데드풀 & 울버린’ 판당고 예매량 2024년 최대 기록]]></title>
-        <id>https://extmovie.com/bestboard/92355609</id>
-        <link href="https://extmovie.com/bestboard/92355609"/>
-        <updated>2024-07-13T02:36:34.464Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4475694point (95%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[캡틴 아메리카: 브레이브 뉴 월드] 국문 티저 예고편]]></title>
-        <id>https://extmovie.com/bestboard/92355604</id>
-        <link href="https://extmovie.com/bestboard/92355604"/>
-        <updated>2024-07-12T17:12:29.788Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7996point (41%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알프레드]]></content>
     </entry>
 </feed>

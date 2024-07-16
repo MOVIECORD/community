@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-07-16T14:13:37.535Z</updated>
+    <updated>2024-07-16T15:11:42.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 7월 16일 박스오피스]]></title>
+        <id>https://extmovie.com/movietalk/92364710?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92364710?category=21915420"/>
+        <updated>2024-07-16T15:11:31.989Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25734point (90%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중간보스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에드워드 버거 ‘콘클레이브’ 첫 스틸들]]></title>
         <id>https://extmovie.com/movietalk/92364611?category=21915420</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/92364232?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92364232?category=21915420"/>
         <updated>2024-07-16T11:11:41.797Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384023point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384025point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['트위스터즈' 파이널 예고편 - 워너코리아]]></title>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/92363926?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92363926?category=21915420"/>
         <updated>2024-07-16T09:14:22.508Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384023point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384025point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['더 크로우' 뉴 스틸]]></title>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/92363863?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92363863?category=21915420"/>
         <updated>2024-07-16T08:16:58.916Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384023point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384025point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대블루멤버스 영화 <파일럿> 무대인사 이벤트]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92362626?category=21915420"/>
         <updated>2024-07-16T00:58:00.312Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4478260point (95%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 쿠폰소식은 5개 입니다! 비온데요 오늘부터 ㅜㅜ]]></title>
-        <id>https://extmovie.com/movietalk/92362649?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92362649?category=21915420"/>
-        <updated>2024-07-16T00:58:00.312Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9949point (50%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
     </entry>
 </feed>

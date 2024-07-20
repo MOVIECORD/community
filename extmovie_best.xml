@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-20T01:59:17.125Z</updated>
+    <updated>2024-07-20T02:33:01.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CJENM유튜브 계정 털린듯......]]></title>
+        <id>https://extmovie.com/bestboard/92372031</id>
+        <link href="https://extmovie.com/bestboard/92372031"/>
+        <updated>2024-07-20T02:32:45.564Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14924point (87%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 7월 19일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92371617</id>
         <link href="https://extmovie.com/bestboard/92371617"/>
         <updated>2024-07-19T23:13:21.166Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4086243point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4086264point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(DCU) 슈퍼걸 역의 후보 배우였던 Meg Donnelly 오디션 후기]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/bestboard/92369222</id>
         <link href="https://extmovie.com/bestboard/92369222"/>
         <updated>2024-07-18T22:11:58.920Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4086243point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4086264point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡플레이 반지의 제왕]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92368423"/>
         <updated>2024-07-19T05:13:42.664Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4481548point (96%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이더맨: 노 웨이 홈 '펀버전' CGV 스크린 X 재개봉]]></title>
-        <id>https://extmovie.com/bestboard/92368398</id>
-        <link href="https://extmovie.com/bestboard/92368398"/>
-        <updated>2024-07-18T12:24:42.430Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:506point (23%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">말리]]></content>
     </entry>
 </feed>

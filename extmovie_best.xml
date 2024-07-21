@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-21T10:13:25.647Z</updated>
+    <updated>2024-07-21T11:10:49.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/92374270</id>
         <link href="https://extmovie.com/bestboard/92374270"/>
         <updated>2024-07-21T08:14:41.729Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:533point (28%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">가보자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:535point (29%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">가보자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<퍼펙트 데이즈> 야쿠쇼 코지 내한 사진]]></title>
+        <id>https://extmovie.com/bestboard/92374218</id>
+        <link href="https://extmovie.com/bestboard/92374218"/>
+        <updated>2024-07-21T11:10:35.554Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:177822point (59%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로건에 나왔던 그 아역배우가 이여배우일까요?]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/bestboard/92372439</id>
         <link href="https://extmovie.com/bestboard/92372439"/>
         <updated>2024-07-20T08:14:51.247Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22744point (89%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22747point (89%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[린다 카터 원더우먼의 인비저블 젯]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92372263"/>
         <updated>2024-07-20T09:13:16.031Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4086553point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[94세의 Clint Eastwood, 61세의 부인이 별세]]></title>
-        <id>https://extmovie.com/bestboard/92372244</id>
-        <link href="https://extmovie.com/bestboard/92372244"/>
-        <updated>2024-07-20T11:10:53.791Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35802point (94%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
 </feed>

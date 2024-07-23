@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-23T16:19:03.005Z</updated>
+    <updated>2024-07-23T17:12:52.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/92379098"/>
         <updated>2024-07-23T15:14:02.066Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3560point (27%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데드풀과 울버린' 관람 전 봐두면 좋은 영상]]></title>
+        <id>https://extmovie.com/bestboard/92379041</id>
+        <link href="https://extmovie.com/bestboard/92379041"/>
+        <updated>2024-07-23T17:12:37.633Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4087091point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[메가박스] ※데드풀과 울버린 상영 취소 문자※ +추가 안내]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/bestboard/92378217</id>
         <link href="https://extmovie.com/bestboard/92378217"/>
         <updated>2024-07-23T10:13:37.657Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:154221point (71%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spacekitty]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/32.gif" alt="[레벨:32]" title="포인트:154223point (71%), 레벨:32/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spacekitty]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(DCU) 케빈 파이기 DCU와의 크로스오버 언급]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92377569"/>
         <updated>2024-07-23T07:12:32.475Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:565099point (25%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박훈정 감독 작품 <폭군> 보도스틸 공개]]></title>
-        <id>https://extmovie.com/bestboard/92377550</id>
-        <link href="https://extmovie.com/bestboard/92377550"/>
-        <updated>2024-07-23T13:16:09.622Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:178670point (62%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

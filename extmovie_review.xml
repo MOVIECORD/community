@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-23T11:12:35.054Z</updated>
+    <updated>2024-07-23T12:24:11.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[도그빌]]]></title>
+        <id>https://extmovie.com/movietalk/92378825?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92378825?category=61633579"/>
+        <updated>2024-07-23T12:24:04.515Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35374point (82%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<데드풀과 울버린> 간단 후기]]></title>
         <id>https://extmovie.com/movietalk/92378462?category=61633579</id>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/92371037?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92371037?category=61633579"/>
         <updated>2024-07-19T09:13:47.587Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35341point (81%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35374point (82%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<엠 아이 오케이 ?>를 보고 나서 (스포 O, 추천) - 다...]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92369166?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92369166?category=61633579"/>
         <updated>2024-07-18T15:14:14.232Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4182point (80%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4184point (80%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<에피데믹>을 보고 나서 (스포 O) - 라스 폰 트리에 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92358063?category=61633579"/>
         <updated>2024-07-13T21:12:25.803Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47545point (98%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포) 탈주 후기 (극호)]]></title>
-        <id>https://extmovie.com/movietalk/92356943?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92356943?category=61633579"/>
-        <updated>2024-07-13T06:17:31.294Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1627point (78%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">용산여의도영등포]]></content>
     </entry>
 </feed>

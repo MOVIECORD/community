@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-24T18:16:39.603Z</updated>
+    <updated>2024-07-24T19:11:03.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92381320"/>
         <updated>2024-07-24T15:14:57.031Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4481885point (96%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데드풀3에서 예상치도 못했던 기억에 남는 드립(스포)]]></title>
+        <id>https://extmovie.com/bestboard/92381298</id>
+        <link href="https://extmovie.com/bestboard/92381298"/>
+        <updated>2024-07-24T19:10:47.633Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1613point (76%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폭스 유니버스에 애정이 없다면[데드풀과 울버린 주의점]]]></title>
@@ -81,6 +88,13 @@
         <link href="https://extmovie.com/bestboard/92380553"/>
         <updated>2024-07-24T08:16:06.194Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:411point (2%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">rodi123123]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데드풀과 울버린] CGV 골든 에그 점수 90%]]></title>
+        <id>https://extmovie.com/bestboard/92380518</id>
+        <link href="https://extmovie.com/bestboard/92380518"/>
+        <updated>2024-07-24T19:10:47.644Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:565191point (25%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데드풀과 울버린] 레이디 데드풀의 정체 (초강스포)]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92379783"/>
         <updated>2024-07-24T04:14:55.357Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:29point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">리틀디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈주 200만 와우]]></title>
-        <id>https://extmovie.com/bestboard/92379771</id>
-        <link href="https://extmovie.com/bestboard/92379771"/>
-        <updated>2024-07-24T08:16:06.222Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:307004point (70%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(DC Elseworlds) 더 배트맨 시리즈 4가지 소식]]></title>
-        <id>https://extmovie.com/bestboard/92379715</id>
-        <link href="https://extmovie.com/bestboard/92379715"/>
-        <updated>2024-07-24T04:14:55.357Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5741point (98%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
     </entry>
 </feed>

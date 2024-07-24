@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-24T02:04:12.144Z</updated>
+    <updated>2024-07-24T03:15:11.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<데드풀과 울버린> 별점입니다.]]></title>
+        <id>https://extmovie.com/movietalk/92379926?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92379926?category=61633579"/>
+        <updated>2024-07-24T03:15:04.406Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13382point (18%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<그 남자 흉폭하다>를 보고 나서 (스포 O, 추천) - 기...]]></title>
         <id>https://extmovie.com/movietalk/92379746?category=61633579</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/92373329?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92373329?category=61633579"/>
         <updated>2024-07-20T14:11:02.835Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11674point (37%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11676point (37%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[악마와의 토크쇼 정말 소름 돋네요]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92362351?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92362351?category=61633579"/>
         <updated>2024-07-15T15:15:20.381Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15285point (3%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<토니 타키타니>를 보고 나서 (스포 O, 추천) - 이치...]]></title>
-        <id>https://extmovie.com/movietalk/92361003?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92361003?category=61633579"/>
-        <updated>2024-07-15T04:18:25.365Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15285point (3%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

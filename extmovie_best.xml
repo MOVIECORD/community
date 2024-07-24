@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-24T19:11:03.123Z</updated>
+    <updated>2024-07-24T20:13:55.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 7월 24일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92381902</id>
+        <link href="https://extmovie.com/bestboard/92381902"/>
+        <updated>2024-07-24T20:13:41.501Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4087401point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데드풀3 까메오 나오는것 빼면 재밌나요?]]></title>
+        <id>https://extmovie.com/bestboard/92381565</id>
+        <link href="https://extmovie.com/bestboard/92381565"/>
+        <updated>2024-07-24T20:13:41.501Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2445point (19%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데드풀과 울버린] 로튼토마토 평론가 현재 점수]]></title>
+        <id>https://extmovie.com/bestboard/92381451</id>
+        <link href="https://extmovie.com/bestboard/92381451"/>
+        <updated>2024-07-24T20:13:41.502Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6338point (37%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼배드 4 일산 4DX 노스포 후기]]></title>
         <id>https://extmovie.com/bestboard/92381406</id>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/92379853"/>
         <updated>2024-07-24T03:14:56.582Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11269point (18%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오오옹이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데드풀 불호평 하나 던집니다]]></title>
-        <id>https://extmovie.com/bestboard/92379829</id>
-        <link href="https://extmovie.com/bestboard/92379829"/>
-        <updated>2024-07-24T03:14:56.583Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11079point (9%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">요하네스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데드풀2 안 봐도 이번 편 관람 괜찮을까요?]]></title>
-        <id>https://extmovie.com/bestboard/92379817</id>
-        <link href="https://extmovie.com/bestboard/92379817"/>
-        <updated>2024-07-24T06:18:26.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18413point (29%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데드풀 자막 이번에도 황석희님이 하신듯 합니다]]></title>
-        <id>https://extmovie.com/bestboard/92379783</id>
-        <link href="https://extmovie.com/bestboard/92379783"/>
-        <updated>2024-07-24T04:14:55.357Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:29point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">리틀디]]></content>
     </entry>
 </feed>

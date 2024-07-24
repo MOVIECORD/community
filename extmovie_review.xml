@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-24T14:13:09.575Z</updated>
+    <updated>2024-07-24T15:15:12.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(강스포) <데드풀과 울버린> 봤어요]]></title>
+        <id>https://extmovie.com/movietalk/92381770?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92381770?category=61633579"/>
+        <updated>2024-07-24T15:15:05.183Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1385009point (85%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데드풀 드립 중 이거 영어 원대사 뭐였나요 ㅋㅋ ??]]></title>
         <id>https://extmovie.com/movietalk/92381445?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/92381406?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92381406?category=61633579"/>
         <updated>2024-07-24T13:17:25.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1263point (10%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1265point (10%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드풀3에서 예상치도 못했던 기억에 남는 드립(스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92367686?category=61633579"/>
         <updated>2024-07-18T00:56:31.447Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46740point (78%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 리뷰 <퍼펙트 데이즈> - 그대들은 어떻게 살 것...]]></title>
-        <id>https://extmovie.com/movietalk/92367268?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92367268?category=61633579"/>
-        <updated>2024-07-17T16:15:50.922Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2425point (17%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
 </feed>

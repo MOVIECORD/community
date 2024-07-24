@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-24T08:16:21.876Z</updated>
+    <updated>2024-07-24T09:13:46.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데드풀과울버린 노스포 맛집 비유 후기(vs 노웨이홈)]]></title>
+        <id>https://extmovie.com/movietalk/92381033?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92381033?category=61633579"/>
+        <updated>2024-07-24T09:13:39.399Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1679point (88%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">알렉산더피어스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이매큘레이트 주관적 끄적임 (스포o)]]></title>
         <id>https://extmovie.com/movietalk/92380598?category=61633579</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92367206?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92367206?category=61633579"/>
         <updated>2024-07-17T15:15:30.967Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384923point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1384925point (84%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<러브 라이즈 블리딩>을 보고 나서 (스포 O) - 크리스...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92362482?category=61633579"/>
         <updated>2024-07-15T20:13:17.914Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:740point (73%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥문도 (1977) 긴다이치 코스케가 출연하는 가장 암울한 영...]]></title>
-        <id>https://extmovie.com/movietalk/92360255?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92360255?category=61633579"/>
-        <updated>2024-07-15T15:15:20.381Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47585point (99%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

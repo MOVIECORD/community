@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-25T04:16:51.136Z</updated>
+    <updated>2024-07-25T05:13:46.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼배드4 더빙 후기 (밥 스포O)]]></title>
+        <id>https://extmovie.com/movietalk/92382968?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92382968?category=61633579"/>
+        <updated>2024-07-25T05:13:39.188Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1361point (28%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빗주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(강스포) <데드풀과 울버린> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/92381770?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/92380598?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92380598?category=61633579"/>
         <updated>2024-07-24T07:12:32.269Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:753point (76%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spark]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:755point (77%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">spark]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데드풀과 울버린> 별점입니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92367641?category=61633579"/>
         <updated>2024-07-18T03:16:09.512Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47585point (99%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포 플라이미투더문 짧은 후기]]></title>
-        <id>https://extmovie.com/movietalk/92367686?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92367686?category=61633579"/>
-        <updated>2024-07-18T00:56:31.447Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46740point (78%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
 </feed>

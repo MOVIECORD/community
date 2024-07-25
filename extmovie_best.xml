@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-25T17:11:39.935Z</updated>
+    <updated>2024-07-25T18:17:06.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92384303"/>
         <updated>2024-07-25T15:13:05.461Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4087642point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘판타스틱 포‘ 캐스트 첫 단체샷]]></title>
+        <id>https://extmovie.com/bestboard/92384284</id>
+        <link href="https://extmovie.com/bestboard/92384284"/>
+        <updated>2024-07-25T18:16:51.210Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4482897point (96%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 ‘터미네이터 제로‘ 뉴 포스터]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/92382040</id>
         <link href="https://extmovie.com/bestboard/92382040"/>
         <updated>2024-07-25T00:57:56.822Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3724point (41%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3737point (42%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 7월 24일 국내 박스오피스]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92381445"/>
         <updated>2024-07-25T08:16:56.171Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1613point (76%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼배드 4 일산 4DX 노스포 후기]]></title>
-        <id>https://extmovie.com/bestboard/92381406</id>
-        <link href="https://extmovie.com/bestboard/92381406"/>
-        <updated>2024-07-24T13:17:17.160Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1369point (30%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
     </entry>
 </feed>

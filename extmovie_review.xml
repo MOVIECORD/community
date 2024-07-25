@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-25T07:13:50.830Z</updated>
+    <updated>2024-07-25T08:17:13.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포) <데드풀과 울버린> 약간 아쉬웠던 후기]]></title>
+        <id>https://extmovie.com/movietalk/92383600?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92383600?category=61633579"/>
+        <updated>2024-07-25T08:17:06.023Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13398point (19%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼배드4 더빙 후기 (밥 스포O)]]></title>
         <id>https://extmovie.com/movietalk/92382968?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92379926?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92379926?category=61633579"/>
         <updated>2024-07-24T03:15:04.406Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13382point (18%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13398point (19%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<그 남자 흉폭하다>를 보고 나서 (스포 O, 추천) - 기...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92368588?category=61633579"/>
         <updated>2024-07-18T10:13:35.312Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1053point (55%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">또또비됴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bad and the Beautiful (1952) 질풍노도같았던 헐리우드...]]></title>
-        <id>https://extmovie.com/movietalk/92367641?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92367641?category=61633579"/>
-        <updated>2024-07-18T03:16:09.512Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47585point (99%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

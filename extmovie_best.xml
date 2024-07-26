@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-26T17:12:53.606Z</updated>
+    <updated>2024-07-26T18:17:41.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 인생 가장 불편했던 영화 10]]></title>
+        <id>https://extmovie.com/bestboard/92386635</id>
+        <link href="https://extmovie.com/bestboard/92386635"/>
+        <updated>2024-07-26T18:17:25.450Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24225point (39%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데드풀과 울버린] 로튼 팝콘지수 상승]]></title>
         <id>https://extmovie.com/bestboard/92386342</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92384593"/>
         <updated>2024-07-26T02:02:00.131Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1385179point (85%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데드풀과 울버린' 24가지 이스터에그들]]></title>
-        <id>https://extmovie.com/bestboard/92384554</id>
-        <link href="https://extmovie.com/bestboard/92384554"/>
-        <updated>2024-07-25T17:11:24.173Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4087823point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

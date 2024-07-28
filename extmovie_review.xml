@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-28T05:14:07.269Z</updated>
+    <updated>2024-07-28T06:17:21.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[더마블스부터 최근 데드풀까지 주인공들 본인 이야기를 못함]]></title>
+        <title type="html"><![CDATA[[데드풀과 울버린] 크...이게 데드풀이죠]]></title>
+        <id>https://extmovie.com/movietalk/92389910?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92389910?category=61633579"/>
+        <updated>2024-07-28T06:17:13.646Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11700point (39%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더마블스부터 최근 데드풀까지 주인공들 본인 이야기를 제대...]]></title>
         <id>https://extmovie.com/movietalk/92389840?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92389840?category=61633579"/>
         <updated>2024-07-28T05:14:00.736Z</updated>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92375027?category=61633579"/>
         <updated>2024-07-21T15:13:48.346Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15588point (15%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[risky business (1984) 고교생 탐 크루즈. 포주가 되다. 스...]]></title>
-        <id>https://extmovie.com/movietalk/92373865?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92373865?category=61633579"/>
-        <updated>2024-07-21T10:13:18.650Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:47749point (0%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

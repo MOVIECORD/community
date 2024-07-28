@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-28T16:16:00.089Z</updated>
+    <updated>2024-07-28T17:11:15.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데드풀과 울버린] 이동진 평론가 한줄평 ☆☆☆]]></title>
+        <id>https://extmovie.com/bestboard/92390993</id>
+        <link href="https://extmovie.com/bestboard/92390993"/>
+        <updated>2024-07-28T17:11:00.092Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:565458point (27%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로다주 닥터둠 복귀는 옳을까요??]]></title>
         <id>https://extmovie.com/bestboard/92390747</id>
@@ -25,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92390590"/>
         <updated>2024-07-28T16:15:45.046Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24745point (57%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앞으로 개봉하는 기대되는 마블&DC 영화 top 12(스포있음)]]></title>
+        <id>https://extmovie.com/bestboard/92390288</id>
+        <link href="https://extmovie.com/bestboard/92390288"/>
+        <updated>2024-07-28T17:11:00.096Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2641point (39%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<파일럿> 선발대 후기 - 사상 걱정은 안 해도 됩니다.]]></title>
@@ -122,7 +136,7 @@
         <id>https://extmovie.com/bestboard/92389711</id>
         <link href="https://extmovie.com/bestboard/92389711"/>
         <updated>2024-07-28T08:15:15.751Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6030point (17%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6032point (17%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로다주의 이러한 복귀는 극약 처방 아닌가요?]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92389168"/>
         <updated>2024-07-28T03:14:08.850Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4143point (77%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샌디에이고 코믹콘 SDCC 홀 H <캡틴 아메리카: 브레이브 뉴 월드&gt...]]></title>
-        <id>https://extmovie.com/bestboard/92389131</id>
-        <link href="https://extmovie.com/bestboard/92389131"/>
-        <updated>2024-07-28T04:14:40.727Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4143point (77%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 본 역사상 최악의 슈퍼히어로 영화 top 22]]></title>
-        <id>https://extmovie.com/bestboard/92388532</id>
-        <link href="https://extmovie.com/bestboard/92388532"/>
-        <updated>2024-07-28T05:13:53.280Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2641point (39%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
     </entry>
 </feed>

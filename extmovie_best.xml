@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-28T17:11:15.471Z</updated>
+    <updated>2024-07-28T18:17:17.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://extmovie.com/bestboard/92390590</id>
         <link href="https://extmovie.com/bestboard/92390590"/>
         <updated>2024-07-28T16:15:45.046Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24745point (57%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24751point (57%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앞으로 개봉하는 기대되는 마블&DC 영화 top 12(스포있음)]]></title>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/92390288"/>
         <updated>2024-07-28T17:11:00.096Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2641point (39%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">이상한놈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스포) 데드풀과 울버린 후기 - 명작은 아니다. 그러나...]]></title>
+        <id>https://extmovie.com/bestboard/92390328</id>
+        <link href="https://extmovie.com/bestboard/92390328"/>
+        <updated>2024-07-28T18:17:03.909Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6809point (68%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">u11rlee]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<파일럿> 선발대 후기 - 사상 걱정은 안 해도 됩니다.]]></title>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/bestboard/92389965</id>
         <link href="https://extmovie.com/bestboard/92389965"/>
         <updated>2024-07-28T11:09:58.979Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:129422point (29%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:129424point (29%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Rec]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[24년간 휴 잭맨의 울버린을 위한 노력]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92389178"/>
         <updated>2024-07-28T04:14:40.727Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5391point (72%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장료문원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<속보> 루소 형제 어벤져스 5,6 감독 확정]]></title>
-        <id>https://extmovie.com/bestboard/92389168</id>
-        <link href="https://extmovie.com/bestboard/92389168"/>
-        <updated>2024-07-28T03:14:08.850Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4143point (77%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
     </entry>
 </feed>

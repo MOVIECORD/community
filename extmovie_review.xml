@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-07-29T09:15:06.220Z</updated>
+    <updated>2024-07-29T10:15:09.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데드풀과 울버린 후기]]></title>
+        <id>https://extmovie.com/movietalk/92393468?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92393468?category=61633579"/>
+        <updated>2024-07-29T10:15:02.473Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24017point (32%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콰이어트 플레이스 첫째날 (2024) 평범...... 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92391345?category=61633579</id>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92381770?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92381770?category=61633579"/>
         <updated>2024-07-24T15:15:05.183Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1385497point (85%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1385514point (85%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드풀 드립 중 이거 영어 원대사 뭐였나요 ㅋㅋ ??]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/92381406?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92381406?category=61633579"/>
         <updated>2024-07-24T13:17:25.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1371point (30%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1383point (32%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드풀3에서 예상치도 못했던 기억에 남는 드립(스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92379926?category=61633579"/>
         <updated>2024-07-24T03:15:04.406Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13430point (20%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<그 남자 흉폭하다>를 보고 나서 (스포 O, 추천) - 기...]]></title>
-        <id>https://extmovie.com/movietalk/92379746?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92379746?category=61633579"/>
-        <updated>2024-07-24T00:58:35.212Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15703point (20%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

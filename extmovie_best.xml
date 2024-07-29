@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-29T19:11:12.356Z</updated>
+    <updated>2024-07-29T20:14:24.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92393161"/>
         <updated>2024-07-29T14:12:39.440Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:224121point (60%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<프레디 vs. 제이슨>에 나왔던 의외의 배우]]></title>
+        <id>https://extmovie.com/bestboard/92392947</id>
+        <link href="https://extmovie.com/bestboard/92392947"/>
+        <updated>2024-07-29T20:14:08.125Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1385560point (85%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데드풀과 울버린> 웃겼던 부분들 등 tmi 주저리(약스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92390727"/>
         <updated>2024-07-29T02:07:24.184Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24832point (60%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이언 레이놀즈 & 휴 잭맨이 서울와서 한 일들]]></title>
-        <id>https://extmovie.com/bestboard/92390812</id>
-        <link href="https://extmovie.com/bestboard/92390812"/>
-        <updated>2024-07-28T19:09:57.768Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4491212point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

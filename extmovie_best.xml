@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-30T16:17:24.442Z</updated>
+    <updated>2024-07-30T17:12:01.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핸섬가이즈 간략후기 노스포]]></title>
+        <id>https://extmovie.com/bestboard/92396179</id>
+        <link href="https://extmovie.com/bestboard/92396179"/>
+        <updated>2024-07-30T17:11:46.052Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1394point (34%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탕웨이 인스타 업뎃]]></title>
+        <id>https://extmovie.com/bestboard/92395802</id>
+        <link href="https://extmovie.com/bestboard/92395802"/>
+        <updated>2024-07-30T17:11:46.052Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4492326point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로다주가 1인 2역하는 아이언맨과 닥터 둠, 둘은 무슨 관계일까? (펌)]]></title>
         <id>https://extmovie.com/bestboard/92395460</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92393912"/>
         <updated>2024-07-30T05:14:01.107Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4088446point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로다주에게 충고하는 데드풀]]></title>
-        <id>https://extmovie.com/bestboard/92393780</id>
-        <link href="https://extmovie.com/bestboard/92393780"/>
-        <updated>2024-07-29T14:12:39.440Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4492326point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 스파이디 첫 싸움신에 이런짓을…]]></title>
-        <id>https://extmovie.com/bestboard/92393758</id>
-        <link href="https://extmovie.com/bestboard/92393758"/>
-        <updated>2024-07-30T02:03:26.249Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4492326point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

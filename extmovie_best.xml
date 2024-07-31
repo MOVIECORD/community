@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-31T20:13:40.433Z</updated>
+    <updated>2024-07-31T21:13:28.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/92398071"/>
         <updated>2024-07-31T16:15:26.439Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:771point (80%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤말란 감독의 트랩.]]></title>
+        <id>https://extmovie.com/bestboard/92397975</id>
+        <link href="https://extmovie.com/bestboard/92397975"/>
+        <updated>2024-07-31T21:13:12.552Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4605point (14%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">엄마손파이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유명 여장 남자 영화와 '파일럿' 비교]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92396131"/>
         <updated>2024-07-30T21:13:20.915Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4088725point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘데드풀 & 울버린‘ 해외 극장상영중 싸움 일어나 (약스포)]]></title>
-        <id>https://extmovie.com/bestboard/92396067</id>
-        <link href="https://extmovie.com/bestboard/92396067"/>
-        <updated>2024-07-30T20:12:43.086Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4493874point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

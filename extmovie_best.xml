@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-07-31T16:15:42.261Z</updated>
+    <updated>2024-07-31T17:13:33.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92398512"/>
         <updated>2024-07-31T15:13:22.590Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:456point (12%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김치국물]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캡틴마블, ’어벤저스 둠스데이, 시크릿 워즈‘ 출연 예정]]></title>
+        <id>https://extmovie.com/bestboard/92398497</id>
+        <link href="https://extmovie.com/bestboard/92398497"/>
+        <updated>2024-07-31T17:13:17.604Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4493874point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전도연 지창욱 임지연 리볼버 언론시사회]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92395894"/>
         <updated>2024-07-30T18:16:47.070Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4493874point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포) 데드풀 이번 영화 좋네요.]]></title>
-        <id>https://extmovie.com/bestboard/92395859</id>
-        <link href="https://extmovie.com/bestboard/92395859"/>
-        <updated>2024-07-31T00:47:23.507Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19151point (57%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
 </feed>

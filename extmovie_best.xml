@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-01T18:17:07.676Z</updated>
+    <updated>2024-08-01T19:10:26.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92401259"/>
         <updated>2024-08-01T17:12:57.267Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:565753point (28%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['에이리언 로물루스' 감독의 첫 출세작 단편영화]]></title>
+        <id>https://extmovie.com/bestboard/92401232</id>
+        <link href="https://extmovie.com/bestboard/92401232"/>
+        <updated>2024-08-01T19:10:10.822Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4088948point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해외 호평 리암 니슨 영화 '원맨' 9월 개봉]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92398143"/>
         <updated>2024-07-31T13:16:07.231Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1385point (33%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파일럿 후기]]></title>
-        <id>https://extmovie.com/bestboard/92398130</id>
-        <link href="https://extmovie.com/bestboard/92398130"/>
-        <updated>2024-07-31T13:16:07.238Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24100point (35%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
 </feed>

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-01T08:17:17.890Z</updated>
+    <updated>2024-08-01T09:12:56.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠더 이슈와 소셜 미디어 폐해를 섞은 풍자극]]></title>
+        <id>https://extmovie.com/movietalk/92400678?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92400678?category=61633579"/>
+        <updated>2024-08-01T09:12:49.224Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1094point (66%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">또또비됴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장문) 영화 <파일럿>이 다루고 있는 사상에 관하여]]></title>
         <id>https://extmovie.com/movietalk/92400092?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92400092?category=61633579"/>
         <updated>2024-08-01T04:16:14.237Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13456point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13458point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리볼버 쇼케이스 시사회 후기 (약스포)]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/92390447?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92390447?category=61633579"/>
         <updated>2024-07-28T11:10:07.165Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:337point (84%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">F급감별사]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:339point (84%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">F급감별사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드풀과 울버린 - 노스포일러 리뷰]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/92390195?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92390195?category=61633579"/>
         <updated>2024-07-28T09:14:13.672Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13456point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13458point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데드풀과 울버린] 크...이게 데드풀이죠]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92386507?category=61633579"/>
         <updated>2024-07-26T14:11:29.766Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19965point (89%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[볼빨간사춘기 콘서트 무비 / 데드풀 울버린 후기]]></title>
-        <id>https://extmovie.com/movietalk/92386505?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92386505?category=61633579"/>
-        <updated>2024-07-26T14:11:29.766Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63244point (62%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-01T20:14:44.744Z</updated>
+    <updated>2024-08-01T21:14:25.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92401457"/>
         <updated>2024-08-01T20:14:30.707Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4088948point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙필크 지수, 좀비 스릴러 시리즈 ‘뉴토피아’ 출연예정]]></title>
+        <id>https://extmovie.com/bestboard/92401287</id>
+        <link href="https://extmovie.com/bestboard/92401287"/>
+        <updated>2024-08-01T21:14:09.144Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4494979point (98%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[조커: 폴리 아 되] 최신 스틸 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92398289"/>
         <updated>2024-08-01T06:18:04.218Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25430point (80%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연 지창욱 임지연 리볼버 언론시사회]]></title>
-        <id>https://extmovie.com/bestboard/92398190</id>
-        <link href="https://extmovie.com/bestboard/92398190"/>
-        <updated>2024-07-31T15:13:22.598Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:372189point (85%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
 </feed>

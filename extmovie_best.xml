@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-01T19:10:26.688Z</updated>
+    <updated>2024-08-01T20:14:44.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 8월 1일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92401457</id>
+        <link href="https://extmovie.com/bestboard/92401457"/>
+        <updated>2024-08-01T20:14:30.707Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4088948point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[조커: 폴리 아 되] 최신 스틸 공개]]></title>
         <id>https://extmovie.com/bestboard/92401259</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92398190"/>
         <updated>2024-07-31T15:13:22.598Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:372189point (85%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어제 고척돔에 데드풀 왔다갔다네요 ㅋㅋㅋㅋ]]></title>
-        <id>https://extmovie.com/bestboard/92398143</id>
-        <link href="https://extmovie.com/bestboard/92398143"/>
-        <updated>2024-07-31T13:16:07.231Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1385point (33%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
     </entry>
 </feed>

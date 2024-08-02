@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-02T10:14:19.999Z</updated>
+    <updated>2024-08-02T11:11:26.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 《퍼펙트 데이즈》: 단순한 일상에 담긴 인생의 의미]]></title>
+        <id>https://extmovie.com/movietalk/92403516?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92403516?category=61633579"/>
+        <updated>2024-08-02T11:11:18.774Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1680point (88%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<정글북>(1967)을 보고 나서 - 디즈니 애니메이션 작품]]></title>
         <id>https://extmovie.com/movietalk/92401346?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/92398130?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92398130?category=61633579"/>
         <updated>2024-07-31T10:11:03.571Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24100point (35%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24102point (35%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[그랑블루] 열정과 광기사이 (스포)]]></title>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/92393468?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92393468?category=61633579"/>
         <updated>2024-07-29T10:15:02.473Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24100point (35%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24102point (35%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콰이어트 플레이스 첫째날 (2024) 평범...... 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92386799?category=61633579"/>
         <updated>2024-07-26T16:17:04.990Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15904point (28%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chato's land (1972) 수정주의서부극의 걸작. 스포일러...]]></title>
-        <id>https://extmovie.com/movietalk/92385773?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92385773?category=61633579"/>
-        <updated>2024-07-26T15:13:35.318Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48357point (5%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

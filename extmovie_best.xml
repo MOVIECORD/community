@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-02T19:11:00.559Z</updated>
+    <updated>2024-08-02T20:13:50.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(DCU) 에일리언: 로물루스 감독 DCU 합류 루머]]></title>
+        <id>https://extmovie.com/bestboard/92403879</id>
+        <link href="https://extmovie.com/bestboard/92403879"/>
+        <updated>2024-08-02T20:13:35.425Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6238point (31%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상 무서울 것 하나 없는 강렬한 여전사들]]></title>
         <id>https://extmovie.com/bestboard/92403816</id>
@@ -25,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92403578"/>
         <updated>2024-08-02T19:10:45.754Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18232point (22%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘레벨 문‘ 파트 1,2 감독판 넷플 업 / 로튼 관객스코어 현재]]></title>
+        <id>https://extmovie.com/bestboard/92403532</id>
+        <link href="https://extmovie.com/bestboard/92403532"/>
+        <updated>2024-08-02T20:13:35.428Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4495967point (99%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한소희 인스타 업뎃]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92401259"/>
         <updated>2024-08-01T17:12:57.267Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:565801point (29%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애런 테일러 존슨 ‘28년 후’ 촬영 종료샷]]></title>
-        <id>https://extmovie.com/bestboard/92401240</id>
-        <link href="https://extmovie.com/bestboard/92401240"/>
-        <updated>2024-08-02T02:03:43.967Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4495967point (99%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['에이리언 로물루스' 감독의 첫 출세작 단편영화]]></title>
-        <id>https://extmovie.com/bestboard/92401232</id>
-        <link href="https://extmovie.com/bestboard/92401232"/>
-        <updated>2024-08-01T19:10:10.822Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4089206point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

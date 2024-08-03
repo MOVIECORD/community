@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-03T08:16:05.008Z</updated>
+    <updated>2024-08-03T09:13:47.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데드풀과 울버린 덕분에 생각난 미드, 앨리어스]]></title>
+        <id>https://extmovie.com/movietalk/92405119?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92405119?category=61633579"/>
+        <updated>2024-08-03T09:13:40.013Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38126point (57%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포) <슈퍼배드 4> 비판 위주 리뷰]]></title>
         <id>https://extmovie.com/movietalk/92404675?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92404675?category=61633579"/>
         <updated>2024-08-03T04:15:14.416Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4559point (11%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4561point (11%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<러브 스토리>를 보고 나서 (스포 O, 추천) - 알리 맥...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92389840?category=61633579"/>
         <updated>2024-07-28T05:14:00.736Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2791point (54%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악마의 공놀이노래 (1977) 긴다이치 코스케 수작. 스포일러 ...]]></title>
-        <id>https://extmovie.com/movietalk/92388133?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92388133?category=61633579"/>
-        <updated>2024-07-27T15:12:15.114Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48373point (5%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

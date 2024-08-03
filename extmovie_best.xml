@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-03T19:10:34.759Z</updated>
+    <updated>2024-08-03T20:12:44.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92405361"/>
         <updated>2024-08-03T15:12:06.679Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4089378point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임지연 전도연 리볼버]]></title>
+        <id>https://extmovie.com/bestboard/92405278</id>
+        <link href="https://extmovie.com/bestboard/92405278"/>
+        <updated>2024-08-03T20:12:29.028Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/44.gif" alt="[레벨:44]" title="포인트:373037point (90%), 레벨:44/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드풀과 울버린 덕분에 생각난 미드, 앨리어스]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92402221"/>
         <updated>2024-08-02T23:12:57.725Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4496447point (99%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<판타스틱 4: 퍼스트 스텝스> 세부 내용 및 비하인드 총 정리]]></title>
-        <id>https://extmovie.com/bestboard/92403108</id>
-        <link href="https://extmovie.com/bestboard/92403108"/>
-        <updated>2024-08-02T12:23:21.623Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4509point (7%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
     </entry>
 </feed>

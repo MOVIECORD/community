@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-04T11:11:22.194Z</updated>
+    <updated>2024-08-04T12:21:45.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<이오 카피타노> 시사회 후기 (극호)]]></title>
+        <id>https://extmovie.com/movietalk/92407174?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92407174?category=61633579"/>
+        <updated>2024-08-04T12:21:38.239Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13475point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포) 파묘는 왜 천만이 됐을까요?]]></title>
         <id>https://extmovie.com/movietalk/92406901?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/92400092?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92400092?category=61633579"/>
         <updated>2024-08-01T04:16:14.237Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13463point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13475point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리볼버 쇼케이스 시사회 후기 (약스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92390298?category=61633579"/>
         <updated>2024-07-28T10:12:39.681Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15916point (29%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<파일럿> 선발대 후기 - 사상 걱정은 안 해도 됩니다.]]></title>
-        <id>https://extmovie.com/movietalk/92390195?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92390195?category=61633579"/>
-        <updated>2024-07-28T09:14:13.672Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13463point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

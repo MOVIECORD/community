@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-04T19:10:45.525Z</updated>
+    <updated>2024-08-04T20:13:49.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92406618"/>
         <updated>2024-08-04T14:12:43.944Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386120point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스에서 지금 스트리밍 할 수 있는 최고의 공포 영화 (2024년 8월)]]></title>
+        <id>https://extmovie.com/bestboard/92406562</id>
+        <link href="https://extmovie.com/bestboard/92406562"/>
+        <updated>2024-08-04T20:13:33.497Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:224935point (66%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닥터 둠과 로버트 다우니 주니어에 대한 사견]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92404945"/>
         <updated>2024-08-03T12:21:13.706Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4089512point (17%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어로스미스 은퇴 발표]]></title>
-        <id>https://extmovie.com/bestboard/92404930</id>
-        <link href="https://extmovie.com/bestboard/92404930"/>
-        <updated>2024-08-03T12:21:13.706Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386120point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-04T18:16:25.052Z</updated>
+    <updated>2024-08-04T19:10:45.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92406901"/>
         <updated>2024-08-04T13:13:58.931Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:822point (91%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오펜하이머도 이제 1주년 오겠네]]></title>
+        <id>https://extmovie.com/bestboard/92406704</id>
+        <link href="https://extmovie.com/bestboard/92406704"/>
+        <updated>2024-08-04T19:10:29.960Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:139point (34%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데드풀과 울버린>에 인용된 코믹스들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92404930"/>
         <updated>2024-08-03T12:21:13.706Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386120point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[파일럿] 보자마자 초단평]]></title>
-        <id>https://extmovie.com/bestboard/92404886</id>
-        <link href="https://extmovie.com/bestboard/92404886"/>
-        <updated>2024-08-03T14:13:13.405Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:94529point (77%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-05T11:12:15.449Z</updated>
+    <updated>2024-08-05T12:25:00.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭 스나이더 레벨문 파트1 감독판]]></title>
+        <id>https://extmovie.com/movietalk/92409448?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92409448?category=61633579"/>
+        <updated>2024-08-05T12:24:53.256Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:511point (24%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CarlHansen]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스포없음]레벨문 파트2 감독판 리뷰]]></title>
         <id>https://extmovie.com/movietalk/92408060?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/92404675?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92404675?category=61633579"/>
         <updated>2024-08-03T04:15:14.416Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4710point (22%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4716point (22%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<러브 스토리>를 보고 나서 (스포 O, 추천) - 알리 맥...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92390559?category=61633579"/>
         <updated>2024-07-28T12:21:29.944Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63412point (70%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데드풀과 울버린] 지금 시점에 꼭 나와야 하는 마블영화ㅂㅔ]]></title>
-        <id>https://extmovie.com/movietalk/92390447?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92390447?category=61633579"/>
-        <updated>2024-07-28T11:10:07.165Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:339point (84%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">F급감별사]]></content>
     </entry>
 </feed>

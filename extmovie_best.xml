@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-05T19:13:39.744Z</updated>
+    <updated>2024-08-05T20:13:56.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[말리그넌트] 엄청나네요...]]></title>
+        <id>https://extmovie.com/bestboard/92409698</id>
+        <link href="https://extmovie.com/bestboard/92409698"/>
+        <updated>2024-08-05T20:13:42.630Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64593point (10%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑스맨 리부트하더라도 그대로 갔으면 하는 배우]]></title>
         <id>https://extmovie.com/bestboard/92409462</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92407769"/>
         <updated>2024-08-05T02:07:50.130Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:181038point (70%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데드풀&울버린] 주말 8억달러 돌파, 디즈니 24년 누적 30억 달러 ...]]></title>
-        <id>https://extmovie.com/bestboard/92407661</id>
-        <link href="https://extmovie.com/bestboard/92407661"/>
-        <updated>2024-08-05T08:17:10.613Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5460point (77%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장료문원]]></content>
     </entry>
 </feed>

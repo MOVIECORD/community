@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-07T18:17:53.623Z</updated>
+    <updated>2024-08-07T19:11:11.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개인적으로 강렬했던 영화 결말들]]></title>
+        <id>https://extmovie.com/bestboard/92412096</id>
+        <link href="https://extmovie.com/bestboard/92412096"/>
+        <updated>2024-08-07T19:10:56.450Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6381point (40%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[게임 원작 '보더랜드' 해외 시사 반응들]]></title>
         <id>https://extmovie.com/bestboard/92414844</id>
@@ -24,14 +31,14 @@
         <id>https://extmovie.com/bestboard/92414637</id>
         <link href="https://extmovie.com/bestboard/92414637"/>
         <updated>2024-08-07T17:13:44.735Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386374point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386376point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(*스포) <데드풀과 울버린>의 깜짝 등장한 배우가 공개한 건강 ...]]></title>
         <id>https://extmovie.com/bestboard/92414447</id>
         <link href="https://extmovie.com/bestboard/92414447"/>
         <updated>2024-08-07T18:17:39.820Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386374point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386376point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마블 <시크릿 워즈> 간단 요약 - 2부]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/92412269</id>
         <link href="https://extmovie.com/bestboard/92412269"/>
         <updated>2024-08-06T21:12:09.930Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386374point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386376point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 8월 6일 국내 박스오피스]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92412139"/>
         <updated>2024-08-06T17:13:05.399Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29909point (22%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비카츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로다주의 와칸다 포에버]]></title>
-        <id>https://extmovie.com/bestboard/92412081</id>
-        <link href="https://extmovie.com/bestboard/92412081"/>
-        <updated>2024-08-06T16:15:51.780Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1386374point (86%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

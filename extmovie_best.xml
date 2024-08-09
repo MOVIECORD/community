@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-09T15:14:50.639Z</updated>
+    <updated>2024-08-09T16:16:22.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -34,11 +34,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:566600point (33%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CGV 올무비나잇 (침대관에서 밤새 영화보기) 템퍼베게주네요]]></title>
+        <id>https://extmovie.com/bestboard/92418599</id>
+        <link href="https://extmovie.com/bestboard/92418599"/>
+        <updated>2024-08-09T16:16:07.022Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:171point (42%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">배고픈당근]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이정재 X 정우성 배우는 서로 친분이 두텁죠 ?]]></title>
         <id>https://extmovie.com/bestboard/92418457</id>
         <link href="https://extmovie.com/bestboard/92418457"/>
         <updated>2024-08-09T14:12:30.439Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19621point (75%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19623point (75%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CGV <에이리언: 로물루스> TTT티켓 증정 이벤트]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/bestboard/92417861</id>
         <link href="https://extmovie.com/bestboard/92417861"/>
         <updated>2024-08-09T05:13:24.548Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19621point (75%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19623point (75%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로튼토마토 6% '보더랜드' 리뷰 번역]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92416160"/>
         <updated>2024-08-08T15:13:41.383Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51181point (24%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(무뢰한 스포)리볼버에 액션없는게 본래 감독님 스탈인가보네요]]></title>
-        <id>https://extmovie.com/bestboard/92416521</id>
-        <link href="https://extmovie.com/bestboard/92416521"/>
-        <updated>2024-08-08T15:13:41.383Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:669point (58%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">cwolff]]></content>
     </entry>
 </feed>

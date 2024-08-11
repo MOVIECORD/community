@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-11T03:14:15.909Z</updated>
+    <updated>2024-08-11T04:16:31.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘데드풀과 울버린’(2024)]]></title>
+        <id>https://extmovie.com/movietalk/92422038?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92422038?category=61633579"/>
+        <updated>2024-08-11T04:16:25.126Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2939point (69%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘탈출: 프로젝트 사일런스‘(2024)]]></title>
+        <id>https://extmovie.com/movietalk/92422034?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92422034?category=61633579"/>
+        <updated>2024-08-11T04:16:25.126Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2939point (69%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파일럿을 보고]]></title>
         <id>https://extmovie.com/movietalk/92421827?category=61633579</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92404675?category=61633579"/>
         <updated>2024-08-03T04:15:14.416Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4863point (33%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<러브 스토리>를 보고 나서 (스포 O, 추천) - 알리 맥...]]></title>
-        <id>https://extmovie.com/movietalk/92403990?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92403990?category=61633579"/>
-        <updated>2024-08-02T15:13:42.094Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16004point (32%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데드풀 보고왔습니다.]]></title>
-        <id>https://extmovie.com/movietalk/92403562?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92403562?category=61633579"/>
-        <updated>2024-08-02T12:23:29.295Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1696point (91%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
     </entry>
 </feed>

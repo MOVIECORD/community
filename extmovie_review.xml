@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-11T04:16:31.739Z</updated>
+    <updated>2024-08-11T05:12:40.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리볼버] 괜찮은데요?]]></title>
+        <id>https://extmovie.com/movietalk/92422183?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92422183?category=61633579"/>
+        <updated>2024-08-11T05:12:33.877Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11994point (53%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘데드풀과 울버린’(2024)]]></title>
         <id>https://extmovie.com/movietalk/92422038?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92405119?category=61633579"/>
         <updated>2024-08-03T09:13:40.013Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38535point (68%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포) <슈퍼배드 4> 비판 위주 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92404675?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92404675?category=61633579"/>
-        <updated>2024-08-03T04:15:14.416Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4863point (33%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
 </feed>

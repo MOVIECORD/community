@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-12T09:14:52.662Z</updated>
+    <updated>2024-08-12T10:14:40.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 리볼버 리뷰 (스포x)]]></title>
+        <id>https://extmovie.com/movietalk/92425080?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92425080?category=61633579"/>
+        <updated>2024-08-12T10:14:32.555Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11409point (25%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리볼버]]></title>
         <id>https://extmovie.com/movietalk/92424546?category=61633579</id>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/92409648?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92409648?category=61633579"/>
         <updated>2024-08-06T03:14:42.323Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4887point (35%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4889point (35%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파란만장 (2011) 박찬욱감독의 걸작. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92409448?category=61633579"/>
         <updated>2024-08-05T12:24:53.256Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:530point (28%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CarlHansen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스포없음]레벨문 파트2 감독판 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92408060?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92408060?category=61633579"/>
-        <updated>2024-08-05T00:59:51.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1924point (36%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
     </entry>
 </feed>

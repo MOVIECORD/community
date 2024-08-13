@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-13T17:12:45.524Z</updated>
+    <updated>2024-08-13T18:18:30.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/92428278"/>
         <updated>2024-08-13T17:12:31.431Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1835point (18%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헐리우드가 리메이크에 몰두하는 이유]]></title>
+        <id>https://extmovie.com/bestboard/92428146</id>
+        <link href="https://extmovie.com/bestboard/92428146"/>
+        <updated>2024-08-13T18:18:14.326Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36684point (18%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에이리언 돌비 최고임]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92426084"/>
         <updated>2024-08-13T05:13:46.575Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/31.gif" alt="[레벨:31]" title="포인트:130275point (35%), 레벨:31/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샌드맨33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 등장한 '그 금속']]></title>
-        <id>https://extmovie.com/bestboard/92425973</id>
-        <link href="https://extmovie.com/bestboard/92425973"/>
-        <updated>2024-08-13T08:16:16.790Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:802point (87%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
     </entry>
 </feed>

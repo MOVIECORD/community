@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-14T02:07:05.210Z</updated>
+    <updated>2024-08-14T03:16:04.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트위스터스 노스포 후기]]></title>
+        <id>https://extmovie.com/movietalk/92429180?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92429180?category=61633579"/>
+        <updated>2024-08-14T03:15:57.532Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:814point (90%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<트위스터>를 보고 나서 (스포 X) - 헬렌 헌트 주연 작품]]></title>
         <id>https://extmovie.com/movietalk/92428069?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92426821?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92426821?category=61633579"/>
         <updated>2024-08-13T05:13:54.182Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6253point (32%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6255point (32%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포일러][용과 주근깨 공주] 21년 호소다 마모루 작품이었...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92415064?category=61633579"/>
         <updated>2024-08-07T14:12:11.347Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16158point (39%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리볼버 간단 후기]]></title>
-        <id>https://extmovie.com/movietalk/92414223?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92414223?category=61633579"/>
-        <updated>2024-08-07T10:14:22.537Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:756point (77%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
     </entry>
 </feed>

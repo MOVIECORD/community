@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-15T18:18:07.345Z</updated>
+    <updated>2024-08-15T19:10:53.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 8월 15일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92434852</id>
+        <link href="https://extmovie.com/bestboard/92434852"/>
+        <updated>2024-08-15T19:10:36.200Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4092525point (18%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결국 GG를 치신 이동진 평론가님]]></title>
         <id>https://extmovie.com/bestboard/92434769</id>
         <link href="https://extmovie.com/bestboard/92434769"/>
         <updated>2024-08-15T17:11:22.892Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6570point (52%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6572point (53%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 플러스) 폭군 - 초간단 후기]]></title>
@@ -139,6 +146,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5212point (59%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행복을위하여]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에이리언 로물루스_포스터 리터칭]]></title>
+        <id>https://extmovie.com/bestboard/92432404</id>
+        <link href="https://extmovie.com/bestboard/92432404"/>
+        <updated>2024-08-15T19:10:36.240Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:371point (92%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">페리테일]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[존 카사베츠 감독 부인 겸 뮤즈 지나 롤랜드 별세... 향년 94세]]></title>
         <id>https://extmovie.com/bestboard/92432262</id>
         <link href="https://extmovie.com/bestboard/92432262"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92431261"/>
         <updated>2024-08-14T17:11:40.405Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4092525point (18%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갠적으로 최고의 중국영화중 하나인 "림보"를 한번 더 봤습...]]></title>
-        <id>https://extmovie.com/bestboard/92431173</id>
-        <link href="https://extmovie.com/bestboard/92431173"/>
-        <updated>2024-08-15T03:14:48.575Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38430point (65%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭군 후기]]></title>
-        <id>https://extmovie.com/bestboard/92431176</id>
-        <link href="https://extmovie.com/bestboard/92431176"/>
-        <updated>2024-08-15T02:20:40.703Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12679point (86%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비디렉터]]></content>
     </entry>
 </feed>

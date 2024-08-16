@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-16T19:12:23.432Z</updated>
+    <updated>2024-08-16T20:14:48.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://extmovie.com/bestboard/92437155</id>
         <link href="https://extmovie.com/bestboard/92437155"/>
         <updated>2024-08-16T15:12:49.219Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1961point (43%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1963point (43%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에이리언: 로물루스 보고 나온 제 심박수 보실래요?ㅋㅋ]]></title>
@@ -59,7 +59,7 @@
         <id>https://extmovie.com/bestboard/92436867</id>
         <link href="https://extmovie.com/bestboard/92436867"/>
         <updated>2024-08-16T16:17:32.767Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24372point (44%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24374point (44%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분이 가장 무서웠던 영화는 뭔가요?]]></title>
@@ -144,6 +144,13 @@
         <link href="https://extmovie.com/bestboard/92435960"/>
         <updated>2024-08-16T16:17:32.782Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1387227point (87%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[불금호러 No.43] 저주의 전파 - 주(咒)]]></title>
+        <id>https://extmovie.com/bestboard/92435916</id>
+        <link href="https://extmovie.com/bestboard/92435916"/>
+        <updated>2024-08-16T20:14:32.488Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112381169point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잠실 롯시 에이리언 팝업 보고온 후기ㅎㅎ]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92434038"/>
         <updated>2024-08-15T22:13:18.914Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:49798point (15%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 GG를 치신 이동진 평론가님]]></title>
-        <id>https://extmovie.com/bestboard/92434769</id>
-        <link href="https://extmovie.com/bestboard/92434769"/>
-        <updated>2024-08-15T17:11:22.892Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6578point (53%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
     </entry>
 </feed>

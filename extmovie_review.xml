@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-19T02:08:53.160Z</updated>
+    <updated>2024-08-19T03:14:46.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[에일리언:로물루스]영등포IMAX N차 후기]]></title>
+        <id>https://extmovie.com/movietalk/92442317?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92442317?category=61633579"/>
+        <updated>2024-08-19T03:14:39.028Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12090point (57%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개벽 (1991) 임권택+김용옥=수작? 범작? 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92442040?category=61633579</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/92440940?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92440940?category=61633579"/>
         <updated>2024-08-18T08:15:17.929Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12077point (57%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12090point (57%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핸섬가이즈 (2024) 좀 약하군. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92420581?category=61633579"/>
         <updated>2024-08-14T14:13:12.432Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:50138point (17%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포)트랜스포머ONE 시사 한줄평!]]></title>
-        <id>https://extmovie.com/movietalk/92430736?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92430736?category=61633579"/>
-        <updated>2024-08-14T13:17:24.544Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:34776point (65%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-20T04:18:15.527Z</updated>
+    <updated>2024-08-20T05:12:45.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[희생] 희생이 없이는 구원도 없다]]></title>
+        <id>https://extmovie.com/movietalk/92445157?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92445157?category=61633579"/>
+        <updated>2024-08-20T05:12:38.227Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:94807point (78%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이리언 로물루스!!!!]]></title>
         <id>https://extmovie.com/movietalk/92443732?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92433291?category=61633579"/>
         <updated>2024-08-15T07:12:38.779Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1387526point (87%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포] 전작 기억 못하고 본 에이리언: 로물루스]]></title>
-        <id>https://extmovie.com/movietalk/92432959?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92432959?category=61633579"/>
-        <updated>2024-08-15T05:13:41.031Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:46849point (81%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
 </feed>

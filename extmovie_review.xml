@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-20T10:14:51.245Z</updated>
+    <updated>2024-08-20T11:13:04.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지극히 개인적인 '행복의 나라' 감상평]]></title>
+        <id>https://extmovie.com/movietalk/92445812?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92445812?category=61633579"/>
+        <updated>2024-08-20T11:12:57.034Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11937point (50%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[희생] 희생이 없이는 구원도 없다]]></title>
         <id>https://extmovie.com/movietalk/92445157?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/92441984?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92441984?category=61633579"/>
         <updated>2024-08-19T00:59:33.941Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11922point (49%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11937point (50%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<우연의 연대기에 관한 71개의 단편>을 보고 나서 (스...]]></title>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/92437835?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92437835?category=61633579"/>
         <updated>2024-08-16T17:12:12.027Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38964point (80%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38965point (80%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에이리언: 로물루스 전편 모르고 처음 보면 최고인듯해요(스...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92433644?category=61633579"/>
         <updated>2024-08-15T08:17:14.428Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2958point (71%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">bjh1030]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(*스포) <에이리언: 로물루스>, <트위스터스> ...]]></title>
-        <id>https://extmovie.com/movietalk/92433291?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92433291?category=61633579"/>
-        <updated>2024-08-15T07:12:38.779Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1387572point (87%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

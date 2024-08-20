@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-20T16:15:36.065Z</updated>
+    <updated>2024-08-20T17:12:51.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장 티켓값 내려라는 최민식에…"무지한 소리" 현직교수 비판]]></title>
+        <id>https://extmovie.com/bestboard/92446124</id>
+        <link href="https://extmovie.com/bestboard/92446124"/>
+        <updated>2024-08-20T17:12:36.464Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:567769point (38%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[에이리언 2] 시고니 위버의 기념 사진]]></title>
         <id>https://extmovie.com/bestboard/92445852</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/92445321</id>
         <link href="https://extmovie.com/bestboard/92445321"/>
         <updated>2024-08-20T10:14:35.214Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13096point (6%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13098point (6%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<테리파이어 3> 새 포스터]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92443150"/>
         <updated>2024-08-19T23:13:56.460Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4508961point (1%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박정민 지수 뉴토피아 첫 공개 소감 인터뷰]]></title>
-        <id>https://extmovie.com/bestboard/92443111</id>
-        <link href="https://extmovie.com/bestboard/92443111"/>
-        <updated>2024-08-19T22:14:09.115Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/45.gif" alt="[레벨:45]" title="포인트:377863point (28%), 레벨:45/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
 </feed>

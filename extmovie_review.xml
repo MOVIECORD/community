@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-08-25T18:15:42.925Z</updated>
+    <updated>2024-08-25T19:11:58.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<아무도 없는 숲속에서> 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/92458024?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92458024?category=61633579"/>
+        <updated>2024-08-25T19:11:51.861Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6552point (51%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<다이 하드 4.0>을 보고 나서 (스포 O, 추천) - 브루...]]></title>
         <id>https://extmovie.com/movietalk/92457835?category=61633579</id>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/92439023?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92439023?category=61633579"/>
         <updated>2024-08-17T09:12:25.224Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6538point (50%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6552point (51%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MJ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에일리언 로물루스 단상들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92437835?category=61633579"/>
         <updated>2024-08-16T17:12:12.027Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39070point (83%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이리언: 로물루스 전편 모르고 처음 보면 최고인듯해요(스...]]></title>
-        <id>https://extmovie.com/movietalk/92437690?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92437690?category=61633579"/>
-        <updated>2024-08-16T15:12:57.986Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:425677point (28%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
     </entry>
 </feed>

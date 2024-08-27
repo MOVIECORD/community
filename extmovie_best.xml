@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-27T17:12:05.607Z</updated>
+    <updated>2024-08-27T18:18:09.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나우 유 씨 미 3’ 첫 비하인드샷]]></title>
+        <id>https://extmovie.com/bestboard/92461657</id>
+        <link href="https://extmovie.com/bestboard/92461657"/>
+        <updated>2024-08-27T18:17:55.025Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4516099point (3%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬싱 미쳤네요.]]></title>
         <id>https://extmovie.com/bestboard/92461596</id>
@@ -230,24 +237,17 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56781point (63%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[폭군 재밌게 봤어요 (유스포)]]></title>
+        <id>https://extmovie.com/bestboard/92459578</id>
+        <link href="https://extmovie.com/bestboard/92459578"/>
+        <updated>2024-08-27T18:17:55.077Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20133point (95%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[영화관 얼음 들어간 커피 마시는 소리나 캔커피 놓는소리 어떤가요?]]></title>
         <id>https://extmovie.com/bestboard/92459494</id>
         <link href="https://extmovie.com/bestboard/92459494"/>
         <updated>2024-08-27T12:24:28.983Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1464point (47%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MAUS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카인즈 오브 카인드니스] 8월 30일 디즈니+ 공개]]></title>
-        <id>https://extmovie.com/bestboard/92459438</id>
-        <link href="https://extmovie.com/bestboard/92459438"/>
-        <updated>2024-08-26T13:19:58.072Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:568251point (41%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일드 '부적절한 것도 정도가 있어!' 한국서 리메이크]]></title>
-        <id>https://extmovie.com/bestboard/92459404</id>
-        <link href="https://extmovie.com/bestboard/92459404"/>
-        <updated>2024-08-26T12:25:11.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4095141point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

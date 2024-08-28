@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-28T20:14:31.285Z</updated>
+    <updated>2024-08-28T21:14:17.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -136,7 +136,7 @@
         <id>https://extmovie.com/bestboard/92462175</id>
         <link href="https://extmovie.com/bestboard/92462175"/>
         <updated>2024-08-28T04:16:35.270Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4497point (6%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4518point (8%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘트랜스포머 원’ IMAX, Dolby 포스터]]></title>
@@ -209,6 +209,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11999point (53%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[해외 오픈샷] 로보캅2 4K-UHD 오픈샷.]]></title>
+        <id>https://extmovie.com/bestboard/92461562</id>
+        <link href="https://extmovie.com/bestboard/92461562"/>
+        <updated>2024-08-28T21:14:01.093Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41855point (55%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">처니리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이만화 제목 아시는분]]></title>
         <id>https://extmovie.com/bestboard/92461514</id>
         <link href="https://extmovie.com/bestboard/92461514"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92461265"/>
         <updated>2024-08-27T08:17:43.065Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:568542point (42%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<퍼펙트 데이즈> 12만 관객 돌파]]></title>
-        <id>https://extmovie.com/bestboard/92461253</id>
-        <link href="https://extmovie.com/bestboard/92461253"/>
-        <updated>2024-08-28T05:14:04.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:183575point (78%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

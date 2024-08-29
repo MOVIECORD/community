@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-29T20:14:52.889Z</updated>
+    <updated>2024-08-29T21:13:32.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28810point (88%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<한국이 싫어서>를 보고 나서 (스포 O) - 고아성 주연 작품]]></title>
+        <id>https://extmovie.com/bestboard/92464316</id>
+        <link href="https://extmovie.com/bestboard/92464316"/>
+        <updated>2024-08-29T21:13:18.224Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16569point (55%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘조커 2‘ 뉴 캐릭터 포스터]]></title>
         <id>https://extmovie.com/bestboard/92464298</id>
         <link href="https://extmovie.com/bestboard/92464298"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92463635"/>
         <updated>2024-08-28T15:14:24.540Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4519583point (3%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수퍼 소닉 3'의 아키라 바이크 오마주]]></title>
-        <id>https://extmovie.com/bestboard/92463537</id>
-        <link href="https://extmovie.com/bestboard/92463537"/>
-        <updated>2024-08-29T12:25:18.646Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4095635point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-30T17:13:48.229Z</updated>
+    <updated>2024-08-30T18:18:45.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -223,6 +223,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:873point (3%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김치국물]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<구룡성채: 무법지대> 런칭 포스터 & 예고편 공개]]></title>
+        <id>https://extmovie.com/bestboard/92466399</id>
+        <link href="https://extmovie.com/bestboard/92466399"/>
+        <updated>2024-08-30T18:18:31.540Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:32point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">덕쿠]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[학폭·역사 고증 논란? '우씨왕후', 문제는 따로 있다 [Oh!쎈...]]></title>
         <id>https://extmovie.com/bestboard/92466303</id>
         <link href="https://extmovie.com/bestboard/92466303"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92466196"/>
         <updated>2024-08-30T07:13:10.206Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95059point (79%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탑건 매버릭 딸근황]]></title>
-        <id>https://extmovie.com/bestboard/92466145</id>
-        <link href="https://extmovie.com/bestboard/92466145"/>
-        <updated>2024-08-29T08:17:20.365Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:873point (3%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김치국물]]></content>
     </entry>
 </feed>

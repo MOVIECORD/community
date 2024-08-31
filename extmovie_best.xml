@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-31T18:16:41.265Z</updated>
+    <updated>2024-08-31T19:10:28.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,10 +13,24 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1412point (38%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[만신^^ 감동이네요]]></title>
+        <id>https://extmovie.com/bestboard/92470735</id>
+        <link href="https://extmovie.com/bestboard/92470735"/>
+        <updated>2024-08-31T19:10:12.909Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20522point (9%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘왕방울 눈·2등신 캐릭터’ 하츄핑 열풍…왜?]]></title>
         <id>https://extmovie.com/bestboard/92470556</id>
         <link href="https://extmovie.com/bestboard/92470556"/>
         <updated>2024-08-31T16:15:58.132Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1393012point (93%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[트위스터스] 누적 50만]]></title>
+        <id>https://extmovie.com/bestboard/92470552</id>
+        <link href="https://extmovie.com/bestboard/92470552"/>
+        <updated>2024-08-31T19:10:12.909Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1393012point (93%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
@@ -52,7 +66,7 @@
         <id>https://extmovie.com/bestboard/92470160</id>
         <link href="https://extmovie.com/bestboard/92470160"/>
         <updated>2024-08-31T05:12:25.256Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:29046point (96%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:29048point (96%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만삭인 마고 로비 최근 모습]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92468349"/>
         <updated>2024-08-30T06:19:02.854Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38657point (72%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나나가 올린 최근 화보 근황]]></title>
-        <id>https://extmovie.com/bestboard/92468332</id>
-        <link href="https://extmovie.com/bestboard/92468332"/>
-        <updated>2024-08-30T23:14:07.209Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4521042point (4%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싫어요 100만 돌파 '백설공주' 예고편의 댓글들]]></title>
-        <id>https://extmovie.com/bestboard/92468241</id>
-        <link href="https://extmovie.com/bestboard/92468241"/>
-        <updated>2024-08-30T06:19:02.854Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4096095point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

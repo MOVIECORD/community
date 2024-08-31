@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-08-31T21:11:47.261Z</updated>
+    <updated>2024-08-31T22:13:55.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://extmovie.com/bestboard/92471169"/>
         <updated>2024-08-31T17:11:04.947Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1412point (38%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아나 데 아르마스 에스티 로더 향수 광고]]></title>
+        <id>https://extmovie.com/bestboard/92471150</id>
+        <link href="https://extmovie.com/bestboard/92471150"/>
+        <updated>2024-08-31T22:13:39.474Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1388135point (88%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<카인즈 오브 카인드니스>를 보고 나서 (스포 O) - 요르고스 란...]]></title>
+        <id>https://extmovie.com/bestboard/92471111</id>
+        <link href="https://extmovie.com/bestboard/92471111"/>
+        <updated>2024-08-31T22:13:39.474Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16603point (57%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만신^^ 감동이네요]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92468529"/>
         <updated>2024-08-30T05:13:13.934Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1524point (59%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 무서운 황정민 플러팅]]></title>
-        <id>https://extmovie.com/bestboard/92468367</id>
-        <link href="https://extmovie.com/bestboard/92468367"/>
-        <updated>2024-08-30T13:18:44.883Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4521042point (4%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미드 "무죄추정"이 핫하네여~~]]></title>
-        <id>https://extmovie.com/bestboard/92468349</id>
-        <link href="https://extmovie.com/bestboard/92468349"/>
-        <updated>2024-08-30T06:19:02.854Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38657point (72%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
 </feed>

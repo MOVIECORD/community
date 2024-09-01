@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-01T17:11:24.876Z</updated>
+    <updated>2024-09-01T18:17:07.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92471962"/>
         <updated>2024-09-01T06:19:01.932Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51186point (24%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국인이 사랑하는 터미네이터 (0)]]></title>
+        <id>https://extmovie.com/bestboard/92471929</id>
+        <link href="https://extmovie.com/bestboard/92471929"/>
+        <updated>2024-09-01T18:16:53.413Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20546point (10%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에일리언 로믈루스 감독, 너티독 견학]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92470106"/>
         <updated>2024-08-31T18:16:27.077Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4521770point (4%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[린다 해밀턴이 터미네이터2에서 삭제되어서 불쾌해 했다는 장면]]></title>
-        <id>https://extmovie.com/bestboard/92470082</id>
-        <link href="https://extmovie.com/bestboard/92470082"/>
-        <updated>2024-08-31T04:16:38.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/59.gif" alt="[레벨:59]" title="포인트:651180point (55%), 레벨:59/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸루스]]></content>
     </entry>
 </feed>

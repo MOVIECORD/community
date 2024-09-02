@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-02T09:15:39.912Z</updated>
+    <updated>2024-09-02T10:14:31.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트위스터스 보고 왔습니다]]></title>
+        <id>https://extmovie.com/movietalk/92474858?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92474858?category=61633579"/>
+        <updated>2024-09-02T10:14:24.119Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1730point (98%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">용산여의도영등포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sommersby (1993) 리처드 기어의 대표작 서부극. 스포일러 ...]]></title>
         <id>https://extmovie.com/movietalk/92473273?category=61633579</id>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/movietalk/92465566?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92465566?category=61633579"/>
         <updated>2024-08-29T03:15:08.078Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4522751point (4%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4522753point (4%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대취협 (1965) 호금전감독의 걸작 쿵후영화. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92456021?category=61633579"/>
         <updated>2024-08-24T10:12:45.074Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16687point (60%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longlegs (2024) 이것 간만에 보는 물건이군. 스포일러 아주...]]></title>
-        <id>https://extmovie.com/movietalk/92454818?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92454818?category=61633579"/>
-        <updated>2024-08-24T10:12:45.074Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:51225point (25%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

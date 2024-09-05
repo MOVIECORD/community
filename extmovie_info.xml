@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-09-05T17:12:29.736Z</updated>
+    <updated>2024-09-05T18:17:18.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[니켈 보이즈] 공식 포스터]]></title>
+        <id>https://extmovie.com/movietalk/92482121?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92482121?category=21915420"/>
+        <updated>2024-09-05T18:17:06.723Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36342point (9%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">필름매니아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 9월 5일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/92482001?category=21915420</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92480269?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92480269?category=21915420"/>
         <updated>2024-09-05T01:01:36.032Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4526541point (5%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데드풀 & 울버린' 여성 저거노트 공식 컨셉아트]]></title>
-        <id>https://extmovie.com/movietalk/92480219?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92480219?category=21915420"/>
-        <updated>2024-09-05T01:01:36.033Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4526541point (5%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

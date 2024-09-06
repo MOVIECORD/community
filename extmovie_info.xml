@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-09-06T18:18:53.859Z</updated>
+    <updated>2024-09-06T19:12:12.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울프 맨 - 공식 티저 예고편 [한글 자막]]]></title>
+        <id>https://extmovie.com/movietalk/92484455?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92484455?category=21915420"/>
+        <updated>2024-09-06T19:12:00.681Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6569point (52%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[’에일리언 로물루스‘ 퍼펫 실제효과 비하인드샷]]></title>
         <id>https://extmovie.com/movietalk/92484311?category=21915420</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92482440?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92482440?category=21915420"/>
         <updated>2024-09-06T01:01:03.122Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6557point (52%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6569point (52%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IFC 필름,스파이 스릴러 <인헤리턴스> 북미 배급권 획득]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92482255?category=21915420"/>
         <updated>2024-09-05T22:12:44.997Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4527786point (5%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<듄> 시나리오 작가 존 스페이츠,제목 미정 SF 스릴러...]]></title>
-        <id>https://extmovie.com/movietalk/92482251?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92482251?category=21915420"/>
-        <updated>2024-09-05T22:12:44.998Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30725point (46%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-06T16:17:49.169Z</updated>
+    <updated>2024-09-06T17:12:09.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:569632point (48%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<룩 백> 후기]]></title>
+        <id>https://extmovie.com/bestboard/92482868</id>
+        <link href="https://extmovie.com/bestboard/92482868"/>
+        <updated>2024-09-06T17:11:53.528Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20746point (17%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[넷플릭스] 최근 8일간 추가된 9/6~12/20 공개 예정작 43개]]></title>
         <id>https://extmovie.com/bestboard/92482890</id>
         <link href="https://extmovie.com/bestboard/92482890"/>
@@ -67,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/92482866"/>
         <updated>2024-09-06T05:14:39.280Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4097555point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[불금호러 No.46] 일상 속 숨은 공포 - 스픽 노 이블]]></title>
+        <id>https://extmovie.com/bestboard/92482807</id>
+        <link href="https://extmovie.com/bestboard/92482807"/>
+        <updated>2024-09-06T17:11:53.533Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112381486point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<베테랑2> 돌비 시네마 포스터 공개]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92480534"/>
         <updated>2024-09-05T05:13:26.196Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4527780point (5%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센과치히로 삭제된 치히로 아빠 장면(유머)]]></title>
-        <id>https://extmovie.com/bestboard/92480439</id>
-        <link href="https://extmovie.com/bestboard/92480439"/>
-        <updated>2024-09-05T07:13:06.608Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:569632point (48%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<하얼빈> 안중근 포스터와 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/92480372</id>
-        <link href="https://extmovie.com/bestboard/92480372"/>
-        <updated>2024-09-05T06:19:06.925Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:184817point (82%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

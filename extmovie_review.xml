@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-07T11:11:23.230Z</updated>
+    <updated>2024-09-07T12:22:59.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스포주의] 오멘: 저주의 시작 리뷰]]></title>
+        <id>https://extmovie.com/movietalk/92485478?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92485478?category=61633579"/>
+        <updated>2024-09-07T12:22:52.850Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1976point (46%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trap (2024) 나이트 샤말란이 나이트 샤말란했다. 스포일러 ...]]></title>
         <id>https://extmovie.com/movietalk/92471643?category=61633579</id>
@@ -24,14 +31,14 @@
         <id>https://extmovie.com/movietalk/92485259?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92485259?category=61633579"/>
         <updated>2024-09-07T08:16:21.429Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2471point (22%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2475point (22%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화영화 <룩백> - 서로의 등을 바라보며]]></title>
         <id>https://extmovie.com/movietalk/92485254?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92485254?category=61633579"/>
         <updated>2024-09-07T08:16:21.430Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2471point (22%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2475point (22%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<비틀쥬스 비틀쥬스>를 보고 나서 (스포 O) - 팀 버튼...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92469080?category=61633579"/>
         <updated>2024-08-30T09:14:54.199Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24811point (59%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">음악영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초약스포] 필사의 추격 짧은 후기]]></title>
-        <id>https://extmovie.com/movietalk/92468454?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92468454?category=61633579"/>
-        <updated>2024-08-30T04:16:30.706Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47028point (85%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">골드로저]]></content>
     </entry>
 </feed>

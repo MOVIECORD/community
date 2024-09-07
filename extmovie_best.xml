@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-07T21:14:52.203Z</updated>
+    <updated>2024-09-07T22:12:34.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4097674point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[룩백 인상 깊게 봤습니다.]]></title>
+        <id>https://extmovie.com/bestboard/92483642</id>
+        <link href="https://extmovie.com/bestboard/92483642"/>
+        <updated>2024-09-07T22:12:20.716Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:700point (65%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노래부르기]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일본에서 화제가 된 에이리언 코스프레]]></title>
         <id>https://extmovie.com/bestboard/92483432</id>
         <link href="https://extmovie.com/bestboard/92483432"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92482866"/>
         <updated>2024-09-06T05:14:39.280Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4097674point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[불금호러 No.46] 일상 속 숨은 공포 - 스픽 노 이블]]></title>
-        <id>https://extmovie.com/bestboard/92482807</id>
-        <link href="https://extmovie.com/bestboard/92482807"/>
-        <updated>2024-09-06T17:11:53.533Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112381501point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
     </entry>
 </feed>

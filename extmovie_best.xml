@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-08T19:11:59.012Z</updated>
+    <updated>2024-09-08T20:13:40.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -94,7 +94,7 @@
         <id>https://extmovie.com/bestboard/92486082</id>
         <link href="https://extmovie.com/bestboard/92486082"/>
         <updated>2024-09-08T06:17:10.671Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4097820point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4097826point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플로렌스 퓨, 앤드류 가필드 [위 리브 인 타임] 로튼 토마토 점수 75%]]></title>
@@ -136,7 +136,7 @@
         <id>https://extmovie.com/bestboard/92485739</id>
         <link href="https://extmovie.com/bestboard/92485739"/>
         <updated>2024-09-08T01:06:05.589Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4097820point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4097826point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한소희 인스타]]></title>
@@ -165,6 +165,13 @@
         <link href="https://extmovie.com/bestboard/92485632"/>
         <updated>2024-09-08T06:17:10.678Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:102637point (52%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와킨 피닉스, 아직 토드 헤인즈 제작자들에게 비용 지불하지 않아]]></title>
+        <id>https://extmovie.com/bestboard/92485516</id>
+        <link href="https://extmovie.com/bestboard/92485516"/>
+        <updated>2024-09-08T20:13:23.990Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4529066point (5%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헐크 대 울버린]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92484985"/>
         <updated>2024-09-07T15:13:42.766Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4529066point (5%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사랑의 하츄핑> 90만 관객 돌파]]></title>
-        <id>https://extmovie.com/bestboard/92484934</id>
-        <link href="https://extmovie.com/bestboard/92484934"/>
-        <updated>2024-09-08T06:17:10.702Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:184930point (83%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

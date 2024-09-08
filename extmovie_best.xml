@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-08T18:17:56.495Z</updated>
+    <updated>2024-09-08T19:11:59.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탐 크루즈, ‘어벤저스 시크릿 워즈’ ‘어벤저스 둠스데이’ 버라이언트 ...]]></title>
+        <id>https://extmovie.com/bestboard/92486937</id>
+        <link href="https://extmovie.com/bestboard/92486937"/>
+        <updated>2024-09-08T19:11:42.607Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4529066point (5%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["존 윅 뛰어넘는 액션"..[베테랑2] 토론토 영화제 상영 성료]]></title>
         <id>https://extmovie.com/bestboard/92486874</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/bestboard/92486778</id>
         <link href="https://extmovie.com/bestboard/92486778"/>
         <updated>2024-09-08T18:17:40.257Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30326point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30328point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진짜로?!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92484934"/>
         <updated>2024-09-08T06:17:10.702Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:184930point (83%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조커: 폴리 아 되 아이맥스  포스터]]></title>
-        <id>https://extmovie.com/bestboard/92484838</id>
-        <link href="https://extmovie.com/bestboard/92484838"/>
-        <updated>2024-09-07T13:16:09.053Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395280point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

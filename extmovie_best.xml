@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-09T12:27:01.726Z</updated>
+    <updated>2024-09-09T13:21:26.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:217point (54%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">혀니야]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(스포) 베테랑2 빌런을 기사제목에서 봐버렸는데...]]></title>
+        <id>https://extmovie.com/bestboard/92488750</id>
+        <link href="https://extmovie.com/bestboard/92488750"/>
+        <updated>2024-09-09T13:21:10.662Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:681point (61%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Wikikill]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(스포)베테랑 2 이거 반전이 아닌가보네요]]></title>
         <id>https://extmovie.com/bestboard/92488616</id>
         <link href="https://extmovie.com/bestboard/92488616"/>
         <updated>2024-09-09T10:15:00.221Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3010point (76%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">cwolff]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3012point (76%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">cwolff]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모 언론사에서 베테랑2 빌런을 스포했네요]]></title>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/bestboard/92486778</id>
         <link href="https://extmovie.com/bestboard/92486778"/>
         <updated>2024-09-08T18:17:40.257Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30352point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30355point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[’에일리언 로물루스‘ 크리쳐 효과 담당자 비하인드샷]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/bestboard/92486698</id>
         <link href="https://extmovie.com/bestboard/92486698"/>
         <updated>2024-09-09T01:03:24.005Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38156point (58%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38247point (60%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진짜로?!]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92486557"/>
         <updated>2024-09-08T12:23:15.552Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1388792point (88%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포) 페데 알바레즈 감독이 올린 ‘에일리언 로물루스‘ 트레이딩 카드들]]></title>
-        <id>https://extmovie.com/bestboard/92486487</id>
-        <link href="https://extmovie.com/bestboard/92486487"/>
-        <updated>2024-09-08T23:15:29.756Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4530133point (6%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

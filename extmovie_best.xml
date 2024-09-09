@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-09T20:15:14.210Z</updated>
+    <updated>2024-09-09T21:13:01.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[22Kg 감량한 데이브 바티스타]]></title>
+        <id>https://extmovie.com/bestboard/92489348</id>
+        <link href="https://extmovie.com/bestboard/92489348"/>
+        <updated>2024-09-09T21:12:44.757Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1388833point (88%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베테랑2 돌비 간단히]]></title>
         <id>https://extmovie.com/bestboard/92489248</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92486815"/>
         <updated>2024-09-08T18:17:40.256Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:570014point (50%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<미싱>, <나이트 스윔> 넷플 공개네요]]></title>
-        <id>https://extmovie.com/bestboard/92486782</id>
-        <link href="https://extmovie.com/bestboard/92486782"/>
-        <updated>2024-09-09T01:03:24.002Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1388833point (88%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

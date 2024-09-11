@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-11T15:15:14.017Z</updated>
+    <updated>2024-09-11T16:17:11.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테인티드 러브 / 마음을 뺏겨본 자만이 할 수 있는 공감]]></title>
+        <id>https://extmovie.com/movietalk/92494032?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92494032?category=61633579"/>
+        <updated>2024-09-11T16:17:04.991Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2743point (49%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">극장영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노스포) <베테랑2> 한국 형사물의 정점이자 2세대 사...]]></title>
         <id>https://extmovie.com/movietalk/92491736?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92473026?category=61633579"/>
         <updated>2024-09-01T12:23:34.781Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16887point (69%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[룩백 (2024) 평범한 애니메이션. 스포일러 없음.]]></title>
-        <id>https://extmovie.com/movietalk/92472681?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92472681?category=61633579"/>
-        <updated>2024-09-01T10:13:46.249Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52173point (31%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

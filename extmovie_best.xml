@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-11T16:17:11.796Z</updated>
+    <updated>2024-09-11T17:12:11.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 봤던 영화중에서 가장 별로였던 영화 10]]></title>
+        <id>https://extmovie.com/bestboard/92493802</id>
+        <link href="https://extmovie.com/bestboard/92493802"/>
+        <updated>2024-09-11T17:11:56.473Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30653point (44%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유역비 최신 근황(24.09.09)]]></title>
         <id>https://extmovie.com/bestboard/92493317</id>
         <link href="https://extmovie.com/bestboard/92493317"/>
         <updated>2024-09-11T15:14:58.498Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:165970point (19%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:165972point (19%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<사랑의 하츄핑> 중국 개봉 현황(중국 포스터 포함)]]></title>
         <id>https://extmovie.com/bestboard/92493201</id>
         <link href="https://extmovie.com/bestboard/92493201"/>
         <updated>2024-09-11T16:16:57.132Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:165970point (19%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:165972point (19%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오리지널 티켓] Re.26 예고]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/92492436</id>
         <link href="https://extmovie.com/bestboard/92492436"/>
         <updated>2024-09-11T08:17:43.556Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1607point (74%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1609point (75%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소니 PS5 프로 한국 가격 공개... '111만 원']]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92490385"/>
         <updated>2024-09-10T11:34:40.729Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4098551point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정해인에게 진심 복수하는 정소민]]></title>
-        <id>https://extmovie.com/bestboard/92490364</id>
-        <link href="https://extmovie.com/bestboard/92490364"/>
-        <updated>2024-09-10T19:12:22.359Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4531627point (6%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

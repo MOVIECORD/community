@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-11T20:13:46.304Z</updated>
+    <updated>2024-09-11T21:13:51.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이런 영화가 다시 나왔으면.... (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92493810</id>
+        <link href="https://extmovie.com/bestboard/92493810"/>
+        <updated>2024-09-11T21:13:37.618Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30657point (44%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 봤던 영화중에서 가장 별로였던 영화 10 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/92493802</id>
@@ -114,6 +121,13 @@
         <id>https://extmovie.com/bestboard/92492321</id>
         <link href="https://extmovie.com/bestboard/92492321"/>
         <updated>2024-09-11T06:19:28.997Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4531627point (6%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디플 '유어 프렌들리 네이버후드 스파이더맨' 첫 공식 샷 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92492122</id>
+        <link href="https://extmovie.com/bestboard/92492122"/>
+        <updated>2024-09-11T21:13:37.651Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4531627point (6%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -234,20 +248,6 @@
         <link href="https://extmovie.com/bestboard/92490587"/>
         <updated>2024-09-10T11:34:40.727Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4098553point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[베테랑2] 국내 언론사 리뷰 모음 - 2 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92490442</id>
-        <link href="https://extmovie.com/bestboard/92490442"/>
-        <updated>2024-09-10T11:34:40.727Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:570274point (51%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS 추석특선영화 라인업 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92490418</id>
-        <link href="https://extmovie.com/bestboard/92490418"/>
-        <updated>2024-09-10T08:17:23.181Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1726point (97%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 9월 11일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

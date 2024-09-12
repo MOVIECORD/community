@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-12T20:15:32.645Z</updated>
+    <updated>2024-09-12T21:12:51.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92496054"/>
         <updated>2024-09-12T17:12:51.542Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47051point (86%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">펩시오리지날]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트랜스포머 one 돌비 환상임 박수 터졌음]]></title>
+        <id>https://extmovie.com/bestboard/92496042</id>
+        <link href="https://extmovie.com/bestboard/92496042"/>
+        <updated>2024-09-12T21:12:35.659Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:307935point (79%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['하얼빈' 영국 스크린데일지 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92474701"/>
         <updated>2024-09-11T12:25:57.685Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30670point (45%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<보통의 가족> 메인 포스터 공개]]></title>
-        <id>https://extmovie.com/bestboard/92492931</id>
-        <link href="https://extmovie.com/bestboard/92492931"/>
-        <updated>2024-09-12T17:12:51.593Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:185581point (85%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

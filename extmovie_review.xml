@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-13T03:15:46.115Z</updated>
+    <updated>2024-09-13T04:16:24.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베테랑2 봤습니다]]></title>
+        <id>https://extmovie.com/movietalk/92497281?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92497281?category=61633579"/>
+        <updated>2024-09-13T04:16:17.482Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1830point (17%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[룩백 간단 후기 및 원작과의 사소한 차이점들 (원작 초중반...]]></title>
+        <id>https://extmovie.com/movietalk/92497192?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92497192?category=61633579"/>
+        <updated>2024-09-13T04:16:17.482Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3714point (40%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">션2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카구야 공주 이야기 (2013) 승자는 당신. 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92496447?category=61633579</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92482146?category=61633579"/>
         <updated>2024-09-05T18:17:11.002Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37082point (29%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비틀쥬스 비틀쥬스 간단 감상평.]]></title>
-        <id>https://extmovie.com/movietalk/92481716?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92481716?category=61633579"/>
-        <updated>2024-09-05T12:25:42.713Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5726point (97%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">엄마손파이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코마다 위스키 패밀리 봤습니다]]></title>
-        <id>https://extmovie.com/movietalk/92481297?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92481297?category=61633579"/>
-        <updated>2024-09-05T09:14:14.360Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1726point (97%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
     </entry>
 </feed>

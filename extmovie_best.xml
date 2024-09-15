@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-15T02:49:29.698Z</updated>
+    <updated>2024-09-15T03:19:54.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UFC 사장 사무실에 난입한 베놈]]></title>
+        <id>https://extmovie.com/bestboard/92501656</id>
+        <link href="https://extmovie.com/bestboard/92501656"/>
+        <updated>2024-09-15T03:19:37.962Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:571110point (55%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시드니 스위니가 공개한 19금짤]]></title>
+        <id>https://extmovie.com/bestboard/92501630</id>
+        <link href="https://extmovie.com/bestboard/92501630"/>
+        <updated>2024-09-15T03:19:37.962Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:571110point (55%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<베테랑2> 관람직후 한줄평 (노스포) 쿠키여부]]></title>
         <id>https://extmovie.com/bestboard/92501294</id>
         <link href="https://extmovie.com/bestboard/92501294"/>
         <updated>2024-09-15T02:49:13.966Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37666point (45%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">HarrySon]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37668point (45%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">HarrySon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정우성, <맨 어바웃 타운> 중문판 화보]]></title>
@@ -45,7 +59,7 @@
         <id>https://extmovie.com/bestboard/92500908</id>
         <link href="https://extmovie.com/bestboard/92500908"/>
         <updated>2024-09-14T16:15:52.204Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31129point (59%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31130point (59%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(*잔인 주의) <테리파이어 3> 새 포스터]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92499140"/>
         <updated>2024-09-13T17:12:28.503Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4099347point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨거운 피 디 오리지널 (2022) 걸작. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/bestboard/92496424</id>
-        <link href="https://extmovie.com/bestboard/92496424"/>
-        <updated>2024-09-14T05:14:26.625Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52396point (33%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베테랑2 무척 만족스럽네요.더 어두워진 범죄물(스포)]]></title>
-        <id>https://extmovie.com/bestboard/92499079</id>
-        <link href="https://extmovie.com/bestboard/92499079"/>
-        <updated>2024-09-15T01:08:29.701Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:834point (94%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노래부르기]]></content>
     </entry>
 </feed>

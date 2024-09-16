@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-16T19:12:03.663Z</updated>
+    <updated>2024-09-16T20:15:05.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베테랑2 점수 바꿉니다]]></title>
+        <id>https://extmovie.com/bestboard/92505090</id>
+        <link href="https://extmovie.com/bestboard/92505090"/>
+        <updated>2024-09-16T20:14:50.084Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1893point (30%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 9월 16일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92505064</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92502538"/>
         <updated>2024-09-16T14:13:49.129Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58500point (75%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교 출국샷]]></title>
-        <id>https://extmovie.com/bestboard/92502444</id>
-        <link href="https://extmovie.com/bestboard/92502444"/>
-        <updated>2024-09-16T09:17:17.449Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4536103point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

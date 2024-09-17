@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-17T08:18:19.649Z</updated>
+    <updated>2024-09-17T09:14:40.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92505931"/>
         <updated>2024-09-17T08:18:03.554Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13464point (22%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고민시 물오른 퇴폐X섹시]]></title>
+        <id>https://extmovie.com/bestboard/92505865</id>
+        <link href="https://extmovie.com/bestboard/92505865"/>
+        <updated>2024-09-17T09:14:25.466Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58559point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트랩은 조용히 묻히네요]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/bestboard/92504206</id>
         <link href="https://extmovie.com/bestboard/92504206"/>
         <updated>2024-09-16T13:23:14.633Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396570point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396573point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탐나는 피규어 몇개.. (아주 약한 고어 주의)]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92503650</id>
         <link href="https://extmovie.com/bestboard/92503650"/>
         <updated>2024-09-16T14:13:49.114Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4099739point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 하츄핑' 한국 애니 중 12년 만에 100만 관객 돌파]]></title>
-        <id>https://extmovie.com/bestboard/92503640</id>
-        <link href="https://extmovie.com/bestboard/92503640"/>
-        <updated>2024-09-17T02:21:18.324Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4099739point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

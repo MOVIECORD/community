@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-17T17:12:47.623Z</updated>
+    <updated>2024-09-17T18:18:30.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['베테랑 2' 손익 분기점 돌파]]></title>
+        <id>https://extmovie.com/bestboard/92506947</id>
+        <link href="https://extmovie.com/bestboard/92506947"/>
+        <updated>2024-09-17T18:18:14.761Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4099810point (19%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프랑스 영화의 미래를 할리우드에 데뷔 시킨 봉준호]]></title>
         <id>https://extmovie.com/bestboard/92506682</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/bestboard/92506251</id>
         <link href="https://extmovie.com/bestboard/92506251"/>
         <updated>2024-09-17T11:12:09.619Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1389421point (89%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1389423point (89%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(DCU) 플라스틱맨은 바디 호러물이 될 것]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/bestboard/92506087</id>
         <link href="https://extmovie.com/bestboard/92506087"/>
         <updated>2024-09-17T11:12:09.619Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1389421point (89%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1389423point (89%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[픽사: 인사이드 아웃2 제작 당시 라일리를 덜 동성애 적이게 만들게 지시]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92504250"/>
         <updated>2024-09-16T12:28:31.554Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4536380point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS5 프로, "잔인한 가격" 이용자 73.6% 성토]]></title>
-        <id>https://extmovie.com/bestboard/92504206</id>
-        <link href="https://extmovie.com/bestboard/92504206"/>
-        <updated>2024-09-16T13:23:14.633Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396573point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

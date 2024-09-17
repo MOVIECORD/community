@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-17T21:13:32.212Z</updated>
+    <updated>2024-09-17T22:13:27.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58569point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[해리포터] TV 시리즈 제작 근황]]></title>
+        <id>https://extmovie.com/bestboard/92505653</id>
+        <link href="https://extmovie.com/bestboard/92505653"/>
+        <updated>2024-09-17T22:13:12.142Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:571225point (56%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[봉준호 ‘미키 17‘ 첫 티저]]></title>
         <id>https://extmovie.com/bestboard/92505630</id>
         <link href="https://extmovie.com/bestboard/92505630"/>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/bestboard/92504644</id>
         <link href="https://extmovie.com/bestboard/92504644"/>
         <updated>2024-09-17T00:52:04.125Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52913point (36%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:52915point (36%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 메이저 각본가 2명 작품이 꽤 흥하네요]]></title>
@@ -240,13 +247,6 @@
         <title type="html"><![CDATA[(SSU) 소니 픽처스 SSU 폐지하고 실사 스파이더버스 시네마틱 유니버스...]]></title>
         <id>https://extmovie.com/bestboard/92504373</id>
         <link href="https://extmovie.com/bestboard/92504373"/>
-        <updated>2024-09-16T22:12:10.415Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:317point (79%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(DC Elseworlds) 배트맨 에픽 크라임 사가 8가지루머]]></title>
-        <id>https://extmovie.com/bestboard/92504299</id>
-        <link href="https://extmovie.com/bestboard/92504299"/>
         <updated>2024-09-16T22:12:10.415Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:317point (79%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">applejuice]]></content>
     </entry>

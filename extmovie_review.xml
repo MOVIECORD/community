@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-17T02:21:33.722Z</updated>
+    <updated>2024-09-17T03:16:29.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베테랑2 후기 (스포 주의)]]></title>
+        <id>https://extmovie.com/movietalk/92505855?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92505855?category=61633579"/>
+        <updated>2024-09-17T03:16:23.017Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1502point (55%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베테랑2를 보고]]></title>
         <id>https://extmovie.com/movietalk/92505234?category=61633579</id>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/92499247?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92499247?category=61633579"/>
         <updated>2024-09-13T16:16:15.523Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4536225point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4536257point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뜨거운 피 디 오리지널 (2022) 걸작. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92497281?category=61633579"/>
         <updated>2024-09-13T04:16:17.482Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1905point (32%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[룩백 간단 후기 및 원작과의 사소한 차이점들 (원작 초중반...]]></title>
-        <id>https://extmovie.com/movietalk/92497192?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92497192?category=61633579"/>
-        <updated>2024-09-13T04:16:17.482Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3789point (46%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">션2022]]></content>
     </entry>
 </feed>

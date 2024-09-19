@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-09-19T19:11:29.069Z</updated>
+    <updated>2024-09-19T20:15:04.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘노스페라투’ 첫 포스터]]></title>
+        <id>https://extmovie.com/movietalk/92511138?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92511138?category=21915420"/>
+        <updated>2024-09-19T20:14:52.955Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4537951point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 9월 19일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/92511042?category=21915420</id>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92510129?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92510129?category=21915420"/>
         <updated>2024-09-19T05:14:03.819Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4537938point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4537951point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<구룡성채: 무법지대> 메인 예고편 & 메인 포스터...]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/92509662?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92509662?category=21915420"/>
         <updated>2024-09-19T02:42:49.342Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4537938point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4537951point (7%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<누가 매기 무어를 죽였을까?> 메인 예고편 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92509593?category=21915420"/>
         <updated>2024-09-19T01:03:15.529Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4100443point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<베테랑2> 안보현 캐릭터 스틸 공개]]></title>
-        <id>https://extmovie.com/movietalk/92509586?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92509586?category=21915420"/>
-        <updated>2024-09-19T01:03:15.529Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:186779point (89%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

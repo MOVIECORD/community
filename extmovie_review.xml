@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-21T15:15:00.590Z</updated>
+    <updated>2024-09-21T16:17:13.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<와일드 로봇>(더빙 버전) CGV 시사회 후기요~~]]></title>
+        <id>https://extmovie.com/movietalk/92515364?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92515364?category=61633579"/>
+        <updated>2024-09-21T16:17:05.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1532point (60%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">또또비됴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근래 본 단편영화 중 가장 인상 깊었던 <커퓨> (Curfew)]]></title>
         <id>https://extmovie.com/movietalk/92510244?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92510244?category=61633579"/>
         <updated>2024-09-21T02:40:39.280Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6091point (21%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6094point (21%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베테랑 2  짧은 감상평.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92502213?category=61633579"/>
         <updated>2024-09-15T06:18:25.619Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2613point (36%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">잭슨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베테랑 2 (2024) 지루한 범작. 50%는 비질란테. 스포일러 약간.]]></title>
-        <id>https://extmovie.com/movietalk/92502143?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92502143?category=61633579"/>
-        <updated>2024-09-15T06:18:25.619Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53122point (38%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-22T19:10:50.800Z</updated>
+    <updated>2024-09-22T20:14:29.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92516781"/>
         <updated>2024-09-22T18:16:44.553Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4101159point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<조커: 폴리 아 되> 시사회에서 팝콘 나눠주는 레이디 가가]]></title>
+        <id>https://extmovie.com/bestboard/92516757</id>
+        <link href="https://extmovie.com/bestboard/92516757"/>
+        <updated>2024-09-22T20:14:14.625Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1389854point (89%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베테랑2 두 차례 감상 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92514371"/>
         <updated>2024-09-21T05:12:52.280Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4101159point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 ‘수퍼/맨 : 더 크리스토퍼 리브 스토리‘ 로튼 현재 28리뷰 100%]]></title>
-        <id>https://extmovie.com/bestboard/92514309</id>
-        <link href="https://extmovie.com/bestboard/92514309"/>
-        <updated>2024-09-21T23:12:33.568Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4540975point (8%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

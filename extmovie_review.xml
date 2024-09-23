@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-23T05:14:23.706Z</updated>
+    <updated>2024-09-23T06:20:32.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 레터박스에 올라온 '메갈로폴리스' 단평들 모음]]></title>
+        <id>https://extmovie.com/movietalk/92518148?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92518148?category=61633579"/>
+        <updated>2024-09-23T06:20:24.212Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4541656point (8%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<스크래퍼>를 보고 나서 (스포 O) - 해리스 디킨스 주...]]></title>
         <id>https://extmovie.com/movietalk/92518024?category=61633579</id>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/92509100?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92509100?category=61633579"/>
         <updated>2024-09-20T09:18:04.519Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53209point (38%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53211point (38%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사잇소리 (2022) 무난한 스릴러물. 스포일러 있음.]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/92504644?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92504644?category=61633579"/>
         <updated>2024-09-16T15:15:14.061Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53209point (38%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53211point (38%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<에이리언 오브 더 딥>을 보고 나서 (스포 O) - 제임...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92504140?category=61633579"/>
         <updated>2024-09-16T06:20:28.467Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2778point (53%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">극장영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스][어글리] 이 영화 기괴하다 - 겉멋 들린 중딩의 ...]]></title>
-        <id>https://extmovie.com/movietalk/92503482?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92503482?category=61633579"/>
-        <updated>2024-09-15T19:11:00.463Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:37341point (36%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

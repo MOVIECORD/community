@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-27T19:12:30.854Z</updated>
+    <updated>2024-09-27T20:15:17.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,6 +24,13 @@
         <id>https://extmovie.com/bestboard/92529737</id>
         <link href="https://extmovie.com/bestboard/92529737"/>
         <updated>2024-09-27T17:13:06.776Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4547946point (9%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘경성크리처‘ 시즌 2‘ 넷플 업 / 한소희 인스타 업뎃]]></title>
+        <id>https://extmovie.com/bestboard/92529651</id>
+        <link href="https://extmovie.com/bestboard/92529651"/>
+        <updated>2024-09-27T20:15:00.837Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4547946point (9%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92526625"/>
         <updated>2024-09-26T14:13:36.721Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:33586point (31%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란 '시민덕희' 일본 포스터]]></title>
-        <id>https://extmovie.com/bestboard/92526650</id>
-        <link href="https://extmovie.com/bestboard/92526650"/>
-        <updated>2024-09-27T15:14:47.095Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4102819point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

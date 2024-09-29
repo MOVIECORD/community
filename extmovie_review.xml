@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-29T13:18:16.738Z</updated>
+    <updated>2024-09-29T14:12:42.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커버넌트 재밌네요]]></title>
+        <id>https://extmovie.com/movietalk/92533216?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92533216?category=61633579"/>
+        <updated>2024-09-29T14:12:36.258Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1772point (6%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무호마쓰의 일생 (1958) 도시로 미후네의 열연. 히데코 다카...]]></title>
         <id>https://extmovie.com/movietalk/92532084?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92531271?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92531271?category=61633579"/>
         <updated>2024-09-28T12:24:23.024Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1755point (2%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1772point (6%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<테넷>을 보고]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92518148?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92518148?category=61633579"/>
         <updated>2024-09-23T06:20:24.212Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4548801point (9%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4548815point (9%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스크래퍼>를 보고 나서 (스포 O) - 해리스 디킨스 주...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92514210?category=61633579"/>
         <updated>2024-09-21T01:01:58.559Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5778point (1%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">엄마손파이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<수유천>을 보고 나서 (스포 O, 추천) - 홍상수 감독 ...]]></title>
-        <id>https://extmovie.com/movietalk/92513523?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92513523?category=61633579"/>
-        <updated>2024-09-20T13:20:56.785Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17417point (90%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

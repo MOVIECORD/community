@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-09-28T23:13:22.025Z</updated>
+    <updated>2024-09-29T01:10:23.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[약스포]베테랑2 후기. 1편의 미덕을 버린 속편. 불호]]></title>
+        <id>https://extmovie.com/movietalk/92532021?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92532021?category=61633579"/>
+        <updated>2024-09-29T01:10:15.613Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:96point (24%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스크루지할배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트랜스포머 원 보고 왔습니다.]]></title>
         <id>https://extmovie.com/movietalk/92531271?category=61633579</id>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/movietalk/92518148?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92518148?category=61633579"/>
         <updated>2024-09-23T06:20:24.212Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4548596point (9%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4548716point (9%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스크래퍼>를 보고 나서 (스포 O) - 해리스 디킨스 주...]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92516578?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92516578?category=61633579"/>
         <updated>2024-09-22T12:24:27.952Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13324point (16%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13330point (16%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<누가 로져 래빗을 모함했나 ?>를 보고 나서 (스포 X,...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92509100?category=61633579"/>
         <updated>2024-09-20T09:18:04.519Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53382point (40%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사잇소리 (2022) 무난한 스릴러물. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/92511041?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92511041?category=61633579"/>
-        <updated>2024-09-19T15:14:58.985Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53573point (41%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

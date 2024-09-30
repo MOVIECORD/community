@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-09-30T18:19:08.070Z</updated>
+    <updated>2024-09-30T19:10:49.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스페라투 - 공식 예고편 [한글 자막]]]></title>
+        <id>https://extmovie.com/movietalk/92536414?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92536414?category=21915420"/>
+        <updated>2024-09-30T19:10:37.850Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6614point (55%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노스페라투] 정식 예고편 공개]]></title>
         <id>https://extmovie.com/movietalk/92536412?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92534300?category=21915420"/>
         <updated>2024-09-30T03:25:35.828Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:188286point (94%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[베테랑2] 로튼 토마토 점수 100%]]></title>
-        <id>https://extmovie.com/movietalk/92534170?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92534170?category=21915420"/>
-        <updated>2024-09-30T02:53:25.741Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:573311point (66%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

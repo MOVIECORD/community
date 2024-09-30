@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-09-30T18:19:08.071Z</updated>
+    <updated>2024-09-30T19:10:49.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://extmovie.com/bestboard/92536183</id>
         <link href="https://extmovie.com/bestboard/92536183"/>
         <updated>2024-09-30T18:18:52.775Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90225point (60%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90227point (60%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['베테랑 2' 로튼토마토 리뷰들 번역(100%)]]></title>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92535709"/>
         <updated>2024-09-30T15:15:35.185Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4103458point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<조커: 폴리 아 되> 메가박스 오리지널 티켓]]></title>
+        <id>https://extmovie.com/bestboard/92535450</id>
+        <link href="https://extmovie.com/bestboard/92535450"/>
+        <updated>2024-09-30T19:10:33.740Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:188286point (94%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[런던에 [겟아웃] 동상 건립 발표]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92532842"/>
         <updated>2024-09-29T13:18:00.745Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:190point (47%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">차단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트랜스포머 원 너무 재미있어요]]></title>
-        <id>https://extmovie.com/bestboard/92532827</id>
-        <link href="https://extmovie.com/bestboard/92532827"/>
-        <updated>2024-09-30T06:20:38.689Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64664point (11%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

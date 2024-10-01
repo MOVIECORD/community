@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-01T20:15:51.453Z</updated>
+    <updated>2024-10-01T21:14:58.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 조커2 조금은 긴 후기..]]></title>
+        <id>https://extmovie.com/bestboard/92539208</id>
+        <link href="https://extmovie.com/bestboard/92539208"/>
+        <updated>2024-10-01T21:14:44.070Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4034point (67%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">E-Va]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 10월 1일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92539174</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/bestboard/92538486</id>
         <link href="https://extmovie.com/bestboard/92538486"/>
         <updated>2024-10-01T13:23:13.464Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:30point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">비먼트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:32point (8%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">비먼트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조커2 에그지수]]></title>
@@ -167,6 +174,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1793point (10%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['조커: 폴리 아 되' 골든에그 더 떨어졌네요...]]></title>
+        <id>https://extmovie.com/bestboard/92537597</id>
+        <link href="https://extmovie.com/bestboard/92537597"/>
+        <updated>2024-10-01T21:14:44.107Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4103836point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[조커 폴리아되 영화 ,메가박스 강남극장에서 봤는데 굳이 극장에서 안...]]></title>
         <id>https://extmovie.com/bestboard/92537559</id>
         <link href="https://extmovie.com/bestboard/92537559"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92536927"/>
         <updated>2024-10-01T03:28:27.586Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53733point (42%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 저 평가된 마블영화]]></title>
-        <id>https://extmovie.com/bestboard/92536933</id>
-        <link href="https://extmovie.com/bestboard/92536933"/>
-        <updated>2024-10-01T06:20:26.536Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3941point (59%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">cwolff]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[베테랑2] 류승완 감독 "3편의 중요한 스토리 이미 구상중"]]></title>
-        <id>https://extmovie.com/bestboard/92536883</id>
-        <link href="https://extmovie.com/bestboard/92536883"/>
-        <updated>2024-10-01T04:17:37.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:573825point (69%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

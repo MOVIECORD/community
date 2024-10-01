@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-01T05:14:45.673Z</updated>
+    <updated>2024-10-01T06:20:42.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(약스포) <조커: 폴리 아 되>: 어쩌면 그에겐 진심이 ...]]></title>
+        <id>https://extmovie.com/movietalk/92537644?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92537644?category=61633579"/>
+        <updated>2024-10-01T06:20:35.114Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1785point (8%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">일인칭시점]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영원한 우리의 조커는 히스레저^^]]></title>
+        <id>https://extmovie.com/movietalk/92537637?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92537637?category=61633579"/>
+        <updated>2024-10-01T06:20:35.114Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35468point (84%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조커: 폴리 아 되 봤는데요]]></title>
         <id>https://extmovie.com/movietalk/92537476?category=61633579</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92519417?category=61633579"/>
         <updated>2024-09-23T13:22:48.960Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:17543point (96%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플) 드래곤 프린스 시즌 4~6 간단 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92519339?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92519339?category=61633579"/>
-        <updated>2024-09-23T13:22:48.963Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:39959point (6%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 레터박스에 올라온 '메갈로폴리스' 단평들 모음]]></title>
-        <id>https://extmovie.com/movietalk/92518148?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92518148?category=61633579"/>
-        <updated>2024-09-23T06:20:24.212Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4550128point (10%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

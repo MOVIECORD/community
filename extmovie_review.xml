@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-01T08:19:22.901Z</updated>
+    <updated>2024-10-01T09:16:51.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강스포! 후기 ) 조커 폴리 아 되, 미쳐야만 했고 그랬기에 ...]]></title>
+        <id>https://extmovie.com/movietalk/92538202?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92538202?category=61633579"/>
+        <updated>2024-10-01T09:16:44.185Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:62point (15%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한냥이군]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동감 (2000) 우리나라 타임슬립 멜로드라마의 초기작. 스포...]]></title>
         <id>https://extmovie.com/movietalk/92537814?category=61633579</id>
@@ -52,14 +59,14 @@
         <id>https://extmovie.com/movietalk/92537476?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92537476?category=61633579"/>
         <updated>2024-10-01T05:14:39.070Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1924point (36%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1926point (36%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">H무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포주의) 조커.. 다시 보니 느껴지는 것들]]></title>
         <id>https://extmovie.com/movietalk/92536309?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92536309?category=61633579"/>
         <updated>2024-09-30T17:13:53.326Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:57point (14%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유럽칼새]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:59point (14%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유럽칼새]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트랜스포머 ONE 용포디 노스포 간략 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92521902?category=61633579"/>
         <updated>2024-09-24T15:14:58.474Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53924point (43%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보통의 가족.]]></title>
-        <id>https://extmovie.com/movietalk/92521177?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92521177?category=61633579"/>
-        <updated>2024-09-24T08:18:58.263Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:576point (38%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라디에이터K]]></content>
     </entry>
 </feed>

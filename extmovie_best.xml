@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-01T18:19:09.096Z</updated>
+    <updated>2024-10-01T19:12:35.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 10월 1일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92539174</id>
+        <link href="https://extmovie.com/bestboard/92539174"/>
+        <updated>2024-10-01T19:12:20.492Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4103836point (20%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘엄마친구 아들’ 정소민 촬영한 방에서 자는중입니다]]></title>
         <id>https://extmovie.com/bestboard/92538797</id>
@@ -132,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:39500point (94%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[칸 황금종려상 [아노라] 메인 예고편]]></title>
+        <id>https://extmovie.com/bestboard/92537702</id>
+        <link href="https://extmovie.com/bestboard/92537702"/>
+        <updated>2024-10-01T19:12:20.525Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:573825point (69%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(약스포) <조커: 폴리 아 되>: 어쩌면 그에겐 진심이 필요했을지도]]></title>
         <id>https://extmovie.com/bestboard/92537644</id>
         <link href="https://extmovie.com/bestboard/92537644"/>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/92536742</id>
         <link href="https://extmovie.com/bestboard/92536742"/>
         <updated>2024-10-01T02:56:18.067Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:573825point (69%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오징어게임‘ 시즌 2 뉴 티저 -  당신을 초대합니다]]></title>
-        <id>https://extmovie.com/bestboard/92536635</id>
-        <link href="https://extmovie.com/bestboard/92536635"/>
-        <updated>2024-10-01T02:56:18.068Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4550283point (10%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메 신작 촬영 모습]]></title>
-        <id>https://extmovie.com/bestboard/92536575</id>
-        <link href="https://extmovie.com/bestboard/92536575"/>
-        <updated>2024-10-01T02:56:18.068Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:573825point (69%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

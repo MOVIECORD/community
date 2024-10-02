@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-02T17:12:56.502Z</updated>
+    <updated>2024-10-02T18:19:32.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포 노해석) 조커 너무 재밌게 잘 봤습니다]]></title>
+        <id>https://extmovie.com/movietalk/92542156?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92542156?category=61633579"/>
+        <updated>2024-10-02T18:19:24.690Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1029point (48%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화는혼자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<조커: 폴리 아 듀> 인디펜던트 리뷰: 원작만큼이나 ...]]></title>
         <id>https://extmovie.com/movietalk/92542073?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92532084?category=61633579"/>
         <updated>2024-09-29T10:13:33.497Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54027point (44%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<2001 스페이스 오디세이>를 보고 - 시대를 초월한 걸작]]></title>
-        <id>https://extmovie.com/movietalk/92532693?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92532693?category=61633579"/>
-        <updated>2024-09-29T09:14:36.380Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6452point (45%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
 </feed>

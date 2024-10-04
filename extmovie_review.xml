@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-04T08:18:41.146Z</updated>
+    <updated>2024-10-04T09:14:19.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뒤늦은 '베테랑 2' 초단평 - 어쩌다 류승완 감독...]]></title>
+        <id>https://extmovie.com/movietalk/92546796?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92546796?category=61633579"/>
+        <updated>2024-10-04T09:14:11.793Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4553334point (10%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조커, 간단 후기 (용포프, 용아맥)]]></title>
         <id>https://extmovie.com/movietalk/92546375?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92543637?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92543637?category=61633579"/>
         <updated>2024-10-03T07:14:30.804Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12512point (78%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12615point (83%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조커2 해외언론 혹평리뷰번역-1.지루,혼란,불쾌한 속편]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92536309?category=61633579"/>
         <updated>2024-09-30T17:13:53.326Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:221point (55%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">유럽칼새]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트랜스포머 ONE 용포디 노스포 간략 후기]]></title>
-        <id>https://extmovie.com/movietalk/92536232?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92536232?category=61633579"/>
-        <updated>2024-09-30T15:15:43.725Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1751point (2%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">CGVvip]]></content>
     </entry>
 </feed>

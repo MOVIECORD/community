@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-08T18:19:16.631Z</updated>
+    <updated>2024-10-08T19:10:54.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산영화제 한국영화 엄청난 수작 2편]]></title>
+        <id>https://extmovie.com/bestboard/92556757</id>
+        <link href="https://extmovie.com/bestboard/92556757"/>
+        <updated>2024-10-08T19:10:38.576Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7344point (3%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">헷01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘글래디에이터 2’ IMAX 포스터]]></title>
+        <id>https://extmovie.com/bestboard/92556594</id>
+        <link href="https://extmovie.com/bestboard/92556594"/>
+        <updated>2024-10-08T19:10:38.576Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4557916point (11%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[귀멸의 칼날 히노카미 카구라 근황]]></title>
         <id>https://extmovie.com/bestboard/92556199</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92553625"/>
         <updated>2024-10-07T12:28:22.794Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4557916point (11%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대도시의 사랑법 봤어요]]></title>
-        <id>https://extmovie.com/bestboard/92553599</id>
-        <link href="https://extmovie.com/bestboard/92553599"/>
-        <updated>2024-10-07T15:15:12.816Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64854point (14%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스포)베테랑2 차라리 악역이]]></title>
-        <id>https://extmovie.com/bestboard/92553584</id>
-        <link href="https://extmovie.com/bestboard/92553584"/>
-        <updated>2024-10-07T23:13:23.360Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4435point (1%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">cwolff]]></content>
     </entry>
 </feed>

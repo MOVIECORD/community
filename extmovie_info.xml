@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-10-09T22:13:46.500Z</updated>
+    <updated>2024-10-09T23:15:37.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스티브 맥퀸 감독 '블리츠' 로튼 신선도 94%]]></title>
+        <id>https://extmovie.com/movietalk/92559101?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92559101?category=21915420"/>
+        <updated>2024-10-09T23:15:25.293Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4106002point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 감독 <미키 17> 새로운 포스터 공개]]></title>
         <id>https://extmovie.com/movietalk/92558958?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92558958?category=21915420"/>
         <updated>2024-10-09T17:13:01.049Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10375point (72%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10379point (72%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Joopiter]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 10월 9일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/92558837?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92558837?category=21915420"/>
         <updated>2024-10-09T15:14:02.255Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4105987point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4106002point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘The Housemaid’ – 시드니 스위니와 아만다 사이프리드가 폴...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92557370?category=21915420"/>
         <updated>2024-10-09T02:46:20.237Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:575069point (75%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(*주의: 영화 내용 언급) <조커: 폴리 아 되>, 속편의...]]></title>
-        <id>https://extmovie.com/movietalk/92557345?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92557345?category=21915420"/>
-        <updated>2024-10-09T02:46:20.240Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1391449point (91%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

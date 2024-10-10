@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-10T14:13:45.535Z</updated>
+    <updated>2024-10-10T15:14:49.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 [전란] 리뷰 (스포없음)]]></title>
+        <id>https://extmovie.com/movietalk/92561166?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92561166?category=61633579"/>
+        <updated>2024-10-10T15:14:42.328Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:14point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">북극늑대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스탈린이 죽었다 (2017) 아주 흥미롭고 유쾌한 블랙 코메디....]]></title>
         <id>https://extmovie.com/movietalk/92531769?category=61633579</id>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/92556812?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92556812?category=61633579"/>
         <updated>2024-10-08T15:16:07.549Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1391571point (91%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1391588point (91%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아주약스포) 늦게나마 조커 폴리 아 되 감상문? 감상평? ㅎㅎ]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92542185?category=61633579"/>
         <updated>2024-10-02T20:16:09.752Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:173point (43%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">프리돈나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포 노해석) 조커 너무 재밌게 잘 봤습니다]]></title>
-        <id>https://extmovie.com/movietalk/92542156?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92542156?category=61633579"/>
-        <updated>2024-10-02T18:19:24.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1055point (55%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화는혼자]]></content>
     </entry>
 </feed>

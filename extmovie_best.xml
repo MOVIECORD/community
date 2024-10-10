@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-10T17:13:36.939Z</updated>
+    <updated>2024-10-10T18:18:51.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 [전란] 리뷰 (스포없음)]]></title>
+        <id>https://extmovie.com/bestboard/92561166</id>
+        <link href="https://extmovie.com/bestboard/92561166"/>
+        <updated>2024-10-10T18:18:35.638Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:14point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">북극늑대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박신양 주연 오컬트 호러 '사흘' 1차 예고편]]></title>
         <id>https://extmovie.com/bestboard/92560968</id>
@@ -45,7 +52,14 @@
         <id>https://extmovie.com/bestboard/92560562</id>
         <link href="https://extmovie.com/bestboard/92560562"/>
         <updated>2024-10-10T14:13:29.290Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2660point (41%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">coooool]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2740point (49%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">coooool]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 ‘툼레이더 라라 크로프트의 전설‘ 업]]></title>
+        <id>https://extmovie.com/bestboard/92560595</id>
+        <link href="https://extmovie.com/bestboard/92560595"/>
+        <updated>2024-10-10T18:18:35.643Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4559093point (11%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최근 마블영화 기대가 안되는 이유]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92558749"/>
         <updated>2024-10-09T23:15:21.196Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4559093point (11%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[캡틴 아메리카:브레이브 뉴 월드] 최근 테스트 시사회 반응]]></title>
-        <id>https://extmovie.com/bestboard/92558650</id>
-        <link href="https://extmovie.com/bestboard/92558650"/>
-        <updated>2024-10-09T15:13:58.139Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:75point (18%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Augustday]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데미안 루냐 감독, <악이 도사리고 있을 때>로 할리우드 진출을 ...]]></title>
-        <id>https://extmovie.com/bestboard/92558525</id>
-        <link href="https://extmovie.com/bestboard/92558525"/>
-        <updated>2024-10-10T01:04:23.674Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1391590point (91%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

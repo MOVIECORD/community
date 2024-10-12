@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-12T06:18:21.168Z</updated>
+    <updated>2024-10-12T07:12:33.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<라이언 일병 구하기>를 보고 (스포)]]></title>
+        <id>https://extmovie.com/movietalk/92564179?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92564179?category=61633579"/>
+        <updated>2024-10-12T07:12:26.150Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6892point (73%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전란 (2024) 거칠다. 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92564070?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/92556812?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92556812?category=61633579"/>
         <updated>2024-10-08T15:16:07.549Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1391791point (91%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1391797point (91%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아주약스포) 늦게나마 조커 폴리 아 되 감상문? 감상평? ㅎㅎ]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/92492959?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92492959?category=61633579"/>
         <updated>2024-10-05T02:43:53.265Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6880point (73%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6892point (73%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[浮雲 (1955) 섬세하게 그려낸 여자의 절망적인 여정. 스포일...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92546375?category=61633579"/>
         <updated>2024-10-04T07:13:47.219Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6124point (23%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Ren_l]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 와일드 로봇 신도림 시네큐에서 보고 온 후기입니다.]]></title>
-        <id>https://extmovie.com/movietalk/92544907?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92544907?category=61633579"/>
-        <updated>2024-10-04T04:17:15.197Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54622point (48%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

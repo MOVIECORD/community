@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-13T20:14:44.338Z</updated>
+    <updated>2024-10-13T21:13:46.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4107129point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전.란 리뷰 <유스포>]]></title>
+        <id>https://extmovie.com/bestboard/92566603</id>
+        <link href="https://extmovie.com/bestboard/92566603"/>
+        <updated>2024-10-13T21:13:31.473Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20428point (6%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에드워드 버거, 차기 제이슨 본 작품 ‘더 본 딜레마‘ 감독 물망]]></title>
         <id>https://extmovie.com/bestboard/92566583</id>
         <link href="https://extmovie.com/bestboard/92566583"/>
@@ -202,6 +209,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:575849point (79%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[극한직업에서 가장 인상깊은 장면]]></title>
+        <id>https://extmovie.com/bestboard/92565963</id>
+        <link href="https://extmovie.com/bestboard/92565963"/>
+        <updated>2024-10-13T21:13:31.494Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38064point (55%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['테리파이어 3' 북미 목요시사 260만달러, 오프닝 ‘조커 2‘ ...]]></title>
         <id>https://extmovie.com/bestboard/92565663</id>
         <link href="https://extmovie.com/bestboard/92565663"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92565552"/>
         <updated>2024-10-12T12:24:31.643Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4107129point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조커 폴리아되] 관련 공감 얻고 있는 짤]]></title>
-        <id>https://extmovie.com/bestboard/92565534</id>
-        <link href="https://extmovie.com/bestboard/92565534"/>
-        <updated>2024-10-12T14:11:51.774Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:575849point (79%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[보통의 가족] 실시간 예매율 1위]]></title>
-        <id>https://extmovie.com/bestboard/92565524</id>
-        <link href="https://extmovie.com/bestboard/92565524"/>
-        <updated>2024-10-13T02:51:28.571Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:575849point (79%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

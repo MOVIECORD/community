@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-10-15T19:12:55.782Z</updated>
+    <updated>2024-10-15T20:15:24.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 몽키 - 공식 예고편 [한글 자막]]]></title>
+        <id>https://extmovie.com/movietalk/92572611?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92572611?category=21915420"/>
+        <updated>2024-10-15T20:15:13.201Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6638point (57%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 건 <슈퍼맨> 슈퍼맨과 크립토 공식 이미지 공개]]></title>
         <id>https://extmovie.com/movietalk/92572515?category=21915420</id>
@@ -240,13 +247,6 @@
         <title type="html"><![CDATA[<청설> 메인 포스터 2종 공개!]]></title>
         <id>https://extmovie.com/movietalk/92571495?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92571495?category=21915420"/>
-        <updated>2024-10-15T04:17:30.184Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4563426point (12%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메갈로폴리스' 글로벌 1천만달러, 예산 1억2천만...]]></title>
-        <id>https://extmovie.com/movietalk/92571448?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92571448?category=21915420"/>
         <updated>2024-10-15T04:17:30.184Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4563426point (12%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>

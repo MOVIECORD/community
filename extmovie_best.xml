@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-19T15:13:23.575Z</updated>
+    <updated>2024-10-19T16:16:58.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92581481"/>
         <updated>2024-10-19T15:13:07.787Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:285135point (50%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아다치 미츠루와 이토이 시게사토의 대담 - 1]]></title>
+        <id>https://extmovie.com/bestboard/92581168</id>
+        <link href="https://extmovie.com/bestboard/92581168"/>
+        <updated>2024-10-19T16:16:42.389Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21457point (43%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘전란’ 화려한 마상 검투의 비밀]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92578902"/>
         <updated>2024-10-18T15:15:08.250Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4568120point (13%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 마스터스, "아직 <드래곤볼 에볼루션>을 보지 않은 ...]]></title>
-        <id>https://extmovie.com/bestboard/92579039</id>
-        <link href="https://extmovie.com/bestboard/92579039"/>
-        <updated>2024-10-18T12:26:59.150Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1392436point (92%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-20T20:14:33.022Z</updated>
+    <updated>2024-10-20T21:12:57.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92582624"/>
         <updated>2024-10-20T14:12:57.443Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4568392point (13%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아리아나 그란데, 신시아 에리보의 <위키드> 팬 편집 포스터 및 ...]]></title>
+        <id>https://extmovie.com/bestboard/92582612</id>
+        <link href="https://extmovie.com/bestboard/92582612"/>
+        <updated>2024-10-20T21:12:41.620Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1392491point (92%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴 슈레이더, <조커: 폴리 아 되>에 대해 혹평]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92581311"/>
         <updated>2024-10-20T03:24:42.463Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13099point (6%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">폴아트레이드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[보통의 가족] 허진호 감독 "나쁜 아이를 만든건 어른의 책임"]]></title>
-        <id>https://extmovie.com/bestboard/92581274</id>
-        <link href="https://extmovie.com/bestboard/92581274"/>
-        <updated>2024-10-19T20:15:17.414Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:576955point (84%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

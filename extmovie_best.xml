@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-20T18:17:29.588Z</updated>
+    <updated>2024-10-20T19:10:58.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/92582401"/>
         <updated>2024-10-20T10:14:30.248Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:576955point (84%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['글래디에이터 2' 메이킹 영상]]></title>
+        <id>https://extmovie.com/bestboard/92582385</id>
+        <link href="https://extmovie.com/bestboard/92582385"/>
+        <updated>2024-10-20T19:10:43.280Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4108822point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 3분기 영화 Top 10 시청률이 모두 1억뷰 이상]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/92581605</id>
         <link href="https://extmovie.com/bestboard/92581605"/>
         <updated>2024-10-20T15:14:54.594Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20469point (7%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20471point (7%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[필리파 보엔스, "<반지의 제왕: 골룸 사냥>은 2부작 아니다...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92581274"/>
         <updated>2024-10-19T20:15:17.414Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:576955point (84%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<와일드 로봇> 50만 관객 돌파]]></title>
-        <id>https://extmovie.com/bestboard/92581206</id>
-        <link href="https://extmovie.com/bestboard/92581206"/>
-        <updated>2024-10-19T23:13:37.212Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:191013point (10%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

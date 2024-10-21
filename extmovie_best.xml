@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-21T18:19:18.785Z</updated>
+    <updated>2024-10-21T19:12:08.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92585178"/>
         <updated>2024-10-21T13:24:09.363Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:577084point (85%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['감각의 제국' 후지 타츠야 배우의 한국말 인사 영상]]></title>
+        <id>https://extmovie.com/bestboard/92585092</id>
+        <link href="https://extmovie.com/bestboard/92585092"/>
+        <updated>2024-10-21T19:11:53.281Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4109081point (21%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박은빈 보통의 가족 관람완료]]></title>
@@ -46,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/92584721"/>
         <updated>2024-10-21T15:15:41.877Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2416point (16%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[베테랑2] 이겼지만 졌다]]></title>
+        <id>https://extmovie.com/bestboard/92584527</id>
+        <link href="https://extmovie.com/bestboard/92584527"/>
+        <updated>2024-10-21T19:11:53.285Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:577084point (85%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베놈 라스트 댄스 간단평은 내일 오전에...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92582707"/>
         <updated>2024-10-20T18:17:13.138Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6148point (25%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 정년이 홍보일정 비하인드 컷 - 매니지먼트mmm]]></title>
-        <id>https://extmovie.com/bestboard/92582650</id>
-        <link href="https://extmovie.com/bestboard/92582650"/>
-        <updated>2024-10-20T22:13:59.660Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4569506point (13%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘글래디에이터 2’ 팝콘버킷 실물샷]]></title>
-        <id>https://extmovie.com/bestboard/92582624</id>
-        <link href="https://extmovie.com/bestboard/92582624"/>
-        <updated>2024-10-20T14:12:57.443Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4569506point (13%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

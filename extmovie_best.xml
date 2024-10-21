@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-21T19:12:08.282Z</updated>
+    <updated>2024-10-21T20:16:12.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -116,6 +116,13 @@
         <link href="https://extmovie.com/bestboard/92583714"/>
         <updated>2024-10-21T03:24:01.780Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21658point (50%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[보통의 가족] 이동진 평론가 별점평 ★3.5]]></title>
+        <id>https://extmovie.com/bestboard/92583650</id>
+        <link href="https://extmovie.com/bestboard/92583650"/>
+        <updated>2024-10-21T20:15:57.645Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:577084point (85%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송강호,박정민,장윤주 <1승> 1차 포스터 공개]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92581702"/>
         <updated>2024-10-21T16:17:46.188Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57298point (67%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 애니메이션 시장, 연 23억 달러 돌파...콘텐츠 산업 수출 30% 차지]]></title>
-        <id>https://extmovie.com/bestboard/92582707</id>
-        <link href="https://extmovie.com/bestboard/92582707"/>
-        <updated>2024-10-20T18:17:13.138Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6148point (25%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
     </entry>
 </feed>

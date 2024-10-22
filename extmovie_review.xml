@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-22T13:23:14.415Z</updated>
+    <updated>2024-10-22T14:14:14.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정욕 짧은 후기]]></title>
+        <id>https://extmovie.com/movietalk/92588508?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92588508?category=61633579"/>
+        <updated>2024-10-22T14:14:07.446Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26325point (10%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팝콘 무비의 마지막 춤 <베놈: 라스트 댄스>]]></title>
         <id>https://extmovie.com/movietalk/92586329?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92567840?category=61633579"/>
         <updated>2024-10-13T18:18:20.249Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2538point (29%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[East of Eden (1955)  제임스 딘을 기억하며. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/92567368?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92567368?category=61633579"/>
-        <updated>2024-10-13T15:13:57.787Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57592point (69%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

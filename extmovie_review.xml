@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-23T14:14:17.411Z</updated>
+    <updated>2024-10-23T15:15:08.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포) 베놈 잠실롯시 슈플렉스에서 본 간단 후기입니다.]]></title>
+        <id>https://extmovie.com/movietalk/92591600?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92591600?category=61633579"/>
+        <updated>2024-10-23T15:15:01.149Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55106point (52%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(약스포) <베놈: 라스트 댄스> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/92591552?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92591552?category=61633579"/>
         <updated>2024-10-23T13:22:26.720Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1392674point (92%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1392698point (92%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기괴한 미장센 속, 무너지는 긴장감 <롱레그스>]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/92588508?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92588508?category=61633579"/>
         <updated>2024-10-22T14:14:07.446Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26329point (10%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26342point (10%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팝콘 무비의 마지막 춤 <베놈: 라스트 댄스>]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92577359?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92577359?category=61633579"/>
         <updated>2024-10-17T15:13:58.716Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1392674point (92%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1392698point (92%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더러운 돈에 손대지 마라 봤습니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92571606?category=61633579"/>
         <updated>2024-10-15T05:15:05.490Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53315point (39%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[odd obsession (1959) 젊은 나카다이 타츠야와 이치가와 곤 ...]]></title>
-        <id>https://extmovie.com/movietalk/92571303?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92571303?category=61633579"/>
-        <updated>2024-10-15T04:17:34.421Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57643point (69%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

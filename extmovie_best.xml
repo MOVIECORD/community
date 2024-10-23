@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-23T19:11:52.342Z</updated>
+    <updated>2024-10-23T20:18:57.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리암 니슨, 액션 영화 은퇴 계획: "72살… 더 이상 관객을 속일 수...]]></title>
+        <id>https://extmovie.com/bestboard/92591673</id>
+        <link href="https://extmovie.com/bestboard/92591673"/>
+        <updated>2024-10-23T20:18:41.880Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1392704point (92%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨네21 이번주 별점평 모음]]></title>
         <id>https://extmovie.com/bestboard/92591455</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92589240"/>
         <updated>2024-10-23T07:15:34.914Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:11724point (40%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘 패닝, '프레데터 배드랜즈' 주연 캐스팅]]></title>
-        <id>https://extmovie.com/bestboard/92589234</id>
-        <link href="https://extmovie.com/bestboard/92589234"/>
-        <updated>2024-10-23T12:27:58.959Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4572609point (14%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

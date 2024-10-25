@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-25T14:14:01.958Z</updated>
+    <updated>2024-10-25T15:15:08.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<로봇 드림>을 보고 나서 (스포 O, 추천) - 파블로 베...]]></title>
+        <id>https://extmovie.com/movietalk/92596962?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92596962?category=61633579"/>
+        <updated>2024-10-25T15:15:00.892Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17818point (6%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베놈3 짧은생각.]]></title>
         <id>https://extmovie.com/movietalk/92596512?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/92593913?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92593913?category=61633579"/>
         <updated>2024-10-24T12:27:55.133Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17802point (6%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17818point (6%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<롱레그스> 일반 시사 단평입니다!]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92591600?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92591600?category=61633579"/>
         <updated>2024-10-23T15:15:01.149Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55407point (54%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55409point (54%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(약스포) <베놈: 라스트 댄스> 봤어요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92574727?category=61633579"/>
         <updated>2024-10-17T02:47:22.311Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57765point (70%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마일 2 보고 나왔습니다 노스포]]></title>
-        <id>https://extmovie.com/movietalk/92575269?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92575269?category=61633579"/>
-        <updated>2024-10-16T16:16:14.414Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4067point (70%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">침대위의마술사]]></content>
     </entry>
 </feed>

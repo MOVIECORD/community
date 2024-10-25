@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-25T16:18:28.867Z</updated>
+    <updated>2024-10-25T17:14:03.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[’글래디에이터 2‘ 북미 최초 시사 반응 공개]]></title>
+        <id>https://extmovie.com/bestboard/92596751</id>
+        <link href="https://extmovie.com/bestboard/92596751"/>
+        <updated>2024-10-25T17:13:47.946Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4575517point (15%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스) 지옥 시즌2 - 초간단 후기]]></title>
         <id>https://extmovie.com/bestboard/92596651</id>
@@ -209,6 +216,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4110371point (22%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[송지오, '정년이' 합류(스포주의)]]></title>
+        <id>https://extmovie.com/bestboard/92594105</id>
+        <link href="https://extmovie.com/bestboard/92594105"/>
+        <updated>2024-10-25T17:13:47.989Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9543point (28%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pissx]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김태리 ‘정년이’ 데뷔 스포일러 파티 / 프라다 뷰티 런칭 파티]]></title>
         <id>https://extmovie.com/bestboard/92594012</id>
         <link href="https://extmovie.com/bestboard/92594012"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92593913"/>
         <updated>2024-10-25T02:49:03.061Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17818point (6%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[란마 1/2] 4화 선행컷 & 예고편]]></title>
-        <id>https://extmovie.com/bestboard/92593903</id>
-        <link href="https://extmovie.com/bestboard/92593903"/>
-        <updated>2024-10-25T01:05:34.599Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22280point (72%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지민 덕질샷들]]></title>
-        <id>https://extmovie.com/bestboard/92593687</id>
-        <link href="https://extmovie.com/bestboard/92593687"/>
-        <updated>2024-10-24T22:13:31.852Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4575517point (15%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

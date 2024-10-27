@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-27T19:12:02.681Z</updated>
+    <updated>2024-10-27T20:15:19.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이동진 평론가 이번 주 개봉작 평점 업데이트 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92600280</id>
+        <link href="https://extmovie.com/bestboard/92600280"/>
+        <updated>2024-10-27T20:15:04.234Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22820point (92%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희 <폭설> 이동진 1.5 혹평이네요 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/92600249</id>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/92598085"/>
         <updated>2024-10-26T17:12:33.464Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1393158point (93%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cgv 아트하우스 20주년기획전 무뢰한 재개봉 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92598081</id>
-        <link href="https://extmovie.com/bestboard/92598081"/>
-        <updated>2024-10-27T03:23:25.509Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9708point (37%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pissx]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 10월 27일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

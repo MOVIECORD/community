@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-27T10:14:26.881Z</updated>
+    <updated>2024-10-27T11:10:59.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92599544"/>
         <updated>2024-10-27T09:14:13.655Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1393104point (93%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차은우 부산~🏝️]]></title>
+        <id>https://extmovie.com/bestboard/92599406</id>
+        <link href="https://extmovie.com/bestboard/92599406"/>
+        <updated>2024-10-27T11:10:43.816Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/46.gif" alt="[레벨:46]" title="포인트:395692point (71%), 레벨:46/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 드라마 '노틸러스' 로튼토마토 첫 리뷰]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92597649</id>
         <link href="https://extmovie.com/bestboard/92597649"/>
         <updated>2024-10-26T12:25:26.880Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4576485point (15%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니콜라스 케이지 ‘스파이더맨 느와르’ 시리즈 실사판 수트 첫모습]]></title>
-        <id>https://extmovie.com/bestboard/92597628</id>
-        <link href="https://extmovie.com/bestboard/92597628"/>
-        <updated>2024-10-26T12:25:26.881Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4576485point (15%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

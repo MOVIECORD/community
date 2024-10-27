@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-27T16:17:07.607Z</updated>
+    <updated>2024-10-27T17:14:47.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://extmovie.com/bestboard/92599952</id>
         <link href="https://extmovie.com/bestboard/92599952"/>
         <updated>2024-10-27T15:13:23.268Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:426341point (31%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:426343point (31%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개인적으로 11월말 12월에 이제 이 영화가 생각나네요]]></title>
@@ -136,7 +136,7 @@
         <id>https://extmovie.com/bestboard/92598525</id>
         <link href="https://extmovie.com/bestboard/92598525"/>
         <updated>2024-10-27T04:16:56.430Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57962point (71%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:57964point (71%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 애니 신작 근황]]></title>
@@ -179,6 +179,13 @@
         <link href="https://extmovie.com/bestboard/92598268"/>
         <updated>2024-10-27T01:10:16.279Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22820point (92%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[약스포]전, 란 간략리뷰]]></title>
+        <id>https://extmovie.com/bestboard/92598291</id>
+        <link href="https://extmovie.com/bestboard/92598291"/>
+        <updated>2024-10-27T17:14:31.154Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2107point (71%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GreenLantern]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['지옥' 시즌 2 액션 하이라이트 장면]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92598064"/>
         <updated>2024-10-26T16:16:06.538Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9602point (31%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">안소의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파파라치한테서 여친 젠다야 지키는 톰 홀랜드]]></title>
-        <id>https://extmovie.com/bestboard/92597978</id>
-        <link href="https://extmovie.com/bestboard/92597978"/>
-        <updated>2024-10-26T12:25:26.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:577670point (88%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-30T20:16:04.306Z</updated>
+    <updated>2024-10-30T21:13:43.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우씨왕후] 올해 최악의 드라마 불명예…[7인의 부활] 2위]]></title>
+        <id>https://extmovie.com/bestboard/92607541</id>
+        <link href="https://extmovie.com/bestboard/92607541"/>
+        <updated>2024-10-30T21:13:27.531Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:578055point (90%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개인적으로 리메이크 바라는 애니]]></title>
         <id>https://extmovie.com/bestboard/92607026</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92603260"/>
         <updated>2024-10-29T09:15:38.706Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4580735point (16%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송능한 감독 [세기말] 4K 리마스터 유튜브 공개]]></title>
-        <id>https://extmovie.com/bestboard/92603225</id>
-        <link href="https://extmovie.com/bestboard/92603225"/>
-        <updated>2024-10-29T07:15:14.967Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:578055point (90%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

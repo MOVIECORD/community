@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-10-30T04:18:21.366Z</updated>
+    <updated>2024-10-30T05:15:34.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아마존활명수] 진짜 활명수가 필요한 영화]]></title>
+        <id>https://extmovie.com/movietalk/92605986?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92605986?category=61633579"/>
+        <updated>2024-10-30T05:15:26.479Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13244point (12%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<킹핀>을 보고 나서 (스포 X) - 우디 해럴슨 주연 작품]]></title>
         <id>https://extmovie.com/movietalk/92605649?category=61633579</id>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/92598201?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92598201?category=61633579"/>
         <updated>2024-10-26T13:18:59.106Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13232point (12%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13244point (12%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<키타로 탄생 게게게의 수수께끼: 트루 에디션> 봤어요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92585116?category=61633579"/>
         <updated>2024-10-22T01:06:14.380Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58051point (72%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약스포)스마일2 후기]]></title>
-        <id>https://extmovie.com/movietalk/92585396?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92585396?category=61633579"/>
-        <updated>2024-10-21T13:24:17.037Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:20point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">피크닉귀신]]></content>
     </entry>
 </feed>

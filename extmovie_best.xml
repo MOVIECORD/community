@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-10-31T17:14:20.629Z</updated>
+    <updated>2024-10-31T18:19:22.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포) 헤어질결심 엔딩 콘티]]></title>
+        <id>https://extmovie.com/bestboard/92609716</id>
+        <link href="https://extmovie.com/bestboard/92609716"/>
+        <updated>2024-10-31T18:19:06.676Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43006point (85%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">장은하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한강 라면 먹는 혼다 츠바사]]></title>
         <id>https://extmovie.com/bestboard/92609627</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92605915"/>
         <updated>2024-10-30T15:15:32.998Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1393779point (93%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 '원더맨' 첫 티저]]></title>
-        <id>https://extmovie.com/bestboard/92605690</id>
-        <link href="https://extmovie.com/bestboard/92605690"/>
-        <updated>2024-10-30T05:15:17.834Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4582072point (16%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

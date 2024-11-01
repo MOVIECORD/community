@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-01T19:12:31.831Z</updated>
+    <updated>2024-11-01T20:15:51.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<플래시> 슈퍼걸 역 사샤 카예, 단 한 편으로 교체된 데 대해 “...]]></title>
+        <id>https://extmovie.com/bestboard/92612489</id>
+        <link href="https://extmovie.com/bestboard/92612489"/>
+        <updated>2024-11-01T20:15:37.226Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1393878point (93%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임2 예고편 이병헌 ㄷㄷ]]></title>
         <id>https://extmovie.com/bestboard/92612273</id>
@@ -122,13 +129,20 @@
         <id>https://extmovie.com/bestboard/92606721</id>
         <link href="https://extmovie.com/bestboard/92606721"/>
         <updated>2024-11-01T15:14:43.497Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55866point (57%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55868point (57%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정재 인스타 현재]]></title>
         <id>https://extmovie.com/bestboard/92610434</id>
         <link href="https://extmovie.com/bestboard/92610434"/>
         <updated>2024-11-01T02:57:12.898Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4584006point (16%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(루머) 30세 이하 최고 수입 여배우 베스트 6]]></title>
+        <id>https://extmovie.com/bestboard/92610153</id>
+        <link href="https://extmovie.com/bestboard/92610153"/>
+        <updated>2024-11-01T20:15:37.251Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4584006point (16%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92608999"/>
         <updated>2024-10-31T11:12:20.417Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:578443point (92%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드웨인 존슨 & 크리스 에반스 주연 <레드 원>, 실망스러운 ...]]></title>
-        <id>https://extmovie.com/bestboard/92608793</id>
-        <link href="https://extmovie.com/bestboard/92608793"/>
-        <updated>2024-10-31T11:12:20.417Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1393878point (93%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(강스포) '롱레그스' 미스터리 해설]]></title>
-        <id>https://extmovie.com/bestboard/92608770</id>
-        <link href="https://extmovie.com/bestboard/92608770"/>
-        <updated>2024-10-31T13:22:30.605Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4112157point (22%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

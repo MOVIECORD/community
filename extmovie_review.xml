@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-02T06:19:51.098Z</updated>
+    <updated>2024-11-02T07:14:11.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달의 차고 기움 봤습니다]]></title>
+        <id>https://extmovie.com/movietalk/92613544?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92613544?category=61633579"/>
+        <updated>2024-11-02T07:14:04.239Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:65976point (33%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<플라이트 93>을 보고 나서 (스포 O, 추천) - 폴 그린...]]></title>
         <id>https://extmovie.com/movietalk/92613266?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/92613117?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92613117?category=61633579"/>
         <updated>2024-11-02T02:44:04.128Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:182point (45%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">벤쟈민]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:184point (46%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">벤쟈민]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<마리우폴에서의 20일> 괜찮네요.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92596962?category=61633579"/>
         <updated>2024-10-25T15:15:00.892Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17900point (9%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베놈3 짧은생각.]]></title>
-        <id>https://extmovie.com/movietalk/92596512?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92596512?category=61633579"/>
-        <updated>2024-10-25T11:12:22.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55190point (52%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마크월버그]]></content>
     </entry>
 </feed>

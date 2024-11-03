@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-03T17:12:22.163Z</updated>
+    <updated>2024-11-03T18:18:32.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -181,6 +181,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41650point (50%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<베놈:라스트댄스> 중국에서 1천만 관객 돌파]]></title>
+        <id>https://extmovie.com/bestboard/92613158</id>
+        <link href="https://extmovie.com/bestboard/92613158"/>
+        <updated>2024-11-03T18:18:16.518Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:167634point (25%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[로버트 저메키스, <누가 로저 래빗을 모함했나> 속편이 “절대” ...]]></title>
         <id>https://extmovie.com/bestboard/92613143</id>
         <link href="https://extmovie.com/bestboard/92613143"/>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92612508</id>
         <link href="https://extmovie.com/bestboard/92612508"/>
         <updated>2024-11-02T01:04:26.950Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1394065point (94%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<플래시> 슈퍼걸 역 사샤 카예, 단 한 편으로 교체된 데 대해 “...]]></title>
-        <id>https://extmovie.com/bestboard/92612489</id>
-        <link href="https://extmovie.com/bestboard/92612489"/>
-        <updated>2024-11-01T20:15:37.226Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1394065point (94%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

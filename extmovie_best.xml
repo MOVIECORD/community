@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-04T17:13:40.386Z</updated>
+    <updated>2024-11-04T18:19:13.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안녕하세요. <동급생> 제작팀입니다.]]></title>
+        <id>https://extmovie.com/bestboard/92617617</id>
+        <link href="https://extmovie.com/bestboard/92617617"/>
+        <updated>2024-11-04T18:18:58.171Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:28point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">&lt;동급생&gt;제작팀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['레드 원' 호평과 악평이 뒤섞인 해외 반응들]]></title>
         <id>https://extmovie.com/bestboard/92617529</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92614803"/>
         <updated>2024-11-03T17:12:06.577Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3275point (2%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">MaxVonSydow]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘죽어야 사는 여자‘ 캐릭터 코스튬 아델과 만난 메릴 스트립]]></title>
-        <id>https://extmovie.com/bestboard/92614575</id>
-        <link href="https://extmovie.com/bestboard/92614575"/>
-        <updated>2024-11-03T15:13:50.527Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4586123point (17%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

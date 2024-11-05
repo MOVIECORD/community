@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-05T17:14:23.560Z</updated>
+    <updated>2024-11-05T18:18:44.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://extmovie.com/bestboard/92620302"/>
         <updated>2024-11-05T16:18:11.691Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/55.gif" alt="[레벨:55]" title="포인트:578920point (94%), 레벨:55/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 아마존활명수 놀라운사실 한가지]]></title>
+        <id>https://extmovie.com/bestboard/92620209</id>
+        <link href="https://extmovie.com/bestboard/92620209"/>
+        <updated>2024-11-05T18:18:27.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42816point (80%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘영화 재미가 없네요]]></title>
+        <id>https://extmovie.com/bestboard/92620197</id>
+        <link href="https://extmovie.com/bestboard/92620197"/>
+        <updated>2024-11-05T18:18:27.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5625point (90%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">cwolff]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박신양님 복귀작 <사흘> 후기 모아봤습니다]]></title>
@@ -87,7 +101,7 @@
         <id>https://extmovie.com/bestboard/92618728</id>
         <link href="https://extmovie.com/bestboard/92618728"/>
         <updated>2024-11-05T09:15:03.101Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2863point (61%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2865point (62%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[톰 행크스, “이제는 스토리가 중요해… 관객들은 ‘이 영화의 이야기가 ...]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/92616608</id>
         <link href="https://extmovie.com/bestboard/92616608"/>
         <updated>2024-11-05T04:17:16.770Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4587247point (17%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정년이 득음신 소름끼치네요(스포주의)]]></title>
-        <id>https://extmovie.com/bestboard/92616554</id>
-        <link href="https://extmovie.com/bestboard/92616554"/>
-        <updated>2024-11-04T09:17:17.961Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9802point (42%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Pissx]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할로윈때 흔한 해외 거리 풍경들]]></title>
-        <id>https://extmovie.com/bestboard/92616366</id>
-        <link href="https://extmovie.com/bestboard/92616366"/>
-        <updated>2024-11-04T11:13:59.455Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4587247point (17%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

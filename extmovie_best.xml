@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-06T15:14:58.558Z</updated>
+    <updated>2024-11-06T16:19:06.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모니카 벨루치가 24년만에 공개한 미공개 보그화보 (ㅎㅂ) / 보그차이...]]></title>
+        <id>https://extmovie.com/bestboard/92622991</id>
+        <link href="https://extmovie.com/bestboard/92622991"/>
+        <updated>2024-11-06T16:18:51.749Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4588435point (17%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청설 감독 미쳤음.!!]]></title>
         <id>https://extmovie.com/bestboard/92622940</id>
         <link href="https://extmovie.com/bestboard/92622940"/>
         <updated>2024-11-06T15:14:44.150Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3095point (85%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hh9910167]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드원. 출연진 출연료 보다는 cg에 힘 쓰야 했는데]]></title>
+        <id>https://extmovie.com/bestboard/92622890</id>
+        <link href="https://extmovie.com/bestboard/92622890"/>
+        <updated>2024-11-06T16:18:51.756Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:426499point (32%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<아노라> 정말 좋네요.]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92619082"/>
         <updated>2024-11-05T14:13:32.547Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4588435point (17%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['살아보니 외모는 중요치 않다'고 말하는 연예인]]></title>
-        <id>https://extmovie.com/bestboard/92619004</id>
-        <link href="https://extmovie.com/bestboard/92619004"/>
-        <updated>2024-11-05T07:13:50.251Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4588435point (17%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만화가 우메즈 카즈오 별세… 향년 88세]]></title>
-        <id>https://extmovie.com/bestboard/92618768</id>
-        <link href="https://extmovie.com/bestboard/92618768"/>
-        <updated>2024-11-05T07:13:50.252Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22957point (97%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-06T17:13:42.515Z</updated>
+    <updated>2024-11-06T18:19:25.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92622876"/>
         <updated>2024-11-06T15:14:44.150Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1876point (26%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">타쿠상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<글래디에이터 Ⅱ> 국내 반응 최초 공개]]></title>
+        <id>https://extmovie.com/bestboard/92622865</id>
+        <link href="https://extmovie.com/bestboard/92622865"/>
+        <updated>2024-11-06T18:19:09.855Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:194072point (40%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 청설 너무 좋았어요!!]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/bestboard/92621980</id>
         <link href="https://extmovie.com/bestboard/92621980"/>
         <updated>2024-11-06T08:19:43.950Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3035point (79%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:3037point (79%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가슴 아픈 영화 장면들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92619352"/>
         <updated>2024-11-05T10:16:23.416Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1404062point (4%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대니얼 크레이그, 넷플릭스가 '나이브즈 아웃 3' 풀 극장 개...]]></title>
-        <id>https://extmovie.com/bestboard/92619082</id>
-        <link href="https://extmovie.com/bestboard/92619082"/>
-        <updated>2024-11-05T14:13:32.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4588443point (17%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-11-08T18:18:37.601Z</updated>
+    <updated>2024-11-08T19:11:22.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼생크탈출, 황금가지 X 씨네큐에서 특별 상영]]></title>
+        <id>https://extmovie.com/movietalk/92627290?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92627290?category=21915420"/>
+        <updated>2024-11-08T19:11:11.645Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8449point (67%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">행복의레시피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바니맨] 이탈리아에서 제작중인 슈퍼 히어로물]]></title>
         <id>https://extmovie.com/movietalk/92627238?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92625878?category=21915420"/>
         <updated>2024-11-08T02:44:41.828Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1394514point (94%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브루스 윌리스, '존 윅' 초기 각본에서 강아지 암...]]></title>
-        <id>https://extmovie.com/movietalk/92625860?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92625860?category=21915420"/>
-        <updated>2024-11-08T02:44:41.829Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4590420point (18%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

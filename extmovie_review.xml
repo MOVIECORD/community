@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-09T12:24:18.199Z</updated>
+    <updated>2024-11-09T13:16:49.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월이 되면 그녀는 후기]]></title>
+        <id>https://extmovie.com/movietalk/92628468?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92628468?category=61633579"/>
+        <updated>2024-11-09T13:16:42.270Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66180point (37%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[약스포][리뷰] 레드 원 - 해마다 돌아오는 크리스마스 구하기]]></title>
         <id>https://extmovie.com/movietalk/92626766?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92622814?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92622814?category=61633579"/>
         <updated>2024-11-06T11:12:37.067Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66167point (37%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66180point (37%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<스타렛>을 보고 나서 (스포 O) - 션 베이커 감독 작품]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92613544?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92613544?category=61633579"/>
         <updated>2024-11-02T07:14:04.239Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66167point (37%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66180point (37%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<플라이트 93>을 보고 나서 (스포 O, 추천) - 폴 그린...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92605649?category=61633579"/>
         <updated>2024-10-30T02:49:27.720Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17967point (12%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[linsoumis(1964) 젊은 알랑 들롱의 예리한 연기. 스포일러 ...]]></title>
-        <id>https://extmovie.com/movietalk/92378695?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92378695?category=61633579"/>
-        <updated>2024-10-29T07:15:23.492Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58609point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

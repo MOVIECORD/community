@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-10T16:15:12.701Z</updated>
+    <updated>2024-11-10T17:12:23.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/92629159"/>
         <updated>2024-11-10T08:16:04.738Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:48712point (7%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">N]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<썬더볼츠*> 캐릭터 예고편 공개]]></title>
+        <id>https://extmovie.com/bestboard/92629078</id>
+        <link href="https://extmovie.com/bestboard/92629078"/>
+        <updated>2024-11-10T17:12:09.397Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:194600point (46%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로운 & 디카프리오]]></title>
@@ -80,6 +87,13 @@
         <id>https://extmovie.com/bestboard/92628865</id>
         <link href="https://extmovie.com/bestboard/92628865"/>
         <updated>2024-11-10T05:12:57.366Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4591863point (18%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘웡카 2‘ 공식 제작 진행중]]></title>
+        <id>https://extmovie.com/bestboard/92628861</id>
+        <link href="https://extmovie.com/bestboard/92628861"/>
+        <updated>2024-11-10T17:12:09.410Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4591863point (18%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -178,7 +192,7 @@
         <id>https://extmovie.com/bestboard/92628109</id>
         <link href="https://extmovie.com/bestboard/92628109"/>
         <updated>2024-11-09T14:12:46.023Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42305point (67%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42307point (67%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[46살인데도 국내 일본 미국 다 돌아다니면서 좋은감독픽 계속 받는 여...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92627077"/>
         <updated>2024-11-09T05:13:26.174Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23279point (8%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노윤서가 올린 ‘청설’ 비하인드]]></title>
-        <id>https://extmovie.com/bestboard/92627222</id>
-        <link href="https://extmovie.com/bestboard/92627222"/>
-        <updated>2024-11-09T13:16:33.946Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4591863point (18%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블, 니콜라스 케이지 ‘고스트 라이더‘ 복귀 언급중 - D23]]></title>
-        <id>https://extmovie.com/bestboard/92627194</id>
-        <link href="https://extmovie.com/bestboard/92627194"/>
-        <updated>2024-11-10T08:16:04.767Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4591863point (18%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

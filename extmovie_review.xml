@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-13T19:12:18.034Z</updated>
+    <updated>2024-11-13T20:15:04.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4월이 되면 그녀는] 공허한 로맨스]]></title>
+        <id>https://extmovie.com/movietalk/92637065?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92637065?category=61633579"/>
+        <updated>2024-11-13T20:14:57.025Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95632point (82%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<4월이 되면 그녀는>을 보고 나서 (스포 O) - 나가사...]]></title>
         <id>https://extmovie.com/movietalk/92637015?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92615544?category=61633579"/>
         <updated>2024-11-03T14:14:02.758Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18011point (14%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[River's edge (1986) 걸작 블랙코메디. 젊은 키아누 리...]]></title>
-        <id>https://extmovie.com/movietalk/92615078?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92615078?category=61633579"/>
-        <updated>2024-11-03T10:16:39.444Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58856point (78%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

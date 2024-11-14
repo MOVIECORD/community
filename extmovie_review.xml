@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-14T15:15:42.744Z</updated>
+    <updated>2024-11-14T16:18:12.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<청설> 짧은 리뷰(스포 O)_ 사랑이야기?]]></title>
+        <id>https://extmovie.com/movietalk/92639400?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92639400?category=61633579"/>
+        <updated>2024-11-14T16:18:05.282Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:121point (30%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">싯영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<위키드> 간단 후기]]></title>
         <id>https://extmovie.com/movietalk/92638531?category=61633579</id>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/movietalk/92631124?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92631124?category=61633579"/>
         <updated>2024-11-11T07:14:38.900Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1692point (90%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1695point (91%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시네코드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팬을 위한 마지막 여운 <킹덤4: 대장군의 귀환>]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92604371?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92604371?category=61633579"/>
         <updated>2024-11-04T14:14:26.374Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58898point (78%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아라마기 (2005) 장기자랑. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/92614876?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92614876?category=61633579"/>
-        <updated>2024-11-04T14:14:26.383Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58898point (78%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

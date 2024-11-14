@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-14T19:11:53.838Z</updated>
+    <updated>2024-11-14T20:16:22.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4596306point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(루머) '헤라클레스' 실사판 타이틀 '하데스']]></title>
+        <id>https://extmovie.com/bestboard/92637564</id>
+        <link href="https://extmovie.com/bestboard/92637564"/>
+        <updated>2024-11-14T20:16:07.966Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4596306point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[더 락이 영화 제작자로서 재능이 1도 없다는 반증]]></title>
         <id>https://extmovie.com/bestboard/92637423</id>
         <link href="https://extmovie.com/bestboard/92637423"/>
@@ -164,6 +171,13 @@
         <id>https://extmovie.com/bestboard/92637078</id>
         <link href="https://extmovie.com/bestboard/92637078"/>
         <updated>2024-11-14T04:17:55.098Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4596306point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고윤정 인스타]]></title>
+        <id>https://extmovie.com/bestboard/92636947</id>
+        <link href="https://extmovie.com/bestboard/92636947"/>
+        <updated>2024-11-14T20:16:07.974Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4596306point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92635250"/>
         <updated>2024-11-13T12:27:52.749Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4596306point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글래디2 콜로세움 해상전은 CG인데도 역대급이네요..ㅎㅎ]]></title>
-        <id>https://extmovie.com/bestboard/92636394</id>
-        <link href="https://extmovie.com/bestboard/92636394"/>
-        <updated>2024-11-13T13:21:23.725Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61557point (96%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오리지널 티켓] No.126 예고]]></title>
-        <id>https://extmovie.com/bestboard/92636235</id>
-        <link href="https://extmovie.com/bestboard/92636235"/>
-        <updated>2024-11-13T15:14:48.993Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7688point (23%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비티켓]]></content>
     </entry>
 </feed>

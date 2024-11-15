@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-15T18:20:01.178Z</updated>
+    <updated>2024-11-15T19:12:49.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포x) 히든페이스 보고 온 짧은 결론]]></title>
+        <id>https://extmovie.com/bestboard/92641232</id>
+        <link href="https://extmovie.com/bestboard/92641232"/>
+        <updated>2024-11-15T19:12:34.722Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56871point (64%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히든 페이스 어마무시 수위 엄청 세요]]></title>
         <id>https://extmovie.com/bestboard/92641164</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92637925"/>
         <updated>2024-11-14T06:20:20.507Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1619point (77%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">exttttreme]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.K. 롤링, 성소수자 혐오하지만..."해리포터 드라마 캐스팅엔 영...]]></title>
-        <id>https://extmovie.com/bestboard/92637923</id>
-        <link href="https://extmovie.com/bestboard/92637923"/>
-        <updated>2024-11-14T09:16:12.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:580239point (1%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

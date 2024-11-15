@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-15T20:15:54.471Z</updated>
+    <updated>2024-11-15T21:13:24.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한 채]  어느 가족]]></title>
+        <id>https://extmovie.com/movietalk/92641457?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92641457?category=61633579"/>
+        <updated>2024-11-15T21:13:16.478Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95794point (82%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4월이 되면 그녀는] 후기 (스포)]]></title>
         <id>https://extmovie.com/movietalk/92641432?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/92637065?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92637065?category=61633579"/>
         <updated>2024-11-13T20:14:57.025Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95784point (82%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95794point (82%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<4월이 되면 그녀는>을 보고 나서 (스포 O) - 나가사...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92622260?category=61633579"/>
         <updated>2024-11-06T07:14:17.370Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18037point (15%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<룩 백> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/92620283?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92620283?category=61633579"/>
-        <updated>2024-11-05T12:26:12.206Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395204point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

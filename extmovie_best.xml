@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-16T17:12:48.439Z</updated>
+    <updated>2024-11-16T18:17:54.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -111,6 +111,20 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:580346point (1%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[위키드 1주차 굿즈 총정리]]></title>
+        <id>https://extmovie.com/bestboard/92641599</id>
+        <link href="https://extmovie.com/bestboard/92641599"/>
+        <updated>2024-11-16T18:17:39.012Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26743point (23%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kmovielove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년 아카데미 시상식 사회자는 코난 오브라이언]]></title>
+        <id>https://extmovie.com/bestboard/92641592</id>
+        <link href="https://extmovie.com/bestboard/92641592"/>
+        <updated>2024-11-16T18:17:39.013Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:580346point (1%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[드래곤 길들이기] 실사 & 원작 비교]]></title>
         <id>https://extmovie.com/bestboard/92641583</id>
         <link href="https://extmovie.com/bestboard/92641583"/>
@@ -143,7 +157,7 @@
         <id>https://extmovie.com/bestboard/92641232</id>
         <link href="https://extmovie.com/bestboard/92641232"/>
         <updated>2024-11-15T19:12:34.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56875point (64%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56876point (64%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다음주 개봉 '블링크 트와이스' 로튼 리뷰 번역]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92640283"/>
         <updated>2024-11-15T10:15:43.716Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4597854point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히든 페이스 15세일수도 있겠다 라는 생각이 완전 빗나갔네요]]></title>
-        <id>https://extmovie.com/bestboard/92640282</id>
-        <link href="https://extmovie.com/bestboard/92640282"/>
-        <updated>2024-11-15T10:15:43.724Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9828point (43%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">나이스가이83]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히든페이스 박지현 베드신 수위 쎈가요?]]></title>
-        <id>https://extmovie.com/bestboard/92640238</id>
-        <link href="https://extmovie.com/bestboard/92640238"/>
-        <updated>2024-11-15T06:23:19.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:24point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">상우암]]></content>
     </entry>
 </feed>

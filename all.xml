@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-16T18:17:54.510Z</updated>
+    <updated>2024-11-16T19:11:34.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[박지현 배우 의외네요. (익스트림무비 ─ 익무힛갤)]]></title>
@@ -156,7 +156,7 @@
         <id>https://extmovie.com/bestboard/92641232</id>
         <link href="https://extmovie.com/bestboard/92641232"/>
         <updated>2024-11-15T19:12:34.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56876point (64%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56913point (64%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다음주 개봉 '블링크 트와이스' 로튼 리뷰 번역 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4115759point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[노스포) 영화 히든페이스 코메박에서 보고 온 리뷰입니다. (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/92642844?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92642844?category=61633579"/>
+        <updated>2024-11-16T19:11:27.016Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:56913point (64%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<아노라> 리뷰 (스포) _ 순간의 희망 (익스트림무비 ─ 영화리뷰)]]></title>
         <id>https://extmovie.com/movietalk/92642942?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92642942?category=61633579"/>
@@ -731,12 +738,5 @@
         <link href="https://extmovie.com/movietalk/92624965?category=61633579"/>
         <updated>2024-11-07T11:12:16.318Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:194476point (44%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">천둥의신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(*약스포) <레드 원> 결국 보긴 했는데.. (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/92623044?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92623044?category=61633579"/>
-        <updated>2024-11-06T12:27:40.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395296point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

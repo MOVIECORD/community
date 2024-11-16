@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-16T20:14:59.280Z</updated>
+    <updated>2024-11-16T21:13:14.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -31,6 +31,13 @@
         <id>https://extmovie.com/bestboard/92642419</id>
         <link href="https://extmovie.com/bestboard/92642419"/>
         <updated>2024-11-16T12:25:53.487Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4115759point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본판 '타인은 지옥이다' 예고편과 본편 영상]]></title>
+        <id>https://extmovie.com/bestboard/92642369</id>
+        <link href="https://extmovie.com/bestboard/92642369"/>
+        <updated>2024-11-16T21:13:00.784Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4115759point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92640312"/>
         <updated>2024-11-15T12:28:24.288Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4597854point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사흘] 보자마자 초단평]]></title>
-        <id>https://extmovie.com/bestboard/92640305</id>
-        <link href="https://extmovie.com/bestboard/92640305"/>
-        <updated>2024-11-15T13:23:17.459Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:95807point (82%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
     </entry>
 </feed>

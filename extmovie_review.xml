@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-16T16:18:06.784Z</updated>
+    <updated>2024-11-16T17:12:48.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<아노라> 리뷰 (스포) _ 순간의 희망]]></title>
+        <id>https://extmovie.com/movietalk/92642942?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92642942?category=61633579"/>
+        <updated>2024-11-16T17:12:36.948Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:140point (35%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">싯영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<글라디에이터 2> 를 보았습니다.]]></title>
         <id>https://extmovie.com/movietalk/92642809?category=61633579</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/92641432?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92641432?category=61633579"/>
         <updated>2024-11-15T16:18:30.825Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:12point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라이휴]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:14point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라이휴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<새벽의 모든>을 보고 나서 (스포 X) - 미야케 쇼 감...]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/92639400?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92639400?category=61633579"/>
         <updated>2024-11-14T16:18:05.282Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:128point (32%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">싯영화]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:140point (35%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">싯영화]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<위키드> 간단 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92623044?category=61633579"/>
         <updated>2024-11-06T12:27:40.726Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395296point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드원. 출연진 출연료 보다는 cg에 힘 쓰야 했는데]]></title>
-        <id>https://extmovie.com/movietalk/92622890?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92622890?category=61633579"/>
-        <updated>2024-11-06T12:27:40.765Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:426672point (33%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
     </entry>
 </feed>

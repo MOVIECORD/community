@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-16T16:18:06.781Z</updated>
+    <updated>2024-11-16T17:12:48.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지현 배우 의외네요.]]></title>
+        <id>https://extmovie.com/bestboard/92642843</id>
+        <link href="https://extmovie.com/bestboard/92642843"/>
+        <updated>2024-11-16T17:12:28.745Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5770point (0%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">cwolff]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 사흘 - 평점이 안좋은이유는 다 이유가 있습니다]]></title>
+        <id>https://extmovie.com/bestboard/92642654</id>
+        <link href="https://extmovie.com/bestboard/92642654"/>
+        <updated>2024-11-16T17:12:28.746Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66527point (43%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지원 배우 최근 몇년간 드라마보니 ㄷㄷ]]></title>
         <id>https://extmovie.com/bestboard/92642493</id>
@@ -80,6 +94,13 @@
         <id>https://extmovie.com/bestboard/92641881</id>
         <link href="https://extmovie.com/bestboard/92641881"/>
         <updated>2024-11-16T08:17:24.407Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4597854point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARVEL ZOMBIES’의 주요 캐스트 공식 발표]]></title>
+        <id>https://extmovie.com/bestboard/92641841</id>
+        <link href="https://extmovie.com/bestboard/92641841"/>
+        <updated>2024-11-16T17:12:28.764Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4597854point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/92640238"/>
         <updated>2024-11-15T06:23:19.033Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:24point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">상우암]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사흘  준수합니다...ㅎㅎ]]></title>
-        <id>https://extmovie.com/bestboard/92640231</id>
-        <link href="https://extmovie.com/bestboard/92640231"/>
-        <updated>2024-11-15T12:28:24.288Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61677point (97%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사흘] CGV 골든 에그 계란 깨짐 - 68%]]></title>
-        <id>https://extmovie.com/bestboard/92640070</id>
-        <link href="https://extmovie.com/bestboard/92640070"/>
-        <updated>2024-11-16T04:17:15.503Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:580346point (1%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서극의 <사조영웅전> 내년 설날(1월 29일) 중국에서 극장 개봉(+...]]></title>
-        <id>https://extmovie.com/bestboard/92640030</id>
-        <link href="https://extmovie.com/bestboard/92640030"/>
-        <updated>2024-11-15T10:15:43.724Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:167748point (25%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
 </feed>

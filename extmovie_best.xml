@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-17T03:31:59.608Z</updated>
+    <updated>2024-11-17T04:17:20.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://extmovie.com/bestboard/92642654</id>
         <link href="https://extmovie.com/bestboard/92642654"/>
         <updated>2024-11-16T17:12:28.746Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66530point (43%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66532point (43%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김지원 배우 최근 몇년간 드라마보니 ㄷㄷ]]></title>
@@ -95,6 +95,13 @@
         <link href="https://extmovie.com/bestboard/92642175"/>
         <updated>2024-11-16T11:11:06.757Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395327point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘백설공주‘ 실사판 리메이크 예산 2억6천9백만 달러]]></title>
+        <id>https://extmovie.com/bestboard/92642155</id>
+        <link href="https://extmovie.com/bestboard/92642155"/>
+        <updated>2024-11-17T04:17:05.035Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4597957point (19%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<레드 원> 시네마 스코어 A-]]></title>
@@ -167,6 +174,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:580346point (1%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쥬라기 월드 리버스] 스틸 공개]]></title>
+        <id>https://extmovie.com/bestboard/92641588</id>
+        <link href="https://extmovie.com/bestboard/92641588"/>
+        <updated>2024-11-17T04:17:05.051Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:580346point (1%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[드래곤 길들이기] 실사 & 원작 비교]]></title>
         <id>https://extmovie.com/bestboard/92641583</id>
         <link href="https://extmovie.com/bestboard/92641583"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92641049"/>
         <updated>2024-11-16T09:13:43.959Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395327point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위키드' 보기 전에 알아두면 좋은 정보]]></title>
-        <id>https://extmovie.com/bestboard/92640934</id>
-        <link href="https://extmovie.com/bestboard/92640934"/>
-        <updated>2024-11-16T01:12:18.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4115806point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드래곤 길들이기 실사판 유출컷]]></title>
-        <id>https://extmovie.com/bestboard/92640578</id>
-        <link href="https://extmovie.com/bestboard/92640578"/>
-        <updated>2024-11-15T11:12:31.272Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3923point (58%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">RandyCunningham]]></content>
     </entry>
 </feed>

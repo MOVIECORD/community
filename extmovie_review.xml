@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-18T12:30:02.217Z</updated>
+    <updated>2024-11-18T13:25:05.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[약스포] 글래디에이터2 - 남양주 DOLBY 소감]]></title>
+        <id>https://extmovie.com/movietalk/92646400?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92646400?category=61633579"/>
+        <updated>2024-11-18T13:24:57.020Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3879point (54%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애시드 레인 익무 시사 (not bad)]]></title>
         <id>https://extmovie.com/movietalk/92646169?category=61633579</id>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/movietalk/92636784?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92636784?category=61633579"/>
         <updated>2024-11-13T14:14:06.959Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395400point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395432point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글라디에이터2 스포 포함 리뷰]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92633380?category=61633579"/>
         <updated>2024-11-12T07:13:42.850Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53804point (43%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딜리버리 괜찮은데요]]></title>
-        <id>https://extmovie.com/movietalk/92631161?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92631161?category=61633579"/>
-        <updated>2024-11-11T07:14:38.899Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2914point (67%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">극장영화]]></content>
     </entry>
 </feed>

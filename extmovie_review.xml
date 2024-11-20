@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-20T07:14:41.483Z</updated>
+    <updated>2024-11-20T08:20:03.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포X)위키드 돌비시네마 후기입니다.]]></title>
+        <id>https://extmovie.com/movietalk/92650317?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92650317?category=61633579"/>
+        <updated>2024-11-20T08:19:55.781Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:328point (82%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">용과카니지공주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[위키드] 조조로 보고왔는데 넘버별 후기입니다.]]></title>
         <id>https://extmovie.com/movietalk/92649738?category=61633579</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92636784?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92636784?category=61633579"/>
         <updated>2024-11-13T14:14:06.959Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395593point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글라디에이터2 스포 포함 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92636722?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92636722?category=61633579"/>
-        <updated>2024-11-13T14:14:06.959Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44203point (15%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">모피어스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395595point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

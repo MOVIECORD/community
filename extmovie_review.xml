@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-20T12:28:57.739Z</updated>
+    <updated>2024-11-20T13:24:07.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 영화 "위키드" 간략 소감]]></title>
+        <id>https://extmovie.com/movietalk/92650950?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92650950?category=61633579"/>
+        <updated>2024-11-20T13:24:00.047Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3895point (55%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포X)위키드 돌비시네마 후기입니다.]]></title>
         <id>https://extmovie.com/movietalk/92650317?category=61633579</id>
@@ -66,7 +73,7 @@
         <id>https://extmovie.com/movietalk/92646400?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92646400?category=61633579"/>
         <updated>2024-11-18T13:24:57.020Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3882point (54%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3895point (55%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애시드 레인 익무 시사 (not bad)]]></title>
@@ -101,7 +108,7 @@
         <id>https://extmovie.com/movietalk/92643586?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92643586?category=61633579"/>
         <updated>2024-11-17T05:14:49.325Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13527point (25%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13529point (25%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글래디에이터 2를 보고 왔습니다.(스포)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92636797?category=61633579"/>
         <updated>2024-11-13T14:14:06.958Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35716point (91%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<글래디에이터 2> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/92636784?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92636784?category=61633579"/>
-        <updated>2024-11-13T14:14:06.959Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1395595point (95%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

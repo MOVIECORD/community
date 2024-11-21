@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-21T06:20:59.376Z</updated>
+    <updated>2024-11-21T07:14:30.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<위키드> 극호 - 뮤지컬을 영화로 옮기려면 이렇게!!]]></title>
+        <id>https://extmovie.com/movietalk/92652946?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92652946?category=61633579"/>
+        <updated>2024-11-21T07:14:23.402Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14117point (51%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Megalopolis (2024) 영화사적 사건. 스포일러 아주 약간.]]></title>
         <id>https://extmovie.com/movietalk/92650875?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92636976?category=61633579"/>
         <updated>2024-11-13T16:18:19.031Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18043point (15%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포) 4월이되면그녀는 후기]]></title>
-        <id>https://extmovie.com/movietalk/92636961?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92636961?category=61633579"/>
-        <updated>2024-11-13T15:14:58.058Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:27162point (36%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
 </feed>

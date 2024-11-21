@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-21T21:14:24.730Z</updated>
+    <updated>2024-11-21T22:14:07.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호 ‘미키 17‘ 첫 비하인드신]]></title>
+        <id>https://extmovie.com/bestboard/92653728</id>
+        <link href="https://extmovie.com/bestboard/92653728"/>
+        <updated>2024-11-21T22:13:51.624Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4603718point (20%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김다미 인스타 업뎃]]></title>
         <id>https://extmovie.com/bestboard/92653501</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/92652000</id>
         <link href="https://extmovie.com/bestboard/92652000"/>
         <updated>2024-11-21T10:15:56.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1406165point (6%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1406268point (6%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[극장판 <베르사유의 장미> 메인 예고편]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92650840"/>
         <updated>2024-11-20T14:14:05.221Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5692point (94%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">루아방]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 영화를 너무나 사랑했던 한 일본인의 부고[이즈미 지하루 한국 블...]]></title>
-        <id>https://extmovie.com/bestboard/92650720</id>
-        <link href="https://extmovie.com/bestboard/92650720"/>
-        <updated>2024-11-20T15:15:14.998Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:580944point (4%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

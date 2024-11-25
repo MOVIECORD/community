@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-25T18:20:19.584Z</updated>
+    <updated>2024-11-25T19:12:31.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:581584point (7%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<크레이븐 더 헌터> 감독, 관객들에게 기회를 달라고 요청하다]]></title>
+        <id>https://extmovie.com/bestboard/92661748</id>
+        <link href="https://extmovie.com/bestboard/92661748"/>
+        <updated>2024-11-25T19:12:16.700Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38335point (63%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">mcu_dc]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[러셀 크로우 <글래디에이터 2>에서 "부활" 원했지만 ...]]></title>
         <id>https://extmovie.com/bestboard/92661678</id>
         <link href="https://extmovie.com/bestboard/92661678"/>
         <updated>2024-11-25T16:18:25.471Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396097point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396099point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[애프터스크리닝] '소방관' 보고나면 곽도원이 더 야속하게 ...]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/92659232</id>
         <link href="https://extmovie.com/bestboard/92659232"/>
         <updated>2024-11-25T03:31:12.694Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396097point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396099point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['위키드' 65가지 이스터에그들 -1]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92658397"/>
         <updated>2024-11-24T17:12:49.775Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24284point (41%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자친구 방 꾸며봤습니다 ㅎㅎ]]></title>
-        <id>https://extmovie.com/bestboard/92658413</id>
-        <link href="https://extmovie.com/bestboard/92658413"/>
-        <updated>2024-11-24T14:12:35.429Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1671point (86%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호오이건귀하군요]]></content>
     </entry>
 </feed>

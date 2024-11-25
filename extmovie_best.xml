@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-25T21:14:24.116Z</updated>
+    <updated>2024-11-25T22:14:17.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사생활 논란에 대한 개인적 생각.]]></title>
+        <id>https://extmovie.com/bestboard/92662058</id>
+        <link href="https://extmovie.com/bestboard/92662058"/>
+        <updated>2024-11-25T22:14:03.469Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6116point (23%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">울프맨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우성 문가비... 한 아이의 미래는...?]]></title>
         <id>https://extmovie.com/bestboard/92661856</id>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/bestboard/92658646</id>
         <link href="https://extmovie.com/bestboard/92658646"/>
         <updated>2024-11-25T18:20:03.858Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6114point (23%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">울프맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6116point (23%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">울프맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<위키드> 시큰둥하다가 어느 순간 몰입의 순간에]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92658574"/>
         <updated>2024-11-25T01:09:47.531Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23387point (11%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년도 Academy 작품상 강력 후보]]></title>
-        <id>https://extmovie.com/bestboard/92658505</id>
-        <link href="https://extmovie.com/bestboard/92658505"/>
-        <updated>2024-11-25T02:57:28.232Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41601point (49%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
 </feed>

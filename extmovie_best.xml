@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-25T19:12:31.939Z</updated>
+    <updated>2024-11-25T20:16:55.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성 문가비... 한 아이의 미래는...?]]></title>
+        <id>https://extmovie.com/bestboard/92661856</id>
+        <link href="https://extmovie.com/bestboard/92661856"/>
+        <updated>2024-11-25T20:16:41.201Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:50207point (18%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Batmania]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울의 봄] 제작사 새 드라마의 충격적인 스토리]]></title>
         <id>https://extmovie.com/bestboard/92661778</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92658503"/>
         <updated>2024-11-25T01:09:47.531Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2222point (94%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극장판 <터치> 3부작에 대한 칼럼]]></title>
-        <id>https://extmovie.com/bestboard/92658397</id>
-        <link href="https://extmovie.com/bestboard/92658397"/>
-        <updated>2024-11-24T17:12:49.775Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24284point (41%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
     </entry>
 </feed>

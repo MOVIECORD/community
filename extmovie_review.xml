@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-11-27T14:14:37.964Z</updated>
+    <updated>2024-11-27T15:15:44.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<형사 매드독>을 보고 나서 (스포 O) - 로버트 드 니...]]></title>
+        <id>https://extmovie.com/movietalk/92667086?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92667086?category=61633579"/>
+        <updated>2024-11-27T15:15:36.812Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18149point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위키드..지금 보러 가세요<유스포>]]></title>
         <id>https://extmovie.com/movietalk/92666877?category=61633579</id>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92664368?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92664368?category=61633579"/>
         <updated>2024-11-26T13:25:47.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18137point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18149point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<모아나 2> 간단 후기]]></title>
@@ -52,14 +59,14 @@
         <id>https://extmovie.com/movietalk/92663508?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92663508?category=61633579"/>
         <updated>2024-11-26T06:22:03.647Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18137point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18149point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<메갈로폴리스>를 보고 나서 (스포 O, 비추천) - 프랜...]]></title>
         <id>https://extmovie.com/movietalk/92663500?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92663500?category=61633579"/>
         <updated>2024-11-26T06:22:03.648Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18137point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18149point (19%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['세입자' 감상문]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92646612?category=61633579"/>
         <updated>2024-11-18T16:19:06.611Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2501point (25%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<애시드 레인: 죽음의 비> 관람을 마치며...]]></title>
-        <id>https://extmovie.com/movietalk/92646592?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92646592?category=61633579"/>
-        <updated>2024-11-18T16:19:06.611Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:427point (5%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">막베스]]></content>
     </entry>
 </feed>

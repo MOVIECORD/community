@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-28T16:18:32.070Z</updated>
+    <updated>2024-11-28T17:13:21.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92668543"/>
         <updated>2024-11-28T12:29:28.267Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4610088point (22%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 에미상에서 작품상 포함 18개를 부문을 쓸이 했다는 쇼군 다 봤습...]]></title>
+        <id>https://extmovie.com/bestboard/92668542</id>
+        <link href="https://extmovie.com/bestboard/92668542"/>
+        <updated>2024-11-28T17:13:07.321Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70634point (44%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영친자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송강호는 빛났지만…<1승>]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92665906"/>
         <updated>2024-11-27T15:15:27.897Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:582111point (10%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV 양조위 특별전, 동성서취 재개봉]]></title>
-        <id>https://extmovie.com/bestboard/92665780</id>
-        <link href="https://extmovie.com/bestboard/92665780"/>
-        <updated>2024-11-27T16:18:45.077Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1456point (46%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">흐트러지다]]></content>
     </entry>
 </feed>

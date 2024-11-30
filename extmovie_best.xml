@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-30T21:13:28.464Z</updated>
+    <updated>2024-11-30T22:13:28.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<대가족> 정말 재밌네요.]]></title>
+        <id>https://extmovie.com/bestboard/92673695</id>
+        <link href="https://extmovie.com/bestboard/92673695"/>
+        <updated>2024-11-30T22:13:12.947Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22066point (65%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송승헌 박지현 무대인사 ing]]></title>
         <id>https://extmovie.com/bestboard/92673528</id>
         <link href="https://extmovie.com/bestboard/92673528"/>
         <updated>2024-11-30T15:13:26.936Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:405854point (29%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:405856point (29%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고현정 '유퀴즈 온더 블럭' 드뮤어룩 아이템들 가격]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92670803"/>
         <updated>2024-11-29T13:24:16.990Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396454point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데시네마.. 히든페이스 배우분 나눠주시는듯]]></title>
-        <id>https://extmovie.com/bestboard/92670783</id>
-        <link href="https://extmovie.com/bestboard/92670783"/>
-        <updated>2024-11-30T04:17:34.852Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:309211point (92%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
     </entry>
 </feed>

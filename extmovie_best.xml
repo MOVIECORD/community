@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-30T20:15:04.843Z</updated>
+    <updated>2024-11-30T21:13:28.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/92672814"/>
         <updated>2024-11-30T15:13:26.939Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62589point (29%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김다미 도쿄]]></title>
+        <id>https://extmovie.com/bestboard/92672695</id>
+        <link href="https://extmovie.com/bestboard/92672695"/>
+        <updated>2024-11-30T21:13:14.442Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4611917point (22%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<글래디에이터 2> 촬영감독 존 매티슨, 편집 오해로 인한 논란에...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92670783"/>
         <updated>2024-11-30T04:17:34.852Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/40.gif" alt="[레벨:40]" title="포인트:309211point (92%), 레벨:40/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['워낭소리' '똥파리' '벌새'... 한국 ...]]></title>
-        <id>https://extmovie.com/bestboard/92670782</id>
-        <link href="https://extmovie.com/bestboard/92670782"/>
-        <updated>2024-11-29T19:12:32.777Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:40point (10%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">greengrape]]></content>
     </entry>
 </feed>

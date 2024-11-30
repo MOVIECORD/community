@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-11-30T22:13:28.693Z</updated>
+    <updated>2024-11-30T23:13:44.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,14 +10,28 @@
         <id>https://extmovie.com/bestboard/92673695</id>
         <link href="https://extmovie.com/bestboard/92673695"/>
         <updated>2024-11-30T22:13:12.947Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22066point (65%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22068point (65%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조영남]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스) 트렁크 - 초간단 후기]]></title>
+        <id>https://extmovie.com/bestboard/92673646</id>
+        <link href="https://extmovie.com/bestboard/92673646"/>
+        <updated>2024-11-30T23:13:29.021Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:287219point (57%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 11월 30일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92673661</id>
+        <link href="https://extmovie.com/bestboard/92673661"/>
+        <updated>2024-11-30T23:13:29.021Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4119033point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송승헌 박지현 무대인사 ing]]></title>
         <id>https://extmovie.com/bestboard/92673528</id>
         <link href="https://extmovie.com/bestboard/92673528"/>
         <updated>2024-11-30T15:13:26.936Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:405856point (29%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:405961point (29%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고현정 '유퀴즈 온더 블럭' 드뮤어룩 아이템들 가격]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92670902"/>
         <updated>2024-11-29T16:18:33.924Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:287219point (57%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌프 룬드그렌, 암 투병 극복 소식 전하며 기적 같은 회복 공개]]></title>
-        <id>https://extmovie.com/bestboard/92670824</id>
-        <link href="https://extmovie.com/bestboard/92670824"/>
-        <updated>2024-11-29T15:15:43.654Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396454point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<위키드> 스타, 관객들에게 극장에서 쫓겨날 수도 있는 행동을 ...]]></title>
-        <id>https://extmovie.com/bestboard/92670803</id>
-        <link href="https://extmovie.com/bestboard/92670803"/>
-        <updated>2024-11-29T13:24:16.990Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396454point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-01T21:13:24.137Z</updated>
+    <updated>2024-12-01T22:13:50.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/92674820</id>
         <link href="https://extmovie.com/bestboard/92674820"/>
         <updated>2024-12-01T16:16:29.719Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23636point (20%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23638point (20%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경이로우면서 감탄을 자아내는 고전3편]]></title>
@@ -38,7 +38,14 @@
         <id>https://extmovie.com/bestboard/92674559</id>
         <link href="https://extmovie.com/bestboard/92674559"/>
         <updated>2024-12-01T14:12:52.960Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:237444point (37%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:237446point (37%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<위키드>의 마리사 보데, 네사로즈의 장애를 조롱하는 '공...]]></title>
+        <id>https://extmovie.com/bestboard/92674494</id>
+        <link href="https://extmovie.com/bestboard/92674494"/>
+        <updated>2024-12-01T22:13:34.122Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396545point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 대가족 성수메박에서 보고 온 후기입니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92673018"/>
         <updated>2024-12-01T03:12:51.972Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4119119point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새벽의 저주 오프닝]]></title>
-        <id>https://extmovie.com/bestboard/92672965</id>
-        <link href="https://extmovie.com/bestboard/92672965"/>
-        <updated>2024-12-01T21:13:08.068Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1407628point (7%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-02T18:20:48.091Z</updated>
+    <updated>2024-12-02T19:12:51.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[로보트 태권브이에서 몰랐던 건 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92677024</id>
+        <link href="https://extmovie.com/bestboard/92677024"/>
+        <updated>2024-12-02T19:12:36.236Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:237741point (38%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '트렁크' 로튼토마토 첫 리뷰 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/92676854</id>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/92673983"/>
         <updated>2024-12-01T08:18:34.340Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:582949point (14%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 ‘미키 17‘ 뉴 스틸들 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92673969</id>
-        <link href="https://extmovie.com/bestboard/92673969"/>
-        <updated>2024-12-01T06:20:09.236Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4613254point (22%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 12월 2일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

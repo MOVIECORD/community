@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-04T18:21:30.969Z</updated>
+    <updated>2024-12-04T19:14:46.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['반지의 제왕: 로히림의 전쟁' 해외 SNS 반응 모음]]></title>
+        <id>https://extmovie.com/bestboard/92681862</id>
+        <link href="https://extmovie.com/bestboard/92681862"/>
+        <updated>2024-12-04T19:14:30.931Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4119826point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디플 조명가게 4화 엔딩 역대급;;;]]></title>
         <id>https://extmovie.com/bestboard/92681639</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/bestboard/92681610</id>
         <link href="https://extmovie.com/bestboard/92681610"/>
         <updated>2024-12-04T13:27:26.028Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:136point (34%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">준]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:138point (34%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">준]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 로튼토마토 리뷰들]]></title>
@@ -46,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/92681342"/>
         <updated>2024-12-04T16:19:26.766Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2933point (68%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">코블리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['히든페이스' 각국 버전 예고편과 해외 반응들]]></title>
+        <id>https://extmovie.com/bestboard/92681165</id>
+        <link href="https://extmovie.com/bestboard/92681165"/>
+        <updated>2024-12-04T19:14:30.941Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4119826point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리들리 스콧 '평범한 사람'에 대한 영화를 만들라는 스튜디...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92678846"/>
         <updated>2024-12-03T13:26:07.378Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1396825point (96%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 애니 거장 린타로의 신작 영상]]></title>
-        <id>https://extmovie.com/bestboard/92678826</id>
-        <link href="https://extmovie.com/bestboard/92678826"/>
-        <updated>2024-12-04T12:29:50.450Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4119826point (23%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 1승 강력 추천합니다!!]]></title>
-        <id>https://extmovie.com/bestboard/92678813</id>
-        <link href="https://extmovie.com/bestboard/92678813"/>
-        <updated>2024-12-03T13:26:07.378Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:148point (37%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">녹야]]></content>
     </entry>
 </feed>

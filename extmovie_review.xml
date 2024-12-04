@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-04T17:14:08.264Z</updated>
+    <updated>2024-12-04T18:21:30.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Return of the living dead (1985) 코믹호러좀비쇼 걸작. 스...]]></title>
+        <id>https://extmovie.com/movietalk/92678244?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92678244?category=61633579"/>
+        <updated>2024-12-04T18:21:24.432Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:59267point (81%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<포레스트 검프>를 보고 나서 (스포 X, 추천) - 로버...]]></title>
         <id>https://extmovie.com/movietalk/92682323?category=61633579</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92663508?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92663508?category=61633579"/>
         <updated>2024-11-26T06:22:03.647Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18459point (31%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<메갈로폴리스>를 보고 나서 (스포 O, 비추천) - 프랜...]]></title>
-        <id>https://extmovie.com/movietalk/92663500?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92663500?category=61633579"/>
-        <updated>2024-11-26T06:22:03.648Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18459point (31%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-04T20:17:38.327Z</updated>
+    <updated>2024-12-04T21:14:37.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92681342"/>
         <updated>2024-12-04T16:19:26.766Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2933point (68%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">코블리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울면서 보는 영화 있을까요.]]></title>
+        <id>https://extmovie.com/bestboard/92681313</id>
+        <link href="https://extmovie.com/bestboard/92681313"/>
+        <updated>2024-12-04T21:14:21.549Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23714point (22%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['히든페이스' 각국 버전 예고편과 해외 반응들]]></title>
@@ -206,14 +213,14 @@
         <id>https://extmovie.com/bestboard/92679502</id>
         <link href="https://extmovie.com/bestboard/92679502"/>
         <updated>2024-12-04T07:15:13.558Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47159point (88%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47160point (88%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동진 평론가의 올타임 베스트 10편]]></title>
         <id>https://extmovie.com/bestboard/92679471</id>
         <link href="https://extmovie.com/bestboard/92679471"/>
         <updated>2024-12-03T16:18:51.186Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47159point (88%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:47160point (88%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티브 로저스가 MCU <판타스틱 4: 퍼스트 스텝> 세계를 만든 장...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92678833"/>
         <updated>2024-12-03T13:26:07.378Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4615683point (23%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막시무스의 과거와 현재]]></title>
-        <id>https://extmovie.com/bestboard/92679048</id>
-        <link href="https://extmovie.com/bestboard/92679048"/>
-        <updated>2024-12-04T01:11:31.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:583648point (18%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

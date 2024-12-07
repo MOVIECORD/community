@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-07T16:17:04.827Z</updated>
+    <updated>2024-12-07T17:12:19.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:583822point (19%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<공각기동대> 4K 리마스터링 스틸 공개]]></title>
+        <id>https://extmovie.com/bestboard/92686728</id>
+        <link href="https://extmovie.com/bestboard/92686728"/>
+        <updated>2024-12-07T17:12:05.729Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:199235point (92%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나카야마 미호 사망 소식 자세히]]></title>
         <id>https://extmovie.com/bestboard/92686648</id>
         <link href="https://extmovie.com/bestboard/92686648"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92684891"/>
         <updated>2024-12-06T06:21:56.005Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4619338point (23%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글레디에이터2 흥행]]></title>
-        <id>https://extmovie.com/bestboard/92684869</id>
-        <link href="https://extmovie.com/bestboard/92684869"/>
-        <updated>2024-12-06T12:29:40.753Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:17807point (6%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비디렉터]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-07T19:11:37.584Z</updated>
+    <updated>2024-12-07T20:15:11.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92688507"/>
         <updated>2024-12-07T18:19:41.335Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397143point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조여정 히든 페이스 나르시시스트 수연 현장 셀카]]></title>
+        <id>https://extmovie.com/bestboard/92688338</id>
+        <link href="https://extmovie.com/bestboard/92688338"/>
+        <updated>2024-12-07T20:14:55.785Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:408282point (41%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '서울의 봄' 김성수 감독 "엉망의 현실, 탄핵으...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92684965"/>
         <updated>2024-12-06T01:10:54.069Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4619338point (23%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 12월 5일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/92684923</id>
-        <link href="https://extmovie.com/bestboard/92684923"/>
-        <updated>2024-12-06T02:59:24.579Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4120233point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

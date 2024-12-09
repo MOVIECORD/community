@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-12-09T13:26:37.647Z</updated>
+    <updated>2024-12-09T14:15:12.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['Piece By Piece'에 대한 단상]]></title>
+        <id>https://extmovie.com/movietalk/92693025?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92693025?category=21915420"/>
+        <updated>2024-12-09T14:15:01.426Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30906point (52%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lizzie Lazarus, Ballerina 외 새 이미지들]]></title>
         <id>https://extmovie.com/movietalk/92692785?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92691222?category=21915420"/>
         <updated>2024-12-09T03:03:45.457Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/34.gif" alt="[레벨:34]" title="포인트:199545point (95%), 레벨:34/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메, 보스턴 비평가협회 남우주연상 수상]]></title>
-        <id>https://extmovie.com/movietalk/92691125?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92691125?category=21915420"/>
-        <updated>2024-12-09T03:03:45.457Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4620909point (24%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

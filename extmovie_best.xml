@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-11T18:21:18.231Z</updated>
+    <updated>2024-12-11T19:12:46.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92696944"/>
         <updated>2024-12-11T10:16:53.934Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4121442point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조셉 코신스키 'F1' 16개월의 촬영완료 - 상세기사]]></title>
+        <id>https://extmovie.com/bestboard/92696824</id>
+        <link href="https://extmovie.com/bestboard/92696824"/>
+        <updated>2024-12-11T19:12:32.565Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4623727point (24%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어떤 영화가 좋은 영화인가에 대한 고민의 글]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92695142"/>
         <updated>2024-12-11T02:59:45.629Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43522point (99%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오징어 게임 2> 제82회 골든 글로브 시상식 최우수 TV시리즈 드...]]></title>
-        <id>https://extmovie.com/bestboard/92695138</id>
-        <link href="https://extmovie.com/bestboard/92695138"/>
-        <updated>2024-12-10T15:16:22.470Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:200011point (0%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

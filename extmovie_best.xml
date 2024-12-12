@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-12T19:13:03.163Z</updated>
+    <updated>2024-12-12T20:17:30.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://extmovie.com/bestboard/92699475"/>
         <updated>2024-12-12T09:16:30.413Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4121781point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김건희 다큐 [퍼스트레이디] 2차 포스터]]></title>
+        <id>https://extmovie.com/bestboard/92699459</id>
+        <link href="https://extmovie.com/bestboard/92699459"/>
+        <updated>2024-12-12T20:17:14.234Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9377point (19%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">볼드모트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '백년의 고독' 로튼 리뷰들 극찬]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92697507"/>
         <updated>2024-12-11T13:25:40.900Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397448point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서브스턴스를 보고...(익무님들 너무해요...)]]></title>
-        <id>https://extmovie.com/bestboard/92697406</id>
-        <link href="https://extmovie.com/bestboard/92697406"/>
-        <updated>2024-12-11T13:25:40.900Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6386point (40%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기묭]]></content>
     </entry>
 </feed>

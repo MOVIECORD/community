@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-13T16:19:12.847Z</updated>
+    <updated>2024-12-13T17:14:13.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 LA 프리미어 시작😀]]></title>
+        <id>https://extmovie.com/bestboard/92702493</id>
+        <link href="https://extmovie.com/bestboard/92702493"/>
+        <updated>2024-12-13T17:13:57.430Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42977point (84%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하이데]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<대가족> 후기]]></title>
+        <id>https://extmovie.com/bestboard/92701548</id>
+        <link href="https://extmovie.com/bestboard/92701548"/>
+        <updated>2024-12-13T17:13:57.431Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23834point (26%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 공개 넷플릭스 액션 '캐리온' 로튼 리뷰 모음]]></title>
         <id>https://extmovie.com/bestboard/92701543</id>
@@ -101,7 +115,7 @@
         <id>https://extmovie.com/bestboard/92700332</id>
         <link href="https://extmovie.com/bestboard/92700332"/>
         <updated>2024-12-13T09:16:39.379Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4839point (31%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4841point (31%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데미 무어, 의외의 사실]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92698955"/>
         <updated>2024-12-12T17:13:41.443Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4626023point (25%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서브스턴스 진짜 ㅋㅋㅋㅋㅋㅋㅋㅋ]]></title>
-        <id>https://extmovie.com/bestboard/92699192</id>
-        <link href="https://extmovie.com/bestboard/92699192"/>
-        <updated>2024-12-12T08:20:15.141Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:23834point (26%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라임 비디오 '시크릿 레벨' 로튼 리뷰 번역]]></title>
-        <id>https://extmovie.com/bestboard/92699043</id>
-        <link href="https://extmovie.com/bestboard/92699043"/>
-        <updated>2024-12-13T13:24:33.785Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4122062point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

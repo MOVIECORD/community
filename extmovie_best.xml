@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-15T16:16:47.403Z</updated>
+    <updated>2024-12-15T17:12:17.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<아키라> 봤어요]]></title>
+        <id>https://extmovie.com/bestboard/92706494</id>
+        <link href="https://extmovie.com/bestboard/92706494"/>
+        <updated>2024-12-15T17:12:00.560Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397672point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[소방관] '곽도원 리스크' 넘고 국내 박스오피스 강자로]]></title>
         <id>https://extmovie.com/bestboard/92706487</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92704228"/>
         <updated>2024-12-14T10:14:13.347Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:954point (26%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기운창기사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스텔라 블레이드 연말 축전]]></title>
-        <id>https://extmovie.com/bestboard/92704168</id>
-        <link href="https://extmovie.com/bestboard/92704168"/>
-        <updated>2024-12-14T15:14:00.340Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1409839point (9%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-16T07:16:13.650Z</updated>
+    <updated>2024-12-16T08:21:43.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨막히는 연출, 그러나 약한 메시지 <시빌 워: 분열의 시...]]></title>
+        <id>https://extmovie.com/movietalk/92708503?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92708503?category=61633579"/>
+        <updated>2024-12-16T08:21:36.858Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54126point (45%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<배심원 #2>를 보고 나서 (스포 O, 추천) - 클린트 이...]]></title>
         <id>https://extmovie.com/movietalk/92707802?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92690380?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92690380?category=61633579"/>
         <updated>2024-12-15T12:27:30.364Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58247point (73%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58249point (73%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<아키라> 봤어요]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92701760?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92701760?category=61633579"/>
         <updated>2024-12-13T08:20:22.317Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54086point (45%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54126point (45%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서브스턴스 한줄평]]></title>
@@ -192,7 +199,7 @@
         <id>https://extmovie.com/movietalk/92689939?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92689939?category=61633579"/>
         <updated>2024-12-08T12:27:28.647Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58247point (73%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58249point (73%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<힘을 낼 시간> 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92688362?category=61633579"/>
         <updated>2024-12-07T12:27:04.212Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14260point (57%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<여름 이야기>를 보고 나서 (스포 X, 추천) - 에릭 로...]]></title>
-        <id>https://extmovie.com/movietalk/92687167?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92687167?category=61633579"/>
-        <updated>2024-12-06T14:14:36.200Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18751point (42%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

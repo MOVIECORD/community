@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-18T15:15:44.927Z</updated>
+    <updated>2024-12-18T16:18:32.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘수퍼맨‘ 첫 티저]]></title>
+        <id>https://extmovie.com/bestboard/92714399</id>
+        <link href="https://extmovie.com/bestboard/92714399"/>
+        <updated>2024-12-18T16:18:17.458Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4630458point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<오징어 게임>이 시즌 3로 완결되는 이유]]></title>
         <id>https://extmovie.com/bestboard/92714118</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92711846"/>
         <updated>2024-12-18T01:08:16.823Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20921point (24%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 플러스) 강남 비-사이드 - 간단 후기]]></title>
-        <id>https://extmovie.com/bestboard/92711471</id>
-        <link href="https://extmovie.com/bestboard/92711471"/>
-        <updated>2024-12-18T01:08:16.823Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:288195point (60%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2024-12-18T15:15:44.929Z</updated>
+    <updated>2024-12-18T16:18:32.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 신작서 트랜스젠더 서사 삭제…트럼프 눈치?]]></title>
+        <id>https://extmovie.com/movietalk/92714554?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92714554?category=21915420"/>
+        <updated>2024-12-18T16:18:21.608Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7001point (81%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['주술회전 0' 누적관객 70만명 돌파!]]></title>
+        <id>https://extmovie.com/movietalk/92714544?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92714544?category=21915420"/>
+        <updated>2024-12-18T16:18:21.608Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7001point (81%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<소방관> 200만 관객 돌파]]></title>
         <id>https://extmovie.com/movietalk/92714525?category=21915420</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92712781?category=21915420"/>
         <updated>2024-12-18T02:54:21.924Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:201775point (11%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롤랜드 에머리히, '엑소더스' '아라비아의 ...]]></title>
-        <id>https://extmovie.com/movietalk/92712750?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92712750?category=21915420"/>
-        <updated>2024-12-18T02:54:21.927Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4630458point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러셀 크로우 주연 '더 엑소시즘' 1월 15일 개봉]]></title>
-        <id>https://extmovie.com/movietalk/92712724?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92712724?category=21915420"/>
-        <updated>2024-12-18T02:54:21.928Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4123492point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

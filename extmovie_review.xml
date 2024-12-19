@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-19T08:19:53.744Z</updated>
+    <updated>2024-12-19T09:16:03.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시빌워:분열의시대 시사회 후기]]></title>
+        <id>https://extmovie.com/movietalk/92716464?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92716464?category=61633579"/>
+        <updated>2024-12-19T09:15:56.400Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2854point (61%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">잭슨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이도저도 아닌 <보고타: 기회의 땅>]]></title>
         <id>https://extmovie.com/movietalk/92716137?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92697663?category=61633579"/>
         <updated>2024-12-11T12:30:12.949Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41839point (55%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<극장판 주술회전 0>, <대가족> 봤어요]]></title>
-        <id>https://extmovie.com/movietalk/92697531?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92697531?category=61633579"/>
-        <updated>2024-12-11T11:12:56.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397889point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

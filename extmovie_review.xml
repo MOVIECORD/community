@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-20T04:17:41.226Z</updated>
+    <updated>2024-12-20T05:14:41.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 좀비?]영화 간단후기]]></title>
+        <id>https://extmovie.com/movietalk/92718278?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92718278?category=61633579"/>
+        <updated>2024-12-20T05:14:35.239Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7161point (91%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 시빌워 분열의 시대 잠실롯시 GV로 보고 온 후기입...]]></title>
         <id>https://extmovie.com/movietalk/92717015?category=61633579</id>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/92714202?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92714202?category=61633579"/>
         <updated>2024-12-18T13:23:35.629Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397947point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397949point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무파사-예상치 못한 수작]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92706494?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92706494?category=61633579"/>
         <updated>2024-12-15T10:15:19.466Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397947point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397949point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<48시간의 킬링 게임>을 보고 나서 (스포 O, 추천) - ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92699858?category=61633579"/>
         <updated>2024-12-12T10:16:32.864Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18918point (48%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서브스턴스에 대한 개인적인 생각 (스포 O)]]></title>
-        <id>https://extmovie.com/movietalk/92698045?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92698045?category=61633579"/>
-        <updated>2024-12-11T16:19:36.676Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:194point (48%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">싯영화]]></content>
     </entry>
 </feed>

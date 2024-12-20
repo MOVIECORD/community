@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-20T17:12:43.976Z</updated>
+    <updated>2024-12-20T18:19:05.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼맨 예고편 공개기념으로 써 보는 슈퍼맨 코믹스 소개 및 추천]]></title>
+        <id>https://extmovie.com/bestboard/92718554</id>
+        <link href="https://extmovie.com/bestboard/92718554"/>
+        <updated>2024-12-20T18:18:51.087Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:210point (52%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">크로스헤어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈, [하얼빈]으로 인생 첫 '천만 영화' 초읽기...전문가 ...]]></title>
         <id>https://extmovie.com/bestboard/92718605</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92716563"/>
         <updated>2024-12-20T03:19:50.379Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/71.gif" alt="[레벨:71]" title="포인트:1023055point (23%), 레벨:71/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익무노예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 홀랜드, 젠데이아와의 연기에 대해 "인생 최고의 축복"이...]]></title>
-        <id>https://extmovie.com/bestboard/92716569</id>
-        <link href="https://extmovie.com/bestboard/92716569"/>
-        <updated>2024-12-19T18:19:24.889Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1397969point (97%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-21T10:14:08.654Z</updated>
+    <updated>2024-12-21T11:11:04.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글래디에이터 (2024) 비난 받을 만한 영화. 스포일러 있음.]]></title>
+        <id>https://extmovie.com/movietalk/92720455?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92720455?category=61633579"/>
+        <updated>2024-12-21T11:10:57.801Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:59940point (85%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<알레고리, 잇츠 낫 미>를 보고 나서 (스포 O, 추천) ...]]></title>
         <id>https://extmovie.com/movietalk/92719240?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/92711574?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92711574?category=61633579"/>
         <updated>2024-12-17T12:30:07.153Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:59928point (85%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:59940point (85%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<무파사: 라이온 킹> 간단 후기]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92706720?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92706720?category=61633579"/>
         <updated>2024-12-15T12:27:30.364Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67898point (66%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67900point (66%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[약스포) 1승 건대롯시에서 보고 온 후기입니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92701762?category=61633579"/>
         <updated>2024-12-13T08:20:22.317Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:183point (45%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">단테알리기에리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강스포/극불호] 대가족, 내가 T발놈인건가?]]></title>
-        <id>https://extmovie.com/movietalk/92701597?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92701597?category=61633579"/>
-        <updated>2024-12-20T14:13:38.519Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29925point (22%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
     </entry>
 </feed>

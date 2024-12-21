@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-21T17:12:39.856Z</updated>
+    <updated>2024-12-21T18:17:56.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92720167"/>
         <updated>2024-12-21T13:16:25.199Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4124126point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하얼빈’ ‘문영‘ 디자이너 콜라보 스페셜 오브제 포스터]]></title>
+        <id>https://extmovie.com/bestboard/92720120</id>
+        <link href="https://extmovie.com/bestboard/92720120"/>
+        <updated>2024-12-21T18:17:41.036Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4632870point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[차기 제임스 본드 영화 제작 지연중]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/bestboard/92719431</id>
         <link href="https://extmovie.com/bestboard/92719431"/>
         <updated>2024-12-21T02:42:19.165Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20954point (25%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20955point (25%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 12월 20일 국내 박스오피스]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92718593"/>
         <updated>2024-12-21T07:12:41.422Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:584998point (24%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈퍼맨' 예고편의 드래곤볼 오마주?]]></title>
-        <id>https://extmovie.com/bestboard/92718497</id>
-        <link href="https://extmovie.com/bestboard/92718497"/>
-        <updated>2024-12-20T17:12:28.592Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4124126point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

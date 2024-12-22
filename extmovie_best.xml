@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-22T18:17:41.130Z</updated>
+    <updated>2024-12-22T19:10:48.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민주, 김혜윤 SBS 연기대상]]></title>
+        <id>https://extmovie.com/bestboard/92722089</id>
+        <link href="https://extmovie.com/bestboard/92722089"/>
+        <updated>2024-12-22T19:10:33.544Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4633287point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히든페이스 관객수 100만명 돌파 축하 인증샷 공개!!]]></title>
         <id>https://extmovie.com/bestboard/92721873</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92720021</id>
         <link href="https://extmovie.com/bestboard/92720021"/>
         <updated>2024-12-21T14:11:41.806Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4633287point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노바디 2‘ 뉴 스틸]]></title>
-        <id>https://extmovie.com/bestboard/92720008</id>
-        <link href="https://extmovie.com/bestboard/92720008"/>
-        <updated>2024-12-21T13:16:25.202Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4633287point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

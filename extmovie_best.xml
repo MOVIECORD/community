@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-23T21:12:59.997Z</updated>
+    <updated>2024-12-23T22:13:19.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 12월 23일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92724808</id>
+        <link href="https://extmovie.com/bestboard/92724808"/>
+        <updated>2024-12-23T22:13:03.016Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4124567point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌 클린턴이 뽑은 2024년 최고의 영화]]></title>
         <id>https://extmovie.com/bestboard/92724348</id>
         <link href="https://extmovie.com/bestboard/92724348"/>
         <updated>2024-12-23T15:14:33.944Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398314point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서극 감독 무협영화 <사조영웅전: 협지대자> 첫번째 공식 포스터...]]></title>
+        <id>https://extmovie.com/bestboard/92724277</id>
+        <link href="https://extmovie.com/bestboard/92724277"/>
+        <updated>2024-12-23T22:13:03.018Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:168955point (29%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호소다 마모루 감독 신작 <끝없는 스칼렛> 2025년 겨울 개봉]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92722045"/>
         <updated>2024-12-22T22:13:27.504Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398314point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<최애의 아이: The Final Act> 실사화, 원작 팬과 신규 관객 모...]]></title>
-        <id>https://extmovie.com/bestboard/92721877</id>
-        <link href="https://extmovie.com/bestboard/92721877"/>
-        <updated>2024-12-23T08:19:16.874Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398314point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히든페이스 관객수 100만명 돌파 축하 인증샷 공개!!]]></title>
-        <id>https://extmovie.com/bestboard/92721873</id>
-        <link href="https://extmovie.com/bestboard/92721873"/>
-        <updated>2024-12-22T17:12:01.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67975point (68%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

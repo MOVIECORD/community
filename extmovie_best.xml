@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-23T18:18:39.070Z</updated>
+    <updated>2024-12-23T19:11:07.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,6 +24,13 @@
         <id>https://extmovie.com/bestboard/92723918</id>
         <link href="https://extmovie.com/bestboard/92723918"/>
         <updated>2024-12-23T13:21:23.358Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4634775point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(루머) 밀리 알콕 수퍼걸, 제임스 건 '수퍼맨' 술집 장면 출...]]></title>
+        <id>https://extmovie.com/bestboard/92724038</id>
+        <link href="https://extmovie.com/bestboard/92724038"/>
+        <updated>2024-12-23T19:10:51.510Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4634775point (26%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92721873"/>
         <updated>2024-12-22T17:12:01.191Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67975point (68%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뇌를 좋아하는 좀비들의 귀환!]]></title>
-        <id>https://extmovie.com/bestboard/92721868</id>
-        <link href="https://extmovie.com/bestboard/92721868"/>
-        <updated>2024-12-22T23:14:04.173Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2567point (32%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
     </entry>
 </feed>

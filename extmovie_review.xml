@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-23T15:14:48.579Z</updated>
+    <updated>2024-12-23T16:17:22.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[총을 든 스님 후기(강추!)]]></title>
+        <id>https://extmovie.com/movietalk/92724926?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92724926?category=61633579"/>
+        <updated>2024-12-23T16:17:15.732Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2121point (74%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<동경 이야기(1953)> 단평]]></title>
         <id>https://extmovie.com/movietalk/92724521?category=61633579</id>
@@ -122,7 +129,7 @@
         <id>https://extmovie.com/movietalk/92714202?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92714202?category=61633579"/>
         <updated>2024-12-18T13:23:35.629Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398308point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398310point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무파사-예상치 못한 수작]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92706494?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92706494?category=61633579"/>
         <updated>2024-12-15T10:15:19.466Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398308point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<48시간의 킬링 게임>을 보고 나서 (스포 O, 추천) - ...]]></title>
-        <id>https://extmovie.com/movietalk/92705971?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92705971?category=61633579"/>
-        <updated>2024-12-15T03:05:18.529Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18968point (50%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398310point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

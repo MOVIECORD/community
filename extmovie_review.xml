@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-23T13:21:37.843Z</updated>
+    <updated>2024-12-23T14:13:24.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<동경 이야기(1953)> 단평]]></title>
+        <id>https://extmovie.com/movietalk/92724521?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92724521?category=61633579"/>
+        <updated>2024-12-23T14:13:16.671Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:694point (63%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킹덤4 대장군의 귀환 후기]]></title>
         <id>https://extmovie.com/movietalk/92724516?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92724516?category=61633579"/>
         <updated>2024-12-23T13:21:31.168Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3451point (18%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3455point (18%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왓이프 시즌3 에피소드 1,2 리뷰(스포)]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92706949?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92706949?category=61633579"/>
         <updated>2024-12-21T18:17:49.243Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:650point (54%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:694point (63%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글래디에이터 (2024) 비난 받을 만한 영화. 스포일러 있음.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92705971?category=61633579"/>
         <updated>2024-12-15T03:05:18.529Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:18968point (50%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 영화 캐리온 한줄평]]></title>
-        <id>https://extmovie.com/movietalk/92704946?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92704946?category=61633579"/>
-        <updated>2024-12-14T12:26:59.345Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:510point (23%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화늘보]]></content>
     </entry>
 </feed>

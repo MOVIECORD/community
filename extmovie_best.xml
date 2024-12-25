@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-25T10:14:48.363Z</updated>
+    <updated>2024-12-25T11:11:38.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398497point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<나홀로 집에> 감독이 밝힌 맥칼리스터 가족의 직업과 캐스팅 비...]]></title>
+        <id>https://extmovie.com/bestboard/92728808</id>
+        <link href="https://extmovie.com/bestboard/92728808"/>
+        <updated>2024-12-25T11:11:22.890Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398497point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하얼빈 (짦게, 스포 있음)]]></title>
         <id>https://extmovie.com/bestboard/92728787</id>
         <link href="https://extmovie.com/bestboard/92728787"/>
         <updated>2024-12-25T10:14:31.999Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5133point (53%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5137point (53%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI에게 전두광 머리 심어달라 해보았다]]></title>
@@ -136,7 +143,7 @@
         <id>https://extmovie.com/bestboard/92727767</id>
         <link href="https://extmovie.com/bestboard/92727767"/>
         <updated>2024-12-24T20:14:30.394Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4124941point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4124942point (24%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하얼빈 보고 생각난 영화들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92727212"/>
         <updated>2024-12-24T13:20:00.055Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7185point (93%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포)하얼빈 간단 후기]]></title>
-        <id>https://extmovie.com/bestboard/92727191</id>
-        <link href="https://extmovie.com/bestboard/92727191"/>
-        <updated>2024-12-24T16:16:42.068Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21115point (31%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">릭과모티]]></content>
     </entry>
 </feed>

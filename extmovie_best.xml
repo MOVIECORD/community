@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-26T22:13:29.178Z</updated>
+    <updated>2024-12-26T23:13:56.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4125373point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[올해는 가요대상 연기대상 행사가 없네요?]]></title>
+        <id>https://extmovie.com/bestboard/92731716</id>
+        <link href="https://extmovie.com/bestboard/92731716"/>
+        <updated>2024-12-26T23:13:40.645Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42690point (77%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[넷플릭스 ’오징어게임‘ 시즌 2 - 다같이 "스마일"]]></title>
         <id>https://extmovie.com/bestboard/92731636</id>
         <link href="https://extmovie.com/bestboard/92731636"/>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/bestboard/92731659</id>
         <link href="https://extmovie.com/bestboard/92731659"/>
         <updated>2024-12-26T17:12:40.598Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:414447point (72%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:414553point (72%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[하얼빈] 때깔만 좋은]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92729925"/>
         <updated>2024-12-26T04:17:33.096Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/11.gif" alt="[레벨:11]" title="포인트:12872point (95%), 레벨:11/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스틴 스튜어트 & 스티븐 연 주연 '러브 미' 첫 포스터]]></title>
-        <id>https://extmovie.com/bestboard/92729892</id>
-        <link href="https://extmovie.com/bestboard/92729892"/>
-        <updated>2024-12-26T02:44:00.608Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4637260point (27%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

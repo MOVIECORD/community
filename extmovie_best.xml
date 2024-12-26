@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-26T17:12:54.834Z</updated>
+    <updated>2024-12-26T18:19:04.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임' 시즌2 로튼토마토 점수!]]></title>
+        <id>https://extmovie.com/bestboard/92731831</id>
+        <link href="https://extmovie.com/bestboard/92731831"/>
+        <updated>2024-12-26T18:18:48.905Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7250point (97%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임 2' 로튼 신선도는 현재 80%]]></title>
         <id>https://extmovie.com/bestboard/92731713</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92729849"/>
         <updated>2024-12-26T01:04:42.397Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:585704point (28%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강소라 미생10주년]]></title>
-        <id>https://extmovie.com/bestboard/92729812</id>
-        <link href="https://extmovie.com/bestboard/92729812"/>
-        <updated>2024-12-26T03:18:46.611Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:414445point (72%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
 </feed>

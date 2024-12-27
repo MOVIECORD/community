@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-27T19:11:26.068Z</updated>
+    <updated>2024-12-27T20:15:02.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드니 빌뇌브 “촬영 현장에서는 휴대폰 금지, 페이스북 확인은 절대 불가”]]></title>
+        <id>https://extmovie.com/bestboard/92733561</id>
+        <link href="https://extmovie.com/bestboard/92733561"/>
+        <updated>2024-12-27T20:14:47.263Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398667point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BBC뉴스... 오징어 게임2는 평작]]></title>
         <id>https://extmovie.com/bestboard/92733467</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92731524"/>
         <updated>2024-12-26T16:16:46.879Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14668point (75%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어 게임 2 리뷰(스포)]]></title>
-        <id>https://extmovie.com/bestboard/92731523</id>
-        <link href="https://extmovie.com/bestboard/92731523"/>
-        <updated>2024-12-26T13:20:18.661Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2731point (48%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
     </entry>
 </feed>

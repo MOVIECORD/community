@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-27T06:20:14.117Z</updated>
+    <updated>2024-12-27T07:14:17.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이터널선샤인] 영원불멸의 명작]]></title>
+        <id>https://extmovie.com/movietalk/92733011?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92733011?category=61633579"/>
+        <updated>2024-12-27T07:14:10.182Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14655point (75%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[위키드] 샤롯데 프라이빗관 후기]]></title>
         <id>https://extmovie.com/movietalk/92732708?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92732708?category=61633579"/>
         <updated>2024-12-27T05:13:47.587Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14637point (74%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14655point (75%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[총을 든 스님 익무 시사 후기(강추)]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92731524?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92731524?category=61633579"/>
         <updated>2024-12-26T12:27:13.293Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14637point (74%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14655point (75%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오징어 게임 2 리뷰(스포)]]></title>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/92727257?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92727257?category=61633579"/>
         <updated>2024-12-24T11:12:03.931Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41889point (56%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41890point (56%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(노스포)하얼빈 간단 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92724268?category=61633579"/>
         <updated>2024-12-23T12:27:34.549Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2719point (47%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[줄리엣,네이키드]간단리뷰-스포x]]></title>
-        <id>https://extmovie.com/movietalk/92724169?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92724169?category=61633579"/>
-        <updated>2024-12-23T10:16:13.606Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7181point (92%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
     </entry>
 </feed>

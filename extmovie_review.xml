@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-27T15:14:04.563Z</updated>
+    <updated>2024-12-27T16:16:43.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 후기 - 이해불가 캐스팅과 미움받을 용기]]></title>
+        <id>https://extmovie.com/movietalk/92734024?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92734024?category=61633579"/>
+        <updated>2024-12-27T16:16:35.531Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2139point (78%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<알 파치노의 은밀한 관계>를 보고 나서 (스포 X) - ...]]></title>
         <id>https://extmovie.com/movietalk/92733865?category=61633579</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92724926?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92724926?category=61633579"/>
         <updated>2024-12-23T16:17:15.732Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2127point (75%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<동경 이야기(1953)> 단평]]></title>
-        <id>https://extmovie.com/movietalk/92724521?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92724521?category=61633579"/>
-        <updated>2024-12-23T14:13:16.671Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:797point (86%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2139point (78%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-28T02:42:25.428Z</updated>
+    <updated>2024-12-28T03:17:37.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://extmovie.com/bestboard/92733944</id>
         <link href="https://extmovie.com/bestboard/92733944"/>
         <updated>2024-12-28T02:42:11.007Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:169352point (31%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:169377point (31%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[★★ 여러분들이 뽑으시는 올해 2024년도 최고의 드라마는? ★★]]></title>
@@ -123,6 +123,13 @@
         <link href="https://extmovie.com/bestboard/92733213"/>
         <updated>2024-12-27T13:19:32.844Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4125806point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화제성無인데..반전의 [소방관] 24일만 300만 돌파]]></title>
+        <id>https://extmovie.com/bestboard/92733131</id>
+        <link href="https://extmovie.com/bestboard/92733131"/>
+        <updated>2024-12-28T03:17:22.193Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:585876point (29%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오징어 게임 2] 호불호 후기 모음]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/bestboard/92732349</id>
         <link href="https://extmovie.com/bestboard/92732349"/>
         <updated>2024-12-27T05:13:39.007Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41348point (42%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41350point (42%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임' 시즌 2 로튼 리뷰 번역(신선도 85%)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92732041"/>
         <updated>2024-12-27T08:18:40.493Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:12962point (0%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오징어 게임 2] 로튼 토마토 프레시 인증]]></title>
-        <id>https://extmovie.com/bestboard/92732013</id>
-        <link href="https://extmovie.com/bestboard/92732013"/>
-        <updated>2024-12-27T02:45:07.649Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:585876point (29%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

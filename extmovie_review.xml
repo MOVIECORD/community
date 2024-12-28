@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-28T13:17:33.747Z</updated>
+    <updated>2024-12-28T14:11:56.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금까지 상영관에서 몸과 정신이 힘들었던 영화 3편]]></title>
+        <id>https://extmovie.com/movietalk/92735515?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92735515?category=61633579"/>
+        <updated>2024-12-28T14:11:48.795Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2157point (81%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시빌 워: 분열의 시대 후기.스포]]></title>
         <id>https://extmovie.com/movietalk/92735356?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92735356?category=61633579"/>
         <updated>2024-12-28T11:10:36.845Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7703point (24%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">교회터는주지스님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7705point (24%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">교회터는주지스님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왓 이프 시즌 3 에피소드 7 리뷰(스포)]]></title>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92734906?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92734906?category=61633579"/>
         <updated>2024-12-28T05:13:09.890Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7703point (24%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">교회터는주지스님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7705point (24%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">교회터는주지스님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수퍼맨 (1978) 수퍼히어로 모든것의 시작. 스포일러 있음.]]></title>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/movietalk/92734024?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92734024?category=61633579"/>
         <updated>2024-12-27T16:16:35.531Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2147point (79%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2157point (81%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<알 파치노의 은밀한 관계>를 보고 나서 (스포 X) - ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92726383?category=61633579"/>
         <updated>2024-12-24T07:13:27.487Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8230point (54%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직히 하얼빈 재미는 없었습니다]]></title>
-        <id>https://extmovie.com/movietalk/92726319?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92726319?category=61633579"/>
-        <updated>2024-12-24T06:20:04.618Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:438point (8%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뭉실리뷰]]></content>
     </entry>
 </feed>

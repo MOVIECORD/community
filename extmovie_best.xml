@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-29T21:12:21.862Z</updated>
+    <updated>2024-12-29T22:13:05.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92737357"/>
         <updated>2024-12-29T20:14:09.798Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126207point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 날이 그래서 한없이 우울해지네요.]]></title>
+        <id>https://extmovie.com/bestboard/92737198</id>
+        <link href="https://extmovie.com/bestboard/92737198"/>
+        <updated>2024-12-29T22:12:50.895Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24404point (45%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 실사 영화 근황 연말 정산]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92735449"/>
         <updated>2024-12-28T15:12:56.696Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398798point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포) 오겜2 7화 무삭제 개정판 업로드]]></title>
-        <id>https://extmovie.com/bestboard/92735441</id>
-        <link href="https://extmovie.com/bestboard/92735441"/>
-        <updated>2024-12-28T15:12:56.699Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26437point (13%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤레이드]]></content>
     </entry>
 </feed>

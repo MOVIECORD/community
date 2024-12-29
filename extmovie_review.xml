@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-29T10:14:20.209Z</updated>
+    <updated>2024-12-29T11:10:42.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[< 총을 든 스님> 후기]]></title>
+        <id>https://extmovie.com/movietalk/92737042?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92737042?category=61633579"/>
+        <updated>2024-12-29T11:10:34.774Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160348point (1%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아크맨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<소곤소곤 별>을 보고 나서 (스포 O, 비추천) - 소노 ...]]></title>
         <id>https://extmovie.com/movietalk/92736974?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92727302?category=61633579"/>
         <updated>2024-12-24T11:12:03.926Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3729point (41%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<크리스마스 특선> 이스턴 프라미스(2007)]]></title>
-        <id>https://extmovie.com/movietalk/92727257?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92727257?category=61633579"/>
-        <updated>2024-12-24T11:12:03.931Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41894point (56%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해리엔젤]]></content>
     </entry>
 </feed>

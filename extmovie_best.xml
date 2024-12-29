@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-29T20:14:23.964Z</updated>
+    <updated>2024-12-29T21:12:21.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,14 @@
         <id>https://extmovie.com/bestboard/92737151</id>
         <link href="https://extmovie.com/bestboard/92737151"/>
         <updated>2024-12-29T16:15:51.758Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2769point (52%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2771point (52%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 2 - 드라마의 본질은 보존하고 있다. 스포일러 있음.]]></title>
+        <id>https://extmovie.com/bestboard/92735749</id>
+        <link href="https://extmovie.com/bestboard/92735749"/>
+        <updated>2024-12-29T21:12:05.795Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:60163point (87%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스, 작가들에게 ‘시청자가 다른 일을 하더라도 줄거리를 따라갈 ...]]></title>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/92736865</id>
         <link href="https://extmovie.com/bestboard/92736865"/>
         <updated>2024-12-29T13:16:47.533Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:104017point (80%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:104019point (80%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<오징어 게임 2>에서 인상 깊었던]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92735441"/>
         <updated>2024-12-28T15:12:56.699Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26437point (13%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤레이드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채수빈 내 조카 드라마 데뷔라니]]></title>
-        <id>https://extmovie.com/bestboard/92735412</id>
-        <link href="https://extmovie.com/bestboard/92735412"/>
-        <updated>2024-12-29T08:17:04.136Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:415181point (75%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
 </feed>

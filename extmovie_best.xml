@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-29T11:10:42.243Z</updated>
+    <updated>2024-12-29T12:24:39.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(※내용 언급) <오징어 게임 2> 채경선 미술감독 인디와이어 인터...]]></title>
+        <id>https://extmovie.com/bestboard/92736700</id>
+        <link href="https://extmovie.com/bestboard/92736700"/>
+        <updated>2024-12-29T12:24:23.293Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398796point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임 2' 전 세계 93개국 차트 1위, 해외 반응 모음]]></title>
         <id>https://extmovie.com/bestboard/92736547</id>
@@ -202,6 +209,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:41502point (46%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">방랑야인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<위키드> 200만 관객 돌파]]></title>
+        <id>https://extmovie.com/bestboard/92734920</id>
+        <link href="https://extmovie.com/bestboard/92734920"/>
+        <updated>2024-12-29T12:24:23.335Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:203375point (22%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(스포) 해외에서 반응 좋은 '오징어 게임' 탑 장면..]]></title>
         <id>https://extmovie.com/bestboard/92734912</id>
         <link href="https://extmovie.com/bestboard/92734912"/>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92734699"/>
         <updated>2024-12-29T11:10:26.255Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3680point (37%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Johnnyboy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<로미오와 줄리엣> 올리비아 핫세 별세... 향년 73세]]></title>
-        <id>https://extmovie.com/bestboard/92734611</id>
-        <link href="https://extmovie.com/bestboard/92734611"/>
-        <updated>2024-12-28T09:13:07.280Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44519point (23%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오겜2 스포) 강하늘이 제 친구를 소재로 쓴거였네요...]]></title>
-        <id>https://extmovie.com/bestboard/92734603</id>
-        <link href="https://extmovie.com/bestboard/92734603"/>
-        <updated>2024-12-28T06:18:29.218Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26437point (13%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">샤레이드]]></content>
     </entry>
 </feed>

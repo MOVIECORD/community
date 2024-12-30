@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-30T15:14:52.345Z</updated>
+    <updated>2024-12-30T16:17:11.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보고타 시사회 후기]]></title>
+        <id>https://extmovie.com/movietalk/92739434?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92739434?category=61633579"/>
+        <updated>2024-12-30T16:17:04.179Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:14point (3%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">끌리면봅니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데드데드 데몬즈 디디디디 디트랙션 자세한후기]]></title>
         <id>https://extmovie.com/movietalk/92739397?category=61633579</id>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/movietalk/92728796?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92728796?category=61633579"/>
         <updated>2024-12-25T06:20:16.940Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398934point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1398940point (98%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영화리뷰] <아들들(Sons, 2024)> : 영화가 우리에게 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92727992?category=61633579"/>
         <updated>2024-12-24T17:12:15.058Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14269point (58%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<6번 칸>을 보고 나서 (스포 O) - 유리 보리소프 주연...]]></title>
-        <id>https://extmovie.com/movietalk/92727876?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92727876?category=61633579"/>
-        <updated>2024-12-24T16:16:50.391Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19141point (57%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-31T19:11:21.363Z</updated>
+    <updated>2024-12-31T20:14:57.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024년 12월 31일 국내 박스오피스 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -51,6 +51,13 @@
         <id>https://extmovie.com/bestboard/92740995</id>
         <link href="https://extmovie.com/bestboard/92740995"/>
         <updated>2024-12-31T12:26:59.603Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4641077point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 오스카상 작품상 최우선 후보는 존재하는가 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92740829</id>
+        <link href="https://extmovie.com/bestboard/92740829"/>
+        <updated>2024-12-31T20:14:42.009Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4641077point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -241,13 +248,6 @@
         <link href="https://extmovie.com/bestboard/92738466"/>
         <updated>2024-12-30T12:27:13.733Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399019point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미키 17' 개봉일 세번째 연기, 라이언 쿠글러 '시너즈... (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92738216</id>
-        <link href="https://extmovie.com/bestboard/92738216"/>
-        <updated>2024-12-30T12:27:13.733Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4641077point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 12월 31일 국내 박스오피스 (익스트림무비 ─ 영화정보)]]></title>

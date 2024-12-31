@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-31T14:13:08.818Z</updated>
+    <updated>2024-12-31T15:13:58.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하얼빈을 보고]]></title>
+        <id>https://extmovie.com/movietalk/92741929?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92741929?category=61633579"/>
+        <updated>2024-12-31T15:13:50.983Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:15088point (94%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무파사: 라이온 킹을 보고]]></title>
+        <id>https://extmovie.com/movietalk/92741918?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92741918?category=61633579"/>
+        <updated>2024-12-31T15:13:50.983Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:15088point (94%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<보고타>, <시빌 워> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/92741547?category=61633579</id>
@@ -17,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92741459?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92741459?category=61633579"/>
         <updated>2024-12-31T10:14:53.410Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2802point (55%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2804point (55%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단평][노스포] 보고타 마지막 기회의 땅 - 굳이 해외여야 ...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92729584?category=61633579"/>
         <updated>2024-12-25T15:13:53.525Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19155point (58%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓이프 시즌3 에피소드 3,4 리뷰(스포)]]></title>
-        <id>https://extmovie.com/movietalk/92729361?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92729361?category=61633579"/>
-        <updated>2024-12-25T13:19:35.024Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2775point (53%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['평화' '독립' 꿈꾼 안중근이 2024년에...]]></title>
-        <id>https://extmovie.com/movietalk/92728796?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92728796?category=61633579"/>
-        <updated>2024-12-25T06:20:16.940Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399017point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

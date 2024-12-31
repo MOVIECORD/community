@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-31T21:13:18.248Z</updated>
+    <updated>2024-12-31T22:13:17.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -34,11 +34,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2804point (55%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[올해의 영화, 드라마 투표 결과입니다. 참여해주셔서 정말 감사합니다~]]></title>
+        <id>https://extmovie.com/bestboard/92741378</id>
+        <link href="https://extmovie.com/bestboard/92741378"/>
+        <updated>2024-12-31T22:13:01.452Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16386point (48%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스티븐킴]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SBS 드라마 [모래시계] 1월 1일 넷플릭스 공개예정]]></title>
         <id>https://extmovie.com/bestboard/92741373</id>
         <link href="https://extmovie.com/bestboard/92741373"/>
         <updated>2024-12-31T16:16:34.625Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1411861point (11%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1411962point (11%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시빌 워 ..지리네요]]></title>
@@ -74,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/92740661"/>
         <updated>2024-12-31T08:18:30.808Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8333point (60%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">블루레이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보고타: 마지막 기회의 땅 단평 후기]]></title>
+        <id>https://extmovie.com/bestboard/92740423</id>
+        <link href="https://extmovie.com/bestboard/92740423"/>
+        <updated>2024-12-31T22:13:01.464Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8024point (42%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비티켓]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말레이지아 '오징어게임 2' 풍경들]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92738550"/>
         <updated>2024-12-30T13:21:32.670Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4641077point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스기이 기사부로가 말하는 일본 애니메이션의 과거, 현재, 미래]]></title>
-        <id>https://extmovie.com/bestboard/92738432</id>
-        <link href="https://extmovie.com/bestboard/92738432"/>
-        <updated>2024-12-31T06:19:38.427Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26112point (3%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">중복걸리려나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘하얼빈’ 느리고 어둡다고요?”]]></title>
-        <id>https://extmovie.com/bestboard/92738466</id>
-        <link href="https://extmovie.com/bestboard/92738466"/>
-        <updated>2024-12-30T12:27:13.733Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399019point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

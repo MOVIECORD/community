@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2024-12-31T18:18:28.808Z</updated>
+    <updated>2024-12-31T19:11:21.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 12월 31일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92741934</id>
+        <link href="https://extmovie.com/bestboard/92741934"/>
+        <updated>2024-12-31T19:11:06.555Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126590point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<보고타>, <시빌 워> 봤어요]]></title>
+        <id>https://extmovie.com/bestboard/92741547</id>
+        <link href="https://extmovie.com/bestboard/92741547"/>
+        <updated>2024-12-31T19:11:06.575Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399019point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(※내용 언급 주의) <오징어 게임 2>의 5가지 주요 질문]]></title>
         <id>https://extmovie.com/bestboard/92741477</id>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92738216"/>
         <updated>2024-12-30T12:27:13.733Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4641077point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 건, 왜 지금 세계가 수퍼맨을 필요로 하는지 언급 - 스크린랜트]]></title>
-        <id>https://extmovie.com/bestboard/92738380</id>
-        <link href="https://extmovie.com/bestboard/92738380"/>
-        <updated>2024-12-31T17:12:08.969Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4641077point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헐크가 '오징어 게임'에 참가하면 생기는 일]]></title>
-        <id>https://extmovie.com/bestboard/92738231</id>
-        <link href="https://extmovie.com/bestboard/92738231"/>
-        <updated>2024-12-30T09:15:34.922Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399019point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

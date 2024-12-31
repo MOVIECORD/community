@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2024-12-31T06:19:54.388Z</updated>
+    <updated>2024-12-31T07:13:35.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단평][노스포] 보고타 마지막 기회의 땅 - 굳이 해외여야 ...]]></title>
+        <id>https://extmovie.com/movietalk/92740964?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92740964?category=61633579"/>
+        <updated>2024-12-31T07:13:28.184Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38260point (61%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오징어게임2] 정말 별로였습니다 😑 (스포)]]></title>
         <id>https://extmovie.com/movietalk/92740615?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92728368?category=61633579"/>
         <updated>2024-12-25T02:43:44.663Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:621point (48%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첩혈쌍웅 리메이크]]></title>
-        <id>https://extmovie.com/movietalk/92728264?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92728264?category=61633579"/>
-        <updated>2024-12-24T23:13:14.617Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:5871point (7%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바람계곡]]></content>
     </entry>
 </feed>

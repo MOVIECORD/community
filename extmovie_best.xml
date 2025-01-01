@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-01T21:13:54.579Z</updated>
+    <updated>2025-01-01T22:13:22.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 1월 1일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92743839</id>
+        <link href="https://extmovie.com/bestboard/92743839"/>
+        <updated>2025-01-01T22:13:06.765Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126856point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(루머) 이정재 다른 MCU 역 논의중]]></title>
         <id>https://extmovie.com/bestboard/92743433</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/bestboard/92743555</id>
         <link href="https://extmovie.com/bestboard/92743555"/>
         <updated>2025-01-01T15:14:37.015Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126854point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126856point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[하얼빈] 300만 관객 돌파 기념 스페셜 포스터]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/92742761</id>
         <link href="https://extmovie.com/bestboard/92742761"/>
         <updated>2025-01-01T08:18:11.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126854point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126856point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1월 4일과 5일, 무료 Apple TV+에서 시청 가능한 영화들]]></title>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/92741934</id>
         <link href="https://extmovie.com/bestboard/92741934"/>
         <updated>2024-12-31T19:11:06.555Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126854point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4126856point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하얼빈을 보고]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92741297"/>
         <updated>2025-01-01T01:11:28.620Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44659point (27%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCU 타임라인]]></title>
-        <id>https://extmovie.com/bestboard/92741150</id>
-        <link href="https://extmovie.com/bestboard/92741150"/>
-        <updated>2024-12-31T23:13:40.119Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:443point (9%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">플로쿤]]></content>
     </entry>
 </feed>

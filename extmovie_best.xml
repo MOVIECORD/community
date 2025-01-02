@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-02T21:13:03.897Z</updated>
+    <updated>2025-01-02T22:13:39.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -38,6 +38,13 @@
         <id>https://extmovie.com/bestboard/92745411</id>
         <link href="https://extmovie.com/bestboard/92745411"/>
         <updated>2025-01-02T16:17:34.161Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4642667point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올리버 스톤 감독의 24년 최고작은 '위키드']]></title>
+        <id>https://extmovie.com/bestboard/92745308</id>
+        <link href="https://extmovie.com/bestboard/92745308"/>
+        <updated>2025-01-02T22:13:25.358Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4642667point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -116,6 +123,13 @@
         <link href="https://extmovie.com/bestboard/92744394"/>
         <updated>2025-01-02T09:14:40.536Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4642667point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스포x] 시빌워:분열의 시대 관람 후기(송돌비)]]></title>
+        <id>https://extmovie.com/bestboard/92744347</id>
+        <link href="https://extmovie.com/bestboard/92744347"/>
+        <updated>2025-01-02T22:13:25.371Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14543point (70%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">순하다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디카프리오 '오징어 게임 3' 출연 루머 해외 기사 일부]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/92743555</id>
         <link href="https://extmovie.com/bestboard/92743555"/>
         <updated>2025-01-01T15:14:37.015Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127014point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하얼빈] 300만 관객 돌파 기념 스페셜 포스터]]></title>
-        <id>https://extmovie.com/bestboard/92743446</id>
-        <link href="https://extmovie.com/bestboard/92743446"/>
-        <updated>2025-01-01T17:12:06.222Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:586307point (31%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시빌 워: 분열의 시대' IMDb 트리비아 번역]]></title>
-        <id>https://extmovie.com/bestboard/92743384</id>
-        <link href="https://extmovie.com/bestboard/92743384"/>
-        <updated>2025-01-02T01:05:07.891Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127014point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-01-03T12:27:15.236Z</updated>
+    <updated>2025-01-03T13:20:32.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전문가가 분석한 영화 <라이온 킹>]]></title>
+        <id>https://extmovie.com/movietalk/92747548?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92747548?category=21915420"/>
+        <updated>2025-01-03T13:20:20.834Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399222point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1925년 소설 '벙어리 삼룡이' 관련 무료 공개작들...]]></title>
         <id>https://extmovie.com/movietalk/92747496?category=21915420</id>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/92745205?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92745205?category=21915420"/>
         <updated>2025-01-02T08:18:11.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399197point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399222point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앤드류 가필드 GQ 화보, 인터뷰 - 마틴 스콜세지 신작 예수...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92745103?category=21915420"/>
         <updated>2025-01-02T07:14:01.807Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4643257point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ가 올해 준비 중인 단 3편의 영화]]></title>
-        <id>https://extmovie.com/movietalk/92744877?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92744877?category=21915420"/>
-        <updated>2025-01-02T06:20:22.881Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1058point (56%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소보로단팥빵]]></content>
     </entry>
 </feed>

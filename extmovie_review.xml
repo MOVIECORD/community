@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-03T17:12:44.793Z</updated>
+    <updated>2025-01-03T18:19:14.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데드데드 데몬즈 디디디디 디스트럭션] 시사 후기]]></title>
+        <id>https://extmovie.com/movietalk/92747839?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92747839?category=61633579"/>
+        <updated>2025-01-03T18:19:08.182Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160373point (1%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아크맨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<말콤 X>를 보고 나서 (스포 O, 추천) - 스파이크 리 ...]]></title>
         <id>https://extmovie.com/movietalk/92747756?category=61633579</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92737042?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92737042?category=61633579"/>
         <updated>2024-12-29T11:10:34.774Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160360point (1%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아크맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160373point (1%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아크맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<소곤소곤 별>을 보고 나서 (스포 O, 비추천) - 소노 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92735515?category=61633579"/>
         <updated>2024-12-28T14:11:48.795Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2238point (97%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시빌 워: 분열의 시대 후기.스포]]></title>
-        <id>https://extmovie.com/movietalk/92735356?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92735356?category=61633579"/>
-        <updated>2024-12-28T11:10:36.845Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7719point (25%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">교회터는주지스님]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-03T17:12:44.789Z</updated>
+    <updated>2025-01-03T18:19:14.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92747336"/>
         <updated>2025-01-03T14:13:00.522Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127243point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오징어 게임2’ 넷플릭스에 제작 비하인드 공개… 한국 최초]]></title>
+        <id>https://extmovie.com/bestboard/92747132</id>
+        <link href="https://extmovie.com/bestboard/92747132"/>
+        <updated>2025-01-03T18:19:00.346Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1060point (57%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소보로단팥빵]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임2 최고 인기캐릭터는 타노스?]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92744590"/>
         <updated>2025-01-02T09:14:40.536Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43801point (5%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김형서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성훈 AV 사진 논란에 [폭군] 대본 리딩 취소? "국가애도기간이...]]></title>
-        <id>https://extmovie.com/bestboard/92744534</id>
-        <link href="https://extmovie.com/bestboard/92744534"/>
-        <updated>2025-01-02T06:20:18.999Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:586322point (31%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-01-03T16:17:18.353Z</updated>
+    <updated>2025-01-03T17:12:44.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DCU [크리처 코맨도스] 인트로]]></title>
+        <id>https://extmovie.com/movietalk/92747831?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92747831?category=21915420"/>
+        <updated>2025-01-03T17:12:33.133Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:459point (12%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">플로쿤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 1월 3일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/92747677?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92745205?category=21915420"/>
         <updated>2025-01-02T08:18:11.794Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399232point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤드류 가필드 GQ 화보, 인터뷰 - 마틴 스콜세지 신작 예수...]]></title>
-        <id>https://extmovie.com/movietalk/92745141?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92745141?category=21915420"/>
-        <updated>2025-01-02T08:18:11.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4643426point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

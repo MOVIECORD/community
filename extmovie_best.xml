@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-04T18:17:54.804Z</updated>
+    <updated>2025-01-04T19:11:01.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -31,6 +31,13 @@
         <id>https://extmovie.com/bestboard/92748351</id>
         <link href="https://extmovie.com/bestboard/92748351"/>
         <updated>2025-01-04T16:15:38.145Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4643921point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 ‘오징어게임’ 시즌 2 프로필 아이콘 등록]]></title>
+        <id>https://extmovie.com/bestboard/92748281</id>
+        <link href="https://extmovie.com/bestboard/92748281"/>
+        <updated>2025-01-04T19:10:47.002Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4643921point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -150,14 +157,14 @@
         <id>https://extmovie.com/bestboard/92747549</id>
         <link href="https://extmovie.com/bestboard/92747549"/>
         <updated>2025-01-03T22:13:06.008Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399287point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399289point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전문가가 분석한 영화 <라이온 킹>]]></title>
         <id>https://extmovie.com/bestboard/92747548</id>
         <link href="https://extmovie.com/bestboard/92747548"/>
         <updated>2025-01-04T11:11:05.044Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399287point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399289point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[25년 첫 해맞이 간 모리 나나(01년생 뱀띠 스타)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92746691"/>
         <updated>2025-01-03T09:14:54.445Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4643921point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해리포터' 연출할 뻔했다는 데이비드 핀처]]></title>
-        <id>https://extmovie.com/bestboard/92746489</id>
-        <link href="https://extmovie.com/bestboard/92746489"/>
-        <updated>2025-01-03T06:19:34.417Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127367point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

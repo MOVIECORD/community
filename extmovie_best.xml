@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-04T15:13:07.650Z</updated>
+    <updated>2025-01-04T16:15:52.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:586386point (31%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마인크래프트 2 발표.]]></title>
+        <id>https://extmovie.com/bestboard/92748507</id>
+        <link href="https://extmovie.com/bestboard/92748507"/>
+        <updated>2025-01-04T16:15:38.141Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2897point (65%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오징어게임 시즌2 1주차 성적... 미국은 3위, 92개국은 1위]]></title>
         <id>https://extmovie.com/bestboard/92748435</id>
         <link href="https://extmovie.com/bestboard/92748435"/>
         <updated>2025-01-04T12:25:05.541Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10062point (56%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘소닉 3‘ 글로벌 3억달러 돌파 - 이미 손익분기 넘어]]></title>
+        <id>https://extmovie.com/bestboard/92748351</id>
+        <link href="https://extmovie.com/bestboard/92748351"/>
+        <updated>2025-01-04T16:15:38.145Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4643921point (28%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정녕 마지막이란 말인가?]]></title>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/92746489</id>
         <link href="https://extmovie.com/bestboard/92746489"/>
         <updated>2025-01-03T06:19:34.417Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127367point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[페라리] 씨네21 20자평]]></title>
-        <id>https://extmovie.com/bestboard/92746391</id>
-        <link href="https://extmovie.com/bestboard/92746391"/>
-        <updated>2025-01-03T05:13:38.092Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:586386point (31%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 공개되는 할리우드 영화들 제목 로고 모음]]></title>
-        <id>https://extmovie.com/bestboard/92746305</id>
-        <link href="https://extmovie.com/bestboard/92746305"/>
-        <updated>2025-01-03T06:19:34.421Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127367point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

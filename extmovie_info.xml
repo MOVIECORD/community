@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-01-06T10:16:16.882Z</updated>
+    <updated>2025-01-06T11:11:53.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1952년 소설 '에덴의 동쪽' 실사판 (1955) 무료 ...]]></title>
+        <id>https://extmovie.com/movietalk/92753003?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92753003?category=21915420"/>
+        <updated>2025-01-06T11:11:42.775Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20858point (21%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그레이트박]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<노스페라투> 속 디테일 살펴보기]]></title>
         <id>https://extmovie.com/movietalk/92752811?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92751314?category=21915420"/>
         <updated>2025-01-06T01:08:40.847Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4127804point (25%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메 골든 글로브 사진]]></title>
-        <id>https://extmovie.com/movietalk/92751301?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92751301?category=21915420"/>
-        <updated>2025-01-06T10:16:04.798Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:586507point (32%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

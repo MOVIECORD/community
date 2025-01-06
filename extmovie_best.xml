@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-06T17:12:51.161Z</updated>
+    <updated>2025-01-06T18:19:29.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92753168"/>
         <updated>2025-01-06T17:12:34.962Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4645713point (29%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요시자와 료, 술 취한 상태에서 이웃집 무단 침입 사과]]></title>
+        <id>https://extmovie.com/bestboard/92753178</id>
+        <link href="https://extmovie.com/bestboard/92753178"/>
+        <updated>2025-01-06T18:19:13.468Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399493point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고현정...건강 문제 있음]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92750601"/>
         <updated>2025-01-06T02:51:36.893Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:31342point (65%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">네버랜드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준에게 한방 먹은 일본 개그맨]]></title>
-        <id>https://extmovie.com/bestboard/92750613</id>
-        <link href="https://extmovie.com/bestboard/92750613"/>
-        <updated>2025-01-05T23:13:10.799Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399493point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-06T16:17:56.258Z</updated>
+    <updated>2025-01-06T17:12:51.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤어 스타일리스트가 올린 단발 엠마스톤]]></title>
+        <id>https://extmovie.com/bestboard/92753168</id>
+        <link href="https://extmovie.com/bestboard/92753168"/>
+        <updated>2025-01-06T17:12:34.962Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4645713point (29%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고현정...건강 문제 있음]]></title>
         <id>https://extmovie.com/bestboard/92753085</id>
         <link href="https://extmovie.com/bestboard/92753085"/>
         <updated>2025-01-06T15:15:04.223Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43194point (90%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43196point (90%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데이비드 핀처 <세븐>의 충격적 결말과 "그 상자"의 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92750613"/>
         <updated>2025-01-05T23:13:10.799Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399493point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최승현 캐스팅한 황동혁 감독 "이렇게 두드려 맞았는데 어떻게 또...]]></title>
-        <id>https://extmovie.com/bestboard/92750479</id>
-        <link href="https://extmovie.com/bestboard/92750479"/>
-        <updated>2025-01-05T13:17:11.317Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:586507point (32%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

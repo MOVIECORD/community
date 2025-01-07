@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-07T01:06:06.016Z</updated>
+    <updated>2025-01-07T02:48:02.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데드데드 데몬즈 디디디디 디스트럭션 파트1]시사회 간단리...]]></title>
+        <id>https://extmovie.com/movietalk/92753743?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92753743?category=61633579"/>
+        <updated>2025-01-07T02:47:55.599Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7201point (94%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<폭로>를 보고 나서 (스포 X) - 마이클 더글라스, 데...]]></title>
         <id>https://extmovie.com/movietalk/92753236?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92736974?category=61633579"/>
         <updated>2024-12-29T10:14:12.749Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19522point (72%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하얼빈....차가우면서도 강렬한 파란 불꽃같은 영화]]></title>
-        <id>https://extmovie.com/movietalk/92736873?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92736873?category=61633579"/>
-        <updated>2024-12-29T09:12:51.493Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21200point (34%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-07T20:15:16.298Z</updated>
+    <updated>2025-01-07T21:13:31.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92754160"/>
         <updated>2025-01-07T11:11:44.165Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:231point (57%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jlgreeny]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 폴: 디렉스터 컷 - 초간단 후기]]></title>
+        <id>https://extmovie.com/bestboard/92754110</id>
+        <link href="https://extmovie.com/bestboard/92754110"/>
+        <updated>2025-01-07T21:13:16.089Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:289351point (64%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정재 & 황동혁 감독 - 세계팬들에게 '오징어게임' 시...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92752692"/>
         <updated>2025-01-07T01:05:49.857Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:203970point (26%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간중독 봄? ㄷ ㄷ 이번주 무료영화]]></title>
-        <id>https://extmovie.com/bestboard/92752658</id>
-        <link href="https://extmovie.com/bestboard/92752658"/>
-        <updated>2025-01-07T04:16:20.623Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:10point (2%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eleldl]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-07T18:20:26.692Z</updated>
+    <updated>2025-01-07T19:11:39.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -223,6 +223,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4647039point (29%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[문가영 최현욱 그놈은 흑염룡 대본리딩]]></title>
+        <id>https://extmovie.com/bestboard/92752871</id>
+        <link href="https://extmovie.com/bestboard/92752871"/>
+        <updated>2025-01-07T19:11:23.321Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:416807point (84%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['크레이븐 더 헌터' 글로벌 5천9백만달러로 종영, SSU 최악 ...]]></title>
         <id>https://extmovie.com/bestboard/92752788</id>
         <link href="https://extmovie.com/bestboard/92752788"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92752658"/>
         <updated>2025-01-07T04:16:20.623Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:10point (2%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">eleldl]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) 알고보니 시즌1에서 시즌2 스포한 이정재]]></title>
-        <id>https://extmovie.com/bestboard/92752588</id>
-        <link href="https://extmovie.com/bestboard/92752588"/>
-        <updated>2025-01-06T11:11:38.760Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4647039point (29%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

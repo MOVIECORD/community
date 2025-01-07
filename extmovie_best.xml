@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-07T21:13:31.849Z</updated>
+    <updated>2025-01-07T22:13:51.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -234,7 +234,14 @@
         <id>https://extmovie.com/bestboard/92752871</id>
         <link href="https://extmovie.com/bestboard/92752871"/>
         <updated>2025-01-07T19:11:23.321Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:416807point (84%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/47.gif" alt="[레벨:47]" title="포인트:416809point (84%), 레벨:47/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해리포터 스타벅스 MD 컬렉션]]></title>
+        <id>https://extmovie.com/bestboard/92752757</id>
+        <link href="https://extmovie.com/bestboard/92752757"/>
+        <updated>2025-01-07T22:13:37.430Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4647039point (29%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['크레이븐 더 헌터' 글로벌 5천9백만달러로 종영, SSU 최악 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92752788"/>
         <updated>2025-01-06T14:13:22.394Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4647039point (29%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월의 돌비시네마]]></title>
-        <id>https://extmovie.com/bestboard/92752692</id>
-        <link href="https://extmovie.com/bestboard/92752692"/>
-        <updated>2025-01-07T01:05:49.857Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:203970point (26%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

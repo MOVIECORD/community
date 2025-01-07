@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-07T04:16:36.115Z</updated>
+    <updated>2025-01-07T05:14:39.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) 존 오브 인터레스트(zone of interest, 2023) / 조나...]]></title>
+        <id>https://extmovie.com/movietalk/92754099?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92754099?category=61633579"/>
+        <updated>2025-01-07T05:14:32.447Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:24point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영알못입니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스포) 시빌 워(civil war, 2023) / 알렉스 갈랜드]]></title>
+        <id>https://extmovie.com/movietalk/92754097?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92754097?category=61633579"/>
+        <updated>2025-01-07T05:14:32.447Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:24point (6%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영알못입니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데드데드 데몬즈 디디디디 디스트럭션 파트1]시사회 간단리...]]></title>
         <id>https://extmovie.com/movietalk/92753743?category=61633579</id>
@@ -171,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92741547?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92741547?category=61633579"/>
         <updated>2024-12-31T12:27:07.425Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399501point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399503point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(노스포) 시빌워 - 올해 마지막날 본 올해 최고의 영화]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92735749?category=61633579"/>
         <updated>2024-12-29T12:24:31.607Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:60534point (89%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[< 총을 든 스님> 후기]]></title>
-        <id>https://extmovie.com/movietalk/92737042?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92737042?category=61633579"/>
-        <updated>2024-12-29T11:10:34.774Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:160375point (1%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아크맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<소곤소곤 별>을 보고 나서 (스포 O, 비추천) - 소노 ...]]></title>
-        <id>https://extmovie.com/movietalk/92736974?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92736974?category=61633579"/>
-        <updated>2024-12-29T10:14:12.749Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19523point (72%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

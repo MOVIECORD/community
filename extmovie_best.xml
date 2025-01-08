@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-08T18:19:39.697Z</updated>
+    <updated>2025-01-08T19:11:46.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1704point (93%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에에올]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[파문 - 초간단 후기]]></title>
+        <id>https://extmovie.com/bestboard/92755339</id>
+        <link href="https://extmovie.com/bestboard/92755339"/>
+        <updated>2025-01-08T19:11:32.041Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:289427point (64%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[넷플릭스 '춤추는 대수사선' 업데이트!]]></title>
         <id>https://extmovie.com/bestboard/92755341</id>
         <link href="https://extmovie.com/bestboard/92755341"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92754273"/>
         <updated>2025-01-07T11:11:44.162Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4648384point (29%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025년 디즈니플러스 오리지널 드라마 라인업✨]]></title>
-        <id>https://extmovie.com/bestboard/92754148</id>
-        <link href="https://extmovie.com/bestboard/92754148"/>
-        <updated>2025-01-08T03:18:44.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1282point (13%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소보로단팥빵]]></content>
     </entry>
 </feed>

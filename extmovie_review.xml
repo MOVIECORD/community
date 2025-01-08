@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-08T06:20:23.275Z</updated>
+    <updated>2025-01-08T07:13:19.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[총을든스님]-시사회 간단리뷰(스포x)]]></title>
+        <id>https://extmovie.com/movietalk/92756547?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92756547?category=61633579"/>
+        <updated>2025-01-08T07:13:11.421Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7215point (95%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파문 시사회 다녀왔습니다.]]></title>
         <id>https://extmovie.com/movietalk/92755987?category=61633579</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92755306?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92755306?category=61633579"/>
         <updated>2025-01-07T15:22:03.539Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:637point (51%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:639point (51%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고딕 호러의 정수를 담은 <노스페라투>]]></title>
@@ -52,7 +59,7 @@
         <id>https://extmovie.com/movietalk/92753743?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92753743?category=61633579"/>
         <updated>2025-01-07T02:47:55.599Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7205point (94%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7215point (95%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<폭로>를 보고 나서 (스포 X) - 마이클 더글라스, 데...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92739434?category=61633579"/>
         <updated>2024-12-30T16:17:04.179Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:30point (7%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">끌리면봅니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데드데드 데몬즈 디디디디 디트랙션 자세한후기]]></title>
-        <id>https://extmovie.com/movietalk/92739397?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92739397?category=61633579"/>
-        <updated>2024-12-30T15:14:44.517Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:647point (53%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ㅋ]]></content>
     </entry>
 </feed>

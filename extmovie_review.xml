@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-08T08:19:07.589Z</updated>
+    <updated>2025-01-08T09:15:30.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<데블스 배스(2024)> 단편 감상문]]></title>
+        <id>https://extmovie.com/movietalk/92747051?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92747051?category=61633579"/>
+        <updated>2025-01-08T09:15:23.570Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:910point (14%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[동화지만 청불입니다] 정말 재미없습니다]]></title>
         <id>https://extmovie.com/movietalk/92756617?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92756617?category=61633579"/>
         <updated>2025-01-08T08:19:00.193Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14843point (83%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14845point (83%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[총을든스님]-시사회 간단리뷰(스포x)]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/92741547?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92741547?category=61633579"/>
         <updated>2024-12-31T12:27:07.425Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399611point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/74.gif" alt="[레벨:74]" title="포인트:1399628point (99%), 레벨:74/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(노스포) 시빌워 - 올해 마지막날 본 올해 최고의 영화]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92740964?category=61633579"/>
         <updated>2024-12-31T07:13:28.184Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38282point (61%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오징어게임2] 정말 별로였습니다 😑 (스포)]]></title>
-        <id>https://extmovie.com/movietalk/92740615?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92740615?category=61633579"/>
-        <updated>2024-12-31T05:13:48.021Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14843point (83%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

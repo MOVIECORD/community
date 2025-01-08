@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-08T12:28:33.666Z</updated>
+    <updated>2025-01-08T13:21:19.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<애니멀 킹덤>을 보고 왔습니다.]]></title>
+        <id>https://extmovie.com/movietalk/92757229?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92757229?category=61633579"/>
+        <updated>2025-01-08T13:21:12.509Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:461point (13%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">막베스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<데블스 배스(2024)> 단편 감상문]]></title>
         <id>https://extmovie.com/movietalk/92747051?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92741459?category=61633579"/>
         <updated>2024-12-31T10:14:53.410Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2806point (56%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단평][노스포] 보고타 마지막 기회의 땅 - 굳이 해외여야 ...]]></title>
-        <id>https://extmovie.com/movietalk/92740964?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92740964?category=61633579"/>
-        <updated>2024-12-31T07:13:28.184Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38287point (61%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-10T09:15:52.488Z</updated>
+    <updated>2025-01-10T10:15:55.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하얼빈 간략 소감]]></title>
+        <id>https://extmovie.com/movietalk/92761114?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92761114?category=61633579"/>
+        <updated>2025-01-10T10:15:48.638Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3937point (59%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">강타자44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포) 악은 존재하지 않는다(悪は存在しない, 2023) / 하마...]]></title>
         <id>https://extmovie.com/movietalk/92760274?category=61633579</id>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92743188?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92743188?category=61633579"/>
         <updated>2025-01-01T10:14:55.810Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14422point (64%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<시빌 워> 불호 - 초점 나간 카메라]]></title>
-        <id>https://extmovie.com/movietalk/92742109?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92742109?category=61633579"/>
-        <updated>2024-12-31T19:11:14.588Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14422point (64%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
 </feed>

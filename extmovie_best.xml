@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-12T04:16:58.731Z</updated>
+    <updated>2025-01-12T05:13:23.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 선을 넘는 글이 계속 올라오네요]]></title>
+        <id>https://extmovie.com/bestboard/92763327</id>
+        <link href="https://extmovie.com/bestboard/92763327"/>
+        <updated>2025-01-12T05:13:06.876Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1361point (28%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">sonnybonnie]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 1월 11일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92762963</id>
@@ -45,14 +52,14 @@
         <id>https://extmovie.com/bestboard/92762699</id>
         <link href="https://extmovie.com/bestboard/92762699"/>
         <updated>2025-01-12T01:12:00.793Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400065point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400071point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라질 미니어처 조가가가 만든 <오징어 게임 2> 타노스 얼굴]]></title>
         <id>https://extmovie.com/bestboard/92762684</id>
         <link href="https://extmovie.com/bestboard/92762684"/>
         <updated>2025-01-11T18:17:42.439Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400065point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400071point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 배우 이윤희 사망]]></title>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/bestboard/92762320</id>
         <link href="https://extmovie.com/bestboard/92762320"/>
         <updated>2025-01-11T10:13:47.338Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400065point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400071point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하얼빈 해외판매로 손익분기점 650만 -> 580만]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92759959"/>
         <updated>2025-01-11T01:05:41.416Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:60963point (92%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오징어 게임> 황동혁 감독, 시즌 2의 비하인드와 주제를 밝히다]]></title>
-        <id>https://extmovie.com/bestboard/92761141</id>
-        <link href="https://extmovie.com/bestboard/92761141"/>
-        <updated>2025-01-10T16:17:45.301Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400065point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

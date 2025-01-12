@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-12T12:25:40.442Z</updated>
+    <updated>2025-01-12T13:17:18.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 애니메이션 아시는 분?? 웰레스와 그로밋 : 복수의 날개 ...]]></title>
+        <id>https://extmovie.com/movietalk/92764537?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92764537?category=61633579"/>
+        <updated>2025-01-12T13:17:10.551Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2295point (4%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화리뷰] <더 폴: 디렉터스 컷(The Fall), 2024 재개봉...]]></title>
         <id>https://extmovie.com/movietalk/92764408?category=61633579</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/92758717?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92758717?category=61633579"/>
         <updated>2025-01-09T09:15:20.427Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2277point (2%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2295point (4%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애니멀 킹덤 시사 후기(티켓 인증)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92746930?category=61633579"/>
         <updated>2025-01-03T08:19:11.024Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54334point (46%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나야,문희 간단후기]]></title>
-        <id>https://extmovie.com/movietalk/92746721?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92746721?category=61633579"/>
-        <updated>2025-01-03T06:19:42.935Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1707point (93%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">에에올]]></content>
     </entry>
 </feed>

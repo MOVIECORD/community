@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-14T07:13:39.386Z</updated>
+    <updated>2025-01-14T08:18:23.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국적 정서로 재해석한 <말할 수 없는 비밀>]]></title>
+        <id>https://extmovie.com/movietalk/92768398?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92768398?category=61633579"/>
+        <updated>2025-01-14T08:18:16.644Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54354point (46%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[파문]간단리뷰(스포x)]]></title>
         <id>https://extmovie.com/movietalk/92767685?category=61633579</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92754459?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92754459?category=61633579"/>
         <updated>2025-01-07T08:19:02.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54334point (46%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54354point (46%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(스포) 존 오브 인터레스트(zone of interest, 2023) / 조나...]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92749011?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92749011?category=61633579"/>
         <updated>2025-01-04T15:13:00.388Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19553point (73%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<페라리>를 보고 나서 (스포 O) - 마이클 만 감독 작품]]></title>
-        <id>https://extmovie.com/movietalk/92748541?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92748541?category=61633579"/>
-        <updated>2025-01-04T11:11:13.465Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19553point (73%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

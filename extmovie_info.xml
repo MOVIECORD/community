@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-01-18T10:13:07.159Z</updated>
+    <updated>2025-01-18T11:10:23.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<반지의 제왕: 로히림의 전쟁> – 카미야마 켄지 감독 ...]]></title>
+        <id>https://extmovie.com/movietalk/92776645?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92776645?category=21915420"/>
+        <updated>2025-01-18T11:10:11.682Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400598point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A24 호러 ‘OPUS’ 첫 캐릭터 포스터 8종]]></title>
         <id>https://extmovie.com/movietalk/92776457?category=21915420</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92776427?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92776427?category=21915420"/>
         <updated>2025-01-18T08:15:59.913Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400583point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400598point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화 원작인 공개작들 ft. 마음의 소리 실사판 (2016)]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/92774888?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92774888?category=21915420"/>
         <updated>2025-01-17T08:17:48.755Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400583point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400598point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[故 '자노 슈와르크' 작품들 공개 중 (1980, 1982,...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92774856?category=21915420"/>
         <updated>2025-01-17T08:17:48.755Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21330point (38%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">그레이트박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['울프 맨' 현재 로튼 58%]]></title>
-        <id>https://extmovie.com/movietalk/92774333?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92774333?category=21915420"/>
-        <updated>2025-01-17T07:12:55.628Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4657340point (31%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

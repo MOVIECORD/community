@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-18T12:23:57.836Z</updated>
+    <updated>2025-01-18T13:15:07.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장도연 스크린 데뷔 - 이욱섭 감독 신작 ‘너의 나라(가제)‘ - 구교환, ...]]></title>
+        <id>https://extmovie.com/bestboard/92776439</id>
+        <link href="https://extmovie.com/bestboard/92776439"/>
+        <updated>2025-01-18T13:14:51.500Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4657344point (31%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치매 투병 중인 브루스 윌리스 LA 산불 구급대원들 격려]]></title>
         <id>https://extmovie.com/bestboard/92776243</id>
         <link href="https://extmovie.com/bestboard/92776243"/>
         <updated>2025-01-18T10:12:51.273Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400613point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400641point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[임청하 누님 리즈시절]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/bestboard/92774551</id>
         <link href="https://extmovie.com/bestboard/92774551"/>
         <updated>2025-01-17T12:25:46.342Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400613point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400641point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 공개 '백 인 액션' 로튼토마토 점수가...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92773676"/>
         <updated>2025-01-17T12:25:46.346Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13241point (12%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이비드 린치 추모글 모음 - 카일 맥라클란, 스티븐 스필버그, 나오미...]]></title>
-        <id>https://extmovie.com/bestboard/92773632</id>
-        <link href="https://extmovie.com/bestboard/92773632"/>
-        <updated>2025-01-17T04:17:39.222Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4657344point (31%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

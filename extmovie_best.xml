@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-18T16:15:20.315Z</updated>
+    <updated>2025-01-18T17:11:06.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92775956"/>
         <updated>2025-01-18T10:12:51.279Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4657352point (31%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플 백인 액션 리뷰]]></title>
+        <id>https://extmovie.com/bestboard/92775949</id>
+        <link href="https://extmovie.com/bestboard/92775949"/>
+        <updated>2025-01-18T17:10:51.059Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19177point (58%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비디렉터]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘글래디에이터 2’ 공식적으로 1편 박스오피스 흥행 앞서]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/92774910</id>
         <link href="https://extmovie.com/bestboard/92774910"/>
         <updated>2025-01-17T16:16:36.136Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19681point (78%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19683point (78%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홍상수 감독 아내는 불륜 김민희 임신 몰랐다]]></title>
@@ -230,24 +237,17 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112382909point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[해외 극장 데이빗 린치 추모 간판 모습]]></title>
+        <id>https://extmovie.com/bestboard/92774183</id>
+        <link href="https://extmovie.com/bestboard/92774183"/>
+        <updated>2025-01-18T17:10:51.104Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4657352point (31%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[데이빗 린치가 대중 앞에 공식적으로 드러낸 마지막 모습]]></title>
         <id>https://extmovie.com/bestboard/92774073</id>
         <link href="https://extmovie.com/bestboard/92774073"/>
         <updated>2025-01-17T06:19:19.295Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:90760point (62%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티븐 킹, 올해 오스카상 취소 촉구]]></title>
-        <id>https://extmovie.com/bestboard/92774014</id>
-        <link href="https://extmovie.com/bestboard/92774014"/>
-        <updated>2025-01-17T05:13:29.238Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:587563point (37%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민희, 홍상수 감독 아이 자연 임신 6개월차]]></title>
-        <id>https://extmovie.com/bestboard/92773968</id>
-        <link href="https://extmovie.com/bestboard/92773968"/>
-        <updated>2025-01-18T16:15:04.689Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4657352point (31%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

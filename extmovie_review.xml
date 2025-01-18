@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-18T03:14:40.743Z</updated>
+    <updated>2025-01-18T04:16:22.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<파벨만스> - 거장의 평범한 탄생기 (스포?)]]></title>
+        <id>https://extmovie.com/movietalk/92722152?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92722152?category=61633579"/>
+        <updated>2025-01-18T04:16:16.247Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8676point (81%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<행복 목욕탕>을 보고 나서 (스포 O, 비추천) - 미야...]]></title>
         <id>https://extmovie.com/movietalk/92775581?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92758717?category=61633579"/>
         <updated>2025-01-09T09:15:20.427Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2331point (8%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니멀 킹덤 시사 후기(티켓 인증)]]></title>
-        <id>https://extmovie.com/movietalk/92757500?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92757500?category=61633579"/>
-        <updated>2025-01-08T23:13:30.964Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:224575point (63%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">stanly]]></content>
     </entry>
 </feed>

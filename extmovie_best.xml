@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-18T20:14:56.111Z</updated>
+    <updated>2025-01-18T21:13:24.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92776427"/>
         <updated>2025-01-18T14:12:11.893Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400661point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검은수녀들 아트카드 실물(변환렌티)]]></title>
+        <id>https://extmovie.com/bestboard/92776263</id>
+        <link href="https://extmovie.com/bestboard/92776263"/>
+        <updated>2025-01-18T21:13:08.303Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:65264point (21%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[치매 투병 중인 브루스 윌리스 LA 산불 구급대원들 격려]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92774251"/>
         <updated>2025-01-17T20:15:21.419Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/99.gif" alt="[레벨:99]" title="포인트:112382909point, 레벨:99/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다크맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 극장 데이빗 린치 추모 간판 모습]]></title>
-        <id>https://extmovie.com/bestboard/92774183</id>
-        <link href="https://extmovie.com/bestboard/92774183"/>
-        <updated>2025-01-18T17:10:51.104Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4657354point (31%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

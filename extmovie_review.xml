@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-20T07:14:59.254Z</updated>
+    <updated>2025-01-20T08:19:29.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독특한 오컬트 <검은 수녀들>]]></title>
+        <id>https://extmovie.com/movietalk/92779518?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92779518?category=61633579"/>
+        <updated>2025-01-20T08:19:22.735Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54386point (47%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<안경>을 보고 나서 (스포 O, 추천) - 오기가미 나오...]]></title>
         <id>https://extmovie.com/movietalk/92776965?category=61633579</id>
@@ -59,7 +66,7 @@
         <id>https://extmovie.com/movietalk/92773207?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92773207?category=61633579"/>
         <updated>2025-01-16T12:26:37.550Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400885point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1400887point (0%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<불량소녀, 너를 응원해 !>를 보고 나서 (스포 O) - ...]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92768398?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92768398?category=61633579"/>
         <updated>2025-01-14T08:18:16.644Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54366point (46%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54386point (47%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[파문]간단리뷰(스포x)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92760274?category=61633579"/>
         <updated>2025-01-10T04:18:02.948Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:122point (30%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영알못입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스트캣 앙주 시사회 후기!]]></title>
-        <id>https://extmovie.com/movietalk/92759315?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92759315?category=61633579"/>
-        <updated>2025-01-09T14:13:20.410Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:47point (11%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">끌리면봅니다]]></content>
     </entry>
 </feed>

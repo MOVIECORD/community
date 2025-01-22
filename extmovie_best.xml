@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-22T16:17:50.351Z</updated>
+    <updated>2025-01-22T17:13:54.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,21 @@
         <id>https://extmovie.com/bestboard/92784170</id>
         <link href="https://extmovie.com/bestboard/92784170"/>
         <updated>2025-01-22T14:13:43.627Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19805point (82%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19807point (83%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콜먼 도밍고, 스티븐 스필버그 '더 디쉬' 각본 읽고 '...]]></title>
+        <id>https://extmovie.com/bestboard/92784030</id>
+        <link href="https://extmovie.com/bestboard/92784030"/>
+        <updated>2025-01-22T17:13:39.873Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4660928point (32%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정이삭 감독 SF '더 트레벌러' 연출 예정 - 상세기사]]></title>
+        <id>https://extmovie.com/bestboard/92784002</id>
+        <link href="https://extmovie.com/bestboard/92784002"/>
+        <updated>2025-01-22T17:13:39.874Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4660928point (32%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로버트 패틴슨 "연기를 거의 접을 뻔했다"]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92781404"/>
         <updated>2025-01-21T09:14:55.295Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4131104point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<데어데블: 본 어게인> 포스터, 예고편 공개]]></title>
-        <id>https://extmovie.com/bestboard/92781264</id>
-        <link href="https://extmovie.com/bestboard/92781264"/>
-        <updated>2025-01-21T17:13:36.288Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:205875point (39%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<미키 17> 봉준호 감독, 로버트 패틴슨 무대인사 사진 공개]]></title>
-        <id>https://extmovie.com/bestboard/92781252</id>
-        <link href="https://extmovie.com/bestboard/92781252"/>
-        <updated>2025-01-21T17:13:36.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:205875point (39%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
 </feed>

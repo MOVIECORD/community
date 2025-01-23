@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-23T17:13:31.392Z</updated>
+    <updated>2025-01-23T18:19:49.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데미 무어...잘 하면 오스카 수상할 수도 ㅎㄷㄷ]]></title>
+        <id>https://extmovie.com/bestboard/92786833</id>
+        <link href="https://extmovie.com/bestboard/92786833"/>
+        <updated>2025-01-23T18:19:33.346Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:43446point (97%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[97회 아카데미상 후보작 정리]]></title>
         <id>https://extmovie.com/bestboard/92786781</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92784155"/>
         <updated>2025-01-23T06:19:11.438Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:289564point (65%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜먼 도밍고, 스티븐 스필버그 '더 디쉬' 각본 읽고 '...]]></title>
-        <id>https://extmovie.com/bestboard/92784030</id>
-        <link href="https://extmovie.com/bestboard/92784030"/>
-        <updated>2025-01-22T17:13:39.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4661860point (32%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

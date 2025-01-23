@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-23T18:19:49.681Z</updated>
+    <updated>2025-01-23T19:12:22.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,6 +24,13 @@
         <id>https://extmovie.com/bestboard/92786586</id>
         <link href="https://extmovie.com/bestboard/92786586"/>
         <updated>2025-01-23T15:14:51.891Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4131397point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개봉 예정 '보더랜드' 로튼 리뷰 업데이트(신선도 10%)]]></title>
+        <id>https://extmovie.com/bestboard/92786525</id>
+        <link href="https://extmovie.com/bestboard/92786525"/>
+        <updated>2025-01-23T19:12:07.896Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4131397point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92784170"/>
         <updated>2025-01-22T14:13:43.627Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19811point (83%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 플러스) 스켈레톤 크루 - 초간단 후기]]></title>
-        <id>https://extmovie.com/bestboard/92784155</id>
-        <link href="https://extmovie.com/bestboard/92784155"/>
-        <updated>2025-01-23T06:19:11.438Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:289564point (65%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
 </feed>

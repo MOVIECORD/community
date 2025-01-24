@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-24T12:26:33.060Z</updated>
+    <updated>2025-01-24T13:19:45.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검은수녀들 - 사흘보다는 괜찮다생각합니다]]></title>
+        <id>https://extmovie.com/movietalk/92789289?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92789289?category=61633579"/>
+        <updated>2025-01-24T13:19:38.178Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:69562point (95%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[약스포] 검은 수녀들 - 메뉴는 많은데 손 가는 건 적은 뷔...]]></title>
         <id>https://extmovie.com/movietalk/92789175?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92767685?category=61633579"/>
         <updated>2025-01-14T02:39:36.888Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7265point (98%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">미라이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<문워크(2025)> 시사회 후기]]></title>
-        <id>https://extmovie.com/movietalk/92766887?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92766887?category=61633579"/>
-        <updated>2025-01-14T01:02:54.232Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1297point (16%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-24T11:12:25.352Z</updated>
+    <updated>2025-01-24T12:26:33.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[약스포] 검은 수녀들 - 메뉴는 많은데 손 가는 건 적은 뷔...]]></title>
+        <id>https://extmovie.com/movietalk/92789175?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92789175?category=61633579"/>
+        <updated>2025-01-24T12:26:25.663Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38418point (65%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<거북이는 의외로 빨리 헤엄친다>를 보고 나서 (스포 ...]]></title>
         <id>https://extmovie.com/movietalk/92789068?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92766887?category=61633579"/>
         <updated>2025-01-14T01:02:54.232Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1297point (16%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문워크] 엄마 숙제 풀어주는 16살 딸램의 특별한 프로젝트]]></title>
-        <id>https://extmovie.com/movietalk/92766934?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92766934?category=61633579"/>
-        <updated>2025-01-13T14:15:02.335Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20485point (8%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">힙합팬]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-25T07:11:52.699Z</updated>
+    <updated>2025-01-25T08:17:16.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(스포) <검은 수녀들> 봤어요]]></title>
+        <id>https://extmovie.com/movietalk/92790589?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92790589?category=61633579"/>
+        <updated>2025-01-25T08:17:09.973Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401339point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<해피 해피 브레드>를 보고 나서 (스포 X)]]></title>
         <id>https://extmovie.com/movietalk/92789580?category=61633579</id>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/movietalk/92773207?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92773207?category=61633579"/>
         <updated>2025-01-16T12:26:37.550Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401292point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401339point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<불량소녀, 너를 응원해 !>를 보고 나서 (스포 O) - ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92768878?category=61633579"/>
         <updated>2025-01-14T11:11:45.638Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:698point (64%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국적 정서로 재해석한 <말할 수 없는 비밀>]]></title>
-        <id>https://extmovie.com/movietalk/92768398?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92768398?category=61633579"/>
-        <updated>2025-01-14T08:18:16.644Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54496point (47%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
 </feed>

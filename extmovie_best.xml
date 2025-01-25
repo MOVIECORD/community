@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-25T16:17:07.545Z</updated>
+    <updated>2025-01-25T17:11:27.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:289613point (65%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[크리스토퍼 놀란 감독 26년전 꽃미남 시절]]></title>
+        <id>https://extmovie.com/bestboard/92789448</id>
+        <link href="https://extmovie.com/bestboard/92789448"/>
+        <updated>2025-01-25T17:11:11.287Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4664072point (32%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<검은 수녀들>을 보고 (스포O)]]></title>
         <id>https://extmovie.com/bestboard/92789435</id>
         <link href="https://extmovie.com/bestboard/92789435"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92788214"/>
         <updated>2025-01-24T12:26:16.955Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4664072point (32%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오징어 게임] 2024년 가장 많이 시청한 시리즈]]></title>
-        <id>https://extmovie.com/bestboard/92788065</id>
-        <link href="https://extmovie.com/bestboard/92788065"/>
-        <updated>2025-01-24T11:12:09.448Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:588281point (41%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

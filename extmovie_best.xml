@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-26T16:15:20.163Z</updated>
+    <updated>2025-01-26T17:12:22.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 '중증외상센터' 로튼 리뷰 2개]]></title>
+        <id>https://extmovie.com/bestboard/92792541</id>
+        <link href="https://extmovie.com/bestboard/92792541"/>
+        <updated>2025-01-26T17:12:08.090Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4132012point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베네딕트 컴버배치, 로다주 MCU 복귀 소식에 욕나왔다]]></title>
         <id>https://extmovie.com/bestboard/92792286</id>
@@ -143,7 +150,7 @@
         <id>https://extmovie.com/bestboard/92790718</id>
         <link href="https://extmovie.com/bestboard/92790718"/>
         <updated>2025-01-25T13:14:51.707Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2250point (0%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">비상하는곰]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2252point (0%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">비상하는곰]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도 뭄바이에서 데이트 중인 다코타 존스와 크리스 마틴]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92789622"/>
         <updated>2025-01-26T09:14:15.584Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6914point (75%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025년 1월 24일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/92789576</id>
-        <link href="https://extmovie.com/bestboard/92789576"/>
-        <updated>2025-01-25T01:00:36.346Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4132012point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

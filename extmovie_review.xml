@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-27T13:20:29.295Z</updated>
+    <updated>2025-01-27T14:13:45.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화리뷰] <리얼 페인(A Real Pain, 2024)> : 다른 ...]]></title>
+        <id>https://extmovie.com/movietalk/92794453?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92794453?category=61633579"/>
+        <updated>2025-01-27T14:13:37.713Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:710point (67%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">바비그린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[약스포][리뷰] 말할 수 없는 비밀 - 현지화는 나쁘지 않았던]]></title>
         <id>https://extmovie.com/movietalk/92794334?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92794334?category=61633579"/>
         <updated>2025-01-27T13:20:22.463Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38557point (69%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38559point (69%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반지의 제왕 : 로힘림의 전쟁 리뷰]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/92789175?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92789175?category=61633579"/>
         <updated>2025-01-24T12:26:25.663Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38557point (69%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38559point (69%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<거북이는 의외로 빨리 헤엄친다>를 보고 나서 (스포 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92773207?category=61633579"/>
         <updated>2025-01-16T12:26:37.550Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401473point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<불량소녀, 너를 응원해 !>를 보고 나서 (스포 O) - ...]]></title>
-        <id>https://extmovie.com/movietalk/92772741?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92772741?category=61633579"/>
-        <updated>2025-01-16T06:19:22.900Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:19882point (85%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-01-28T18:19:16.656Z</updated>
+    <updated>2025-01-28T19:12:09.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조커 2] 실패에 대한 레이디 가가의 반응]]></title>
+        <id>https://extmovie.com/bestboard/92796500</id>
+        <link href="https://extmovie.com/bestboard/92796500"/>
+        <updated>2025-01-28T19:11:54.476Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:588833point (44%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대 단일 영화로 가장 많은 수익 올린 감독, 배우 탑 10]]></title>
         <id>https://extmovie.com/bestboard/92796394</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92793170"/>
         <updated>2025-01-27T04:17:49.478Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4666208point (33%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후지TV '아나운서 성 상납' 파문…일본 '발칵']]></title>
-        <id>https://extmovie.com/bestboard/92793127</id>
-        <link href="https://extmovie.com/bestboard/92793127"/>
-        <updated>2025-01-27T20:15:16.792Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:588833point (44%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

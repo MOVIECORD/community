@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-01-28T13:20:13.144Z</updated>
+    <updated>2025-01-28T14:13:38.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(노스포) ‘검은 수녀들’ 단평 - 다소 실망스럽네요]]></title>
+        <id>https://extmovie.com/movietalk/92796418?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92796418?category=61633579"/>
+        <updated>2025-01-28T14:13:31.124Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4666186point (33%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포) <반지의 제왕: 로히림의 전쟁> 봤어요]]></title>
         <id>https://extmovie.com/movietalk/92796286?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92796286?category=61633579"/>
         <updated>2025-01-28T13:20:06.190Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401606point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401610point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말할 수 없는 비밀 후기 - 거의 웹드라마]]></title>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92793978?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92793978?category=61633579"/>
         <updated>2025-01-27T11:12:13.935Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401606point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401610point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<아침바다 갈매기는>: 죽을 수는 없잖아요.]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/92790589?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92790589?category=61633579"/>
         <updated>2025-01-25T08:17:09.973Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401606point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401610point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<해피 해피 브레드>를 보고 나서 (스포 X)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92774476?category=61633579"/>
         <updated>2025-01-17T05:13:37.838Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:158point (39%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영알못입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포O) 영화 아노라 아트나인에서 보고 온 장문후기입니다.]]></title>
-        <id>https://extmovie.com/movietalk/92679422?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92679422?category=61633579"/>
-        <updated>2025-01-17T02:40:05.797Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:60289point (88%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

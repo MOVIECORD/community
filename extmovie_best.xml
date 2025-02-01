@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-01T19:10:57.821Z</updated>
+    <updated>2025-02-01T20:14:21.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 2월 1일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92802963</id>
+        <link href="https://extmovie.com/bestboard/92802963"/>
+        <updated>2025-02-01T20:14:05.512Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4133227point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본서 개봉한 '베르사이유의 장미' 관객 반응]]></title>
+        <id>https://extmovie.com/bestboard/92802932</id>
+        <link href="https://extmovie.com/bestboard/92802932"/>
+        <updated>2025-02-01T20:14:05.512Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4133227point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언론이 오징어게임2를 다루는 방식이 희한하다는 생각이 드는 오늘입니다.]]></title>
         <id>https://extmovie.com/bestboard/92802725</id>
@@ -95,6 +109,13 @@
         <link href="https://extmovie.com/bestboard/92802022"/>
         <updated>2025-02-01T13:15:25.052Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1401911point (1%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년 2월 1일 중국 박스오피스 1위~10위]]></title>
+        <id>https://extmovie.com/bestboard/92801817</id>
+        <link href="https://extmovie.com/bestboard/92801817"/>
+        <updated>2025-02-01T20:14:05.532Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:171293point (37%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘크레이븐 더 헌터’ 글로벌 5천9백만달러로 종영, 제작비 1억1천만]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/92800787"/>
         <updated>2025-01-31T18:18:33.673Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4668172point (33%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐 하디 넷플릭스 액션 신작 ‘하복’ 정리]]></title>
-        <id>https://extmovie.com/bestboard/92800763</id>
-        <link href="https://extmovie.com/bestboard/92800763"/>
-        <updated>2025-01-31T14:13:15.800Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4668172point (33%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본인들이 뽑은 국보급 미녀 탑 9]]></title>
-        <id>https://extmovie.com/bestboard/92800715</id>
-        <link href="https://extmovie.com/bestboard/92800715"/>
-        <updated>2025-01-31T12:26:09.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4668172point (33%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 본 공포영화 - 초간단 후기]]></title>
-        <id>https://extmovie.com/bestboard/92796734</id>
-        <link href="https://extmovie.com/bestboard/92796734"/>
-        <updated>2025-01-31T18:18:33.679Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:289811point (66%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
     </entry>
 </feed>

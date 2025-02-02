@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-02T09:12:44.218Z</updated>
+    <updated>2025-02-02T10:14:05.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이비드 린치 감독의 멀홀랜드 드라이브]]></title>
+        <id>https://extmovie.com/movietalk/92803883?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92803883?category=61633579"/>
+        <updated>2025-02-02T10:13:57.476Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:36point (9%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ivanovo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<썸머타임 킬러>를 보고 나서 (스포 O) - 올리비아 핫...]]></title>
         <id>https://extmovie.com/movietalk/92802704?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92800342?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92800342?category=61633579"/>
         <updated>2025-01-31T05:13:51.225Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:23point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ivanovo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:36point (9%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ivanovo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포O) 말할 수 없는 비밀 용산롯시, 수원AK메박 에서 보고 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92783198?category=61633579"/>
         <updated>2025-01-22T04:17:18.753Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/14.gif" alt="[레벨:14]" title="포인트:20113point (94%), 레벨:14/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<보통 사람들(1980)> 짧은 감상평과 강추 소개문]]></title>
-        <id>https://extmovie.com/movietalk/92782830?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92782830?category=61633579"/>
-        <updated>2025-01-22T02:43:37.175Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1377point (31%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
     </entry>
 </feed>

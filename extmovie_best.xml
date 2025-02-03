@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-03T20:15:04.033Z</updated>
+    <updated>2025-02-03T21:13:36.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://extmovie.com/bestboard/92805670"/>
         <updated>2025-02-03T12:27:24.884Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:589825point (49%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(루머) 마블 '엑스맨' 리부트 10월 촬영 시작 - 해리스 디킨...]]></title>
+        <id>https://extmovie.com/bestboard/92805466</id>
+        <link href="https://extmovie.com/bestboard/92805466"/>
+        <updated>2025-02-03T21:13:20.382Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4669591point (33%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 오리지널 콘텐츠 역대 다운로드 순위]]></title>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/bestboard/92805046</id>
         <link href="https://extmovie.com/bestboard/92805046"/>
         <updated>2025-02-03T08:18:41.205Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91041point (63%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91043point (63%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['구준엽 아내' 서희원, 폐렴으로 日서 사망..향년 48세]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92803772"/>
         <updated>2025-02-02T11:11:51.073Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4133639point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) 천장미 간호사 안하영 현실과 드라마속 온도차이 - ‘중증외상...]]></title>
-        <id>https://extmovie.com/bestboard/92803719</id>
-        <link href="https://extmovie.com/bestboard/92803719"/>
-        <updated>2025-02-02T13:14:36.699Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4669591point (33%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

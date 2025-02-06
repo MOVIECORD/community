@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-06T16:15:59.513Z</updated>
+    <updated>2025-02-06T17:13:06.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[캡틴 아메리카: 브레이브 뉴 월드] 돌비 포스터 공개]]></title>
+        <id>https://extmovie.com/bestboard/92814556</id>
+        <link href="https://extmovie.com/bestboard/92814556"/>
+        <updated>2025-02-06T17:12:50.222Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:590722point (53%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브로큰 및 퇴마록 간단히]]></title>
+        <id>https://extmovie.com/bestboard/92814234</id>
+        <link href="https://extmovie.com/bestboard/92814234"/>
+        <updated>2025-02-06T17:12:50.223Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/41.gif" alt="[레벨:41]" title="포인트:310196point (1%), 레벨:41/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캡아 포스터 퀄이 좀…]]></title>
         <id>https://extmovie.com/bestboard/92814124</id>
@@ -32,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92813707"/>
         <updated>2025-02-06T12:27:48.223Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:97024point (87%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['검은 수녀들' 로튼토마토 리뷰 2개]]></title>
+        <id>https://extmovie.com/bestboard/92813582</id>
+        <link href="https://extmovie.com/bestboard/92813582"/>
+        <updated>2025-02-06T17:12:50.237Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4134775point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['기생충'의 위엄]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/92811114"/>
         <updated>2025-02-06T03:17:28.493Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:290206point (67%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 좀 따뜻하게 입은 '더 폴' 타셈 싱 감독]]></title>
-        <id>https://extmovie.com/bestboard/92811030</id>
-        <link href="https://extmovie.com/bestboard/92811030"/>
-        <updated>2025-02-06T12:27:48.252Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4134775point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건담] 실사 영화 공식 제작 진행]]></title>
-        <id>https://extmovie.com/bestboard/92811026</id>
-        <link href="https://extmovie.com/bestboard/92811026"/>
-        <updated>2025-02-05T12:27:36.347Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:590722point (53%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 [브로큰] CGV 에그 깨짐(60%)]]></title>
-        <id>https://extmovie.com/bestboard/92810888</id>
-        <link href="https://extmovie.com/bestboard/92810888"/>
-        <updated>2025-02-05T10:14:42.672Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:590722point (53%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

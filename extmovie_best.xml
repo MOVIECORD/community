@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-06T20:15:59.662Z</updated>
+    <updated>2025-02-06T21:13:28.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92813867"/>
         <updated>2025-02-06T11:12:26.630Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1402228point (2%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이게 뭐죠..?]]></title>
+        <id>https://extmovie.com/bestboard/92813836</id>
+        <link href="https://extmovie.com/bestboard/92813836"/>
+        <updated>2025-02-06T21:13:14.185Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2387point (13%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">o1xis]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[브로큰] 보자마자 초혹평]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92811318"/>
         <updated>2025-02-06T12:27:48.247Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66648point (45%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 개봉 '9월 5일: 위험한 특종' 로튼 리뷰]]></title>
-        <id>https://extmovie.com/bestboard/92811188</id>
-        <link href="https://extmovie.com/bestboard/92811188"/>
-        <updated>2025-02-06T12:27:48.247Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4134784point (26%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

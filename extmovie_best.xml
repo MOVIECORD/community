@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-07T17:12:34.863Z</updated>
+    <updated>2025-02-07T18:18:58.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://extmovie.com/bestboard/92816170</id>
         <link href="https://extmovie.com/bestboard/92816170"/>
         <updated>2025-02-07T09:14:59.674Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1057point (56%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">좋지아니한가]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1059point (56%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">좋지아니한가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈 기절할 정도의 스턴트 강행]]></title>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/92816122"/>
         <updated>2025-02-07T10:14:49.909Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1402331point (2%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["괴물" 사카모토 유지 작가 신작 "첫 번째 키스" ...]]></title>
+        <id>https://extmovie.com/bestboard/92815863</id>
+        <link href="https://extmovie.com/bestboard/92815863"/>
+        <updated>2025-02-07T18:18:42.259Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1553point (64%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">쾌남홍길동]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[명작곡가 한스 짐머의 대표 OST 작품 15]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92813513</id>
         <link href="https://extmovie.com/bestboard/92813513"/>
         <updated>2025-02-07T11:11:53.492Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4135052point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기생충'의 위엄]]></title>
-        <id>https://extmovie.com/bestboard/92813440</id>
-        <link href="https://extmovie.com/bestboard/92813440"/>
-        <updated>2025-02-06T07:13:54.277Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4135052point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

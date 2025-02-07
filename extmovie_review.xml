@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-07T14:13:38.648Z</updated>
+    <updated>2025-02-07T15:14:52.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장난을 잘치는 타마키 후기]]></title>
+        <id>https://extmovie.com/movietalk/92816895?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92816895?category=61633579"/>
+        <updated>2025-02-07T15:14:45.719Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28716point (85%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bakeneko: A Vengeful Spirit  (1968) 범작이지만 군데군데 ...]]></title>
         <id>https://extmovie.com/movietalk/92812061?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92793978?category=61633579"/>
         <updated>2025-01-27T11:12:13.935Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1402331point (2%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<아침바다 갈매기는>: 죽을 수는 없잖아요.]]></title>
-        <id>https://extmovie.com/movietalk/92793654?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92793654?category=61633579"/>
-        <updated>2025-01-27T06:20:17.020Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2555point (30%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
     </entry>
 </feed>

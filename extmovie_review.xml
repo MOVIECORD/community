@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-09T15:13:49.161Z</updated>
+    <updated>2025-02-09T16:15:14.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[24년) 레드벨벳 해피니스 다이어리 용산CGV에서 보고 온 리...]]></title>
+        <id>https://extmovie.com/movietalk/92819726?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92819726?category=61633579"/>
+        <updated>2025-02-09T16:15:06.265Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61633point (97%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메이와 아기 고양이버스 (2024) 이것이라도 감지덕지. 스포...]]></title>
         <id>https://extmovie.com/movietalk/92819991?category=61633579</id>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/92797827?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92797827?category=61633579"/>
         <updated>2025-01-30T17:12:44.820Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61565point (96%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61633point (97%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<매드 맥스 3>를 보고 나서 (스포 O) - 조지 밀러, 조...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92797985?category=61633579"/>
         <updated>2025-01-29T17:12:50.530Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1263point (10%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">썰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<매드 맥스>를 보고 나서 (스포 O) - 조지 밀러 감독 ...]]></title>
-        <id>https://extmovie.com/movietalk/92797857?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92797857?category=61633579"/>
-        <updated>2025-01-29T15:14:46.917Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20332point (2%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

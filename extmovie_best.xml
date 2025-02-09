@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-09T16:15:14.065Z</updated>
+    <updated>2025-02-09T17:11:52.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -24,20 +24,27 @@
         <id>https://extmovie.com/bestboard/92819595</id>
         <link href="https://extmovie.com/bestboard/92819595"/>
         <updated>2025-02-09T13:15:31.001Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:104628point (92%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/29.gif" alt="[레벨:29]" title="포인트:104630point (92%), 레벨:29/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">선우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(초강스포) 퇴마록 봤습니다.]]></title>
         <id>https://extmovie.com/bestboard/92819519</id>
         <link href="https://extmovie.com/bestboard/92819519"/>
         <updated>2025-02-09T15:13:32.463Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30344point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30346point (35%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['미키 17' 원작자가 공개한 스틸]]></title>
         <id>https://extmovie.com/bestboard/92819505</id>
         <link href="https://extmovie.com/bestboard/92819505"/>
         <updated>2025-02-09T15:13:32.463Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4135549point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['더 폴' 타셈 싱 감독이 남긴 한국어 메시지]]></title>
+        <id>https://extmovie.com/bestboard/92819501</id>
+        <link href="https://extmovie.com/bestboard/92819501"/>
+        <updated>2025-02-09T17:11:36.987Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4135549point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92817726"/>
         <updated>2025-02-08T10:13:27.648Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:415point (3%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">감베로니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 폴' 타셈 싱 감독 내한 기자간담회 사진과 오고간 이야기]]></title>
-        <id>https://extmovie.com/bestboard/92818015</id>
-        <link href="https://extmovie.com/bestboard/92818015"/>
-        <updated>2025-02-08T14:11:54.107Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4135549point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

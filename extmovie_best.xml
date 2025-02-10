@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-10T19:12:12.241Z</updated>
+    <updated>2025-02-10T20:15:09.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92821993"/>
         <updated>2025-02-10T18:19:28.897Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8401point (64%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">울프맨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['증증외상센터' 하영 배우 최근 화보]]></title>
+        <id>https://extmovie.com/bestboard/92821818</id>
+        <link href="https://extmovie.com/bestboard/92821818"/>
+        <updated>2025-02-10T20:14:54.432Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4676701point (35%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘미션임파서블 8’ 트레일러 한글판]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92819501</id>
         <link href="https://extmovie.com/bestboard/92819501"/>
         <updated>2025-02-09T17:11:36.987Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4135848point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['에밀리아 페레즈' 사태 정리한 일본 기사]]></title>
-        <id>https://extmovie.com/bestboard/92819464</id>
-        <link href="https://extmovie.com/bestboard/92819464"/>
-        <updated>2025-02-09T12:24:15.778Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4135848point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

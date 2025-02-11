@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-11T17:14:13.661Z</updated>
+    <updated>2025-02-11T18:18:15.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캡아 브뉴월 '윤성은 평론가 평가, 해외 후기 모음']]></title>
+        <id>https://extmovie.com/bestboard/92824832</id>
+        <link href="https://extmovie.com/bestboard/92824832"/>
+        <updated>2025-02-11T18:17:59.724Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:131point (32%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Augustday]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리사, 나나 인스타 최근]]></title>
         <id>https://extmovie.com/bestboard/92824122</id>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/92822376</id>
         <link href="https://extmovie.com/bestboard/92822376"/>
         <updated>2025-02-11T12:27:48.787Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2421point (17%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">o1xis]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2423point (17%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">o1xis]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 오스카 뉴 포스터]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92822024"/>
         <updated>2025-02-10T16:18:09.060Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4136211point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡아 개봉일에 보실건가요]]></title>
-        <id>https://extmovie.com/bestboard/92821993</id>
-        <link href="https://extmovie.com/bestboard/92821993"/>
-        <updated>2025-02-10T18:19:28.897Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8421point (66%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">울프맨]]></content>
     </entry>
 </feed>

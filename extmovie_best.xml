@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-11T19:11:08.501Z</updated>
+    <updated>2025-02-11T20:15:32.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -17,6 +17,20 @@
         <id>https://extmovie.com/bestboard/92824122</id>
         <link href="https://extmovie.com/bestboard/92824122"/>
         <updated>2025-02-11T17:13:58.971Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4678039point (35%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['에브리씽 에브리웨어 올 앳 원스' 재개봉 예정]]></title>
+        <id>https://extmovie.com/bestboard/92824193</id>
+        <link href="https://extmovie.com/bestboard/92824193"/>
+        <updated>2025-02-11T20:15:16.836Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4678039point (35%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영애, 김태우, 이병헌, 송강호, 박찬욱 CJ ENM 30주년기념 '공...]]></title>
+        <id>https://extmovie.com/bestboard/92824212</id>
+        <link href="https://extmovie.com/bestboard/92824212"/>
+        <updated>2025-02-11T20:15:16.836Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4678039point (35%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -234,20 +248,6 @@
         <id>https://extmovie.com/bestboard/92822170</id>
         <link href="https://extmovie.com/bestboard/92822170"/>
         <updated>2025-02-10T23:14:49.923Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4136211point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼군' 시즌 2 각본 완성]]></title>
-        <id>https://extmovie.com/bestboard/92822092</id>
-        <link href="https://extmovie.com/bestboard/92822092"/>
-        <updated>2025-02-11T01:04:40.543Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4136211point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['에밀리아 페레즈' 논란에 입을 연 셀레나 고메즈]]></title>
-        <id>https://extmovie.com/bestboard/92822024</id>
-        <link href="https://extmovie.com/bestboard/92822024"/>
-        <updated>2025-02-10T16:18:09.060Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4136211point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-11T12:28:04.913Z</updated>
+    <updated>2025-02-11T13:21:46.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(정보) 현재 난리난 네이버페이 대 란 요약.jpg]]></title>
+        <id>https://extmovie.com/movietalk/92824678?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92824678?category=61633579"/>
+        <updated>2025-02-11T13:21:39.167Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:291point (72%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오라이맨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<치코와 리타>를 보고 나서 (스포 X)]]></title>
         <id>https://extmovie.com/movietalk/92822330?category=61633579</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/92816895?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92816895?category=61633579"/>
         <updated>2025-02-07T15:14:45.719Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28755point (87%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:28757point (87%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bakeneko: A Vengeful Spirit  (1968) 범작이지만 군데군데 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92797827?category=61633579"/>
         <updated>2025-01-30T17:12:44.820Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61688point (97%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<매드 맥스 3>를 보고 나서 (스포 O) - 조지 밀러, 조...]]></title>
-        <id>https://extmovie.com/movietalk/92798710?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92798710?category=61633579"/>
-        <updated>2025-02-11T07:13:43.624Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20348point (3%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

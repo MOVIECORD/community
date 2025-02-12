@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-12T11:12:47.046Z</updated>
+    <updated>2025-02-12T12:27:48.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캡틴 아메리카 브레이브 뉴 월드 후기(스포)-이제 다시 예전...]]></title>
+        <id>https://extmovie.com/movietalk/92827307?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92827307?category=61633579"/>
+        <updated>2025-02-12T12:27:40.292Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8437point (67%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캡틴아메리카 노스포 후기]]></title>
         <id>https://extmovie.com/movietalk/92827139?category=61633579</id>
@@ -17,14 +24,14 @@
         <id>https://extmovie.com/movietalk/92826786?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92826786?category=61633579"/>
         <updated>2025-02-12T08:19:34.411Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2397point (14%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2399point (15%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캡틴아메리카 브레이브뉴월드 후기 - 무난하게 못만든 영화]]></title>
         <id>https://extmovie.com/movietalk/92826657?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92826657?category=61633579"/>
         <updated>2025-02-12T08:19:34.412Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2820point (57%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2822point (57%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포O] 캡틴 아메리카4 : 브레이브 뉴 월드 관람 후기입니다]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92803883?category=61633579"/>
         <updated>2025-02-02T10:13:57.476Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:48point (12%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">ivanovo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<썸머타임 킬러>를 보고 나서 (스포 O) - 올리비아 핫...]]></title>
-        <id>https://extmovie.com/movietalk/92802704?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92802704?category=61633579"/>
-        <updated>2025-02-01T11:10:39.272Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20362point (4%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

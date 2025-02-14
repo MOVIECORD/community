@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-14T17:12:29.571Z</updated>
+    <updated>2025-02-14T18:18:55.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기생충] TV 시리즈 각본 작업중이라고 말한 봉준호 감독]]></title>
+        <id>https://extmovie.com/bestboard/92832973</id>
+        <link href="https://extmovie.com/bestboard/92832973"/>
+        <updated>2025-02-14T18:18:38.929Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:592047point (60%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베를린영화제 명예황금곰상 틸다 스윈튼의 연설]]></title>
+        <id>https://extmovie.com/bestboard/92832791</id>
+        <link href="https://extmovie.com/bestboard/92832791"/>
+        <updated>2025-02-14T18:18:38.930Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4137374point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 유니버설 픽쳐스 라인업 공개]]></title>
         <id>https://extmovie.com/bestboard/92832299</id>
@@ -146,6 +160,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24034point (33%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">진지미]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스포) <콘클라베> 올해 첫 걸작]]></title>
+        <id>https://extmovie.com/bestboard/92830519</id>
+        <link href="https://extmovie.com/bestboard/92830519"/>
+        <updated>2025-02-14T18:18:38.967Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14511point (68%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[캡틴아메리카4 용스엑 관람하고 왔습니다만... (스포없음)]]></title>
         <id>https://extmovie.com/bestboard/92830471</id>
         <link href="https://extmovie.com/bestboard/92830471"/>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/92829494"/>
         <updated>2025-02-13T11:11:55.432Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:592047point (60%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아미 해머 복귀 신작 '다크 나이트' 스틸 공개]]></title>
-        <id>https://extmovie.com/bestboard/92829406</id>
-        <link href="https://extmovie.com/bestboard/92829406"/>
-        <updated>2025-02-13T11:11:55.434Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4137374point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<그린 랜턴> 마틴 캠벨 감독, 후회 심경 밝혀]]></title>
-        <id>https://extmovie.com/bestboard/92829371</id>
-        <link href="https://extmovie.com/bestboard/92829371"/>
-        <updated>2025-02-13T12:27:33.197Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1402818point (2%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 3사 할인 정보 정리 (25년 2월 ver.)]]></title>
-        <id>https://extmovie.com/bestboard/92829362</id>
-        <link href="https://extmovie.com/bestboard/92829362"/>
-        <updated>2025-02-13T16:18:25.124Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:20point (5%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">부국제러02]]></content>
     </entry>
 </feed>

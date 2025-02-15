@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-15T20:14:09.537Z</updated>
+    <updated>2025-02-15T21:13:13.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -209,6 +209,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:209526point (63%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[걸어서 미식 속으로 ..놀면 뭐하니 고로상 출연]]></title>
+        <id>https://extmovie.com/bestboard/92832223</id>
+        <link href="https://extmovie.com/bestboard/92832223"/>
+        <updated>2025-02-15T21:12:57.469Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1419865point (19%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이혜영, 파격 금발로 베를린 레드카펫 등장…홍상수♥김민희 불참]]></title>
         <id>https://extmovie.com/bestboard/92832170</id>
         <link href="https://extmovie.com/bestboard/92832170"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92831933"/>
         <updated>2025-02-14T12:26:49.866Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16967point (72%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사보타주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미키 17' 미국 전문가, 비평가들의 반응]]></title>
-        <id>https://extmovie.com/bestboard/92831858</id>
-        <link href="https://extmovie.com/bestboard/92831858"/>
-        <updated>2025-02-14T06:19:35.165Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4137749point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-15T03:17:47.469Z</updated>
+    <updated>2025-02-15T04:18:21.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<잭 스나이더의 저스티스 리그> 리뷰 (스포)]]></title>
+        <id>https://extmovie.com/movietalk/92827209?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92827209?category=61633579"/>
+        <updated>2025-02-15T04:18:14.883Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9320point (16%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 캐니언 (2025) 이것은 졸작. 스포일러 없음.]]></title>
         <id>https://extmovie.com/movietalk/92833536?category=61633579</id>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/movietalk/92819726?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92819726?category=61633579"/>
         <updated>2025-02-09T16:15:06.265Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61938point (99%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:61942point (99%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메이와 아기 고양이버스 (2024) 이것이라도 감지덕지. 스포...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92819978?category=61633579"/>
         <updated>2025-02-09T14:12:09.449Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70228point (21%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<파문>를 보고 나서 (스포 O) - 오기가미 나오코 감독...]]></title>
-        <id>https://extmovie.com/movietalk/92819846?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92819846?category=61633579"/>
-        <updated>2025-02-09T13:15:39.537Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20436point (6%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-16T16:15:29.882Z</updated>
+    <updated>2025-02-16T17:12:50.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<퇴마록> 후기 - 마당을 나온 암탉 이후, 한국 애니메...]]></title>
+        <id>https://extmovie.com/movietalk/92836975?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92836975?category=61633579"/>
+        <updated>2025-02-16T17:12:43.813Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14523point (69%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<초미궁>을 보고 나서 (스포 O, 추천) - 테라야마 슈...]]></title>
         <id>https://extmovie.com/movietalk/92836854?category=61633579</id>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/movietalk/92830519?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92830519?category=61633579"/>
         <updated>2025-02-13T16:18:32.768Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14511point (68%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14523point (69%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캡틴 아메리카: 브레이브 더 뉴 월드- 진지한척 하는 양산형...]]></title>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92827842?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92827842?category=61633579"/>
         <updated>2025-02-12T19:12:41.117Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14511point (68%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14523point (69%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브루탈리스트 짧은 후기 (스포 X)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92826786?category=61633579"/>
         <updated>2025-02-12T08:19:34.411Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2399point (15%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Opps]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡틴아메리카 브레이브뉴월드 후기 - 무난하게 못만든 영화]]></title>
-        <id>https://extmovie.com/movietalk/92826657?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92826657?category=61633579"/>
-        <updated>2025-02-12T08:19:34.412Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2822point (57%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">shik1999]]></content>
     </entry>
 </feed>

@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-16T21:13:15.785Z</updated>
+    <updated>2025-02-16T22:12:57.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박찬욱 감독 현재 ‘어쩔수가 없다’ 편집 작업 중이며, 칸 영화제 첫 공...]]></title>
+        <id>https://extmovie.com/bestboard/92836356</id>
+        <link href="https://extmovie.com/bestboard/92836356"/>
+        <updated>2025-02-16T22:12:42.019Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4683449point (36%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호와 다리우스 콘지 미키 17 한 컷]]></title>
         <id>https://extmovie.com/bestboard/92836726</id>
         <link href="https://extmovie.com/bestboard/92836726"/>
         <updated>2025-02-16T19:11:56.408Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:173point (43%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">작은시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:175point (43%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">작은시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배우 김새론, 16일 사망 발견…지인, 오후 4시 50분 신고 (1보)]]></title>
         <id>https://extmovie.com/bestboard/92836555</id>
         <link href="https://extmovie.com/bestboard/92836555"/>
         <updated>2025-02-16T13:16:57.133Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1082point (63%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Wikikill]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:1084point (64%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Wikikill]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미키17 베를린 레드카펫(영화제 공식 영상)]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/bestboard/92834691</id>
         <link href="https://extmovie.com/bestboard/92834691"/>
         <updated>2025-02-15T15:13:44.233Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:173point (43%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">작은시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:175point (43%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">작은시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캡틴 4, 경호팀장 Shira Haas 관련 정보]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92834576"/>
         <updated>2025-02-16T08:16:35.563Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44029point (11%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(*스포) <캡틴 아메리카: 브레이브 뉴 월드> 쿠키 영상 해설]]></title>
-        <id>https://extmovie.com/bestboard/92834378</id>
-        <link href="https://extmovie.com/bestboard/92834378"/>
-        <updated>2025-02-15T11:10:59.633Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1402902point (2%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-17T17:13:16.348Z</updated>
+    <updated>2025-02-17T18:18:59.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지구 멸망할 때까지 이런 작품 또 없을 듯.. (스포 X, 19금 X)]]></title>
+        <id>https://extmovie.com/bestboard/92839953</id>
+        <link href="https://extmovie.com/bestboard/92839953"/>
+        <updated>2025-02-17T18:18:43.348Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21319point (38%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">창민쓰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로버트 패틴슨, 자신의 팬층이 이제 ‘남자들 무리’라는 사실에 충격]]></title>
         <id>https://extmovie.com/bestboard/92839671</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/bestboard/92839441</id>
         <link href="https://extmovie.com/bestboard/92839441"/>
         <updated>2025-02-17T14:14:07.880Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67770point (64%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67772point (64%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원빈, 故김새론 빈소 직접 찾아 조문…침통한 표정]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/bestboard/92836975</id>
         <link href="https://extmovie.com/bestboard/92836975"/>
         <updated>2025-02-17T05:15:45.876Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14611point (73%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14627point (74%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱 감독 현재 ‘어쩔수가 없다’ 편집 작업 중이며, 칸 영화제 첫 공...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92836876"/>
         <updated>2025-02-17T01:08:04.808Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4138459point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스포) 이번주 주말에 봤었던 영화들에 대한 간단 후기입니다.]]></title>
-        <id>https://extmovie.com/bestboard/92836751</id>
-        <link href="https://extmovie.com/bestboard/92836751"/>
-        <updated>2025-02-17T02:48:49.344Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62087point (4%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

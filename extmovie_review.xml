@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-17T07:14:34.648Z</updated>
+    <updated>2025-02-17T08:20:55.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사회 풍자를 품은 SF <미키 17>]]></title>
+        <id>https://extmovie.com/movietalk/92839055?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92839055?category=61633579"/>
+        <updated>2025-02-17T08:20:49.262Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54580point (48%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<첫 번째 키스> 시사회 트위터 후기 (펌)]]></title>
         <id>https://extmovie.com/movietalk/92838192?category=61633579</id>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/92830377?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92830377?category=61633579"/>
         <updated>2025-02-13T15:15:43.747Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14730point (78%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14732point (78%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<브루탈리스트> 봤어요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92827795?category=61633579"/>
         <updated>2025-02-12T17:13:30.213Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:38643point (71%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">클랜시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡틴 아메리카 브레이브 뉴 월드 후기(스포)-이제 다시 예전...]]></title>
-        <id>https://extmovie.com/movietalk/92827307?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92827307?category=61633579"/>
-        <updated>2025-02-12T12:27:40.292Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8447point (67%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
     </entry>
 </feed>

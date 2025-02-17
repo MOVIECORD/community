@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-17T02:49:04.186Z</updated>
+    <updated>2025-02-17T03:21:25.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<첫 번째 키스> 시사회 트위터 후기 (펌)]]></title>
+        <id>https://extmovie.com/movietalk/92838192?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92838192?category=61633579"/>
+        <updated>2025-02-17T03:21:18.534Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1992point (49%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소보로단팥빵]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스포) <브루탈리스트> 후기 - 결말에 대한 다른 해석]]></title>
         <id>https://extmovie.com/movietalk/92836990?category=61633579</id>
@@ -206,7 +213,7 @@
         <id>https://extmovie.com/movietalk/92830310?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92830310?category=61633579"/>
         <updated>2025-02-13T15:15:43.749Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13649point (30%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13651point (30%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<캡틴 아메리카: 브레이브 뉴 월드> 봤어요]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92827307?category=61633579"/>
         <updated>2025-02-12T12:27:40.292Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8447point (67%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡틴아메리카 노스포 후기]]></title>
-        <id>https://extmovie.com/movietalk/92827139?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92827139?category=61633579"/>
-        <updated>2025-02-12T11:12:39.483Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1997point (50%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">essense]]></content>
     </entry>
 </feed>

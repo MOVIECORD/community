@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-18T16:18:50.275Z</updated>
+    <updated>2025-02-18T17:14:11.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<캡틴아메리카: 브레이브 뉴 월드>: “무난한” 캡틴 아...]]></title>
+        <id>https://extmovie.com/movietalk/92842615?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92842615?category=61633579"/>
+        <updated>2025-02-18T17:14:05.157Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2575point (32%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brief encounter (1945) 데이비스 린감독 실리아 존슨 주연 ...]]></title>
         <id>https://extmovie.com/movietalk/92841836?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92830519?category=61633579"/>
         <updated>2025-02-13T16:18:32.768Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14639point (74%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화에도른자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡틴 아메리카: 브레이브 더 뉴 월드- 진지한척 하는 양산형...]]></title>
-        <id>https://extmovie.com/movietalk/92830377?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92830377?category=61633579"/>
-        <updated>2025-02-13T15:15:43.747Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14732point (78%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
     </entry>
 </feed>

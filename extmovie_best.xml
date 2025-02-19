@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-19T17:13:30.732Z</updated>
+    <updated>2025-02-19T18:18:49.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://extmovie.com/bestboard/92843614"/>
         <updated>2025-02-19T10:15:52.684Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:592624point (63%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGV '미키 17' 웰컴팩 굿즈]]></title>
+        <id>https://extmovie.com/bestboard/92843591</id>
+        <link href="https://extmovie.com/bestboard/92843591"/>
+        <updated>2025-02-19T18:18:33.359Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4687653point (37%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김새론, 전 소속사에 '7억 차용증' 썼다..변제 못한 채무는]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/bestboard/92842205</id>
         <link href="https://extmovie.com/bestboard/92842205"/>
         <updated>2025-02-19T14:14:11.982Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15286point (3%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">폴아트레이드]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15289point (3%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">폴아트레이드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왕대륙, 3월에 입대해서 1년간 군복무할 예정]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/bestboard/92841743</id>
         <link href="https://extmovie.com/bestboard/92841743"/>
         <updated>2025-02-18T13:20:41.253Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4687653point (37%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시카 차스테인 주연 '드림즈', 베를린영화제 평론가 점수 ...]]></title>
-        <id>https://extmovie.com/bestboard/92841689</id>
-        <link href="https://extmovie.com/bestboard/92841689"/>
-        <updated>2025-02-19T01:05:37.148Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4687653point (37%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-20T19:11:43.513Z</updated>
+    <updated>2025-02-20T20:16:35.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1403110point (3%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[봉준호 <미키 17> 코돌비 시사회 기립 박수 두번 나왔습니다.]]></title>
+        <title type="html"><![CDATA[봉준호 <미키 17> 코돌비 시사회 단체 박수 두번 나왔습니다.]]></title>
         <id>https://extmovie.com/bestboard/92847026</id>
         <link href="https://extmovie.com/bestboard/92847026"/>
         <updated>2025-02-20T12:28:26.199Z</updated>
@@ -123,6 +123,13 @@
         <link href="https://extmovie.com/bestboard/92845626"/>
         <updated>2025-02-20T06:19:40.500Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1403110point (3%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스포) 당신의 친절한 이웃 스파이더맨 시즌2 떡밥 정리]]></title>
+        <id>https://extmovie.com/bestboard/92845613</id>
+        <link href="https://extmovie.com/bestboard/92845613"/>
+        <updated>2025-02-20T20:16:19.214Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3251point (0%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[캡아 브뉴월] 전세계 수입 2억 달러 돌파]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92844279"/>
         <updated>2025-02-19T19:11:34.643Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:10253point (66%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">taegyxl]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉쥰호 감독 신작 애니 도입부 내용 정리]]></title>
-        <id>https://extmovie.com/bestboard/92844243</id>
-        <link href="https://extmovie.com/bestboard/92844243"/>
-        <updated>2025-02-19T14:14:11.939Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67283point (56%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
     </entry>
 </feed>

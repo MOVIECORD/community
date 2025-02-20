@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-20T18:19:51.166Z</updated>
+    <updated>2025-02-20T19:11:43.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://extmovie.com/bestboard/92846567"/>
         <updated>2025-02-20T15:16:20.916Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4688828point (37%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 풀리지 않은 인기 가수 의문사 미제 사건]]></title>
+        <id>https://extmovie.com/bestboard/92846700</id>
+        <link href="https://extmovie.com/bestboard/92846700"/>
+        <updated>2025-02-20T19:11:27.508Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2038point (58%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소보로단팥빵]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[퇴마록] 손익분기점은 100만 관객]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92844243"/>
         <updated>2025-02-19T14:14:11.939Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67283point (56%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오리지널 티켓] No.132 예고]]></title>
-        <id>https://extmovie.com/bestboard/92844232</id>
-        <link href="https://extmovie.com/bestboard/92844232"/>
-        <updated>2025-02-20T09:15:48.903Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8239point (55%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비티켓]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-21T16:17:42.717Z</updated>
+    <updated>2025-02-21T17:12:48.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://extmovie.com/bestboard/92849707</id>
         <link href="https://extmovie.com/bestboard/92849707"/>
         <updated>2025-02-21T16:17:26.607Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44187point (15%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44189point (15%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캡아4...관객 100만 돌파]]></title>
+        <id>https://extmovie.com/bestboard/92849394</id>
+        <link href="https://extmovie.com/bestboard/92849394"/>
+        <updated>2025-02-21T17:12:32.069Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44189point (15%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">totalrecall]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[봉준호의 미키 17과 칸 영화제]]></title>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/bestboard/92848272</id>
         <link href="https://extmovie.com/bestboard/92848272"/>
         <updated>2025-02-21T15:14:44.217Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30814point (49%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30816point (49%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">吉君]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['아이언맨 보고 있나?' 내한 자랑하는 헐크]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92846233"/>
         <updated>2025-02-20T10:16:08.130Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4139232point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 감독 차기 호러 프로젝트 확정 - 상세기사]]></title>
-        <id>https://extmovie.com/bestboard/92846085</id>
-        <link href="https://extmovie.com/bestboard/92846085"/>
-        <updated>2025-02-20T12:28:26.199Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4689694point (37%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

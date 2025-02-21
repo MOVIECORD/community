@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-21T07:14:25.659Z</updated>
+    <updated>2025-02-21T08:18:50.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스포O] 퇴마록을 보고 왔습니다]]></title>
+        <id>https://extmovie.com/movietalk/92849118?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92849118?category=61633579"/>
+        <updated>2025-02-21T08:18:43.329Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:626point (49%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뭉실리뷰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퇴마록 후기]]></title>
         <id>https://extmovie.com/movietalk/92848570?category=61633579</id>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/92842266?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92842266?category=61633579"/>
         <updated>2025-02-19T02:44:37.673Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62724point (36%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:62726point (36%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<캡틴아메리카: 브레이브 뉴 월드>: “무난한” 캡틴 아...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92833536?category=61633579"/>
         <updated>2025-02-15T01:04:57.790Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63746point (87%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) 캡아 브뉴월 한줄 후기]]></title>
-        <id>https://extmovie.com/movietalk/92833347?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92833347?category=61633579"/>
-        <updated>2025-02-14T23:14:02.131Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/20.gif" alt="[레벨:20]" title="포인트:36286point (7%), 레벨:20/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">아이언하이드]]></content>
     </entry>
 </feed>

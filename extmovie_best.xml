@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-22T17:12:40.083Z</updated>
+    <updated>2025-02-22T18:17:13.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92851474"/>
         <updated>2025-02-22T17:12:24.015Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4139383point (27%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레오나르도 디카프리오 신작들]]></title>
+        <id>https://extmovie.com/bestboard/92851431</id>
+        <link href="https://extmovie.com/bestboard/92851431"/>
+        <updated>2025-02-22T18:16:58.892Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:592748point (63%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미키 17 새 포스터들]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92848473"/>
         <updated>2025-02-21T06:20:00.811Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91539point (65%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존 말코비치, 과거 마블 영화 출연 거절한 이유는?]]></title>
-        <id>https://extmovie.com/bestboard/92848480</id>
-        <link href="https://extmovie.com/bestboard/92848480"/>
-        <updated>2025-02-21T11:14:15.376Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1403210point (3%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

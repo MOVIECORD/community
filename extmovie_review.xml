@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-22T05:14:20.558Z</updated>
+    <updated>2025-02-22T06:20:04.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[괴담:도시전설 다봤습니다]]></title>
+        <id>https://extmovie.com/movietalk/92850938?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92850938?category=61633579"/>
+        <updated>2025-02-22T06:19:57.169Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70645point (45%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金色夜叉 (1954) 이수일과 심순애. 괴작. 스포일러 있음.]]></title>
         <id>https://extmovie.com/movietalk/92849860?category=61633579</id>
@@ -31,7 +38,7 @@
         <id>https://extmovie.com/movietalk/92849350?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92849350?category=61633579"/>
         <updated>2025-02-21T10:15:23.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70553point (40%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:70645point (45%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<9월 5일: 위험한 특종> 후기 - 그날의 긴박함을 고스...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92834893?category=61633579"/>
         <updated>2025-02-15T14:11:58.129Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:43847point (7%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하이데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(노스포) 개봉전 악평 치곤 의외로 볼만했던 새로운 캡틴 아...]]></title>
-        <id>https://extmovie.com/movietalk/92834878?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92834878?category=61633579"/>
-        <updated>2025-02-15T14:11:58.131Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1784point (8%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
     </entry>
 </feed>

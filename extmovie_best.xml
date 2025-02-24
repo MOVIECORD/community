@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-24T19:12:54.068Z</updated>
+    <updated>2025-02-24T20:16:28.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -31,6 +31,13 @@
         <id>https://extmovie.com/bestboard/92855766</id>
         <link href="https://extmovie.com/bestboard/92855766"/>
         <updated>2025-02-24T16:19:01.126Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4692380point (38%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[론 하워드 ‘에덴‘ 첫 포스터 - 시드니 스위니, 아나 데 아르마스, 바네...]]></title>
+        <id>https://extmovie.com/bestboard/92855693</id>
+        <link href="https://extmovie.com/bestboard/92855693"/>
+        <updated>2025-02-24T20:16:12.283Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4692380point (38%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/bestboard/92854739</id>
         <link href="https://extmovie.com/bestboard/92854739"/>
         <updated>2025-02-24T12:28:32.546Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6066point (20%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6068point (20%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현재 알려진 '스파이더맨 4' 출연 캐릭터와 배우들 - 젠 데...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92852966"/>
         <updated>2025-02-23T22:13:04.306Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:97274point (88%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<퇴마록> 후기]]></title>
-        <id>https://extmovie.com/bestboard/92852741</id>
-        <link href="https://extmovie.com/bestboard/92852741"/>
-        <updated>2025-02-23T17:12:17.921Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25908point (96%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
     </entry>
 </feed>

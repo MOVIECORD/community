@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-25T16:19:15.179Z</updated>
+    <updated>2025-02-25T17:16:13.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://extmovie.com/bestboard/92857844</id>
         <link href="https://extmovie.com/bestboard/92857844"/>
         <updated>2025-02-25T13:22:37.189Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:424point (5%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">작은시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:434point (7%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">작은시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴 토마스 앤더슨 신작 '원 배틀 애프터 어나더' 추가된 플...]]></title>
@@ -160,6 +160,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4693598point (38%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DC 연간 7개 프로젝트 공개 목표 / 현재 개발과정 어려운 프로젝트들]]></title>
+        <id>https://extmovie.com/bestboard/92856663</id>
+        <link href="https://extmovie.com/bestboard/92856663"/>
+        <updated>2025-02-25T17:15:57.314Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4693598point (38%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미키17] 중국에서 3분 정도 삭제]]></title>
         <id>https://extmovie.com/bestboard/92856591</id>
         <link href="https://extmovie.com/bestboard/92856591"/>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92855766"/>
         <updated>2025-02-24T16:19:01.126Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4693598point (38%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴마록 2차 감상 후기]]></title>
-        <id>https://extmovie.com/bestboard/92855697</id>
-        <link href="https://extmovie.com/bestboard/92855697"/>
-        <updated>2025-02-25T04:18:05.483Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13859point (39%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">kknd2237]]></content>
     </entry>
 </feed>

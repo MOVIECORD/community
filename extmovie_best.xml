@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-27T19:12:47.457Z</updated>
+    <updated>2025-02-27T20:16:40.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<미키17> 가족들하고 보셔도 돼요. 베드신? 걍 귀엽습니다.]]></title>
+        <id>https://extmovie.com/bestboard/92864185</id>
+        <link href="https://extmovie.com/bestboard/92864185"/>
+        <updated>2025-02-27T20:16:24.788Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:91757point (66%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동진 평론가 아카데미상 예측]]></title>
         <id>https://extmovie.com/bestboard/92864162</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92860968"/>
         <updated>2025-02-27T02:50:44.890Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4140976point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양들의침묵 재개봉 확정 포스터 25.3]]></title>
-        <id>https://extmovie.com/bestboard/92860798</id>
-        <link href="https://extmovie.com/bestboard/92860798"/>
-        <updated>2025-02-26T16:19:45.515Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:68374point (74%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">전단메니아]]></content>
     </entry>
 </feed>

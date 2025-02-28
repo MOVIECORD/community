@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-02-28T08:18:59.039Z</updated>
+    <updated>2025-02-28T09:16:20.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미키7 보고왔습니다.]]></title>
+        <id>https://extmovie.com/movietalk/92866558?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92866558?category=61633579"/>
+        <updated>2025-02-28T09:16:13.462Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2030point (56%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<미키 17> 후기 - 봉준호의 AAA 오픈 월드 유랑기]]></title>
         <id>https://extmovie.com/movietalk/92866313?category=61633579</id>
@@ -17,7 +24,7 @@
         <id>https://extmovie.com/movietalk/92866190?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92866190?category=61633579"/>
         <updated>2025-02-28T07:14:45.278Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1800point (11%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1802point (12%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스포O] 미키 17, 오전 돌비시네마로 보고 왔습니다]]></title>
@@ -94,7 +101,7 @@
         <id>https://extmovie.com/movietalk/92860347?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92860347?category=61633579"/>
         <updated>2025-02-26T07:14:30.920Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2273point (2%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소보로단팥빵]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2284point (3%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소보로단팥빵]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The bat (1926) 배트맨에게 영향을 준 영화. 사실상 중요요...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92849788?category=61633579"/>
         <updated>2025-02-21T14:12:32.061Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:433point (7%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">한가해욥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그시절우리가좋아했던소녀 한국판 후기]]></title>
-        <id>https://extmovie.com/movietalk/92849350?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92849350?category=61633579"/>
-        <updated>2025-02-21T10:15:23.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:71031point (67%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

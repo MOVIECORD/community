@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-02-28T19:13:56.139Z</updated>
+    <updated>2025-02-28T20:15:57.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92867277"/>
         <updated>2025-02-28T19:13:41.553Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3746point (43%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">stillmong]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최우식: 14년 <거인> 이후 김태용감독과 두번째 작품 들어간다]]></title>
+        <id>https://extmovie.com/bestboard/92867172</id>
+        <link href="https://extmovie.com/bestboard/92867172"/>
+        <updated>2025-02-28T20:15:41.167Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44146point (14%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김형서]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<미키17> 살짝(?) 아쉬운 한줄평.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92864487"/>
         <updated>2025-02-28T01:07:20.135Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3313point (6%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BradeyKim]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025년 2월 27일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/92864419</id>
-        <link href="https://extmovie.com/bestboard/92864419"/>
-        <updated>2025-02-27T23:14:39.775Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141276point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

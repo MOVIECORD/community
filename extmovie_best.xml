@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-02T17:11:53.455Z</updated>
+    <updated>2025-03-02T18:19:31.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://extmovie.com/bestboard/92871256</id>
         <link href="https://extmovie.com/bestboard/92871256"/>
         <updated>2025-03-02T17:11:37.649Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141604point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141608point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이동진 평론가 [미키 17] [컴플리트 언노운] 별점평]]></title>
@@ -32,6 +32,13 @@
         <link href="https://extmovie.com/bestboard/92870903"/>
         <updated>2025-03-02T17:11:37.650Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14822point (82%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스토퍼 놀란 ‘오딧세이’ 포세이돈 역할 로버트 다우니 주니어에게 ...]]></title>
+        <id>https://extmovie.com/bestboard/92870894</id>
+        <link href="https://extmovie.com/bestboard/92870894"/>
+        <updated>2025-03-02T18:19:15.985Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4698067point (39%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 영화중 재미만 따지면 원톱이]]></title>
@@ -227,7 +234,7 @@
         <id>https://extmovie.com/bestboard/92869363</id>
         <link href="https://extmovie.com/bestboard/92869363"/>
         <updated>2025-03-01T19:10:57.618Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141604point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141608point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['데몬 시티' 넷플릭스 글로벌 1위!]]></title>
@@ -240,13 +247,6 @@
         <title type="html"><![CDATA[마블판 홍철 없는 홍철팀?]]></title>
         <id>https://extmovie.com/bestboard/92869284</id>
         <link href="https://extmovie.com/bestboard/92869284"/>
-        <updated>2025-03-02T01:12:07.678Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3277point (3%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도대체 무슨 일이....]]></title>
-        <id>https://extmovie.com/bestboard/92869194</id>
-        <link href="https://extmovie.com/bestboard/92869194"/>
         <updated>2025-03-02T01:12:07.678Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3277point (3%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
     </entry>

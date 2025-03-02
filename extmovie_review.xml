@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-02T17:11:53.448Z</updated>
+    <updated>2025-03-02T18:19:31.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노스포) 백수아파트  왕십리CGV, 코메박에서 보고 온 후기 ...]]></title>
+        <id>https://extmovie.com/movietalk/92869353?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92869353?category=61633579"/>
+        <updated>2025-03-02T18:19:24.262Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63539point (76%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫번째 키스 다시 봤습니다]]></title>
         <id>https://extmovie.com/movietalk/92870683?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92867322?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92867322?category=61633579"/>
         <updated>2025-02-28T15:16:01.833Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63489point (74%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/24.gif" alt="[레벨:24]" title="포인트:63539point (76%), 레벨:24/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<브루탈리스트>를 보고 나서 (스포 X) - 애드리언 브...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92856035?category=61633579"/>
         <updated>2025-02-24T12:28:41.692Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9082point (4%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(약스포) 퇴마록 용포디 후기입니다]]></title>
-        <id>https://extmovie.com/movietalk/92855803?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92855803?category=61633579"/>
-        <updated>2025-02-24T11:12:55.098Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:252point (63%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">고드랑이]]></content>
     </entry>
 </feed>

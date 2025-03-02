@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-03-02T22:14:39.230Z</updated>
+    <updated>2025-03-02T23:13:43.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미키 17‘ 100만 돌파]]></title>
+        <id>https://extmovie.com/movietalk/92871704?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92871704?category=21915420"/>
+        <updated>2025-03-02T23:13:31.435Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5469point (78%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">crazylove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 3월 2일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/92871256?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92871256?category=21915420"/>
         <updated>2025-03-02T15:13:04.003Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141608point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141615point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헐리우드 리포터 오스카 주요부문 수상 예측 리스트]]></title>
@@ -87,7 +94,7 @@
         <id>https://extmovie.com/movietalk/92870654?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92870654?category=21915420"/>
         <updated>2025-03-02T11:11:56.014Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13972point (44%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13974point (45%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Assessment 외 새 이미지들]]></title>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92870343?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92870343?category=21915420"/>
         <updated>2025-03-02T07:13:19.249Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13972point (44%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:13974point (45%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자기얼굴 냅다 후려패는 ‘노보케인‘ 잭 퀘이드]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92869884?category=21915420"/>
         <updated>2025-03-02T01:12:11.742Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4698069point (39%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<크래쉬> 디렉터스컷 3월 개봉]]></title>
-        <id>https://extmovie.com/movietalk/92869876?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92869876?category=21915420"/>
-        <updated>2025-03-02T01:12:11.742Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:593774point (68%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-02T19:11:19.904Z</updated>
+    <updated>2025-03-02T20:15:23.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://extmovie.com/bestboard/92870606"/>
         <updated>2025-03-02T15:12:59.883Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:49504point (13%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미키17  cgv에그 91이네요]]></title>
+        <id>https://extmovie.com/bestboard/92870568</id>
+        <link href="https://extmovie.com/bestboard/92870568"/>
+        <updated>2025-03-02T20:15:07.343Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2324point (7%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">퀘사스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[미키17] 너무 재밌었습니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92869363"/>
         <updated>2025-03-01T19:10:57.618Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4141608point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데몬 시티' 넷플릭스 글로벌 1위!]]></title>
-        <id>https://extmovie.com/bestboard/92869332</id>
-        <link href="https://extmovie.com/bestboard/92869332"/>
-        <updated>2025-03-02T01:12:07.678Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7588point (17%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하드보일드느와르]]></content>
     </entry>
 </feed>

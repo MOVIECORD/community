@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-04T20:17:02.041Z</updated>
+    <updated>2025-03-04T21:14:20.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미키17 포토플레이 이미지 (고통받는 일곱 미키들)]]></title>
+        <id>https://extmovie.com/bestboard/92876742</id>
+        <link href="https://extmovie.com/bestboard/92876742"/>
+        <updated>2025-03-04T21:14:04.006Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/21.gif" alt="[레벨:21]" title="포인트:42480point (72%), 레벨:21/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">오래구워]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕조현 최신 근황(feat. 캐나다 뜸전문점)]]></title>
         <id>https://extmovie.com/bestboard/92876705</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92874234"/>
         <updated>2025-03-04T06:28:52.620Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4700126point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025년 3월 3일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/92874199</id>
-        <link href="https://extmovie.com/bestboard/92874199"/>
-        <updated>2025-03-03T21:13:39.029Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4142383point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

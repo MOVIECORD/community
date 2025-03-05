@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-05T17:14:30.860Z</updated>
+    <updated>2025-03-05T18:21:36.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://extmovie.com/bestboard/92878747"/>
         <updated>2025-03-05T16:24:08.016Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4142731point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<크래쉬: 디렉터스 컷> 티저 예고편 공개]]></title>
+        <id>https://extmovie.com/bestboard/92878683</id>
+        <link href="https://extmovie.com/bestboard/92878683"/>
+        <updated>2025-03-05T18:21:21.077Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/35.gif" alt="[레벨:35]" title="포인트:211476point (76%), 레벨:35/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['데어데블: 본 어게인' 로튼 리뷰 번역(신선도 83%)]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92876336"/>
         <updated>2025-03-04T20:16:46.246Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4142731point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인적으로 어제 오스카에서 가장 인상 깊었던 수상 소감]]></title>
-        <id>https://extmovie.com/bestboard/92876209</id>
-        <link href="https://extmovie.com/bestboard/92876209"/>
-        <updated>2025-03-04T13:22:47.002Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6354point (38%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
     </entry>
 </feed>

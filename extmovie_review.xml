@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-06T17:14:22.617Z</updated>
+    <updated>2025-03-06T18:20:20.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<로마의 휴일> - 오드리 헵번의 매력이 뿜어 나오는 영화]]></title>
+        <id>https://extmovie.com/movietalk/92881423?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92881423?category=61633579"/>
+        <updated>2025-03-06T18:20:14.250Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2125point (75%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[철학적이지만 난해한 <플로우>]]></title>
         <id>https://extmovie.com/movietalk/92880399?category=61633579</id>
@@ -157,7 +164,7 @@
         <id>https://extmovie.com/movietalk/92861481?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92861481?category=61633579"/>
         <updated>2025-02-28T22:13:55.571Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2059point (62%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2125point (75%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Posiedon adventure (1972) 진 해크먼의 걸작 어드벤쳐영화....]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92864362?category=61633579"/>
         <updated>2025-02-28T04:18:42.136Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:65276point (21%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴플리트 언노운-뜻밖의 배우 발견]]></title>
-        <id>https://extmovie.com/movietalk/92864017?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92864017?category=61633579"/>
-        <updated>2025-02-27T12:28:30.032Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9276point (14%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-06T06:21:11.769Z</updated>
+    <updated>2025-03-06T07:16:17.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[철학적이지만 난해한 <플로우>]]></title>
+        <id>https://extmovie.com/movietalk/92880399?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92880399?category=61633579"/>
+        <updated>2025-03-06T07:16:09.389Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54668point (49%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<미키 17>: 돌아온 이야기꾼 봉테일.]]></title>
         <id>https://extmovie.com/movietalk/92879263?category=61633579</id>
@@ -80,7 +87,7 @@
         <id>https://extmovie.com/movietalk/92875794?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92875794?category=61633579"/>
         <updated>2025-03-04T08:17:36.017Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54655point (48%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54668point (49%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 백수아파트  왕십리CGV, 코메박에서 보고 온 후기 ...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92864017?category=61633579"/>
         <updated>2025-02-27T12:28:30.032Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9276point (14%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<하얼빈>을 보고 나서 (스포 O) - 우민호 감독 작품]]></title>
-        <id>https://extmovie.com/movietalk/92863466?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92863466?category=61633579"/>
-        <updated>2025-02-27T08:18:52.022Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20838point (21%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

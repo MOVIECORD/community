@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-07T15:15:36.190Z</updated>
+    <updated>2025-03-07T16:18:04.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아무도 안들어오네요.]]></title>
+        <id>https://extmovie.com/bestboard/92883429</id>
+        <link href="https://extmovie.com/bestboard/92883429"/>
+        <updated>2025-03-07T16:17:48.848Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7264point (98%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DC 유튜브 계정이 한국인에게 해킹당했습니다.]]></title>
         <id>https://extmovie.com/bestboard/92883368</id>
@@ -38,14 +45,28 @@
         <id>https://extmovie.com/bestboard/92880657</id>
         <link href="https://extmovie.com/bestboard/92880657"/>
         <updated>2025-03-07T13:22:23.543Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703071point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703083point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<미키 17> 속 사이클러(소각로)의 모티브..]]></title>
+        <id>https://extmovie.com/bestboard/92882861</id>
+        <link href="https://extmovie.com/bestboard/92882861"/>
+        <updated>2025-03-07T16:17:48.861Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2308point (5%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">조윤빈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀린 송, 잠재적인 프로젝트 위해 마블과 접촉 - 상세기사]]></title>
+        <id>https://extmovie.com/bestboard/92882735</id>
+        <link href="https://extmovie.com/bestboard/92882735"/>
+        <updated>2025-03-07T16:17:48.863Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703083point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퇴마록 32만이네요...]]></title>
         <id>https://extmovie.com/bestboard/92882836</id>
         <link href="https://extmovie.com/bestboard/92882836"/>
         <updated>2025-03-07T12:28:26.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8612point (77%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">울프맨]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8614point (77%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">울프맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<데어데블: 본 어게인> ‘히트’의 명장면에 대한 오마주 포함]]></title>
@@ -87,7 +108,7 @@
         <id>https://extmovie.com/bestboard/92882021</id>
         <link href="https://extmovie.com/bestboard/92882021"/>
         <updated>2025-03-07T15:15:21.658Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703071point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703083point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아카데미상 역대 최다 수상작]]></title>
@@ -101,7 +122,7 @@
         <id>https://extmovie.com/bestboard/92881901</id>
         <link href="https://extmovie.com/bestboard/92881901"/>
         <updated>2025-03-07T05:15:07.277Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703071point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703083point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 쿠폰 소식입니다~ 불금화이팅! 담주 부터 봄이네요!]]></title>
@@ -122,14 +143,14 @@
         <id>https://extmovie.com/bestboard/92881648</id>
         <link href="https://extmovie.com/bestboard/92881648"/>
         <updated>2025-03-07T15:15:21.666Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703071point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703083point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘썬더볼츠‘ 엠파이어 커버, 뉴 스틸]]></title>
         <id>https://extmovie.com/bestboard/92881631</id>
         <link href="https://extmovie.com/bestboard/92881631"/>
         <updated>2025-03-07T13:22:23.561Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703071point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703083point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<로마의 휴일(1953)> - 오드리 헵번의 매력이 뿜어 나오는 영화]]></title>
@@ -171,7 +192,7 @@
         <id>https://extmovie.com/bestboard/92881214</id>
         <link href="https://extmovie.com/bestboard/92881214"/>
         <updated>2025-03-07T03:25:01.342Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/71.gif" alt="[레벨:71]" title="포인트:1024016point (24%), 레벨:71/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익무노예]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/71.gif" alt="[레벨:71]" title="포인트:1024018point (24%), 레벨:71/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익무노예]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[기동전사 건담 지쿠악스 비기닝] 4월 2일 개봉]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/92880931"/>
         <updated>2025-03-06T18:20:06.447Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:68664point (79%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀멸의 칼날 무한성편 8월 개봉(국내)]]></title>
-        <id>https://extmovie.com/bestboard/92880720</id>
-        <link href="https://extmovie.com/bestboard/92880720"/>
-        <updated>2025-03-06T14:14:15.983Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29806point (19%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미션임파서블 8' 3시간 컷 첫 테스트 시사회 반응 긍정적]]></title>
-        <id>https://extmovie.com/bestboard/92880585</id>
-        <link href="https://extmovie.com/bestboard/92880585"/>
-        <updated>2025-03-06T13:23:11.633Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703071point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미키 17' 손익분기점 3억달러]]></title>
-        <id>https://extmovie.com/bestboard/92880534</id>
-        <link href="https://extmovie.com/bestboard/92880534"/>
-        <updated>2025-03-06T11:12:35.487Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4703071point (40%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

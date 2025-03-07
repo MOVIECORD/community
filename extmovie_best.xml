@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-07T19:12:24.176Z</updated>
+    <updated>2025-03-07T20:16:12.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 3월 7일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92883940</id>
+        <link href="https://extmovie.com/bestboard/92883940"/>
+        <updated>2025-03-07T20:15:55.863Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4143164point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<에밀리아 페레즈>, 그리고 그린나래미디어가]]></title>
+        <id>https://extmovie.com/bestboard/92883669</id>
+        <link href="https://extmovie.com/bestboard/92883669"/>
+        <updated>2025-03-07T20:15:55.863Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26390point (12%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재혼황후 / 이세영배우님 검토중]]></title>
         <id>https://extmovie.com/bestboard/92883636</id>
@@ -109,6 +123,13 @@
         <link href="https://extmovie.com/bestboard/92882306"/>
         <updated>2025-03-07T09:16:08.296Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4143164point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[존 윅] 특별관 시사회 당첨자입니다.]]></title>
+        <id>https://extmovie.com/bestboard/92882182</id>
+        <link href="https://extmovie.com/bestboard/92882182"/>
+        <updated>2025-03-07T20:15:55.889Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/71.gif" alt="[레벨:71]" title="포인트:1024018point (24%), 레벨:71/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익무노예]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['오딧세이' 촬영장 근황 - 그리스 놀란감독, 맷 데이먼]]></title>
@@ -228,26 +249,5 @@
         <link href="https://extmovie.com/bestboard/92881045"/>
         <updated>2025-03-06T16:18:39.135Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3313point (6%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일 합작 드라마 마물]]></title>
-        <id>https://extmovie.com/bestboard/92881007</id>
-        <link href="https://extmovie.com/bestboard/92881007"/>
-        <updated>2025-03-07T12:28:26.230Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29806point (19%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡틴아메리카에 나오는 대통령 경호원 보고 조금 묘했네요.]]></title>
-        <id>https://extmovie.com/bestboard/92880955</id>
-        <link href="https://extmovie.com/bestboard/92880955"/>
-        <updated>2025-03-06T16:18:39.136Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:16975point (72%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왈도3호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고수, 전지현 만난다…연상호 감독 '군체' 특별출연]]></title>
-        <id>https://extmovie.com/bestboard/92880944</id>
-        <link href="https://extmovie.com/bestboard/92880944"/>
-        <updated>2025-03-06T14:14:15.983Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:68664point (79%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">왕정문]]></content>
     </entry>
 </feed>

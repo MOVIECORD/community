@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-03-08T17:11:19.150Z</updated>
+    <updated>2025-03-08T18:16:22.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CheckMate, Popeye the Slayer Man 새 이미지]]></title>
+        <id>https://extmovie.com/movietalk/92885634?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92885634?category=21915420"/>
+        <updated>2025-03-08T18:16:11.099Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/37.gif" alt="[레벨:37]" title="포인트:248707point (93%), 레벨:37/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 3월 8일 국내 박스오피스]]></title>
         <id>https://extmovie.com/movietalk/92885525?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92883504?category=21915420"/>
         <updated>2025-03-07T11:12:47.022Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4143313point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DC 유튜브 계정이 한국인에게 해킹당했습니다.]]></title>
-        <id>https://extmovie.com/movietalk/92883368?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92883368?category=21915420"/>
-        <updated>2025-03-07T10:16:15.615Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14138point (52%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
     </entry>
 </feed>

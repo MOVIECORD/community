@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-08T17:11:19.161Z</updated>
+    <updated>2025-03-08T18:16:22.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 3월 8일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92885525</id>
+        <link href="https://extmovie.com/bestboard/92885525"/>
+        <updated>2025-03-08T18:16:06.968Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4143313point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아나마리아 V. : 봉준호 감독님이 향후 일정 물어보시더라]]></title>
         <id>https://extmovie.com/bestboard/92885353</id>
         <link href="https://extmovie.com/bestboard/92885353"/>
-        <updated>2025-03-08T17:11:02.684Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92082point (67%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
+        <updated>2025-03-08T18:16:06.968Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:92084point (67%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Balancist]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MCU 신작 <썬더볼츠*>, 마블판 <토이 스토리 3>가 된다?]]></title>
@@ -88,6 +95,13 @@
         <link href="https://extmovie.com/bestboard/92884751"/>
         <updated>2025-03-08T09:12:35.779Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:594537point (72%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<마담 웹>을 보고 (스포X)]]></title>
+        <id>https://extmovie.com/bestboard/92884747</id>
+        <link href="https://extmovie.com/bestboard/92884747"/>
+        <updated>2025-03-08T18:16:06.980Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9746point (39%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혹평 세례 '일렉트릭 스테이트' 로튼 리뷰 번역]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92883368"/>
         <updated>2025-03-07T12:28:26.195Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14138point (52%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">21C아티스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미키 17] 로튼 토마토 팝콘 점수 82%]]></title>
-        <id>https://extmovie.com/bestboard/92883355</id>
-        <link href="https://extmovie.com/bestboard/92883355"/>
-        <updated>2025-03-07T14:14:09.937Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:594537point (72%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 감독, 샤론 최의 최애 영화 4편]]></title>
-        <id>https://extmovie.com/bestboard/92883343</id>
-        <link href="https://extmovie.com/bestboard/92883343"/>
-        <updated>2025-03-07T13:22:23.542Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:594537point (72%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

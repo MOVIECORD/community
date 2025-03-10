@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-10T22:14:33.367Z</updated>
+    <updated>2025-03-10T23:14:19.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,14 +10,21 @@
         <id>https://extmovie.com/bestboard/92889675</id>
         <link href="https://extmovie.com/bestboard/92889675"/>
         <updated>2025-03-10T22:14:16.723Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:290562point (68%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/39.gif" alt="[레벨:39]" title="포인트:290568point (68%), 레벨:39/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소설가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미키17 뭘 말하고 싶은지 모르겠어요]]></title>
+        <id>https://extmovie.com/bestboard/92889564</id>
+        <link href="https://extmovie.com/bestboard/92889564"/>
+        <updated>2025-03-10T23:14:03.728Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:428757point (43%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가수 휘성 자택에서 심정지 사망 비보]]></title>
         <id>https://extmovie.com/bestboard/92889417</id>
         <link href="https://extmovie.com/bestboard/92889417"/>
         <updated>2025-03-10T13:24:03.150Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29852point (20%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:29856point (20%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가이리치의 자기복제화"언젠틀 오퍼레이션"]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92886216"/>
         <updated>2025-03-09T07:11:25.466Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4705200point (41%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미키17. 봉준호는 봉준호했다. 이걸 읽고 평가하는 건 오롯이 관객의 ...]]></title>
-        <id>https://extmovie.com/bestboard/92886220</id>
-        <link href="https://extmovie.com/bestboard/92886220"/>
-        <updated>2025-03-09T07:11:25.466Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1935point (38%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-10T09:14:26.889Z</updated>
+    <updated>2025-03-10T10:14:04.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ 언젠틀 오퍼레이션 ] 시사회 후기]]></title>
+        <id>https://extmovie.com/movietalk/92889202?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92889202?category=61633579"/>
+        <updated>2025-03-10T10:13:57.693Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5626point (90%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빅스크린]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언젠틀 오퍼레이션(The Ministry of Ungentlemanly Warfare)...]]></title>
+        <id>https://extmovie.com/movietalk/92889190?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92889190?category=61633579"/>
+        <updated>2025-03-10T10:13:57.698Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:210point (52%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">환타321]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['언젠틀 오퍼레이션' 시사 후기]]></title>
         <id>https://extmovie.com/movietalk/92889062?category=61633579</id>
@@ -101,7 +115,7 @@
         <id>https://extmovie.com/movietalk/92885348?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92885348?category=61633579"/>
         <updated>2025-03-08T14:10:27.276Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1404213point (4%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1404215point (4%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<차이나타운>(1974)를 보고 나서 (스포 O) - 잭 니콜...]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/movietalk/92869353?category=61633579"/>
         <updated>2025-03-02T18:19:24.262Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64101point (1%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫번째 키스 다시 봤습니다]]></title>
-        <id>https://extmovie.com/movietalk/92870683?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92870683?category=61633579"/>
-        <updated>2025-03-02T11:12:00.335Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/26.gif" alt="[레벨:26]" title="포인트:71435point (90%), 레벨:26/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미키17] 너무 재밌었습니다.]]></title>
-        <id>https://extmovie.com/movietalk/92870521?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92870521?category=61633579"/>
-        <updated>2025-03-02T09:14:04.794Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15813point (24%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
 </feed>

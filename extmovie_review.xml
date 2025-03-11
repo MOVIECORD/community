@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-11T12:30:38.140Z</updated>
+    <updated>2025-03-11T13:24:50.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘일렉트릭 스테이트’ 간단평]]></title>
+        <id>https://extmovie.com/movietalk/92891776?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92891776?category=61633579"/>
+        <updated>2025-03-11T13:24:43.532Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58583point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">숨결군]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[언젠틀 오퍼레이션] 후기 - 스포일러 포함]]></title>
         <id>https://extmovie.com/movietalk/92890103?category=61633579</id>
@@ -108,14 +115,14 @@
         <id>https://extmovie.com/movietalk/92886445?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92886445?category=61633579"/>
         <updated>2025-03-09T07:11:33.989Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15816point (24%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15819point (25%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아노라] 씁쓸함에 대하여 (스포)]]></title>
         <id>https://extmovie.com/movietalk/92886440?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92886440?category=61633579"/>
         <updated>2025-03-09T07:11:33.989Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15816point (24%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15819point (25%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">화기소림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미키17. 봉준호는 봉준호했다. 이걸 읽고 평가하는 건 오롯...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92877223?category=61633579"/>
         <updated>2025-03-05T01:08:57.661Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:7173point (92%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">노튼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이즈의 무희 (1933) 원작의 처참한 파괴. 스포일러 있음.]]></title>
-        <id>https://extmovie.com/movietalk/92824932?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92824932?category=61633579"/>
-        <updated>2025-03-04T19:13:02.602Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:65487point (25%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
 </feed>

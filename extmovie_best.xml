@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-12T18:21:15.696Z</updated>
+    <updated>2025-03-12T19:12:43.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -109,6 +109,13 @@
         <link href="https://extmovie.com/bestboard/92892291"/>
         <updated>2025-03-12T05:15:00.501Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:595037point (75%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어카운턴트 2' 로튼토마토 신선도 83%]]></title>
+        <id>https://extmovie.com/bestboard/92892265</id>
+        <link href="https://extmovie.com/bestboard/92892265"/>
+        <updated>2025-03-12T19:12:27.822Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4144253point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘미키 17‘ 워너 1억달러 손실 예측]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92890799"/>
         <updated>2025-03-12T02:52:30.129Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:323point (80%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">jokerr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 썬더볼츠 영화는 A24 인디영화같다는 말이 안 믿기는 이유]]></title>
-        <id>https://extmovie.com/bestboard/92890742</id>
-        <link href="https://extmovie.com/bestboard/92890742"/>
-        <updated>2025-03-11T13:24:35.720Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7807point (30%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">션2022]]></content>
     </entry>
 </feed>

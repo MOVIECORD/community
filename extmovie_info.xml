@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-03-12T17:15:01.213Z</updated>
+    <updated>2025-03-12T18:21:15.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[릴로와 스티치 실사판 예고편 공개]]></title>
+        <id>https://extmovie.com/movietalk/92895237?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92895237?category=21915420"/>
+        <updated>2025-03-12T18:21:04.816Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14964point (89%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">밀크초코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노보케인] CGV 골든 에그 점수 86%]]></title>
         <id>https://extmovie.com/movietalk/92895036?category=21915420</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92892570?category=21915420"/>
         <updated>2025-03-12T01:08:18.611Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14049point (48%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스튬입고 '코요테 vs 애크미' 개봉 시위하는 팬...]]></title>
-        <id>https://extmovie.com/movietalk/92892528?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92892528?category=21915420"/>
-        <updated>2025-03-12T01:08:18.621Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4708542point (41%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

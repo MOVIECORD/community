@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-12T17:15:01.202Z</updated>
+    <updated>2025-03-12T18:21:15.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김새론  음주운전 전말]]></title>
+        <id>https://extmovie.com/bestboard/92895078</id>
+        <link href="https://extmovie.com/bestboard/92895078"/>
+        <updated>2025-03-12T18:21:00.965Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8217point (54%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1편을 능가하는 속편 '어카운턴트 2' 로튼 리뷰 번역]]></title>
         <id>https://extmovie.com/bestboard/92894570</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92890742"/>
         <updated>2025-03-11T13:24:35.720Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:7807point (30%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">션2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡플레이 - HBO 오리지널 제공 보도 전문]]></title>
-        <id>https://extmovie.com/bestboard/92890704</id>
-        <link href="https://extmovie.com/bestboard/92890704"/>
-        <updated>2025-03-11T10:16:25.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/22.gif" alt="[레벨:22]" title="포인트:44251point (17%), 레벨:22/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">김형서]]></content>
     </entry>
 </feed>

@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-13T16:19:19.150Z</updated>
+    <updated>2025-03-13T17:12:54.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[마이클 소더버그 <블랙 백> 시사회 후기]]></title>
+        <title type="html"><![CDATA[고독한 미식가 더 무비 관람]]></title>
+        <id>https://extmovie.com/movietalk/92897786?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92897786?category=61633579"/>
+        <updated>2025-03-13T17:12:46.799Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:980point (34%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">메테오짱]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스티븐 소더버그 <블랙 백> 시사회 후기]]></title>
         <id>https://extmovie.com/movietalk/92897584?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92897584?category=61633579"/>
         <updated>2025-03-13T14:14:53.321Z</updated>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92886220?category=61633579"/>
         <updated>2025-03-09T03:14:07.894Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:1935point (38%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">dolstone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<콘클라베> 봤습니다]]></title>
-        <id>https://extmovie.com/movietalk/92885549?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92885549?category=61633579"/>
-        <updated>2025-03-09T00:59:49.687Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9811point (42%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">도삐]]></content>
     </entry>
 </feed>

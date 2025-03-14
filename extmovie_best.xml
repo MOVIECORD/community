@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-14T19:12:56.483Z</updated>
+    <updated>2025-03-14T20:16:09.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/92899647"/>
         <updated>2025-03-14T16:18:38.455Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9410point (21%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">드니로옹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마츠시게 유타카 오늘 아침]]></title>
+        <id>https://extmovie.com/bestboard/92899578</id>
+        <link href="https://extmovie.com/bestboard/92899578"/>
+        <updated>2025-03-14T20:15:53.922Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:433067point (65%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴 토마스 앤더슨 '원 배틀 애프터 어나더' 라스베가스 시사...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92896527"/>
         <updated>2025-03-13T19:12:15.580Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4144960point (28%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진격의거인 더 라스트 어택 한줄평]]></title>
-        <id>https://extmovie.com/bestboard/92896463</id>
-        <link href="https://extmovie.com/bestboard/92896463"/>
-        <updated>2025-03-14T01:08:39.221Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8574point (75%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
     </entry>
 </feed>

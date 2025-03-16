@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-16T21:13:08.562Z</updated>
+    <updated>2025-03-16T22:13:53.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 3월 16일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92903433</id>
+        <link href="https://extmovie.com/bestboard/92903433"/>
+        <updated>2025-03-16T22:13:38.699Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4145336point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[침범 보고 온 후기]]></title>
+        <id>https://extmovie.com/bestboard/92903078</id>
+        <link href="https://extmovie.com/bestboard/92903078"/>
+        <updated>2025-03-16T22:13:38.702Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:24978point (65%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">동네청년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안소니 매키 <8마일> 에미넴과의 랩 배틀 비하인드]]></title>
         <id>https://extmovie.com/bestboard/92903021</id>
@@ -150,7 +164,7 @@
         <id>https://extmovie.com/bestboard/92901973</id>
         <link href="https://extmovie.com/bestboard/92901973"/>
         <updated>2025-03-16T10:14:17.412Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:433560point (67%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:433562point (67%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애냐 테일러 조이 애플TV '럭키' 시리즈 세트장샷]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92901456"/>
         <updated>2025-03-15T15:13:24.367Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:595551point (77%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 영화 출연 안 내킨다는 제나 오르테가]]></title>
-        <id>https://extmovie.com/bestboard/92901447</id>
-        <link href="https://extmovie.com/bestboard/92901447"/>
-        <updated>2025-03-15T15:13:24.367Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4145336point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인적으로 뽑는 B급 영화 명작선]]></title>
-        <id>https://extmovie.com/bestboard/92899303</id>
-        <link href="https://extmovie.com/bestboard/92899303"/>
-        <updated>2025-03-15T14:13:49.889Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8429point (66%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
     </entry>
 </feed>

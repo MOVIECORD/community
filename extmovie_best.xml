@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-16T18:19:30.964Z</updated>
+    <updated>2025-03-16T19:11:13.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92902948"/>
         <updated>2025-03-16T16:16:37.337Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:595551point (77%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핸섬 가이즈  블루레이 출시 예정 (국내)]]></title>
+        <id>https://extmovie.com/bestboard/92902693</id>
+        <link href="https://extmovie.com/bestboard/92902693"/>
+        <updated>2025-03-16T19:10:58.019Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1425519point (25%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 아나 디 아르마스와 데이트 중]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92901273"/>
         <updated>2025-03-15T12:25:51.696Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4145334point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미키 17‘ 개봉 3주만인 25일 디지털 공개 예정 (해외)]]></title>
-        <id>https://extmovie.com/bestboard/92901285</id>
-        <link href="https://extmovie.com/bestboard/92901285"/>
-        <updated>2025-03-15T13:18:56.546Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4711900point (42%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

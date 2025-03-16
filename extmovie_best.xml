@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-16T20:16:50.055Z</updated>
+    <updated>2025-03-16T21:13:08.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안소니 매키 <8마일> 에미넴과의 랩 배틀 비하인드]]></title>
+        <id>https://extmovie.com/bestboard/92903021</id>
+        <link href="https://extmovie.com/bestboard/92903021"/>
+        <updated>2025-03-16T21:12:53.795Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1404517point (4%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애니메이션판 '엣지 오브 투모로우' 티저 예고편]]></title>
         <id>https://extmovie.com/bestboard/92902953</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92899303"/>
         <updated>2025-03-15T14:13:49.889Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8429point (66%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">스누P]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A24 전쟁 영화 '워페어' 대호평 해외 SNS 반응]]></title>
-        <id>https://extmovie.com/bestboard/92901273</id>
-        <link href="https://extmovie.com/bestboard/92901273"/>
-        <updated>2025-03-15T12:25:51.696Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4145336point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

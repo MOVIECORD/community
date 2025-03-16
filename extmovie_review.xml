@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-16T11:13:21.062Z</updated>
+    <updated>2025-03-16T12:26:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약스포) 노보케인 잠실월드타워롯시에서 보고 온 후기입니다.]]></title>
+        <id>https://extmovie.com/movietalk/92902844?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92902844?category=61633579"/>
+        <updated>2025-03-16T12:25:52.171Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64359point (6%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<존 윅> 10주년 기념 상영회 늦은 후기]]></title>
         <id>https://extmovie.com/movietalk/92902780?category=61633579</id>
@@ -115,7 +122,7 @@
         <id>https://extmovie.com/movietalk/92895700?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92895700?category=61633579"/>
         <updated>2025-03-13T02:54:13.847Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1404478point (4%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1404515point (4%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<존 윅>을 보고 나서 (스포 O, 광음시네마에서 관람, ...]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92887621?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92887621?category=61633579"/>
         <updated>2025-03-10T03:16:13.036Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64323point (5%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The goat (1021) 진정한 천재를 보았다. 버스터 키튼. 스포...]]></title>
-        <id>https://extmovie.com/movietalk/92887082?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92887082?category=61633579"/>
-        <updated>2025-03-09T16:13:51.205Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:66043point (34%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64359point (6%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-17T08:21:29.263Z</updated>
+    <updated>2025-03-17T09:17:59.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미키17을 보고]]></title>
+        <id>https://extmovie.com/movietalk/92905649?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92905649?category=61633579"/>
+        <updated>2025-03-17T09:17:52.345Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15288point (3%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14년작) 위플래쉬 코돌비에서 보고 온 후기입니다.]]></title>
         <id>https://extmovie.com/movietalk/92898497?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92889202?category=61633579"/>
         <updated>2025-03-10T10:13:57.693Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:5628point (90%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빅스크린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언젠틀 오퍼레이션(The Ministry of Ungentlemanly Warfare)...]]></title>
-        <id>https://extmovie.com/movietalk/92889190?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92889190?category=61633579"/>
-        <updated>2025-03-10T10:13:57.698Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:241point (60%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">환타321]]></content>
     </entry>
 </feed>

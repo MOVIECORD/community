@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-18T16:19:46.638Z</updated>
+    <updated>2025-03-18T17:14:55.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백설공주..ㅜㅡㅜ]]></title>
+        <id>https://extmovie.com/bestboard/92908207</id>
+        <link href="https://extmovie.com/bestboard/92908207"/>
+        <updated>2025-03-18T17:14:40.686Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/41.gif" alt="[레벨:41]" title="포인트:310680point (4%), 레벨:41/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스 건 <슈퍼맨> 긍정적 반응]]></title>
         <id>https://extmovie.com/bestboard/92907991</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92905525"/>
         <updated>2025-03-17T12:30:29.627Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4713953point (42%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진격의거인 두줄평]]></title>
-        <id>https://extmovie.com/bestboard/92905357</id>
-        <link href="https://extmovie.com/bestboard/92905357"/>
-        <updated>2025-03-18T01:09:32.082Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:161point (40%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">KimHakim]]></content>
     </entry>
 </feed>

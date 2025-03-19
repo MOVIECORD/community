@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-19T04:18:45.852Z</updated>
+    <updated>2025-03-19T05:15:21.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백설공주(2025) 후기]]></title>
+        <id>https://extmovie.com/movietalk/92909598?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92909598?category=61633579"/>
+        <updated>2025-03-19T05:15:13.929Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:4079point (71%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">와킨조커]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[緋牡丹博徒　お竜参上 (1970) 여검객 붉은 모란. 상당히 잘 ...]]></title>
         <id>https://extmovie.com/movietalk/92906701?category=61633579</id>
@@ -45,7 +52,7 @@
         <id>https://extmovie.com/movietalk/92898497?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92898497?category=61633579"/>
         <updated>2025-03-17T08:21:21.482Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64849point (14%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64857point (14%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[女渡世人 おたの申します (1971) 고독한 여자검객. 잘 만들...]]></title>
@@ -73,7 +80,7 @@
         <id>https://extmovie.com/movietalk/92902844?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92902844?category=61633579"/>
         <updated>2025-03-16T12:25:52.171Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64849point (14%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:64857point (14%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<존 윅> 10주년 기념 상영회 늦은 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92891833?category=61633579"/>
         <updated>2025-03-11T15:16:48.874Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/27.gif" alt="[레벨:27]" title="포인트:72011point (10%), 레벨:27/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">박감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘일렉트릭 스테이트’ 간단평]]></title>
-        <id>https://extmovie.com/movietalk/92891776?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92891776?category=61633579"/>
-        <updated>2025-03-11T13:24:43.532Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58610point (76%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">숨결군]]></content>
     </entry>
 </feed>

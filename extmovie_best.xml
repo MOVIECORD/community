@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-19T20:17:19.452Z</updated>
+    <updated>2025-03-19T21:14:46.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 3월 19일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92911587</id>
+        <link href="https://extmovie.com/bestboard/92911587"/>
+        <updated>2025-03-19T21:14:29.850Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4146267point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미야자키 하야오 감독 근황]]></title>
         <id>https://extmovie.com/bestboard/92910983</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92908609"/>
         <updated>2025-03-19T04:18:29.772Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/41.gif" alt="[레벨:41]" title="포인트:310708point (4%), 레벨:41/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 쿠폰 소식입니다^-^ 로비!!]]></title>
-        <id>https://extmovie.com/bestboard/92908607</id>
-        <link href="https://extmovie.com/bestboard/92908607"/>
-        <updated>2025-03-19T09:16:37.952Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14231point (56%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
     </entry>
 </feed>

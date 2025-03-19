@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-19T19:13:01.243Z</updated>
+    <updated>2025-03-19T20:17:19.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -34,11 +34,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/85.gif" alt="[레벨:85]" title="포인트:3047499point (82%), 레벨:85/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">익스트림무비]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[일렉트릭 스테이트] 시청률도 폭망]]></title>
+        <id>https://extmovie.com/bestboard/92910852</id>
+        <link href="https://extmovie.com/bestboard/92910852"/>
+        <updated>2025-03-19T20:17:05.144Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:595993point (79%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하이퍼나이프 1~2화 재밌습니다]]></title>
         <id>https://extmovie.com/bestboard/92910851</id>
         <link href="https://extmovie.com/bestboard/92910851"/>
         <updated>2025-03-19T15:16:34.116Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1688point (90%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">sonnybonnie]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/3.gif" alt="[레벨:3]" title="포인트:1690point (90%), 레벨:3/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">sonnybonnie]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 감히 최악의 영화라고 할 수 있을 거 같은 백설공주 스포 후기]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92908607"/>
         <updated>2025-03-19T09:16:37.952Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14231point (56%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피터 웰러, ‘로보캅’ 리부트 복귀 희망]]></title>
-        <id>https://extmovie.com/bestboard/92908540</id>
-        <link href="https://extmovie.com/bestboard/92908540"/>
-        <updated>2025-03-19T08:20:08.435Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4715083point (43%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

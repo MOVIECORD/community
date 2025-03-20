@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-20T19:13:06.978Z</updated>
+    <updated>2025-03-20T20:17:01.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데미 무어가 올린 브루스 윌리스 70세 생축]]></title>
+        <id>https://extmovie.com/bestboard/92913754</id>
+        <link href="https://extmovie.com/bestboard/92913754"/>
+        <updated>2025-03-20T20:16:44.931Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4715616point (43%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마츠시게 유타카 달려라 석진]]></title>
         <id>https://extmovie.com/bestboard/92913548</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92911820"/>
         <updated>2025-03-20T10:16:19.793Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/0.gif" alt="[레벨:0]" title="포인트:151point (37%), 레벨:0/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">parkcine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발레리나 메인 예고편(스포)]]></title>
-        <id>https://extmovie.com/bestboard/92911633</id>
-        <link href="https://extmovie.com/bestboard/92911633"/>
-        <updated>2025-03-20T01:09:13.928Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8680point (81%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
     </entry>
 </feed>

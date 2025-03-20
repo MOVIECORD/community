@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-20T16:19:29.986Z</updated>
+    <updated>2025-03-20T17:14:26.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신세경 Latvia]]></title>
+        <id>https://extmovie.com/bestboard/92913478</id>
+        <link href="https://extmovie.com/bestboard/92913478"/>
+        <updated>2025-03-20T17:14:09.497Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:434572point (72%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데니스 퀘이드, 아들 잭 퀘이드의 <노보케인> 극찬]]></title>
         <id>https://extmovie.com/bestboard/92913377</id>
@@ -46,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/92913189"/>
         <updated>2025-03-20T11:13:03.760Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:20555point (10%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">망고무비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플로우 간단 후기]]></title>
+        <id>https://extmovie.com/bestboard/92913157</id>
+        <link href="https://extmovie.com/bestboard/92913157"/>
+        <updated>2025-03-20T17:14:09.521Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4831point (31%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">대전Dolby]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 시리즈 ‘참교육’ 스틸들]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92911096"/>
         <updated>2025-03-19T23:15:31.853Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:22076point (65%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">라인하르트012]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플로우 간단 후기]]></title>
-        <id>https://extmovie.com/bestboard/92911076</id>
-        <link href="https://extmovie.com/bestboard/92911076"/>
-        <updated>2025-03-20T01:09:13.934Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30176point (30%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVIP 포기 해야 겠네요..]]></title>
-        <id>https://extmovie.com/bestboard/92911060</id>
-        <link href="https://extmovie.com/bestboard/92911060"/>
-        <updated>2025-03-20T12:30:55.990Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:513point (24%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">DKNY]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-21T21:13:40.963Z</updated>
+    <updated>2025-03-21T22:15:12.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 3월 21일 국내 박스오피스]]></title>
+        <id>https://extmovie.com/bestboard/92916009</id>
+        <link href="https://extmovie.com/bestboard/92916009"/>
+        <updated>2025-03-21T22:14:57.140Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4146807point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(ㅇㅎ) 켄달 제너 최근]]></title>
         <id>https://extmovie.com/bestboard/92915908</id>
@@ -234,20 +241,13 @@
         <id>https://extmovie.com/bestboard/92913548</id>
         <link href="https://extmovie.com/bestboard/92913548"/>
         <updated>2025-03-20T19:12:50.997Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:434810point (74%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:434812point (74%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박은빈 Galaxy]]></title>
         <id>https://extmovie.com/bestboard/92913539</id>
         <link href="https://extmovie.com/bestboard/92913539"/>
         <updated>2025-03-21T02:56:07.941Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:434810point (74%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세경 Latvia]]></title>
-        <id>https://extmovie.com/bestboard/92913478</id>
-        <link href="https://extmovie.com/bestboard/92913478"/>
-        <updated>2025-03-20T17:14:09.497Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:434810point (74%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:434812point (74%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
     </entry>
 </feed>

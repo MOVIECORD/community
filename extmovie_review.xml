@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-03-22T07:13:59.913Z</updated>
+    <updated>2025-03-22T08:18:00.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙백 허전하면서도 여운이 긴 묘한 느낌(약 스포)]]></title>
+        <id>https://extmovie.com/movietalk/92916924?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92916924?category=61633579"/>
+        <updated>2025-03-22T08:17:53.317Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:428919point (44%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노스포) 지난 주말부터 어제까지 봤었던 영화들 간단 리뷰입...]]></title>
         <id>https://extmovie.com/movietalk/92916058?category=61633579</id>
@@ -199,7 +206,7 @@
         <id>https://extmovie.com/movietalk/92898260?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92898260?category=61633579"/>
         <updated>2025-03-14T01:08:47.543Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:428906point (44%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/48.gif" alt="[레벨:48]" title="포인트:428919point (44%), 레벨:48/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">사라보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고독한 미식가 더 무비 관람]]></title>
@@ -220,7 +227,7 @@
         <id>https://extmovie.com/movietalk/92897482?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92897482?category=61633579"/>
         <updated>2025-03-13T13:24:11.796Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:616point (46%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">레이키얀]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:618point (47%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">레이키얀]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존 윅 수퍼 플렉스 시사회 후기]]></title>
@@ -241,13 +248,6 @@
         <id>https://extmovie.com/movietalk/92896574?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92896574?category=61633579"/>
         <updated>2025-03-13T08:20:27.563Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55159point (52%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사제지간을 넘어선 광기 <하이퍼나이프>]]></title>
-        <id>https://extmovie.com/movietalk/92895985?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92895985?category=61633579"/>
-        <updated>2025-03-13T03:26:36.143Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:55159point (52%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">마이네임]]></content>
     </entry>
 </feed>

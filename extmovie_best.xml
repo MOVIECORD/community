@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-24T20:15:42.449Z</updated>
+    <updated>2025-03-24T21:14:14.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키아누 리브스 액션이 다른 이유]]></title>
+        <id>https://extmovie.com/bestboard/92920295</id>
+        <link href="https://extmovie.com/bestboard/92920295"/>
+        <updated>2025-03-24T21:14:00.309Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4718727point (43%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연상호 감독 '계시록' 로튼 리뷰 번역(신선도 67%)]]></title>
         <id>https://extmovie.com/bestboard/92920855</id>
@@ -240,13 +247,6 @@
         <title type="html"><![CDATA[데이비드 크로넨버그 “<브루탈리스트> AI 논란은 오스카 경쟁작...]]></title>
         <id>https://extmovie.com/bestboard/92918562</id>
         <link href="https://extmovie.com/bestboard/92918562"/>
-        <updated>2025-03-23T19:13:32.554Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1405249point (5%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼맨의 반체제 펑크 록 버전? <더 보이> 감독, DC 영화에서 제...]]></title>
-        <id>https://extmovie.com/bestboard/92918512</id>
-        <link href="https://extmovie.com/bestboard/92918512"/>
         <updated>2025-03-23T19:13:32.554Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1405249point (5%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-25T18:21:44.517Z</updated>
+    <updated>2025-03-25T19:12:52.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://extmovie.com/bestboard/92922339"/>
         <updated>2025-03-25T09:16:27.388Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4719969point (43%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알 파치노 The Ritual 포스터와 스틸샷]]></title>
+        <id>https://extmovie.com/bestboard/92922330</id>
+        <link href="https://extmovie.com/bestboard/92922330"/>
+        <updated>2025-03-25T19:12:36.009Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1426724point (26%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">호러블맨]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<흑어공주>, <흑설공주> 그리고 그 다음은...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92920738"/>
         <updated>2025-03-24T23:14:56.494Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/33.gif" alt="[레벨:33]" title="포인트:174126point (47%), 레벨:33/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">손별이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백설공주 결국 내려가네요. (IMAX기준)]]></title>
-        <id>https://extmovie.com/bestboard/92920653</id>
-        <link href="https://extmovie.com/bestboard/92920653"/>
-        <updated>2025-03-25T14:15:53.499Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/16.gif" alt="[레벨:16]" title="포인트:25115point (69%), 레벨:16/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">동네청년]]></content>
     </entry>
 </feed>

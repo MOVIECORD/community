@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-03-26T16:20:37.536Z</updated>
+    <updated>2025-03-26T17:14:37.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<어벤져스: 둠스데이> 테노크 후에르타 메히야(네이머...]]></title>
+        <id>https://extmovie.com/movietalk/92925655?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92925655?category=21915420"/>
+        <updated>2025-03-26T17:14:26.298Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6664point (59%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰크루즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(루머) ‘블랙 팬서 3‘ 2028년 2월 개봉, 덴젤 워싱턴 출연]]></title>
         <id>https://extmovie.com/movietalk/92925518?category=21915420</id>
@@ -129,7 +136,7 @@
         <id>https://extmovie.com/movietalk/92924345?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92924345?category=21915420"/>
         <updated>2025-03-26T05:15:10.086Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:596731point (83%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:596733point (83%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알고보면 더 재밌다 <컴패니언>의 이해]]></title>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/92923982?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92923982?category=21915420"/>
         <updated>2025-03-26T02:56:10.021Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:596731point (83%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:596733point (83%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소니 픽쳐스,<스트리트 파이터> 실사판-상어 스릴러 &...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92923735?category=21915420"/>
         <updated>2025-03-26T01:10:17.254Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4147905point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '악연' 주연 6인 엘르 화보]]></title>
-        <id>https://extmovie.com/movietalk/92923697?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92923697?category=21915420"/>
-        <updated>2025-03-26T01:10:17.255Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4721256point (44%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-26T17:14:37.284Z</updated>
+    <updated>2025-03-26T18:22:00.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<어벤져스: 둠스데이> 캐스트멤버 공개(실시간 업데이트중)]]></title>
+        <id>https://extmovie.com/bestboard/92925564</id>
+        <link href="https://extmovie.com/bestboard/92925564"/>
+        <updated>2025-03-26T18:21:43.900Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6697point (61%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어쩌죠 너무 예쁘네요]]></title>
         <id>https://extmovie.com/bestboard/92925393</id>
@@ -109,6 +116,13 @@
         <link href="https://extmovie.com/bestboard/92924405"/>
         <updated>2025-03-26T10:16:40.322Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26710point (22%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백설공주, 논란 속 무늬만 1위…인어공주만 못했다]]></title>
+        <id>https://extmovie.com/bestboard/92924345</id>
+        <link href="https://extmovie.com/bestboard/92924345"/>
+        <updated>2025-03-26T18:21:43.924Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:596733point (83%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['백설공주' 온라인 밈들 근황]]></title>
@@ -235,19 +249,5 @@
         <link href="https://extmovie.com/bestboard/92923317"/>
         <updated>2025-03-26T10:16:40.327Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8734point (84%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025년 3월 25일 국내 박스오피스]]></title>
-        <id>https://extmovie.com/bestboard/92923304</id>
-        <link href="https://extmovie.com/bestboard/92923304"/>
-        <updated>2025-03-26T01:10:12.944Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4147905point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 로비 하정우 먼에 코믹 영화]]></title>
-        <id>https://extmovie.com/bestboard/92923227</id>
-        <link href="https://extmovie.com/bestboard/92923227"/>
-        <updated>2025-03-26T01:10:12.949Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/41.gif" alt="[레벨:41]" title="포인트:310942point (6%), 레벨:41/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">하늘위로]]></content>
     </entry>
 </feed>

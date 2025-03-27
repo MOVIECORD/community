@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-27T20:16:36.797Z</updated>
+    <updated>2025-03-27T21:15:04.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘난 네가 지난 여름에 한 일을 알고 있다’ 리부트 첫 포스터, 플롯]]></title>
+        <id>https://extmovie.com/bestboard/92927875</id>
+        <link href="https://extmovie.com/bestboard/92927875"/>
+        <updated>2025-03-27T21:14:49.697Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4722722point (44%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘군에 끌려간 영화감독... 처참한 몰골로 발견]]></title>
         <id>https://extmovie.com/bestboard/92927713</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92925564"/>
         <updated>2025-03-26T18:21:43.900Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6937point (76%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">빼꼼무비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 26일 마블 - 로다주 닥터둠보다 더 큰 발표 예고]]></title>
-        <id>https://extmovie.com/bestboard/92925534</id>
-        <link href="https://extmovie.com/bestboard/92925534"/>
-        <updated>2025-03-26T20:17:07.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6937point (76%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">곰크루즈]]></content>
     </entry>
 </feed>

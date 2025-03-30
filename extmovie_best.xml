@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-03-30T18:19:05.407Z</updated>
+    <updated>2025-03-30T19:12:06.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지브리화된 <스트리밍>]]></title>
+        <id>https://extmovie.com/bestboard/92932531</id>
+        <link href="https://extmovie.com/bestboard/92932531"/>
+        <updated>2025-03-30T19:11:49.736Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1405767point (5%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠플서 뜨고 있는 김수현 ‘리얼‘ / 의외의 작품들 많은 쿠플]]></title>
         <id>https://extmovie.com/bestboard/92932458</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92930842"/>
         <updated>2025-03-29T15:14:45.096Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4148592point (29%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 ‘블레이드‘ 제작 취소 - 기사추가]]></title>
-        <id>https://extmovie.com/bestboard/92930851</id>
-        <link href="https://extmovie.com/bestboard/92930851"/>
-        <updated>2025-03-29T09:14:53.463Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4724795point (44%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

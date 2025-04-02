@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-02T19:13:12.283Z</updated>
+    <updated>2025-04-02T20:17:21.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실사 영화 근황]]></title>
+        <id>https://extmovie.com/bestboard/92939801</id>
+        <link href="https://extmovie.com/bestboard/92939801"/>
+        <updated>2025-04-02T20:17:05.249Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/6.gif" alt="[레벨:6]" title="포인트:3561point (27%), 레벨:6/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">기다리는자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 라스트 오브 어스' 시즌 2 해외 시사 반응]]></title>
         <id>https://extmovie.com/bestboard/92939688</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92937701"/>
         <updated>2025-04-01T23:15:19.883Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:47917point (2%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">내일슈퍼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동건 일본 인터뷰 – “30년의 길이 틀리지 않았다고 말해주는 듯했죠”]]></title>
-        <id>https://extmovie.com/bestboard/92937683</id>
-        <link href="https://extmovie.com/bestboard/92937683"/>
-        <updated>2025-04-01T23:15:19.883Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1405896point (5%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
 </feed>

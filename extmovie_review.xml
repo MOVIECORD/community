@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-04-02T10:16:56.521Z</updated>
+    <updated>2025-04-02T11:13:33.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이건 로비가 아니라 라운딩이지 (로비 약스포 후기)]]></title>
+        <id>https://extmovie.com/movietalk/92939588?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92939588?category=61633579"/>
+        <updated>2025-04-02T11:13:26.320Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/4.gif" alt="[레벨:4]" title="포인트:2051point (60%), 레벨:4/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">너의시간속으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<아마추어> 간단 후기]]></title>
         <id>https://extmovie.com/movietalk/92939105?category=61633579</id>
@@ -164,7 +171,7 @@
         <id>https://extmovie.com/movietalk/92922438?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92922438?category=61633579"/>
         <updated>2025-03-25T07:17:07.292Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:915point (15%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">코막혀요]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/2.gif" alt="[레벨:2]" title="포인트:917point (16%), 레벨:2/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">코막혀요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포O) 플로우 용산CGV에서 보고 온 장문리뷰입니다.]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92917102?category=61633579"/>
         <updated>2025-03-22T11:12:30.620Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/7.gif" alt="[레벨:7]" title="포인트:4710point (22%), 레벨:7/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">웩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<리썰 웨폰>을 보고 나서 (스포 O) - 멜 깁슨, 대니 ...]]></title>
-        <id>https://extmovie.com/movietalk/92917029?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92917029?category=61633579"/>
-        <updated>2025-03-22T10:15:39.030Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21652point (50%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

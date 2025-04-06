@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-06T16:17:07.744Z</updated>
+    <updated>2025-04-06T17:13:02.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92947383"/>
         <updated>2025-04-06T16:16:52.039Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26939point (29%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[톰 하디, ‘몹랜드’ 시리즈 시사회 팬사인 모습]]></title>
+        <id>https://extmovie.com/bestboard/92947273</id>
+        <link href="https://extmovie.com/bestboard/92947273"/>
+        <updated>2025-04-06T17:12:46.187Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4732666point (46%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 이 배급사가 계속 배급하나했는데....바이포엠스튜디오...]]></title>
@@ -213,7 +220,7 @@
         <id>https://extmovie.com/bestboard/92946039</id>
         <link href="https://extmovie.com/bestboard/92946039"/>
         <updated>2025-04-05T15:19:36.062Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53652point (41%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:53663point (42%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스 프랫, <어벤져스: 둠스데이> 미발표에 “의자가 멀리 있었...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92945938"/>
         <updated>2025-04-06T04:18:34.152Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/1.gif" alt="[레벨:1]" title="포인트:679point (60%), 레벨:1/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뭉실리뷰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘안도르‘ 시즌 2 뉴스틸]]></title>
-        <id>https://extmovie.com/bestboard/92945912</id>
-        <link href="https://extmovie.com/bestboard/92945912"/>
-        <updated>2025-04-05T21:14:26.226Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4732666point (46%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

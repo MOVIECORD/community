@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-06T04:18:50.590Z</updated>
+    <updated>2025-04-06T05:14:41.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[요리하는 헨리 카빌 근황 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92946665</id>
+        <link href="https://extmovie.com/bestboard/92946665"/>
+        <updated>2025-04-06T05:14:25.957Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4732619point (46%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[백설공주] 미국 폭망 성적 근황 (익스트림무비 ─ 익무힛갤)]]></title>
         <id>https://extmovie.com/bestboard/92946621</id>
         <link href="https://extmovie.com/bestboard/92946621"/>
         <updated>2025-04-06T04:18:34.144Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:598517point (92%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트론 아레스 티저 포스터 (익스트림무비 ─ 익무힛갤)]]></title>
+        <id>https://extmovie.com/bestboard/92946448</id>
+        <link href="https://extmovie.com/bestboard/92946448"/>
+        <updated>2025-04-06T05:14:25.961Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9001point (0%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트론 아레스 티저 예고편 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -23,7 +37,7 @@
         <id>https://extmovie.com/bestboard/92946397</id>
         <link href="https://extmovie.com/bestboard/92946397"/>
         <updated>2025-04-05T21:14:26.210Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150094point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150097point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘죠스‘ 50주년 기념 엠파이어 매거진 커버 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -100,7 +114,7 @@
         <id>https://extmovie.com/bestboard/92945898</id>
         <link href="https://extmovie.com/bestboard/92945898"/>
         <updated>2025-04-05T12:26:44.324Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150094point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150097point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사카모토 유지 x 신카이 마코토 4일 방송 내용 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -226,7 +240,7 @@
         <id>https://extmovie.com/bestboard/92945142</id>
         <link href="https://extmovie.com/bestboard/92945142"/>
         <updated>2025-04-04T23:14:49.590Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150094point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150097point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘판타스틱 포 퍼스트 스텝스’ 뉴 포스터, 뉴 스틸 (익스트림무비 ─ 익무힛갤)]]></title>
@@ -236,25 +250,18 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4732619point (46%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사카모토 유지 각본가 날씨의 아이 좋아한다. (신카이 감독 작품 중) (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92945063</id>
-        <link href="https://extmovie.com/bestboard/92945063"/>
-        <updated>2025-04-05T08:17:48.906Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/18.gif" alt="[레벨:18]" title="포인트:30789point (48%), 레벨:18/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">GI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[슈퍼맨] 퍼스트룩 영상 공개 (익스트림무비 ─ 익무힛갤)]]></title>
-        <id>https://extmovie.com/bestboard/92945044</id>
-        <link href="https://extmovie.com/bestboard/92945044"/>
-        <updated>2025-04-05T04:17:23.329Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:598517point (92%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+        <title type="html"><![CDATA[어벤져스 둠즈데이나 시크릿워즈에서 (익스트림무비 ─ 영화정보)]]></title>
+        <id>https://extmovie.com/movietalk/92946904?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92946904?category=21915420"/>
+        <updated>2025-04-06T05:14:30.227Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252321point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['마인크래프트 무비' 로튼 리뷰 업데이트(신선도 ... (익스트림무비 ─ 영화정보)]]></title>
         <id>https://extmovie.com/movietalk/92946837?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92946837?category=21915420"/>
         <updated>2025-04-06T04:18:38.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150094point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150097point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌 머레이 “<어떻게 죽을 것인가> 사건 이후, 세상은 ... (익스트림무비 ─ 영화정보)]]></title>
@@ -352,7 +359,7 @@
         <id>https://extmovie.com/movietalk/92946397?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92946397?category=21915420"/>
         <updated>2025-04-05T15:19:40.501Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150094point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150097point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘죠스‘ 50주년 기념 엠파이어 매거진 커버 (익스트림무비 ─ 영화정보)]]></title>
@@ -387,28 +394,28 @@
         <id>https://extmovie.com/movietalk/92946268?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92946268?category=21915420"/>
         <updated>2025-04-05T13:20:22.037Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252200point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252321point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴 W.S. 앤더슨의 '더 로스트 랜드'가 다음 주 디... (익스트림무비 ─ 영화정보)]]></title>
         <id>https://extmovie.com/movietalk/92946264?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92946264?category=21915420"/>
         <updated>2025-04-05T13:20:22.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252200point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252321point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리 와넬의 '울프 맨', 이번 달 피콕에서 스트리밍... (익스트림무비 ─ 영화정보)]]></title>
         <id>https://extmovie.com/movietalk/92946245?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92946245?category=21915420"/>
         <updated>2025-04-05T13:20:22.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252200point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252321point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티븐 소더버그, 컨테이전 후속작 언급 (익스트림무비 ─ 영화정보)]]></title>
         <id>https://extmovie.com/movietalk/92946004?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92946004?category=21915420"/>
         <updated>2025-04-05T11:11:58.498Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252200point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252321point (11%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우주해적 코브라 - 코브라 & 제인 로얄 (스페이스 비키... (익스트림무비 ─ 영화정보)]]></title>
@@ -488,11 +495,11 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1406183point (6%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘스파이더맨 브랜드 뉴데이’ 30~50대 아시아계 남성 배우 캐... (익스트림무비 ─ 영화정보)]]></title>
-        <id>https://extmovie.com/movietalk/92945569?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92945569?category=21915420"/>
-        <updated>2025-04-05T01:09:39.670Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4732619point (46%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+        <title type="html"><![CDATA[악연 (2025) - 스포일러 없음. (익스트림무비 ─ 영화리뷰)]]></title>
+        <id>https://extmovie.com/movietalk/92946895?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92946895?category=61633579"/>
+        <updated>2025-04-06T05:14:34.460Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67279point (56%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<콘클라베>, 호모 폴리티쿠스 (익스트림무비 ─ 영화리뷰)]]></title>
@@ -597,7 +604,7 @@
         <id>https://extmovie.com/movietalk/92932774?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92932774?category=61633579"/>
         <updated>2025-04-01T07:16:12.761Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67249point (55%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67279point (56%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<마리아>를 보고 나서 (스포 O) - 파블로 라라인 감독... (익스트림무비 ─ 영화리뷰)]]></title>
@@ -731,12 +738,5 @@
         <link href="https://extmovie.com/movietalk/92919349?category=61633579"/>
         <updated>2025-03-25T07:17:07.292Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67267point (55%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<리썰 웨폰 2>를 보고 나서 (스포 O, 추천) - 멜 깁슨... (익스트림무비 ─ 영화리뷰)]]></title>
-        <id>https://extmovie.com/movietalk/92920450?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92920450?category=61633579"/>
-        <updated>2025-03-24T11:13:34.983Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21682point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

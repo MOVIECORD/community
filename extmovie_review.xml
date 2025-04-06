@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-04-06T04:18:50.572Z</updated>
+    <updated>2025-04-06T05:14:41.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악연 (2025) - 스포일러 없음.]]></title>
+        <id>https://extmovie.com/movietalk/92946895?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92946895?category=61633579"/>
+        <updated>2025-04-06T05:14:34.460Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67279point (56%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<콘클라베>, 호모 폴리티쿠스]]></title>
         <id>https://extmovie.com/movietalk/92946778?category=61633579</id>
@@ -108,7 +115,7 @@
         <id>https://extmovie.com/movietalk/92932774?category=61633579</id>
         <link href="https://extmovie.com/movietalk/92932774?category=61633579"/>
         <updated>2025-04-01T07:16:12.761Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67249point (55%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67279point (56%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">BillEvans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<마리아>를 보고 나서 (스포 O) - 파블로 라라인 감독...]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92919349?category=61633579"/>
         <updated>2025-03-25T07:17:07.292Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/25.gif" alt="[레벨:25]" title="포인트:67267point (55%), 레벨:25/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">갓두조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<리썰 웨폰 2>를 보고 나서 (스포 O, 추천) - 멜 깁슨...]]></title>
-        <id>https://extmovie.com/movietalk/92920450?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92920450?category=61633579"/>
-        <updated>2025-03-24T11:13:34.983Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21682point (51%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
 </feed>

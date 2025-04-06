@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-06T19:12:10.530Z</updated>
+    <updated>2025-04-06T20:15:26.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://extmovie.com/bestboard/92947383"/>
         <updated>2025-04-06T16:16:52.039Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/17.gif" alt="[레벨:17]" title="포인트:26939point (29%), 레벨:17/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">뚠뚠는개미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오랜만에 CGV 용산아이파크몰]]></title>
+        <id>https://extmovie.com/bestboard/92947331</id>
+        <link href="https://extmovie.com/bestboard/92947331"/>
+        <updated>2025-04-06T20:15:10.163Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21717point (52%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['러브레터' 일본에서 30주년 기념 무대인사 진행]]></title>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/92947272</id>
         <link href="https://extmovie.com/bestboard/92947272"/>
         <updated>2025-04-06T16:16:52.044Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15434point (9%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/13.gif" alt="[레벨:13]" title="포인트:15436point (9%), 레벨:13/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">영화를읽다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[하이파이브] 유아인 주연작 6월 개봉 확정]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92945976"/>
         <updated>2025-04-05T13:20:17.945Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1406187point (6%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유가 올린 ’폭싹 속았수다‘ 4막 비하인드샷들]]></title>
-        <id>https://extmovie.com/bestboard/92945947</id>
-        <link href="https://extmovie.com/bestboard/92945947"/>
-        <updated>2025-04-05T22:13:17.194Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4732666point (46%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

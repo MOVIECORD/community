@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-07T17:14:20.773Z</updated>
+    <updated>2025-04-07T18:21:02.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://extmovie.com/bestboard/92949772"/>
         <updated>2025-04-07T15:16:37.590Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/10.gif" alt="[레벨:10]" title="포인트:9038point (2%), 레벨:10/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">zdmoon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘펄프 픽션‘ 현관 키걸이]]></title>
+        <id>https://extmovie.com/bestboard/92949635</id>
+        <link href="https://extmovie.com/bestboard/92949635"/>
+        <updated>2025-04-07T18:20:45.528Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4735570point (47%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미키17 한달 만에 극장서 내려…"손실 1천170억 원 추정"]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92947331"/>
         <updated>2025-04-06T20:15:10.163Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21719point (52%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['러브레터' 일본에서 30주년 기념 무대인사 진행]]></title>
-        <id>https://extmovie.com/bestboard/92947285</id>
-        <link href="https://extmovie.com/bestboard/92947285"/>
-        <updated>2025-04-06T18:18:40.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4150370point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-10T18:20:25.398Z</updated>
+    <updated>2025-04-10T19:12:51.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[야당] 보자마자 초단평]]></title>
+        <id>https://extmovie.com/bestboard/92956173</id>
+        <link href="https://extmovie.com/bestboard/92956173"/>
+        <updated>2025-04-10T19:12:35.503Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/28.gif" alt="[레벨:28]" title="포인트:97603point (90%), 레벨:28/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">다솜97]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아리 애스터 ‘에딩턴‘ 첫 포스터]]></title>
         <id>https://extmovie.com/bestboard/92956165</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92953747"/>
         <updated>2025-04-09T18:21:13.552Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8815point (89%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">무비티켓]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아마추어] CGV 골든 에그 점수 93%]]></title>
-        <id>https://extmovie.com/bestboard/92953712</id>
-        <link href="https://extmovie.com/bestboard/92953712"/>
-        <updated>2025-04-09T20:16:52.549Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:598917point (94%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
 </feed>

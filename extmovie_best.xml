@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-10T16:19:47.822Z</updated>
+    <updated>2025-04-10T17:14:32.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아리 애스터 ‘에딩턴‘ 첫 포스터]]></title>
+        <id>https://extmovie.com/bestboard/92956165</id>
+        <link href="https://extmovie.com/bestboard/92956165"/>
+        <updated>2025-04-10T17:14:16.268Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4739382point (47%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 칸영화제 초청작 발표]]></title>
         <id>https://extmovie.com/bestboard/92955908</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92953712"/>
         <updated>2025-04-09T20:16:52.549Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:598917point (94%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐스린 비글로우 타이틀미정 넷플릭스 백악관 스릴러 가을 영화제들 공...]]></title>
-        <id>https://extmovie.com/bestboard/92953669</id>
-        <link href="https://extmovie.com/bestboard/92953669"/>
-        <updated>2025-04-09T23:14:21.933Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4739382point (47%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

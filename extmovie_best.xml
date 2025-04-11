@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-11T19:13:07.575Z</updated>
+    <updated>2025-04-11T20:16:53.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -109,6 +109,13 @@
         <link href="https://extmovie.com/bestboard/92956819"/>
         <updated>2025-04-11T06:21:47.810Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/12.gif" alt="[레벨:12]" title="포인트:14610point (73%), 레벨:12/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">평점기계(eico)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트론 아레스' 국내 예고편]]></title>
+        <id>https://extmovie.com/bestboard/92956789</id>
+        <link href="https://extmovie.com/bestboard/92956789"/>
+        <updated>2025-04-11T20:16:37.590Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4740513point (48%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아카데미상 스턴트 부문 신설 안내 포스터]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92955908"/>
         <updated>2025-04-10T13:25:18.671Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:599190point (95%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호아킨 피닉스 & 페드로 파스칼, 아리 애스터 '에딩턴' ...]]></title>
-        <id>https://extmovie.com/bestboard/92955814</id>
-        <link href="https://extmovie.com/bestboard/92955814"/>
-        <updated>2025-04-10T13:25:18.671Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4740513point (48%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
 </feed>

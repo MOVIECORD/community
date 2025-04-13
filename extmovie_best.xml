@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-13T18:19:51.842Z</updated>
+    <updated>2025-04-13T19:12:21.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -80,6 +80,13 @@
         <id>https://extmovie.com/bestboard/92960029</id>
         <link href="https://extmovie.com/bestboard/92960029"/>
         <updated>2025-04-13T12:27:51.463Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:599492point (97%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미키 17] 9분 40초 메이킹 영상 공개]]></title>
+        <id>https://extmovie.com/bestboard/92960005</id>
+        <link href="https://extmovie.com/bestboard/92960005"/>
+        <updated>2025-04-13T19:12:05.211Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:599492point (97%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
     </entry>
     <entry>
@@ -237,17 +244,10 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1406709point (6%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일본 인터뷰] 봉준호 감독이 말하는 <미키 17> 괴수와 인간, 그...]]></title>
-        <id>https://extmovie.com/bestboard/92958968</id>
-        <link href="https://extmovie.com/bestboard/92958968"/>
-        <updated>2025-04-12T15:14:39.908Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1406709point (6%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두기봉-양조위,제목 미정 홍콩 갱스터 영화로 재결합]]></title>
-        <id>https://extmovie.com/bestboard/92958914</id>
-        <link href="https://extmovie.com/bestboard/92958914"/>
-        <updated>2025-04-12T21:13:48.449Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:54461point (47%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Tulee]]></content>
+        <title type="html"><![CDATA[아키라 돌비로 감상했습니다.]]></title>
+        <id>https://extmovie.com/bestboard/92958975</id>
+        <link href="https://extmovie.com/bestboard/92958975"/>
+        <updated>2025-04-13T19:12:05.244Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2257point (0%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-13T15:15:07.262Z</updated>
+    <updated>2025-04-13T16:19:29.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://extmovie.com/bestboard/92960077"/>
         <updated>2025-04-13T12:27:51.460Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/56.gif" alt="[레벨:56]" title="포인트:599492point (97%), 레벨:56/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">시작]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롯데시네마 용산점에서 본 드래곤 길들이기 실사 팝업]]></title>
+        <id>https://extmovie.com/bestboard/92960063</id>
+        <link href="https://extmovie.com/bestboard/92960063"/>
+        <updated>2025-04-13T16:19:14.514Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8237point (55%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">포크숫가락]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김수현 입간판도 ‘모자이크’ 굴욕···TXT 범규 ‘별그대’도 무언급]]></title>
@@ -150,7 +157,7 @@
         <id>https://extmovie.com/bestboard/92959485</id>
         <link href="https://extmovie.com/bestboard/92959485"/>
         <updated>2025-04-13T07:13:46.519Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:252963point (14%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/38.gif" alt="[레벨:38]" title="포인트:253021point (15%), 레벨:38/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">hera7067]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[각본집으로 나왔으면 하는 한국영화]]></title>
@@ -171,7 +178,7 @@
         <id>https://extmovie.com/bestboard/92959380</id>
         <link href="https://extmovie.com/bestboard/92959380"/>
         <updated>2025-04-13T08:18:08.179Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8802point (88%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8803point (88%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[야당] 전체 예매율 1위]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92958806"/>
         <updated>2025-04-12T09:15:55.415Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35883point (96%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소더버그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 애니 '예수의 생애' 미국 흥행 성공 분석]]></title>
-        <id>https://extmovie.com/bestboard/92958715</id>
-        <link href="https://extmovie.com/bestboard/92958715"/>
-        <updated>2025-04-12T09:15:55.415Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4151764point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>

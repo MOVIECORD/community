@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-13T16:19:29.053Z</updated>
+    <updated>2025-04-13T17:13:07.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -139,6 +139,13 @@
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4741506point (48%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신예은 키움 히어로즈 시구 현장]]></title>
+        <id>https://extmovie.com/bestboard/92959678</id>
+        <link href="https://extmovie.com/bestboard/92959678"/>
+        <updated>2025-04-13T17:12:52.737Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/49.gif" alt="[레벨:49]" title="포인트:440607point (3%), 레벨:49/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">e260]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025년 4월 12일 국내 박스오피스]]></title>
         <id>https://extmovie.com/bestboard/92959619</id>
         <link href="https://extmovie.com/bestboard/92959619"/>
@@ -178,7 +185,7 @@
         <id>https://extmovie.com/bestboard/92959380</id>
         <link href="https://extmovie.com/bestboard/92959380"/>
         <updated>2025-04-13T08:18:08.179Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8803point (88%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/9.gif" alt="[레벨:9]" title="포인트:8890point (93%), 레벨:9/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">min님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[야당] 전체 예매율 1위]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92958828"/>
         <updated>2025-04-12T15:14:39.908Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:215841point (5%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 감독 타격클까요]]></title>
-        <id>https://extmovie.com/bestboard/92958806</id>
-        <link href="https://extmovie.com/bestboard/92958806"/>
-        <updated>2025-04-12T09:15:55.415Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/19.gif" alt="[레벨:19]" title="포인트:35883point (96%), 레벨:19/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">소더버그]]></content>
     </entry>
 </feed>

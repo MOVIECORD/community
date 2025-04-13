@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/bestboard</id>
     <title>익스트림무비 ─ 익무힛갤</title>
-    <updated>2025-04-13T20:16:21.168Z</updated>
+    <updated>2025-04-13T21:14:35.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://extmovie.com/bestboard/92960495</id>
         <link href="https://extmovie.com/bestboard/92960495"/>
         <updated>2025-04-13T18:19:36.765Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4741508point (48%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘미션 임파서블: 더 파이널 레코닝’ 북미오프닝 주말 6천만 달러 예상]]></title>
+        <id>https://extmovie.com/bestboard/92960069</id>
+        <link href="https://extmovie.com/bestboard/92960069"/>
+        <updated>2025-04-13T21:14:19.588Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/91.gif" alt="[레벨:91]" title="포인트:4741508point (48%), 레벨:91/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">NeoSun]]></content>
     </entry>
     <entry>
@@ -38,7 +45,7 @@
         <id>https://extmovie.com/bestboard/92960171</id>
         <link href="https://extmovie.com/bestboard/92960171"/>
         <updated>2025-04-13T14:13:07.109Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58769point (77%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58770point (77%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 만든 삼스파 술파티]]></title>
@@ -185,7 +192,7 @@
         <id>https://extmovie.com/bestboard/92959448</id>
         <link href="https://extmovie.com/bestboard/92959448"/>
         <updated>2025-04-13T02:39:23.658Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58769point (77%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/23.gif" alt="[레벨:23]" title="포인트:58770point (77%), 레벨:23/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">Sonatine]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아예 멍석 깔아주는 북미 리갈시네마]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/bestboard/92959035"/>
         <updated>2025-04-12T12:26:58.029Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/75.gif" alt="[레벨:75]" title="포인트:1406709point (6%), 레벨:75/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아키라 돌비로 감상했습니다.]]></title>
-        <id>https://extmovie.com/bestboard/92958975</id>
-        <link href="https://extmovie.com/bestboard/92958975"/>
-        <updated>2025-04-13T19:12:05.244Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2257point (0%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">온다르]]></content>
     </entry>
 </feed>

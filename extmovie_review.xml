@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/61633579</id>
     <title>익스트림무비 ─ 영화리뷰</title>
-    <updated>2025-04-13T08:18:24.611Z</updated>
+    <updated>2025-04-13T09:16:21.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<아마추어> : 신선하면서도 슴슴한.]]></title>
+        <id>https://extmovie.com/movietalk/92960264?category=61633579</id>
+        <link href="https://extmovie.com/movietalk/92960264?category=61633579"/>
+        <updated>2025-04-13T09:16:14.326Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/5.gif" alt="[레벨:5]" title="포인트:2649point (40%), 레벨:5/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">해변의캎흐카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야당' 좋았던 점 5가지 (쇼츠) (스포 X)]]></title>
         <id>https://extmovie.com/movietalk/92959013?category=61633579</id>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92935023?category=61633579"/>
         <updated>2025-03-31T14:15:30.656Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/15.gif" alt="[레벨:15]" title="포인트:21902point (59%), 레벨:15/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">톰행크스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백설공주 더빙 보고 후기]]></title>
-        <id>https://extmovie.com/movietalk/92934692?category=61633579</id>
-        <link href="https://extmovie.com/movietalk/92934692?category=61633579"/>
-        <updated>2025-03-31T12:30:58.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/27.gif" alt="[레벨:27]" title="포인트:72436point (20%), 레벨:27/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">카스미팬S]]></content>
     </entry>
 </feed>

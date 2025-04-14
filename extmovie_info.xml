@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extmovie.com/movietalk/category/21915420</id>
     <title>익스트림무비 ─ 영화정보</title>
-    <updated>2025-04-14T15:17:04.038Z</updated>
+    <updated>2025-04-14T16:19:45.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://extmovie.com/movietalk/category/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에딩턴 - 공식 예고편 [한글 자막]]]></title>
+        <id>https://extmovie.com/movietalk/92962625?category=21915420</id>
+        <link href="https://extmovie.com/movietalk/92962625?category=21915420"/>
+        <updated>2025-04-14T16:19:34.065Z</updated>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/8.gif" alt="[레벨:8]" title="포인트:6994point (80%), 레벨:8/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">푸돌이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘어나더 심플 페이버’ 뉴 트레일러, 포스턴]]></title>
         <id>https://extmovie.com/movietalk/92962610?category=21915420</id>
@@ -24,7 +31,7 @@
         <id>https://extmovie.com/movietalk/92962587?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92962587?category=21915420"/>
         <updated>2025-04-14T15:16:51.837Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4152022point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4152024point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올리비아 콜먼 & 베네딕트 컴버배치, ‘The Roses’ 스틸들]]></title>
@@ -234,7 +241,7 @@
         <id>https://extmovie.com/movietalk/92961105?category=21915420</id>
         <link href="https://extmovie.com/movietalk/92961105?category=21915420"/>
         <updated>2025-04-14T03:05:22.119Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4152022point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
+        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4152024point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<진격의 거인 완결편 더 라스트 어택> 70만 관객 돌파]]></title>
@@ -242,12 +249,5 @@
         <link href="https://extmovie.com/movietalk/92961089?category=21915420"/>
         <updated>2025-04-14T03:05:22.120Z</updated>
         <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/36.gif" alt="[레벨:36]" title="포인트:215923point (6%), 레벨:36/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">넷플마니아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기무라 타쿠야 딸의 사무라이 액션물 로튼 리뷰]]></title>
-        <id>https://extmovie.com/movietalk/92961022?category=21915420</id>
-        <link href="https://extmovie.com/movietalk/92961022?category=21915420"/>
-        <updated>2025-04-14T01:14:32.508Z</updated>
-        <content type="html"><![CDATA[<img src="https://extmovie.com/modules/point/icons/xeicon_coa/90.gif" alt="[레벨:90]" title="포인트:4152022point (30%), 레벨:90/99" class="xe_point_level_icon" style="vertical-align:middle;margin-right:3px;">golgo]]></content>
     </entry>
 </feed>
